@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TOPAddons
+Implementation-Version: 1.16.5-2.1.5-beta
+Specification-Vendor: DrManganese
+FMLAT: accesstransformer.cfg
+Specification-Title: topaddons
+Implementation-Timestamp: 2021-05-22T08:49:16+0000
+Specification-Version: 1
+Implementation-Vendor: DrManganese
+
