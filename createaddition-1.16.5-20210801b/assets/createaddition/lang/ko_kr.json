@@ -28,16 +28,16 @@
 	"item.createaddition.multimeter.ticks":"ticks",
 	"item.createaddition.multimeter.no_capability":"여기에는 전기가 연결되어있지 않습니다.",
 	"item.createaddition.multimeter.tooltip": "MULTIMETER",
-	"item.createaddition.multimeter.tooltip.summary": " _FE를 지원하는 블록_에서 _전기 저장량_과 _입력 및 출력량_을 측정합니다.",
+	"item.createaddition.multimeter.tooltip.summary": "_FE를 지원하는 블록_에서 _전기 저장량_과 _입력 및 출력량_을 측정합니다.",
 		
-	"item.createaddition.zinc_sheet": "Zinc Sheet",
+	"item.createaddition.zinc_sheet": "아연 사포",
 	"item.createaddition.diamond_grit": "다이아몬드 가루",
 	"item.createaddition.diamond_grit_sandpaper": "다이아몬드 가루 사포",
 	"item.createaddition.diamond_grit_sandpaper.tooltip": "DIAMONDE GRIT SANDPAPER",
 	
 	"item.createaddition.copper_spool": "구리 전선뭉치",
 	"item.createaddition.copper_spool.tooltip": "SPOOL",
-	"item.createaddition.copper_spool.tooltip.summary": "두 _커넥터_에 우클릭하여 전선을 설치하고  _빈 스풀_을 돌려받습니다.",
+	"item.createaddition.copper_spool.tooltip.summary": "두 _커넥터_에 우클릭하여 전선을 설치하고 _빈 스풀_을 돌려받습니다.",
 	
 	"item.createaddition.copper_wire": "구리 전선",
 	"item.createaddition.copper_rod": "구리 막대",
@@ -60,7 +60,7 @@
 	
 	"item.createaddition.gold_spool": "금 전선뭉치",
 	"item.createaddition.gold_spool.tooltip": "SPOOL",
-	"item.createaddition.gold_spool.tooltip.summary": "두 _커넥터_에 우클릭하여 전선을 설치하고  _빈 스풀_을 돌려받습니다.",
+	"item.createaddition.gold_spool.tooltip.summary": "두 _커넥터_에 우클릭하여 전선을 설치하고 _빈 스풀_을 돌려받습니다.",
 	
 	"item.createaddition.gold_wire": "금 전선",
 	"item.createaddition.gold_rod": "금 막대",
@@ -153,7 +153,7 @@
 	
 	"block.createaddition.furnace_burner": "버너 화로",
 	"block.createaddition.furnace_burner.tooltip": "FURNACE_BURNER",
-	"block.createaddition.furnace_burner.tooltip.summary": "_버너 화로_는 아이템을 굽지는 않지만, 연료를 사용하여 아무것도 굽지 않아도 _화로 엔진_을 돌릴 수 있습니다. _호퍼_등으로 _연료_를 집어넣을 수 있습니다.",
+	"block.createaddition.furnace_burner.tooltip.summary": "_버너 화로_는 아이템을 굽지는 않지만, 연료를 사용하여 아무것도 굽지 않아도 _화로 엔진_을 돌릴 수 있습니다. _호퍼_ 등으로 _연료_를 집어넣을 수 있습니다.",
 	"block.createaddition.furnace_burner.tooltip.control1": "우클릭",
 	"block.createaddition.furnace_burner.tooltip.action1": "들고있는 _연료_를 집어넣습니다.",
 	"block.createaddition.furnace_burner.tooltip.control2": "웅크린 상태에서 우클릭",
@@ -163,15 +163,15 @@
 	"block.createaddition.charger.info": "충전 스테이션 정보:",
 	"block.createaddition.charger.empty": "비어있음",
 	"block.createaddition.charger.tooltip": "CHARGER",
-	"block.createaddition.charger.tooltip.summary": "_전기(FE)_를 사용하여 _전기를 사용하는_아이템을 충전합니다.",
+	"block.createaddition.charger.tooltip.summary": "_전기(FE)_를 사용하여 _전기를 사용하는_ 아이템을 충전합니다.",
 	"block.createaddition.charger.tooltip.control1": "충전 가능한 아이템을 들고 우클릭",
 	"block.createaddition.charger.tooltip.action1": "_충전대_ 위에 올려놓습니다.",
 	"block.createaddition.charger.tooltip.control2": "맨손으로 우클릭",
-	"block.createaddition.charger.tooltip.action2": "_충전대_위에 놓여진 아이템을 가져갑니다.",
+	"block.createaddition.charger.tooltip.action2": "_충전대_ 위에 놓여진 아이템을 가져갑니다.",
 	
 	"block.createaddition.crude_burner": "기름 화로",
 	"block.createaddition.crude_burner.tooltip": "CRUDE_BURNER",
-	"block.createaddition.crude_burner.tooltip.summary": "_기름 화로_는 _씨유_와 같은 _불에 잘 타는 액체_ 를 천천히 소비하여 _화로 엔진_을 돌리는 데 사용됩니다. _액체 연료_는 _액체 파이프_를 통해 집어넣을 수 있습니다.",
+	"block.createaddition.crude_burner.tooltip.summary": "_기름 화로_는 _씨유_와 같은 _불에 잘 타는 액체_를 천천히 소비하여 _화로 엔진_을 돌리는 데 사용됩니다. _액체 연료_는 _액체 파이프_를 통해 집어넣을 수 있습니다.",
 	"block.createaddition.crude_burner.tooltip.control1": "우클릭시",
 	"block.createaddition.crude_burner.tooltip.action1": "_양동이_에 들어있는 내용물을 집어넣습니다.",
 	
