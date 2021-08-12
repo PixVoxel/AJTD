@@ -1,0 +1,169 @@
+{
+	"itemGroup.immersivepetroleum": "Immersive Petroleum",
+	
+	"_comment": "################## Blocks ##################",
+	
+	"block.immersivepetroleum.fluid_diesel": "디젤",
+	"block.immersivepetroleum.fluid_crude_oil": "원유",
+	"block.immersivepetroleum.fluid_lubricant": "윤활유",
+	"block.immersivepetroleum.fluid_gasoline": "휘발유",
+	"block.immersivepetroleum.fluid_napalm": "네이팜",
+	
+	"block.immersivepetroleum.asphalt": "아스팔트 콘크리트",
+	"block.immersivepetroleum.asphalt_slab": "아스팔트 콘크리트 반블록",
+	"block.immersivepetroleum.asphalt_stairs": "아스팔트 콘크리트 계단",
+	"block.immersivepetroleum.petcoke_block": "석유 코크스 블록",
+	
+	"block.immersivepetroleum.auto_lubricator": "자동 윤활제",
+	"block.immersivepetroleum.gas_generator": "휴대용 발전기",
+	"block.immersivepetroleum.flarestack": "플레어스택",
+	
+	"block.immersivepetroleum.pumpjack": "펌프잭",
+	"block.immersivepetroleum.distillationtower": "증류탑",
+	"block.immersivepetroleum.cokerunit": "코커",
+	"block.immersivepetroleum.hydrotreater": "유황 회수 장치",
+	
+	"fluid.immersivepetroleum.diesel": "디젤",
+	"fluid.immersivepetroleum.diesel_sulfur": "황화 디젤",
+	"fluid.immersivepetroleum.oil": "원유",
+	"fluid.immersivepetroleum.lubricant": "윤활유",
+	"fluid.immersivepetroleum.gasoline": "휘발유",
+	"fluid.immersivepetroleum.napalm": "네이팜",
+	
+	"_comment": "################## Items ##################",
+	
+	"item.immersivepetroleum.projector": "프로젝터",
+	"item.immersivepetroleum.projector.specific": "%s 프로젝터",
+	"item.immersivepetroleum.speedboat": "모터보트",
+	"item.immersivepetroleum.oil_can": "윤활유 캔",
+	
+	"item.immersivepetroleum.bitumen": "역청",
+	"item.immersivepetroleum.petcoke": "석유 코크스",
+	"item.immersivepetroleum.petcoke_dust": "석유 코크스 가루",
+	"item.immersivepetroleum.diesel_bucket": "디젤 양동이",
+	"item.immersivepetroleum.diesel_sulfur_bucket": "황화 디젤 양동이",
+	"item.immersivepetroleum.oil_bucket": "원유 양동이",
+	"item.immersivepetroleum.lubricant_bucket": "윤활유 양동이",
+	"item.immersivepetroleum.gasoline_bucket": "휘발유 양동이",
+	"item.immersivepetroleum.napalm_bucket": "네이팜 양동이",
+	
+	"item.immersivepetroleum.upgrade_reinforced_hull": "강화된 선체",
+	"item.immersivepetroleum.upgrade_icebreaker": "쇄빙선 선수",
+	"item.immersivepetroleum.upgrade_tank": "확장 연료 탱크",
+	"item.immersivepetroleum.upgrade_rudders": "기동 방향타",
+	"item.immersivepetroleum.upgrade_paddles": "응급 노",
+	
+	"_comment": "################## Descriptions ##################",
+	
+	"_comment":"Replaced the IP with IE to save me from headaches. ~TwistedGate",
+	"desc.immersiveengineering.info.multiblock.IE:DistillationTower": "증류탑",
+	"desc.immersiveengineering.info.multiblock.IE:Pumpjack": "펌프잭",
+	"desc.immersiveengineering.info.multiblock.IE:CokerUnit": "코커",
+	"desc.immersiveengineering.info.multiblock.IE:HydroTreater": "유황 회수 장치",
+	
+	"desc.immersivepetroleum.info.reservoir.oil": "유전",
+	"desc.immersivepetroleum.info.reservoir.aquifer": "대수층",
+	"desc.immersivepetroleum.info.reservoir.lava": "마그마굄",
+	
+	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "보터보트의 내구도가 증가하고 화염저항을 가집니다.",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "모터보트가 얼음을 부수고 몹을 다치게할 수 있습니다.",
+	"desc.immersivepetroleum.flavour.upgrade_tank": "모터보트의 연료 탱크의 크기를 증가시킵니다.",
+	"desc.immersivepetroleum.flavour.upgrade_rudders": "모더보트가 더 빠른 회전을 할 수 있습니다.",
+	"desc.immersivepetroleum.flavour.upgrade_paddles": "모터보트의 연료가 다 떨어졌을때 저어서 갈 수 있습니다.",
+	
+	"desc.immersivepetroleum.flavour.asphalt": "위에 있을 때 이동속도 %1$s 증가",
+	
+	"_comment": "This is for the upgrade list of the speedboat tooltip",
+	"desc.immersivepetroleum.flavour.speedboat0": "Upgrades",
+	
+	"desc.immersivepetroleum.info.projector.noMultiblock": "Right-Click to open Menu",
+	"desc.immersivepetroleum.info.projector.size": "크기: %d x %d x %d",
+	"desc.immersivepetroleum.info.projector.build0": "Displays instructions",
+	"desc.immersivepetroleum.info.projector.build1": "for making a %s",
+	"desc.immersivepetroleum.info.projector.center": "Centered at [%d, %d, %d]",
+	
+	"desc.immersivepetroleum.info.projector.flipped.true": "Mirrored: Yes.",
+	"desc.immersivepetroleum.info.projector.flipped.false": "Mirrored: No.",
+	
+	"desc.immersivepetroleum.info.projector.rotated.north":"Rotated North",
+	"desc.immersivepetroleum.info.projector.rotated.east":  "Rotated East",
+	"desc.immersivepetroleum.info.projector.rotated.south": "Rotated South",
+	"desc.immersivepetroleum.info.projector.rotated.west": "Rotated West",
+	
+	"desc.immersivepetroleum.info.projector.mode_0": "선택모드",
+	"desc.immersivepetroleum.info.projector.mode_1": "프로젝션 모드",
+	
+	"desc.immersivepetroleum.info.projector.holdshift": "shift를 누르세요",
+	"desc.immersivepetroleum.info.projector.holdshift.text": "For stats",
+	
+	"desc.immersivepetroleum.info.projector.holdctrl": "ctrl을 누르세요",
+	"desc.immersivepetroleum.info.projector.holdctrl.text": "For control scheme",
+	
+	"desc.immersivepetroleum.info.projector.control1": "Shift + Scroll-위/아래로 회전 ",
+	"desc.immersivepetroleum.info.projector.control2": "%s로 반전",
+	"desc.immersivepetroleum.info.projector.control3": "웅크린 상태로 우클릭하여 모드를 변경합니다.",
+	
+	"_comment": "################## GUI ##################",
+	
+	"gui.immersivepetroleum.projector.search": "Search",
+	"gui.immersivepetroleum.projector.button.confirm": "Confirm",
+	"gui.immersivepetroleum.projector.button.cancel": "Cancel",
+	"gui.immersivepetroleum.projector.button.mirror": "Mirror",
+	"gui.immersivepetroleum.projector.button.rcw": "Rotate Clockwise",
+	"gui.immersivepetroleum.projector.button.rccw": "Rotate Counter-Clockwise",
+	
+	"_comment": "################## IE-Manual ##################",
+	
+	"effect.immersivepetroleum.anti_fire": "",
+	
+	"_comment": "################## IE-Manual ##################",
+	
+	"manual.immersivepetroleum.main": "Oil Processing",
+	
+	"ie.manual.entry.blank_text": "",
+	
+	"ie.manual.entry.reservoirs.title": "Fluid Reservoirs",
+	"ie.manual.entry.reservoirs.subtitle": "Black gold",
+	
+	"ie.manual.entry.reservoirs.oil0": "While mining near bedrock, you've occasionally noticed a slick black flammable substance: oil. Oil is just one of many fluids that can be found underneath the impenetrable rock, but you won't be able to breach these reserves on your own.\n\nWith the help of a <link;immersivepetroleum:pumpjack;§o§nspecially §o§ndesigned §o§nmachine§r> you may be able to get your hands on the contents of these reservoirs.<np>",
+	"ie.manual.entry.reservoirs.oil1": "The <link;minerals;§o§nCore §o§nSample §o§nDrill§r> will determine whether a reservoir can be found in a specific chunk and gives insight into the size of the fluid deposit.\n\nDespite the finite volume of fluid in each chunk, certain types of reservoirs may have trace amounts of fluid that can still be harvested after the chunk is depleted. Using more than one Pumpjack in a depleted chunk does not provide any benefit.<np>",
+	
+	"ie.manual.entry.reservoirs.consonant": "A",
+	"ie.manual.entry.reservoirs.vowel": "An",
+	
+	"ie.manual.entry.reservoirs.dim.valid": "%3$s §l%1$s§r is a type of fluid reservoir that can be found in %2$s.",
+	"ie.manual.entry.reservoirs.dim.invalid": "%3$s §l%1$s§r is a type of fluid reservoir that can be found anywhere but in %2$s.",
+	"ie.manual.entry.reservoirs.dim.any": "%2$s §l%1$s§r is a type of fluid reservoir that can be found in any Dimension.",
+	
+	"ie.manual.entry.reservoirs.bio.valid": "This reservoir will generate in %s Biomes.",
+	"ie.manual.entry.reservoirs.bio.invalid": "This reservoir will not generate in %s Biomes.",
+	"ie.manual.entry.reservoirs.bio.any": "This reservoir will generate in any Biome.",
+	
+	"ie.manual.entry.reservoirs.content": "%1$s %6$s\nIt contains %3$s to %4$s mB of %2$s.%5$s",
+	"ie.manual.entry.reservoirs.replenish": "\nAfter the reservoir is depleted, %1$d mB/tick of trace %2$s can be extracted by a single Pumpjack.",
+	
+	"_comment": "################## Chat ##################",
+	
+	"chat.immersivepetroleum.command.ip.help": "§6Usage: /ip <reservoir>§r",
+	"chat.immersivepetroleum.command.reservoir.help": "§6Usage: /ip reservoir <list | get | set | setAmount | setCapacity>§r",
+	"chat.immersivepetroleum.command.reservoir.list.help": "§6Usage: /ip reservoir list§r\nLists all registered reservoirs",
+	"chat.immersivepetroleum.command.reservoir.get.help": "§6Usage: /ip reservoir get§r\nDisplays the reservoir for the chunk",
+	"chat.immersivepetroleum.command.reservoir.set.help": "§6Usage: /ip reservoir set <reservoir>§r\nSets a reservoir override for the chunk. Specify no reservoir to clear the override.",
+	"chat.immersivepetroleum.command.reservoir.setAmount.help": "§6Usage: /ip reservoir setAmount <number>§r\nSet the amount of mB of fluid left inside the chunk.",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.help": "§6Usage: /ip reservoir setCapacity <number>§r\nSet the maximum amount of mB of fluid in the chunk.",
+	"chat.immersivepetroleum.command.reservoir.get": "Chunk contains: %1$s <br>Override: %2$s <br>Amount: %3$s",
+	"chat.immersivepetroleum.command.reservoir.set.invalidReservoir": "§cInvalid reservoir, '%1$s' is not a valid identifier. Use '/ip reservoir list' for a list of all identifiers.§r",
+	"chat.immersivepetroleum.command.reservoir.set.sucess": "Reservoir override set to: %1$s",
+	"chat.immersivepetroleum.command.reservoir.set.clear": "Reservoir override cleared. (%1$s)",
+	"chat.immersivepetroleum.command.reservoir.setAmount.sucess": "Reservoir amount set to: %1$s",
+	"chat.immersivepetroleum.command.reservoir.setAmount.NFE": "Error, '%1$s' is not a valid number",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.sucess": "Reservoir capacity set to: %1$s",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.NFE": "Error, '%1$s' is not a valid number",
+	
+	"chat.immersivepetroleum.info.coresample.oil": "%s Reservoir",
+	"chat.immersivepetroleum.info.coresample.oilRep": "Up to %d mB/tick of trace %s",
+	"chat.immersivepetroleum.info.coresample.noOil": "No Fluid Reservoir",
+	
+	"key.categories.immersivepetroleum": "Immersive Petroleum",
+	"key.immersivepetroleum.projector.flip": "Mirror Projection"
+}
