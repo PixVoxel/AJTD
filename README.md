@@ -7,6 +7,8 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Dungeons Mobs(완료자 : 모닥불)
  - Enchanted with Mobs(완료자 : 모닥불)
  - Trofers(완료자 : 픽셀복셀)
+ - The One Probe / Addons(완료자 : 픽셀복셀)
+ - Spice of Life : Potato Edition(완료자 : 픽셀복셀)
 
 # 파일에 적용 완료
  - Antique Atlas
@@ -14,6 +16,8 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Dungeons Mobs
  - Enchanted with Mobs
  - Trofers
+ - The One Probe / Addons
+ - Spice of Life : Potato Edition
 
 # 번역 진행중
  - Astral Sorcery : 트뤼
