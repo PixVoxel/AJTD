@@ -9,6 +9,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Trofers(완료자 : 픽셀복셀)
  - The One Probe / Addons(완료자 : 픽셀복셀)
  - Spice of Life : Potato Edition(완료자 : 픽셀복셀)
+ - Refined Storage Addons(완료자 : 픽셀복셀)
 
 # 파일에 적용 완료
  - Antique Atlas
@@ -18,6 +19,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Trofers
  - The One Probe / Addons
  - Spice of Life : Potato Edition
+ - Refined Storage Addons
 
 # 번역 진행중
  - Astral Sorcery : 트뤼
@@ -30,4 +32,3 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - ExtraStorage
  - GameStages
  - Just Enough Resources
- - Astral sorcery
