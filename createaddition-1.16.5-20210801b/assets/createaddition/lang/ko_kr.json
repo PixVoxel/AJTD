@@ -109,7 +109,7 @@
 	
 	"block.createaddition.alternator": "교류 발전기",
 	"deprecated.block.createaddition.alternator.tooltip": "ALTERNATOR",
-	"deprecated.block.createaddition.alternator.tooltip.summary": ""_동력 에너지(SU)_를 _전기 에너지(FE)_로 변환합니다. 전력 생산량은 동력의 _RPM_에 따라 달라집니다.",
+	"deprecated.block.createaddition.alternator.tooltip.summary": "_동력 에너지(SU)_를 _전기 에너지(FE)_로 변환합니다. 전력 생산량은 동력의 _RPM_에 따라 달라집니다.",
 	
 	"block.createaddition.creative_energy": "크리에이티브 발전기",
 	"block.createaddition.creative_energy.tooltip": "CREATIVE_GENERATOR",
