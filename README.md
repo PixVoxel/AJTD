@@ -3,9 +3,9 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
 
 # 완료된 번역
  - Antique Atlas(낡은 지도책)
+ - Dungeons gear(완료자: 모닥불)
 
 # 번역 진행중
- - Dungeons gear : 모닥불
  - Astral Sorcery : 트뤼
 
 # 번역 우선도
@@ -19,5 +19,5 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Astral sorcery
  
 # 모닥불 우선도
-Dungeons Gear / Mobs
-Enchant with Mob
+- Dungeons Gear / Mobs
+- Enchant with Mob
