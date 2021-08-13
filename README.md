@@ -12,7 +12,6 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Refined Storage Addons(완료자 : 픽셀복셀)
  - Create crafts & additions(완료자 : 모닥불)
  - Create stuff additions(완료자 : 모닥불)
- - Chisel(완료자 : 픽셀복셀)
  - Immersive Patroleum(완료자 : 모닥불)
  - Controlling(완료자 : 모닥불)
 
@@ -26,6 +25,8 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Spice of Life : Potato Edition
  - Refined Storage Addons
  - Create crafts & additions
+ - Create stuff additions
+ - Immersive Patroleum
 
 # 번역 진행중
  - Astral Sorcery : 트뤼
