@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: refinedstorage
+Specification-Vendor: refinedmods
+Specification-Version: 1
+Implementation-Title: refinedstorage
+Implementation-Version: 1.9.15
+Implementation-Vendor: refinedmods
+Implementation-Timestamp: 2021-07-25T16:57:40+0200
+
