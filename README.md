@@ -16,6 +16,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Controlling(완료자 : 모닥불)
  - Chisel(완료자 : 픽셀복셀)
  - ExtraStorage(완료자 : 모닥불)
+ - Pipez(완료자 : 픽셀복셀)
  
 # 번역 진행중
  - Astral Sorcery : 트뤼
@@ -34,6 +35,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Immersive Patroleum
  - Controlling
  - Chisel
+ - Pipez
 
 # 번역 우선도
  - Apotheosis
@@ -41,3 +43,42 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Immersive Enginnering
  - GameStages
  - Just Enough Resources
+ 
+# 모드리스트
+번역이 완료된 모드는 C, 적용이 완료된 모드는 A.
+
+ - Akashic Tome 
+ - Antique Atlas (C, A)
+ - Apotheosis
+ - Ars Nouveau
+ - Astral Sorcery
+ - Better End
+ - Botania
+ - Chisel (C, A)
+ - Chisels and Bits
+ - Corpse Complex
+ - Controlling (C, A)
+ - Create Addition (C, A) / Create Stuff Additions (C, A)
+ - Dungeons Gear (C, A) / Mobs (C, A)
+ - Enchanted With Mobs (C, A)
+ - Extra Storage
+ - FTB Chunks / Library / Quests / Teams
+ - GameStages
+ - Immersive Enginnering / Patroleum (C, A)
+ - Iron Chest / Iron Shulker Boxes
+ - Item Filters
+ - JEI Integration / Professions
+ - Just Enough Resources
+ - Meet Your Fight
+ - Morph-o-Tool
+ - Mowzie's Mobs
+ - Pam's Harvestcraft 2 Crops / Food core / Food Extended / Trees
+ - Patchouli
+ - Pipez (C, A)
+ - Progressive Bosses
+ - Refined Storage / Addons (C, A)
+ - Tetra / Tetranomicon
+ - The One Probe (C, A) / TOP Addons (C, A)
+ - Thermal Series
+ - Trofers (C, A)
+ 
