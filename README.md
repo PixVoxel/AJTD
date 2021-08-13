@@ -14,6 +14,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Create stuff additions(완료자 : 모닥불)
  - Chisel(완료자 : 픽셀복셀)
  - Immersive Patroleum(완료자 : 모닥불)
+ - Controlling(완료자 : 모닥불)
 
 # 파일에 적용 완료
  - Antique Atlas
@@ -33,7 +34,6 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Apotheosis
  - Botania
  - Immersive Enginnering
- - Controlling
  - ExtraStorage
  - GameStages
  - Just Enough Resources
