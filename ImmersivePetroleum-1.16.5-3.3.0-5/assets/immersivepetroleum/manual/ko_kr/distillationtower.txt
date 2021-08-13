@@ -1,14 +1,14 @@
-Distillation Tower
-Environmentally unfriendly
-<&distillationtower0>The Distillation Tower is a large multiblock structure that separates crude oil into a number of byproducts.<np>
-It is built as shown and formed by using the Engineering's Hammer on the Redstone Engineering Block.
+증류탑
+환경 친화적이지 않습니다.
+<&distillationtower0>증류탑은 원유를 여러 부산물로 분리하는 대형 멀티블록입니다.<np>
+레드스톤 엔지니어링 블록에 엔지니어의 망치를 사용하면 그림과 같이 건설됩니다.
 
-Applying a redstone signal to the control panel will halt the machine's process, this behavior can be inverted by use of the Screwdriver.
+제어판에 레드스톤 신호를 적용하면 기계의 작동이 중지되며, 이 동작은 엔지니어의 드라이버를 사용하여 반전시킬 수 있습니다.
 
-Crude Oil can be input into the Distillation Tower at the back hatch marked with a blue dot, where it will be heated until it separates into a number of layers. This produces a variety of fluids and has a chance to produce Bitumen as a byproduct.
+원유는 파란색 점이 표시된 뒤쪽의 해치로 투입할 수 있으며, 여기에서 원유가 여러 층으로 분리될 때 까지 가열됩니다. 이로인해 다양한 유체가 생성되며 부산물로 역청이 생산될 수도 있습니다.
 
-The Distillation Tower uses <config;i;distillationtower_operationcost> Flux per operation, converting up to 75 mB of Crude Oil to Diesel, Lubricant, Gasoline, and Bitumen per tick. The produced fluid mix is output from the side hatch marked with an orange dot; the Bitumen through the front hatch.<np>
+증류탑은 작업 당 <config;i;distillationtower_operationcost> Flux의 전력이 필요하며, 틱당 최대 원유 75mB을 디젤, 윤활유, 가솔린 및 역청으로 변환합니다. 생성된 유체 혼합물은 주황색 점으로 표시된 측면 해치에서 출력되며, 앞 해치를 통해 역청을 빼 낼 수 있습니다.<np>
 
-Diesel can be used for <link;diesel_generator;§o§npower §o§nproduction§r>, Lubricant for <link;immersivepetroleum:lubricant;§o§noiling §o§nmachines§r>, and Gasoline for <link;immersivepetroleum:portablegenerator;§o§npowering §o§nengines§r> <link;immersivepetroleum:speedboat;§o§nvehicles§r>, or <link;immersivepetroleum:napalm;§o§nNapalm§r>.
-Bitumen is used to make <link;immersivepetroleum:asphalt;§o§nAsphalt§r> and can be processed further to get Petroleum Coke in the <link;immersivepetroleum:cokerunit;§o§nCoker§r>.<np>
-<&distillationtower1>Below are the operations the Distillation Tower can perform:
+디젤은 <link;diesel_generator;§o§n전기 §o§n생산§r>에 사용할 수 있고, 윤활유는 <link;immersivepetroleum:lubricant;§o§n기계에 §o§n기름칠§r>을 할 수 있으며, 가솔린은 <link;immersivepetroleum:portablegenerator;§o§n엔진 §o§n가동§r>, <link;immersivepetroleum:speedboat;§o§n탈것 §o§n연료 §o§n보충§r>, 혹은 <link;immersivepetroleum:napalm;§o§네이팜§r>을 만드는 데 사용됩니다.
+역청은 <link;immersivepetroleum:asphalt;§o§n아스팔트§r>를 만들거나, <link;immersivepetroleum:cokerunit;§o§n코커§r>에서 더 정제하여 펫코크스를 만드는 데 사용됩니다.<np>
+<&distillationtower1>증류탑이 수행 할 수 있는 작업은 다음과 같습니다:
