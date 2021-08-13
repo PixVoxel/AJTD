@@ -1,0 +1,8 @@
+{
+	"chunks": {
+		"group": "ftblibrary:util",
+		"icon": "ftblibrary:icons/map",
+		"x": 310,
+		"click": "ftbchunks:open_gui"
+	}
+}
