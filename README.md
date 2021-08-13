@@ -14,6 +14,10 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Create stuff additions(완료자 : 모닥불)
  - Immersive Patroleum(완료자 : 모닥불)
  - Controlling(완료자 : 모닥불)
+ - Chisel(완료자 : 픽셀복셀)
+ 
+# 번역 진행중
+ - Astral Sorcery : 트뤼
 
 # 파일에 적용 완료
  - Antique Atlas
@@ -27,9 +31,8 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Create crafts & additions
  - Create stuff additions
  - Immersive Patroleum
-
-# 번역 진행중
- - Astral Sorcery : 트뤼
+ - Controlling
+ - Chisel
 
 # 번역 우선도
  - Apotheosis
