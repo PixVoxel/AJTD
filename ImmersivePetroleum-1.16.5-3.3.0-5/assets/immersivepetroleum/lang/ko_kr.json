@@ -12,7 +12,7 @@
 	"block.immersivepetroleum.asphalt": "아스팔트 콘크리트",
 	"block.immersivepetroleum.asphalt_slab": "아스팔트 콘크리트 반블록",
 	"block.immersivepetroleum.asphalt_stairs": "아스팔트 콘크리트 계단",
-	"block.immersivepetroleum.petcoke_block": "석유 코크스 블록",
+	"block.immersivepetroleum.petcoke_block": "페트코크스 블록",
 	
 	"block.immersivepetroleum.auto_lubricator": "자동 윤활기",
 	"block.immersivepetroleum.gas_generator": "휴대용 발전기",
@@ -38,8 +38,8 @@
 	"item.immersivepetroleum.oil_can": "윤활유 캔",
 	
 	"item.immersivepetroleum.bitumen": "역청",
-	"item.immersivepetroleum.petcoke": "석유 코크스",
-	"item.immersivepetroleum.petcoke_dust": "석유 코크스 가루",
+	"item.immersivepetroleum.petcoke": "페트코크스",
+	"item.immersivepetroleum.petcoke_dust": "페트코크스 가루",
 	"item.immersivepetroleum.diesel_bucket": "디젤 양동이",
 	"item.immersivepetroleum.diesel_sulfur_bucket": "황화 디젤 양동이",
 	"item.immersivepetroleum.oil_bucket": "원유 양동이",
