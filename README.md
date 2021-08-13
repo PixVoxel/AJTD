@@ -15,6 +15,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Immersive Patroleum(완료자 : 모닥불)
  - Controlling(완료자 : 모닥불)
  - Chisel(완료자 : 픽셀복셀)
+ - ExtraStorage(완료자 : 모닥불)
  
 # 번역 진행중
  - Astral Sorcery : 트뤼
@@ -38,6 +39,5 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Apotheosis
  - Botania
  - Immersive Enginnering
- - ExtraStorage
  - GameStages
  - Just Enough Resources
