@@ -1,22 +1,21 @@
-Conveyor Belts
-Who needs rails anyway?
-<&conveyor_recipes>Conveyor Belts are an easy way of transporting all sorts of things around your base. While they are strong enough to move living creatures like cows or sheep, their true strength lies in transporting items.
-Throwing items atop them will have the items move along the belt. Should the belt lead into an inventory, the item will be inserted.
-Blocks like hoppers will be able to drop items onto the belts (rightclick) or adjust whether they should run up- or downwards (sneak + rightclick).
-Rightclicking a conveyor with any dye will colour the walls of the conveyor to easily identify where is is going.<np>
-<&conveyor_redstone_recipe>The Redstone Controlled Conveyor Belt can be disabled with a redstone signal.
-The panel on its side allows attaching a lever, but a redstone signal may be input from any direction. Sneak + rightclick with an Engineer's Hammer to move the panel to the other side.<np>
-<&conveyor_dropper_recipe>The Dropping Conveyor Belt is quite simply a conveyor with a hatch in the middle, allowing it to drop items that pass over it downwards.
-Items will be inserted into inventories below or simply dropped if there is an empty space below the conveyor.
-The hatch can be shut with a redstone signal, when desired.<np>
-<&conveyor_extract_recipe>The Extracting Conveyor Belt possesses the ability to extract items from an inventory in a similar fashion to a Hopper. Unlike the latter however, it possesses no internal inventory and will place extracted items onto the belt.
-Sneak + rightclick with an Engineer's Hammer to change its input side. Use the Engineer's Screwdriver to adjust the speed at which it extracts.<np>
-<&conveyor_vertical_recipe>The Vertical Conveyor Belt is a belt meant to be mounted on walls. Using the buckets attached to is, it will lift entities straight up. Despite the use of the term "bucket", it will not lift fluids.
-This belt can insert into inventories above it or simply expel items over the edge at the top onto more conveyors.<np>
-<&conveyor_splitter_recipe>The Splitting Conveyor Belt alternates between redirecting Items and Entities left and right, plain and simple. This feature can be used to achieve a more equal distribution in your factories.<np>
-<&conveyor_covered_recipe>The Covered Conveyor Belt works just like a normal conveyor, however it is covered by a piece of scaffolding, which prevents players from picking up items from it.
-You can rightclick it with other types of scaffold or glass to change the cover's appearance.<np>
-<&conveyor_other_covered_recipes>Similarly, the Dropping, Extracting, Splitting and Vertical Conveyors can also be covered in scaffolding to achieve the same benefits of "pickup-prevention" while still functioning as they normally do.
-<&chute_recipes>Chutes are simple constructions made from sheetmetal that allow entities to drop down straight.
-They can insert into inventories below them and be inserted into by conveyors or similar devices. Items within them won't be picked up by players and should be immune to most forms of attraction, magnetic or magical.
-Sneak + rightclick with an Engineer's Hammer to turn the chute into a corner piece that directs an entity to the side.
+컨베이어 벨트
+요즘 누가 철도를 써?
+<&conveyor_recipes>컨베이어 벨트는 여러분의 기지를 둘러싼 모든 종류의 물건들을 운반하는 가장 쉬운 방법입니다. 소나 양과 같은 살아있는 생물들을 움직일 수 있을 만큼 강하지만, 진정한 목적은 아이템을 운송하는 데 있습니다.
+아이템을 위에 던지면 아이템이 벨트를 따라 움직이게 됩니다. 벨트가 저장공간과 연결된다면 그 곳에 아이템을 집어넣습니다.
+호퍼와 같은 블록들은 벨트 위에 아이템을 떨어뜨릴 수 있습니다. 엔지니어의 망치를 이용하여 벨트를 회전시키거나(우클릭) 혹은 위, 아래로 조정합니다. (웅크린채 우클릭).
+염료를 들고 컨베이어 벨트에 우클릭하면 컨베이어 벨트에 색을 입혀 어느 방향으로 움직이는지 쉽게 식별할 수 있습니다.<np>
+<&conveyor_redstone_recipe>레드스톤 제어 컨베이어 벨트는 레드스톤 신호를 사용하여 비활성화 시킬 수 있습니다.
+측변 패널에는 레버를 부착할 수 있지만 어느방향에서든 레드스톤 신호가 입력될 수 있습니다.패널을 다른 방향으로 이동하려면 엔지니어의 망치를 이용하여 웅크린 상태로 우클릭하세요.<np>
+<&conveyor_dropper_recipe>하강 컨베이어 벨트는 해치가 중에 있는 컨베이어 벨트로, 그 위를 지나가는 아이템들을 떨어뜨릴 수 있습니다.
+아이템은 아래의 인벤토리에 넣어지거나 컨베이어 벨트 아래 빈 공간이 있는 경우 그 아래로 드롭됩니다. 해치는 원하는 경우 레드스톤 신호를 주어 닫을 수 있습니다.<np>
+<&conveyor_extract_recipe>추출 컨베이어 벨트는 호퍼와 유사한 방식으로 연결된 저장공간에서 아이템을 꺼내는 기능을 가지고 있습니다. 하지만 호퍼와는 달리 내부 저장공간이 없으며 꺼낸 아이템을 즉시 벨트에 배치합니다.
+엔지니어의 망치를 이용해 웅크린 상태로 우클릭하여 입력면을 변경할 수 있습니다. 또한 엔지니어의 드라이버를 사용하여 추출 속도를 조절할 수 있습니다.<np>
+<&conveyor_vertical_recipe>수직 컨베이어 벨트는 벽에 붙이기 위한 벨트입니다. 벨트에 부착되어있는 양동이를 사용하여 엔티티를 위로 들어올립니다. "양동이"라는 용어를 사용함에도 불구하고 유체를 퍼올리지는 못합니다.
+이 벨트는 그 위에 연결된 저장공간에 아이템을 집어넣거나 절벽을 넘어 그 위의 컨베이어 벨트로 아이템을 간단하게 옮길 수 있습니다.<np>
+<&conveyor_splitter_recipe>분배 컨베이어 벨트는 평범하고 단순하게 아이템을 왼쪽 오른쪽으로 번갈아가며 보냅니다. 공장에서 보다 균등한 아이템의 분배가 가능합니다.<np>
+<&conveyor_covered_recipe>덮힌 컨베이어 벨트는 일반 컨베이어 벨트처럼 작동하지만, 비계로 덮혀있어 플레이어가 물건을 줍지 못하게 합니다.
+다른 유형의 비계나 유리로 우클릭하여 덮개의 모양을 변경할 수 있습니다.<np>
+<&conveyor_other_covered_recipes>유사한 방식으로 하강, 추출, 분배 및 수직 컨베이어 벨트도 정상적으로 작동하면서 "픽업 방지"의 동일한 이점을 달성하기 위해 비계로 덮을 수 있습니다.
+<&chute_recipes>통로는 판금으로 만든 단순한 굴뚝 구조로써 엔티티가 수직으로 떨어질 수 있게 합니다.
+그 아래의 저장공간에 아이템을 집어넣을 수 있고 컨베이어 벨트 혹은 그와 유사한 장치를 이용하여 집어넣울 수 있습니다. 그 안에 있는 아이템은 플레이어가 줍지 않는 한 대부분의 아이템을 끌어오는 방법(자석이나 마법 등)에 대해 면역이 부여됩니다..
+엔지니어의 망치를 사용해 웅크린 상태로 우클릭하여 아이템을 옆으로 이동시키는 형태로 바꿀 수 있습니다.
