@@ -1,11 +1,11 @@
-Buzzsaw
-We Don't Go To Ravenholm
-<&recipes>This large, portable buzzsaw is designed to make quick work of trees and other pieces of foliage that may stand in the way of a pristine factory building.
-After using the <link;workbench;Engineer's Workbench;start> to place a sawblade in it, and loading it with  <link;refinery;Biodiesel;start> or another fuel, it can be used to carve through everything from small birches to large jungle trees.
+원형 톱
+레이븐홈에는 가지 않을겁니다..
+<&recipes>이 커다란 휴대형 원형 톱은 깔끔한 공장 건물들이 들어서는 것을 방해하는 나무와 기타 잎사귀들을 빠르게 처리할 수 있도록 설계되었습니다.
+<link;workbench;엔지니어의 워크벤치;start>를 사용하여 원형 톱날을 장착하고 <link;refinery;바이오디젤;start>혹은 다른 연료를 채우면 작은 자작나무에서부터 커다란 정글나무까지 모든 나무들을 한번에 베어버리는데 사용할 수 있습니다.
 
-Like some other tools, the buzzsaw can be modified in the <link;workbench;Engineer's Workbench>. These upgrades affect the size of the internal tank and the durability of its sawblade.
+다른 도구와 마찬가지로 원형 톱은 <link;workbench;엔지니어의 워크벤치>에서 업그레이트를 할 수 있습니다. 업그레이드롤 통하여 내부 탱크의 크기, 톱날의 내구성에 영향을 줄 수 있습니다.
 <np>
-<&rockcutter_recipe>By replacing the normal saw- blade with a §2Rockcutter Blade§r, the buzzsaw can be used to cleanly cut cubes of stone from the ground, much like the §2Silktouch§r enchantment. However, the diamond tipped blade is no longer useful in carving through wood or felling trees.<np>
-<&tank_recipe>The §2Large Tank§r increases the fluid capacity of the buzzsaw by 2000 mb.<np>
-<&lube_recipe>The §2Advanced Lubrication System§r applies additional lubricant to the sawblade, reducing the speed at which it loses durability.<np>
-<&quiver_recipe>By attaching the §2Blade Quiver§r to the side of the buzzsaw, you can carry two additional sawblades along. You can cycle between the stored blades by <config;b;tools.chemthrower.scroll;sneaking and using the scrollwheel, or through use of;using> the keybind §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r if it has been set in the options.
+<&rockcutter_recipe>일반 톱날을 §2석재절단 톱날§r로 교체하면 원형 톱은 돌을 섬세한 손길 마법부여처럼 깔끔하게 채취하는 데 사용할 수 있습니다. 하지만 나무를 자르거나 베어내는데에는 유용하지 않습니다.<np>
+<&tank_recipe>The §2확장 탱크§r는 원형 톱의 연료 저장량을 2000mB 증가시킵니다.<np>
+<&lube_recipe>The §2r고급 윤활 시스템§r은 톱날에 윤활제를 도포하여 내구도가 손상되는 속도를 줄여줍니다.<np>
+<&quiver_recipe>원형 톱의 측면에 §2톱날 통§r을 부착하면 2개의 톱날을 추가로 휴대할 수 있습니다. 저장된 톱날은 <config;b;tools.chemthrower.scroll;sneaking and using the scrollwheel, or through use of;using> the keybind §l<keybind;key.immersiveengineering.chemthrowerSwitch>§r 키를 사용하여 교체할 수 있습니다. 이는 옵션에서 설정이 가능합니다.
