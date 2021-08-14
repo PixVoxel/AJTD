@@ -2,7 +2,6 @@
 A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  
 # 번역 진행중
- - Astral Sorcery : 트뤼
  - Immersive enginnering : 모닥불
 
 # 번역 완료됨
@@ -16,6 +15,7 @@ A Journey toward Dawn, 여명을 향한 여정의 번역 프로젝트입니다.
  - Enchanted with Mobs
  - Extra Storage
  - Immersive Patroleum
+ - Iron Chest / Iron Shulker Boxes
  - Pipez
  - Refined Storage Addons
  - Spice of Life : Potato Edition
