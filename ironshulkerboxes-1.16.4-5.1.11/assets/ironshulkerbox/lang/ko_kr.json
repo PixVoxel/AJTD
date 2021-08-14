@@ -121,19 +121,19 @@
     "block.ironshulkerbox.obsidian_shulker_box_검은색": "검은색 흑요석 셜커 상자",
 
     "_comment": "Upgrades",
-    "item.ironshulkerbox.iron_to_금_shulker_box_upgrade": "철을 금 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.금_to_diamond_shulker_box_upgrade": "금을 다이아몬드 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.copper_to_silver_shulker_box_upgrade": "구리를 은 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.silver_to_금_shulker_box_upgrade": "은을 금 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.copper_to_iron_shulker_box_upgrade": "구리를 철 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.diamond_to_crystal_shulker_box_upgrade": "다이아몬드을 수정 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.vanilla_to_iron_shulker_box_upgrade": "기본을 철 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.vanilla_to_copper_shulker_box_upgrade": "기본을 구리 셜커 상자로 업그레이드",
-    "item.ironshulkerbox.diamond_to_obsidian_shulker_box_upgrade": "다이아몬드을 흑요석 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.iron_to_금_shulker_box_upgrade": "철 셜커 상자를 금 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.금_to_diamond_shulker_box_upgrade": "금 셜커 상자를 다이아몬드 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.copper_to_silver_shulker_box_upgrade": "구리 셜커 상자를 은 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.silver_to_금_shulker_box_upgrade": "은 셜커 상자를 금 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.copper_to_iron_shulker_box_upgrade": "구리 셜커 상자를 철 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.diamond_to_crystal_shulker_box_upgrade": "다이아몬드 셜커 상자를 수정 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.vanilla_to_iron_shulker_box_upgrade": "기본 셜커 상자를 철 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.vanilla_to_copper_shulker_box_upgrade": "기본 셜커 상자를 구리 셜커 상자로 업그레이드",
+    "item.ironshulkerbox.diamond_to_obsidian_shulker_box_upgrade": "다이아몬드 셜커 상자를 흑요석 셜커 상자로 업그레이드",
 
     "_comment": "Tooltips",
-    "ironshulkerbox.upgrade.tooltip": "Used to upgrade a %s 셜커 상자 to a %s 셜커 상자.",
-    "ironshulkerbox.color.tooltip": "The color of the 셜커 상자 will stay the same.",
+    "ironshulkerbox.upgrade.tooltip": "%s 셜커 상자를 %s 셜커 상자로 업그레이드할 때 사용합니다.",
+    "ironshulkerbox.color.tooltip": "셜커 상자의 색은 유지됩니다.",
 
     "_comment": "Types",
     "ironshulkerbox.iron": "철",
@@ -143,8 +143,8 @@
     "ironshulkerbox.copper": "구리",
     "ironshulkerbox.silver": "은",
     "ironshulkerbox.obsidian": "흑요석",
-    "ironshulkerbox.vanilla": "Vanilla",
+    "ironshulkerbox.vanilla": "기본",
 
     "_comment": "Item Groups",
-    "itemGroup.ironshulkerbox": "철 Shulker Boxes"
+    "itemGroup.ironshulkerbox": "철 셜커 상자"
 }
