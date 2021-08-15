@@ -65,8 +65,8 @@
 	"desc.immersivepetroleum.info.reservoir.aquifer": "대수층",
 	"desc.immersivepetroleum.info.reservoir.lava": "마그마굄",
 	
-	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "보터보트의 내구도가 증가하고 화염저항을 가집니다.",
-	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "모터보트가 얼음을 부수고 몹을 다치게할 수 있습니다.",
+	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "모터보트의 내구도가 증가하고 화염저항을 가집니다.",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "모터보트가 얼음을 부수고 몹에게 피해를 줍니다.",
 	"desc.immersivepetroleum.flavour.upgrade_tank": "모터보트의 연료 탱크의 크기를 증가시킵니다.",
 	"desc.immersivepetroleum.flavour.upgrade_rudders": "모더보트가 더 빠른 회전을 할 수 있습니다.",
 	"desc.immersivepetroleum.flavour.upgrade_paddles": "모터보트의 연료가 다 떨어졌을때 저어서 갈 수 있습니다.",
