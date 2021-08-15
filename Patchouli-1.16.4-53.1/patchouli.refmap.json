@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "vazkii/patchouli/mixin/client/MixinClientAdvancementManager": {
+      "read": "Lnet/minecraft/client/multiplayer/ClientAdvancementManager;func_192799_a(Lnet/minecraft/network/play/server/SAdvancementInfoPacket;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "vazkii/patchouli/mixin/client/MixinClientAdvancementManager": {
+        "read": "Lnet/minecraft/client/multiplayer/ClientAdvancementManager;func_192799_a(Lnet/minecraft/network/play/server/SAdvancementInfoPacket;)V"
+      }
+    }
+  }
+}
