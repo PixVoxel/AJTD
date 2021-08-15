@@ -1,5 +1,5 @@
-Thermoelectric Generator
-Hot and Cold
-<&recipe>Thermoelectric Generators are another option of power generation and work without the use of any mechanical parts, instead they use the temperature gradients between two sources.
-Placing a hot fluid on one side and a colder fluid on the opposing side generates energy based on the difference between the two temperatures.
-<&values>The list below contains other, non-fluid blocks, which can be used as sources of temperature.
+열반전 발전기
+뜨겁거나 차갑거나
+<&recipe>열전기 발전기는 발전기의 또 다른 형태이며 기계 부품을 사용하지 않고 작동하는 대신 두 블록 사이의 온도차를 사용합니다.
+뜨거운 유체를 한쪽에 놓고 차가운 유체를 반대쪽에 놓으면 두 온도의 차이에 따라 에너지가 생성됩니다.
+<&values>아래 목록에는 온도를 가진 기타 고체 블록이 포함되어 있습니다.
