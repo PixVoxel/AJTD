@@ -186,8 +186,8 @@
   "itemGroup.artifacts": "던전스: 유물",
   "itemGroup.armor": "던전스: 방어구",
 
-  "death.attack.electricShock": "%1$s 충격과 공포를 경험하였습니다.",
-  "death.attack.electricShock.player": "%1$s 는 %2$s 와 싸우다 충격과 공포를 경험하였습니다.",
+  "death.attack.electricShock": "%1$s은(는) 충격과 공포를 경험하였습니다.",
+  "death.attack.electricShock.player": "%1$s은(는) %2$s 와 싸우다 충격과 공포를 경험하였습니다.",
 
   "attribute.name.generic.dungeons_gear.attackReach": "사거리",
 
