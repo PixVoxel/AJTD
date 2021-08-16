@@ -345,7 +345,7 @@
   "mod.chiselsandbits.config.client.settings.chat-mode-notification": "알림 모드: 채팅",
   "mod.chiselsandbits.config.client.settings.chat-mode-notification.comment": "활성화 되면 채팅으로 도구 모드에 대한 변경사항을 출력합니다.",
   "mod.chiselsandbits.config.client.settings.clipboard.add-broken-blocks": "클립보드: 조각된 블록 파괴시 저장",
-  "mod.chiselsandbits.config.client.settings.clipboard.add-broken-blocks.comment": "활성화하면 조각된 블록을 파괴하면 자동으로 클립보드에 저장됩니다.,
+  "mod.chiselsandbits.config.client.settings.clipboard.add-broken-blocks.comment": "활성화하면 조각된 블록을 파괴하면 자동으로 클립보드에 저장됩니다.",
   "mod.chiselsandbits.config.client.settings.enable-right-click-mode-change": "도구 모드 변경: 우클릭",
   "mod.chiselsandbits.config.client.settings.enable-right-click-mode-change.comment": "활성화하면(웅크려서)우클릭을 사용해 도구 모드를 변경할 수 있습니다.",
   "mod.chiselsandbits.config.client.settings.enable.toolbar.icons": "도구 아이콘: 툴바",
