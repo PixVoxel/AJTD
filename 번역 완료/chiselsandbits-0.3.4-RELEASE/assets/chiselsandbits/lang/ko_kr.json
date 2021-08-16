@@ -297,7 +297,7 @@
   "mod.chiselsandbits.config.dynamicRenderFullChunksOnly": "동적 렌더러를 로딩된 청크에만 사용",
   "mod.chiselsandbits.config.dynamicRenderFullChunksOnly.tooltip": "동적으로 렌더링 된 청크가 하나의 블록으로 분할되지 않도록 합니다. 일반적으로 성능이 향상되지만(약간 복잡한 구조의 블록을 포함한 청크) 최악의 경우에는 오히려 성능이 저하됩니다(매우 복잡한 구조의 블록으로 가득 찬 청크).",
   "mod.chiselsandbits.config.requireBagSpace": "주머니/인벤토리 공간 요구",
-  "mod.chiselsandbits.config.requireBagSpace.tooltip": "끌을 사용하려면 인벤토리나 비츠 주머니에 빈 공간이 있어야 하게 설정합니다..",
+  "mod.chiselsandbits.config.requireBagSpace.tooltip": "끌을 사용하려면 인벤토리나 비츠 주머니에 빈 공간이 있어야 하게 설정합니다.",
   "mod.chiselsandbits.config.voidExcessBits": "과도한 조각 비츠 버리기",
   "mod.chiselsandbits.config.voidExcessBits.tooltip": "인벤토리나 주머니에 들어갈 수 없는 모든 비트를 파괴합니다. 서버 성능을 향상시킵니다. 일부 조각 비츠는 작동하지 않을 수 있습니다.",
 
@@ -423,4 +423,5 @@
   "mod.chiselsandbits.config.server.troubleshooting.logging.eligibility-errors": "호환성: 측정 오류 기록하기",
   "mod.chiselsandbits.config.server.troubleshooting.logging.eligibility-errors.comment": "활성화하면 측정중 오류가 발생하면 그 오류 정보를 저장합니다.",
   "mod.chiselsandbits.config.server.troubleshooting.logging.tile-errors": "디버그: 오류 타일 정보 접속",
-  "mod.chiselsandbits.config.server.troubleshooting.logging.tile-errors.comment": "활성화되면 타일 엔티티에 액세스할 때 발생하는 오류를 기록합니다.
+  "mod.chiselsandbits.config.server.troubleshooting.logging.tile-errors.comment": "활성화되면 타일 엔티티에 액세스할 때 발생하는 오류를 기록합니다."
+}
