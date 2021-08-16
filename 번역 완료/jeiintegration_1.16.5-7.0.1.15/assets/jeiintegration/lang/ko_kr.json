@@ -1,0 +1,29 @@
+{
+  "_comment": "JEI Integration Language File",
+
+  "_comment": "Language Name: korean",
+  "_comment": "Language Region: Republic of korea",
+  "_comment": "Language Code: ko_kr",
+
+  "_comment": "Config",
+  "config.jeiintegration.tooltips.burnTimeTooltipMode": "연소 시간 툴팁",
+  "config.jeiintegration.tooltips.durabilityTooltipMode": "내구도 툴팁",
+  "config.jeiintegration.tooltips.foodTooltipMode": "배고픔/포만감 툴팁",
+  "config.jeiintegration.tooltips.maxStackSizeTooltipMode": "최대 중첩 크기 툴팁",
+  "config.jeiintegration.tooltips.nbtTooltipMode": "NBT 데이터 툴팁",
+  "config.jeiintegration.tooltips.registryNameTooltipMode": "레지스트리 이름 툴팁",
+  "config.jeiintegration.tooltips.tagsTooltipMode": "태그 툴팁",
+  "config.jeiintegration.tooltips.translationKeyTooltipMode": "번역 키 툴팁",
+
+  "_comment": "Tooltips",
+  "tooltip.jeiintegration.burnTime": "연소 시간:",
+  "tooltip.jeiintegration.burnTime.suffix": "틱",
+  "tooltip.jeiintegration.durability": "내구도:",
+  "tooltip.jeiintegration.hunger": "배고픔:",
+  "tooltip.jeiintegration.saturation": "포만감:",
+  "tooltip.jeiintegration.maxStackSize": "최대 중첩 크기:",
+  "tooltip.jeiintegration.nbtTagData": "NBT:",
+  "tooltip.jeiintegration.registryName": "ID:",
+  "tooltip.jeiintegration.tags": "태그:",
+  "tooltip.jeiintegration.translationKey": "번역 키:"
+}
