@@ -1,6 +1,6 @@
 {
   "_comment": "Creative Tabs",
-  "itemGroup.mowziesmobs.creativeTab": "모지의 폭도",
+  "itemGroup.mowziesmobs.creativeTab": "Mowzie's Mobs",
 
   "_comment": "엔티티들",
   "entity.mowziesmobs.foliaath": "폴리아스",
@@ -17,6 +17,7 @@
   "entity.mowziesmobs.lantern": "칸델라",
   "entity.mowziesmobs.naga": "나가",
   "entity.mowziesmobs.boulder": "바위"
+  
   "_comment": "Items",
   "item.mowziesmobs.foliaath_seed": "폴리아스 씨앗",
   "item.mowziesmobs.mob_remover": "몹 제거기",
@@ -65,7 +66,7 @@
   "item.mowziesmobs.dart.text.0": "블로우건에만 사용할 수 있습니다",
   "item.mowziesmobs.dart.text.1": "대상에게 독 부여",
 
-
+																							
   "item.mowziesmobs.foliaath_seed.text.0": "풀밭에 심기",
   "item.mowziesmobs.foliaath_seed.text.1": "반나절마다 새끼 폴리아스는 배고파 할것입니다.",
   "item.mowziesmobs.foliaath_seed.text.2": "아무 고기나 던져서 먹이세요",
