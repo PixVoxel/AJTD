@@ -1,0 +1,16 @@
+{
+  "itemGroup.verticalslabs": "세로 반 블록",
+  "item.vertical_slab.prefix": "수직 %s",
+  "doubleslabs.keycategory": "중첩된 반 블록",
+  "doubleslabs.key.toggleVerticalSlabPlacement": "수직 반 블록 배치 토글",
+  "doubleslabs.configgui.slabBlacklist": "수평 반 블록 블랙리스트",
+  "doubleslabs.configgui.uvlockModels": "UV모델 고정",
+  "doubleslabs.configgui.verticalSlabBlacklist": "수직 반 블록 블랙리스트",
+  "doubleslabs.configgui.replaceSameSlab": "같은 수평 반 블록으로 대체",
+  "doubleslabs.configgui.disableVerticalSlabPlacement": "같은 수직 반 블록으로 대체",
+  "doubleslabs.configgui.verticalSlabCraftingBlacklist": "수직 반 블록 제작 블랙리스트",
+  "doubleslabs.configgui.lazyVerticalSlabModels": "느린 수직 반 블록 모델",
+  "doubleslabs.configgui.slabCullBlacklist": "반 블록 추출 블랙리스트",
+  "doubleslabs.configgui.useDoubleSlabModelBlacklist": "중첩된 반 블록 모델 블랙리스트",
+  "doubleslabs.configgui.verticalSlabPlacementMethod": "세로 반 블록 설치 방식"
+}
