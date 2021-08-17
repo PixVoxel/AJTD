@@ -76,7 +76,7 @@
 //egg
 "item.pamhc2foodcore.mayonaiseitem": "마요네즈",
 "item.pamhc2foodcore.boiledeggitem": "삶은 달걀",
-"item.pamhc2foodcore.friedeggitem": "구운 달걀",
+"item.pamhc2foodcore.friedeggitem": "달걀 프라이",
 "item.pamhc2foodcore.scrambledeggitem": "스크램블 에그",
 
 //apple
@@ -87,7 +87,7 @@
 "item.pamhc2foodcore.applesauceitem": "사과소스",
 
 //melon
-"item.pamhc2foodcore.melonjuiceitem": "수박 주스",
+"item.pamhc2foodcore.melonjuiceitem": "수박 주스",	
 "item.pamhc2foodcore.melonsmoothieitem": "수박 스무디",
 "item.pamhc2foodcore.melonjellyitem": "수박 잼",
 "item.pamhc2foodcore.melonjellytoastitem": "수박 잼 토스트",
@@ -102,7 +102,7 @@
 "item.pamhc2foodcore.friedchickenitem": "후라이드 치킨",
 "item.pamhc2foodcore.groundchickenitem": "갈은 닭고기",
 "item.pamhc2foodcore.chickennuggetitem": "치킨 너겟",
-"item.pamhc2foodcore.basicchickensandwichitem": "기본 치킨 샌드위치",
+"item.pamhc2foodcore.basicchickensandwichitem": "기본 치킨 버거",
 "item.pamhc2foodcore.chickenjerkyitem": "치킨 육포",
 "item.pamhc2foodcore.chickenpotpieitem": "치킨 팟 파이",
 "item.pamhc2foodcore.chickendinneritem": "치킨 디너",
@@ -119,13 +119,13 @@
 "item.pamhc2foodcore.groundporkitem": "갈은 돼지고기",
 "item.pamhc2foodcore.porkjerkyitem": "돼지고기 육포",
 "item.pamhc2foodcore.hotdogitem": "핫도그",
-"item.pamhc2foodcore.baconandeggsitem": "베이컨과 계란후라이",
+"item.pamhc2foodcore.baconandeggsitem": "베이컨과 달걀 프라이",
 "item.pamhc2foodcore.epicbaconitem": "에픽 베이컨",
 
 //fish
 "item.pamhc2foodcore.groundfishitem": "갈은 생선",
 "item.pamhc2foodcore.fishsticksitem": "생선 튀김",
-"item.pamhc2foodcore.basicfishsandwichitem": "기본 생선 샌드위치",
+"item.pamhc2foodcore.basicfishsandwichitem": "기본 생선 버거",
 "item.pamhc2foodcore.fishjerkyitem": "생선 육포",
 "item.pamhc2foodcore.fishandchipsitem": "피쉬 앤 칩스",
 
