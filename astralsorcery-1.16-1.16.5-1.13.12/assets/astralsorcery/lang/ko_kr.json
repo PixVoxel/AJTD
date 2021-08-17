@@ -99,18 +99,6 @@
   "astralsorcery.subtitles.attunement_altar_player_attune": "조율 제단이 플레이어를 조율하는 중",
   "astralsorcery.subtitles.gui_journal_close": "책을 닫음",
   "astralsorcery.subtitles.gui_journal_page": "페이지를 넘김",
-<<<<<<< Updated upstream
-  "astralsorcery.subtitles.illumination_wand_light": "Illumination flare sparkles",
-  "astralsorcery.subtitles.illumination_wand_highlight": "Translucent block formed",
-  "astralsorcery.subtitles.illumination_wand_unhighlight": "Translucent block faded",
-  "astralsorcery.subtitles.perk_unlock": "능력 해금됨",
-  "astralsorcery.subtitles.perk_unseal": "능력 인장 제거됨",
-  "astralsorcery.subtitles.perk_seal": "능력 인장 적용됨",
-
-  "astralsorcery.misc.ctrlcopy": "CTRL + leftclick to copy",
-  "astralsorcery.misc.ctrlcopy.copied": "Copied: %s",
-  "astralsorcery.misc.noinformation": "There is nothing here.",
-=======
   "astralsorcery.subtitles.illumination_wand_light": "빛이 반짝임",
   "astralsorcery.subtitles.illumination_wand_highlight": "반투명 블럭을 형성함",
   "astralsorcery.subtitles.illumination_wand_unhighlight": "반투명 블럭을 없앰",
@@ -121,7 +109,6 @@
   "astralsorcery.misc.ctrlcopy": "CTRL + 마우스왼쪽클릭으로 복사 ",
   "astralsorcery.misc.ctrlcopy.copied": "복사: %s",
   "astralsorcery.misc.noinformation": "아무것도 적혀있지 않다.",
->>>>>>> Stashed changes
   "astralsorcery.misc.tooltipError": "<Error upon trying to get this item's tooltip>",
   "astralsorcery.misc.craftInformation": "클릭하여 레시피 확인",
   "astralsorcery.misc.input.tag": "Any item with tag '%s'",
