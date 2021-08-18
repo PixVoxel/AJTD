@@ -348,9 +348,9 @@
   "info.thermal.augment.attr.FluidMax": "탱크 용량",
 
   "info.thermal.augment.attr.MachineCat": "촉매 소비",
-  "info.thermal.augment.attr.MachineEnergy": "에너지 생산",
+  "info.thermal.augment.attr.MachineEnergy": "에너지 소비",
   "info.thermal.augment.attr.MachinePri": "기본 생산",
-  "info.thermal.augment.attr.MachinePower": "기본 충전량",
+  "info.thermal.augment.attr.MachinePower": "기본 처리속도",
   "info.thermal.augment.attr.MachineSec": "부차적 생산물",
   "info.thermal.augment.attr.MachineSpeed": "최대 충전량",
   "info.thermal.augment.attr.MachineXp": "경험치 배수",
