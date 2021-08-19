@@ -198,7 +198,7 @@
   "item.thermal.phytogro.desc": "매우 강력한 비료입니다.",
   "item.thermal.redprint": "적사진",
   "item.thermal.redprint.desc": "블록 간 설정을 복사 및 붙여넣기가 가능합니다.",
-  "item.thermal.wrench": "초승탈 망치",
+  "item.thermal.wrench": "초승달 망치",
   "item.thermal.wrench.desc": "대부분의 블록을 회전시킵니다. 그리고 렌치로 잘 알려져 있습니다.",
   "item.thermal.xp_crystal": "통찰력의 수정",
   "item.thermal.xp_crystal.desc": "경험치를 저장합니다.",
@@ -379,14 +379,14 @@
   "item.thermal.dynamo_force_coil_augment": "광선 투영 배열",
   "item.thermal.dynamo_steam_coil_augment": "증기 보일러 변환",
 
-  "item.thermal.dynamo_fuel_augment": "다중 순환 연료 분사기",
+  "item.thermal.dynamo_fuel_augment": "다중 순환 연료 주입기",
   "item.thermal.dynamo_fuel_augment.desc": "연료 효율을 증가시킵니다.",
   "item.thermal.dynamo_output_augment": "보조 리액션 챔버",
   "item.thermal.dynamo_output_augment.desc": "생산률을 증가시키지만, 연료 효율을 감소합니다.",
 
-  "item.thermal.fluid_tank_augment": "확장 탱크 구조",
+  "item.thermal.fluid_tank_augment": "확장 탱크 구조물",
 
-  "item.thermal.fluid_tank_creative_augment": "크리에이티브 탱크 구조",
+  "item.thermal.fluid_tank_creative_augment": "크리에이티브 탱크 구조물",
   "item.thermal.fluid_tank_creative_augment.desc": "액체 탱크가 무한이 됩니다.",
 
   "item.thermal.dual_filter_augment": "듀얼 필터",
@@ -399,7 +399,7 @@
   "item.thermal.machine_catalyst_augment": "촉매 재회수 챔버",
   "item.thermal.machine_catalyst_creative_augment": "크리에이티브 재회수 챔버",
   "item.thermal.machine_catalyst_creative_augment.desc": "촉매제를 소비하지 않습니다.",
-  "item.thermal.machine_cycle_augment": "순환 처리",
+  "item.thermal.machine_cycle_augment": "순환 처리 장치",
   "item.thermal.machine_cycle_augment.desc": "결과물을 입력 슬롯으로 전송합니다.",
   "item.thermal.machine_efficiency_augment": "플럭스 효율",
   "item.thermal.machine_efficiency_augment.desc": "RF소비 효율을 증가시키지만, 처리 속도가 감소합니다.",
@@ -446,11 +446,11 @@
 
   "block.thermal.device_collector": "아이템 흡입기",
   "block.thermal.device_fisher": "수생 포획기",
-  "block.thermal.device_hive_extractor": "호퍼 벌집",
+  "block.thermal.device_hive_extractor": "벌집 호퍼",
   "block.thermal.device_nullifier": "물체제거기",
   "block.thermal.device_potion_diffuser": "물약 확산기",
   "block.thermal.device_rock_gen": "화성암 생성기",
-  "block.thermal.device__infuser": "식물 토양 주입기",
+  "block.thermal.device_soil_infuser": "식물 토양 주입기",
   "block.thermal.device_tree_extractor": "관목 추출기",
   "block.thermal.device_water_gen": "물 축적기",
 
@@ -841,7 +841,7 @@
   "info.thermal.machine_furnace.2": "암냠냠.",
 
   "info.thermal.machine_insolator.0": "RF를 사용하여 영양과 빛을 식물에 주입합니다.",
-  "info.thermal.machine_insolator.1": "정확하게는 '유기농'은 아닙니다.",
+  "info.thermal.machine_insolator.1": "정확하게 '유기농'은 아닙니다.",
   "info.thermal.machine_insolator.2": "아름다운 백색조명!",
 
   "info.thermal.machine_press.0": "아이템을 압착하여 형태를 변환합니다.",
