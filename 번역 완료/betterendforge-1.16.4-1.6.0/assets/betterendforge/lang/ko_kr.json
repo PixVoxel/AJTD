@@ -23,6 +23,8 @@
     "block.betterendforge.salteago": "살티아고",  
 	"block.betterendforge.vaiolush_fern": "바이올루쉬 고사리",
 	"block.betterendforge.fracturn": "프렉턴",
+	"biome.betterendforge.dry_shrubland": "건조 관목지",
+	"biome.betterendforge.neon_oasis": "네온 오아시스",
 	"block.betterendforge.neon_cactus": "네온 선인장",
 	"block.betterendforge.neon_cactus_block": "네온 선인장 블록",
 	"block.betterendforge.neon_cactus_slab": "네온 선인장 반 블록",
@@ -49,7 +51,7 @@
 	"block.betterendforge.lucernia_log": "루체니아 원목",
 	"block.betterendforge.lucernia_outer_leaves": "루체니아 바깥 잎",
 	"block.betterendforge.lucernia_planks": "루체니아 판자",
-	"block.betterendforge.lucernia_plate": "루체니아 발판",
+	"block.betterendforge.lucernia_pressure_plate": "루체니아 압력판",
 	"block.betterendforge.lucernia_sapling": "루체니아 묘목",
 	"block.betterendforge.lucernia_sign": "루체니아 표지판",
 	"block.betterendforge.lucernia_slab": "루체니아 반 블록",
@@ -106,8 +108,6 @@
 	"biome.betterendforge.empty_smaragdant_cave": "빈 스마라단트 동굴",
 	"biome.betterendforge.lush_aurora_cave": "우거진 오로라 동굴",
 	"biome.betterendforge.lush_smaragdant_cave": "우거진 스마라단트 동굴",
-	"biome.betterendforge.dry_shrubland": "건조 관목지",
-	"biome.betterendforge.neon_oasis": "네온 오아시스",
 
 	"block.betterendforge.silk_moth_nest": "누에나방 둥지",
 	"entity.betterendforge.silk_moth": "누에나방",
@@ -224,7 +224,6 @@
 	"block.betterendforge.glowing_pillar_roots": "발광 기둥 뿌리",
 	"block.betterendforge.glowing_pillar_seed": "발광 기둥 씨앗",     
     "block.betterendforge.bulb_moss": "전구 이끼",
-	
 	
 	"item.betterendforge.eternal_crystal": "영원한 수정",
 	"item.betterendforge.crystal_shards": "수정 조각",
