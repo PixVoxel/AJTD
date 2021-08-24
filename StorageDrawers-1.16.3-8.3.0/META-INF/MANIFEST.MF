@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: StorageDrawers-1.16
+Implementation-Version: 1.16.3-8.3.0
+Specification-Vendor: Justin Aquadro
+Specification-Title: storagedrawers
+Implementation-Timestamp: 2021-07-27T00:47:38-0400
+Specification-Version: 1
+Implementation-Vendor: Justin Aquadro
+
