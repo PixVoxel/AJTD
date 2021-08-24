@@ -1,0 +1,27 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:bronze",
+    "results": [
+        {
+            "item": {
+                "tag": "forge:honeycombs/bronze"
+            }
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/bronze"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/bronze"
+            }
+        }
+    ]
+}

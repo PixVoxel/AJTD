@@ -1,0 +1,32 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:ender",
+    "parent2": "productivebees:coal",
+    "offspring": [
+        "productivebees:tungsten"
+    ],
+    "breeding_items": [
+        {
+            "tag": "forge:ender_pearls"
+        },
+        {
+            "item": "minecraft:coal"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/tungsten"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/tungsten"
+            }
+        }
+    ]
+}

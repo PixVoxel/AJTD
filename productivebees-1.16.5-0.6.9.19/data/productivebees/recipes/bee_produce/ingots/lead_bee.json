@@ -1,0 +1,27 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:lead",
+    "results": [
+        {
+            "item": {
+                "tag": "forge:honeycombs/leaden"
+            }
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/lead"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/lead"
+            }
+        }
+    ]
+}

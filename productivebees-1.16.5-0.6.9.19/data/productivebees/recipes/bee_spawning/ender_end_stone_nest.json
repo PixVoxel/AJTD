@@ -1,0 +1,14 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:end_stone_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:ender"
+        }
+    ],
+    "biomes": [
+        "the_end"
+    ]
+}

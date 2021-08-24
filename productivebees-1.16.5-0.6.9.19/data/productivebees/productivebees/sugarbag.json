@@ -1,0 +1,15 @@
+{
+    "primaryColor": "#000000",
+    "secondaryColor": "#6238757",
+    "particleColor": "#99bf02",
+    "beeTexture": "productivebees:textures/entity/bee/sugarbag/bee",
+    "flowerBlock": "minecraft:sugar_cane",
+    "createComb": false,
+    "renderer": "tiny",
+    "attributes": {
+        "temper": 0
+    },
+    "stingless": true,
+    "description": "This little warm and moist bee can bee found in tropical areas. It produces a special type of super delicious comb. It can find it's way into cocoa beans even when grown outside of their natural climate.",
+    "nestingPreference": "productivebees:nests/sugarbag_nests"
+}

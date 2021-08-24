@@ -1,0 +1,14 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:soul_sand_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:ghostly"
+        }
+    ],
+    "biomes": [
+        "nether"
+    ]
+}

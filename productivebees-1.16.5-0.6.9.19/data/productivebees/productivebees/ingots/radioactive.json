@@ -1,0 +1,22 @@
+{
+    "primaryColor": "#60AE11",
+    "secondaryColor": "#804f40",
+    "createComb": false,
+    "flowerTag": "productivebees:flowers/radioactive",
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/uranium"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "productivebees:flowers/radioactive"
+            }
+        }
+    ]
+}

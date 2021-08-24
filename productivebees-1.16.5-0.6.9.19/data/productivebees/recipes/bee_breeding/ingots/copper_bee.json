@@ -1,0 +1,32 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:crystalline",
+    "parent2": "productivebees:ashy_mining_bee",
+    "offspring": [
+        "productivebees:copper"
+    ],
+    "breeding_items": [
+        {
+            "tag": "forge:ingots/iron"
+        },
+        {
+            "tag": "forge:ingots/copper"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/copper"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/copper"
+            }
+        }
+    ]
+}

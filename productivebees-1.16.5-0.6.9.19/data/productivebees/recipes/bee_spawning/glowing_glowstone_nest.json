@@ -1,0 +1,14 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:glowstone_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:glowing"
+        }
+    ],
+    "biomes": [
+        "nether"
+    ]
+}
