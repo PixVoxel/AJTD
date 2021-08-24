@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: MekanismGenerators
+Implementation-Version: 10.0.21
+Specification-Vendor: Mekanism
+Specification-Title: MekanismGenerators
+Implementation-Timestamp: 2021-02-16T19:04:31+0000
+Specification-Version: 10.0.21
+Implementation-Vendor: Mekanism
+

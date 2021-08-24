@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+issueTrackerURL="https://github.com/mekanism/Mekanism/issues"
+license="MIT"
+
+[[mods]]
+    modId="mekanism"
+    version="10.0.21"
+    displayName="Mekanism"
+    displayURL="http://aidancbrady.com/mekanism/"
+    authors="Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+    credits="unpairedbracket, CyanideX and many others"
+    logoFile="logo.png"
+    description='''Mekanism is a Minecraft add-on featuring high-tech machinery that can be used to create powerful tools, armor, and weapons.'''
+
+[[dependencies.mekanism]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    side="BOTH"
+[[dependencies.mekanism]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.0.39,)"
+    side="BOTH"

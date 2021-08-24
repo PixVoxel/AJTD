@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+issueTrackerURL="https://github.com/mekanism/Mekanism/issues"
+license="MIT"
+
+[[mods]]
+    modId="mekanismadditions"
+    version="10.0.21"
+    displayName="Mekanism: Additions"
+    displayURL="http://aidancbrady.com/mekanism/"
+    authors="Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+    credits="unpairedbracket, CyanideX and many others"
+    logoFile="logo.png"
+    description='''Additions module for Mekanism, contains things that don't quite fit in the other modules.'''
+
+[[dependencies.mekanismadditions]]
+    modId="mekanism"
+    mandatory=true
+    versionRange="[10.0.21]"
+    side="BOTH"

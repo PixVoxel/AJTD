@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: JAOPCA-1.16.5
+Implementation-Version: 3.4.0.12
+Specification-Vendor: thelm
+Specification-Title: JAOPCA
+MixinConnector: thelm.jaopca.mixins.JAOPCAMixinConnector
+Specification-Version: 3
+Implementation-Vendor: thelm
+

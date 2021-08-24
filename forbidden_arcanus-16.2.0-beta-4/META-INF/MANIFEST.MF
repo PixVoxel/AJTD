@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Forbidden-Arcanus
+MixinConfigs: forbidden_arcanus.mixins.json
+Implementation-Version: 16.2.0-beta-4
+Specification-Vendor: forbidden_arcanus
+Specification-Title: Forbidden & Arcanus
+Implementation-Timestamp: 2021-06-05T12:07:25+0200
+Specification-Version: 1
+Implementation-Vendor: forbidden_arcanus
+

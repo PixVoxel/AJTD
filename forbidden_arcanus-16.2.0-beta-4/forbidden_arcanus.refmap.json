@@ -1,0 +1,36 @@
+{
+  "mappings": {
+    "com/stal111/forbidden_arcanus/mixin/WorldEntitySpawnerMixin": {
+      "Lnet/minecraft/entity/MobEntity;onInitialSpawn(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;": "Lnet/minecraft/entity/MobEntity;func_213386_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;",
+      "performWorldGenSpawning": "Lnet/minecraft/world/spawner/WorldEntitySpawner;func_77191_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/biome/Biome;IILjava/util/Random;)V"
+    },
+    "com/stal111/forbidden_arcanus/mixin/HeadLayerMixin": {
+      "Lnet/minecraft/client/renderer/model/ModelRenderer;translateRotate(Lcom/mojang/blaze3d/matrix/MatrixStack;)V": "Lnet/minecraft/client/renderer/model/ModelRenderer;func_228307_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V",
+      "render": "Lnet/minecraft/client/renderer/entity/layers/HeadLayer;func_225628_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/LivingEntity;FFFFFF)V"
+    },
+    "com/stal111/forbidden_arcanus/mixin/AccessorFireBlock": {
+      "setFireInfo": "func_180686_a(Lnet/minecraft/block/Block;II)V"
+    },
+    "com/stal111/forbidden_arcanus/mixin/ItemStackMixin": {
+      "attemptDamageItem": "Lnet/minecraft/item/ItemStack;func_96631_a(ILjava/util/Random;Lnet/minecraft/entity/player/ServerPlayerEntity;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/stal111/forbidden_arcanus/mixin/WorldEntitySpawnerMixin": {
+        "Lnet/minecraft/entity/MobEntity;onInitialSpawn(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;": "Lnet/minecraft/entity/MobEntity;func_213386_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;",
+        "performWorldGenSpawning": "Lnet/minecraft/world/spawner/WorldEntitySpawner;func_77191_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/biome/Biome;IILjava/util/Random;)V"
+      },
+      "com/stal111/forbidden_arcanus/mixin/HeadLayerMixin": {
+        "Lnet/minecraft/client/renderer/model/ModelRenderer;translateRotate(Lcom/mojang/blaze3d/matrix/MatrixStack;)V": "Lnet/minecraft/client/renderer/model/ModelRenderer;func_228307_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V",
+        "render": "Lnet/minecraft/client/renderer/entity/layers/HeadLayer;func_225628_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;ILnet/minecraft/entity/LivingEntity;FFFFFF)V"
+      },
+      "com/stal111/forbidden_arcanus/mixin/AccessorFireBlock": {
+        "setFireInfo": "func_180686_a(Lnet/minecraft/block/Block;II)V"
+      },
+      "com/stal111/forbidden_arcanus/mixin/ItemStackMixin": {
+        "attemptDamageItem": "Lnet/minecraft/item/ItemStack;func_96631_a(ILjava/util/Random;Lnet/minecraft/entity/player/ServerPlayerEntity;)Z"
+      }
+    }
+  }
+}

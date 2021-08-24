@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "thelm/jaopca/mixins/MinecraftServerMixin": {
+      "net/minecraft/resources/ResourcePackList.reloadPacksFromFinders()V": "Lnet/minecraft/resources/ResourcePackList;func_198983_a()V",
+      "func_240772_a_": "Lnet/minecraft/server/MinecraftServer;func_240772_a_(Lnet/minecraft/resources/ResourcePackList;Lnet/minecraft/util/datafix/codec/DatapackCodec;Z)Lnet/minecraft/util/datafix/codec/DatapackCodec;"
+    }
+  },
+  "data": {
+    "searge": {
+      "thelm/jaopca/mixins/MinecraftServerMixin": {
+        "net/minecraft/resources/ResourcePackList.reloadPacksFromFinders()V": "Lnet/minecraft/resources/ResourcePackList;func_198983_a()V",
+        "func_240772_a_": "Lnet/minecraft/server/MinecraftServer;func_240772_a_(Lnet/minecraft/resources/ResourcePackList;Lnet/minecraft/util/datafix/codec/DatapackCodec;Z)Lnet/minecraft/util/datafix/codec/DatapackCodec;"
+      }
+    }
+  }
+}
