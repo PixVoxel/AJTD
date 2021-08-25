@@ -1,0 +1,19 @@
+{
+    "name": "석탄 벌",
+    "icon": "minecraft:coal",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:coal",
+    "pages": [
+        {
+            "type": "text",
+            "title": "석탄 벌",
+            "text": "$(l:bees/hive/redstone)블레이즈 벌$(/l)과 $(l:bees/solitary/leafcutter)잎사귀 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "coal"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:coal'}"
+        }
+    ]
+}

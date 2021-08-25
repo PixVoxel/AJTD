@@ -1,0 +1,204 @@
+{
+    "name": "기타",
+    "icon": "productivebees:incubator",
+    "read_by_default": true,
+    "sortnum": 9,
+    "category": "productivebees:bees_modded",
+    "pages": [
+        {
+            "type": "text",
+            "title": "실리콘 벌",
+            "text": "$(l:bees/solitary/nomad)유목민 벌$(/l)과 $(l:bees/solitary/reed)갈대 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "silicon",
+            "flag": "productivebees:silicon"
+        },
+        {
+            "type": "entity",
+            "name": "실리콘 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:silicon'}",
+            "flag": "productivebees:silicon"
+        },
+        {
+            "type": "text",
+            "title": "플라스틱 벌",
+            "text": "$(l:bees/solitary/resin)수지 벌$(/l)과 $(l:bees/worker_bees#lumber)목재 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "plastic",
+            "flag": "productivebees:plastic"
+        },
+        {
+            "type": "entity",
+            "name": "플라스틱 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:plastic'}",
+            "flag": "productivebees:plastic"
+        },
+        {
+            "type": "text",
+            "title": "엔더 흑운모 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/wild/draconic)드라코닉 벌$(/l).$(br)을 교배하여 얻을 수 있습니다. 필요 모드: Quark",
+            "anchor": "ender_biotite",
+            "flag": "productivebees:ender_biotite"
+        },
+        {
+            "type": "entity",
+            "name": "엔더 흑운모 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ender_biotite'}",
+            "flag": "productivebees:ender_biotite"
+        },
+        {
+            "type": "text",
+            "title": "공간 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/wild/ender)엔더 벌$(/l)을 교배하여 얻을 수 있습니다.$(br2) 이 벌의 벌집 조각을 원심분리하여 추가 처리가 필요한 서투스 석영 씨앗을 얻을 수 있습니다.",
+            "anchor": "spacial",
+            "flag": "productivebees:spacial"
+        },
+        {
+            "type": "entity",
+            "name": "공간 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:spacial'}",
+            "flag": "productivebees:spacial"
+        },
+        {
+            "type": "text",
+            "title": "질산칼륨 벌",
+            "text": "$(l:bees/hive/coal)석탄 벌$(/l)과 $(l:bees/wild/magmatic)마그마틱 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "niter",
+            "flag": "productivebees:niter"
+        },
+        {
+            "type": "entity",
+            "name": "질산칼륨 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:niter'}",
+            "flag": "productivebees:niter"
+        },
+        {
+            "type": "text",
+            "title": "황 벌",
+            "text": "$(l:bees/hive/coal)석탄 벌$(/l)과 $(l:bees/hive/creeper)크리벌(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "sulfur",
+            "flag": "productivebees:sulfur"
+        },
+        {
+            "type": "entity",
+            "name": "황 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:sulfur'}",
+            "flag": "productivebees:sulfur"
+        },
+        {
+            "type": "text",
+            "title": "아케인 벌",
+            "text": "교배로는 얻을 수 없지만 마법 부여 장치에 $(l:bees/hive/diamond)다이아몬드 벌$(/l) 생성 알을 사용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "arcane",
+            "flag": "productivebees:arcane"
+        },
+        {
+            "type": "entity",
+            "name": "아케인 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:arcane'}",
+            "flag": "productivebees:arcane"
+        },
+        {
+            "type": "text",
+            "title": "스타메탈 벌",
+            "text": "교배로는 얻을 수 없지만 별빛 주입기에 $(l:bees/hive/iron)철 벌$(/l) 생성 알을 이용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "starmetal",
+            "flag": "productivebees:starmetal"
+        },
+        {
+            "type": "entity",
+            "name": "스타메탈 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:starmetal'}",
+            "flag": "productivebees:starmetal"
+        },
+        {
+            "type": "text",
+            "title": "피의 벌",
+            "text": "교배로는 얻을 수 없지만 $(l:bees/solitary/nomad)유목민 벌$(/l) 생성 알을 이용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "bloody",
+            "flag": "productivebees:bloody"
+        },
+        {
+            "type": "entity",
+            "name": "피의 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:bloody'}",
+            "flag": "productivebees:bloody"
+        },
+        {
+            "type": "text",
+            "title": "분홍 슬라임 벌",
+            "text": "$(l:bees/wild/slimy)슬라임 벌$(/l)에게 분홍 슬라임을 먹여 변환시킬 수 있습니다.",
+            "anchor": "pink_slimy",
+            "flag": "productivebees:pink_slimy"
+        },
+        {
+            "type": "entity",
+            "name": "분홍 슬라임 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:pink_slimy'}",
+            "flag": "productivebees:pink_slimy"
+        },
+        {
+            "type": "text",
+            "title": "멘릴 벌",
+            "text": "$(l:bees/solitary/neon_cuckoo)다이아몬드 벌$(/l)과 $(l:bees/wild/crystalline)결정화 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "menril",
+            "flag": "productivebees:menril"
+        },
+        {
+            "type": "entity",
+            "name": "멘릴 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:menril'}",
+            "flag": "productivebees:menril"
+        },
+        {
+            "type": "text",
+            "title": "우라나이트 벌",
+            "text": "$(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/bees/hive/creeper)크리벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "uraninite",
+            "flag": "productivebees:uraninite"
+        },
+        {
+            "type": "entity",
+            "name": "우라나이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:uraninite'}",
+            "flag": "productivebees:uraninite"
+        },
+        {
+            "type": "text",
+            "title": "올테모디움 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)과 $(l:bees/hive/withered)위더 해골 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "allthemodium",
+            "flag": "productivebees:allthemodium"
+        },
+        {
+            "type": "entity",
+            "name": "올테모디움 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:allthemodium'}",
+            "flag": "productivebees:allthemodium"
+        },
+        {
+            "type": "text",
+            "title": "비브라늄 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)과 $(l:bees/wild/draconic)드라코닉 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "vibranium",
+            "flag": "productivebees:vibranium"
+        },
+        {
+            "type": "entity",
+            "name": "비브라늄 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:vibranium'}",
+            "flag": "productivebees:vibranium"
+        },
+        {
+            "type": "text",
+            "title": "언옵티늄 벌",
+            "text": "$(l:bees/mod_bees#allthemodium)올테모디움 벌$(/l)과 $(l:bees/mod_bees#vibranium)비브라늄 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "unobtainium",
+            "flag": "productivebees:unobtainium"
+        },
+        {
+            "type": "entity",
+            "name": "언옵티늄 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:unobtainium'}",
+            "flag": "productivebees:unobtainium"
+        }
+    ]
+}

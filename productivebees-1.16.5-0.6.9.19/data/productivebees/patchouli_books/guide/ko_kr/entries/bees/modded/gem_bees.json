@@ -1,0 +1,679 @@
+{
+    "name": "보석 벌",
+    "icon": "minecraft:diamond",
+    "read_by_default": true,
+    "sortnum": 2,
+    "category": "productivebees:bees_modded",
+    "pages": [
+        {
+            "type": "text",
+            "text": "보석들을 추가해주는 모드라면, 대부분은 해당 벌도 찾을 수 있습니다."
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        },
+        {
+            "type": "text",
+            "title": "마노 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 마노 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "agate",
+            "flag": "productivebees:agate"
+        },
+        {
+            "type": "entity",
+            "name": "마노 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:agate'}",
+            "flag": "productivebees:agate"
+        },
+        {
+            "type": "text",
+            "title": "알렉산더 보석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 알렉산더 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "alexandrite",
+            "flag": "productivebees:alexandrite"
+        },
+        {
+            "type": "entity",
+            "name": "알렉산더 보석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:alexandrite'}",
+            "flag": "productivebees:alexandrite"
+        },
+        {
+            "type": "text",
+            "title": "호박 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 호박 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "amber",
+            "flag": "productivebees:amber"
+        },
+        {
+            "type": "entity",
+            "name": "호박 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:amber'}",
+            "flag": "productivebees:amber"
+        },
+        {
+            "type": "text",
+            "title": "자수정 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 자수정 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "amethyst",
+            "flag": "productivebees:amethyst"
+        },
+        {
+            "type": "entity",
+            "name": "자수정 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:amethyst'}",
+            "flag": "productivebees:amethyst"
+        },
+        {
+            "type": "text",
+            "title": "자수정 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 자수정 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "ametrine",
+            "flag": "productivebees:ametrine"
+        },
+        {
+            "type": "entity",
+            "name": "자수정 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ametrine'}",
+            "flag": "productivebees:ametrine"
+        },
+        {
+            "type": "text",
+            "title": "암모라이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 암모라이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "ammolite",
+            "flag": "productivebees:ammolite"
+        },
+        {
+            "type": "entity",
+            "name": "암모라이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ammolite'}",
+            "flag": "productivebees:ammolite"
+        },
+        {
+            "type": "text",
+            "title": "인회석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 인회석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "apatite",
+            "flag": "productivebees:apatite"
+        },
+        {
+            "type": "entity",
+            "name": "인회석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:apatite'}",
+            "flag": "productivebees:apatite"
+        },
+        {
+            "type": "text",
+            "title": "아쿠아마린 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 아쿠아마린 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "aquamarine",
+            "flag": "productivebees:aquamarine"
+        },
+        {
+            "type": "entity",
+            "name": "아쿠아마린 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:aquamarine'}",
+            "flag": "productivebees:aquamarine"
+        },
+        {
+            "type": "text",
+            "title": "베니토이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 베니토이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "benitoite",
+            "flag": "productivebees:benitoite"
+        },
+        {
+            "type": "entity",
+            "name": "베니토이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:benitoite'}",
+            "flag": "productivebees:benitoite"
+        },
+        {
+            "type": "text",
+            "title": "검은 다이아몬드 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 검은 다이아몬드 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "black_diamond",
+            "flag": "productivebees:black_diamond"
+        },
+        {
+            "type": "entity",
+            "name": "검은 다이아몬드 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:black_diamond'}",
+            "flag": "productivebees:black_diamond"
+        },
+        {
+            "type": "text",
+            "title": "검은 오팔 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 검은 오팔 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "black_opal",
+            "flag": "productivebees:black_opal"
+        },
+        {
+            "type": "entity",
+            "name": "검은 오팔 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:black_opal'}",
+            "flag": "productivebees:black_opal"
+        },
+        {
+            "type": "text",
+            "title": "홍옥 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 홍옥 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "carnelian",
+            "flag": "productivebees:carnelian"
+        },
+        {
+            "type": "entity",
+            "name": "홍옥 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:carnelian'}",
+            "flag": "productivebees:carnelian"
+        },
+        {
+            "type": "text",
+            "title": "캣츠 아이 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 캣츠 아이 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "cats_eye",
+            "flag": "productivebees:cats_eye"
+        },
+        {
+            "type": "entity",
+            "name": "캣츠 아이 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:cats_eye'}",
+            "flag": "productivebees:cats_eye"
+        },
+        {
+            "type": "text",
+            "title": "크리소프레이즈 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 크리소프레이즈 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "chrysoprase",
+            "flag": "productivebees:chrysoprase"
+        },
+        {
+            "type": "entity",
+            "name": "크리소프레이즈 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:chrysoprase'}",
+            "flag": "productivebees:chrysoprase"
+        },
+        {
+            "type": "text",
+            "title": "진사 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 진사 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "cinnabar",
+            "flag": "productivebees:cinnabar"
+        },
+        {
+            "type": "entity",
+            "name": "진사 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:cinnabar'}",
+            "flag": "productivebees:cinnabar"
+        },
+        {
+            "type": "text",
+            "title": "황수정 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 황수정 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "citrine",
+            "flag": "productivebees:citrine"
+        },
+        {
+            "type": "entity",
+            "name": "황수정 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:citrine'}",
+            "flag": "productivebees:citrine"
+        },
+        {
+            "type": "text",
+            "title": "산호 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 산호 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "coral",
+            "flag": "productivebees:coral"
+        },
+        {
+            "type": "entity",
+            "name": "산호 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:coral'}",
+            "flag": "productivebees:coral"
+        },
+        {
+            "type": "text",
+            "title": "유클라제 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 유클라제 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "euclase",
+            "flag": "productivebees:euclase"
+        },
+        {
+            "type": "entity",
+            "name": "유클라제 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:euclase'}",
+            "flag": "productivebees:euclase"
+        },
+        {
+            "type": "text",
+            "title": "형석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 형석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "fluorite",
+            "flag": "productivebees:fluorite"
+        },
+        {
+            "type": "entity",
+            "name": "형석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:fluorite'}",
+            "flag": "productivebees:fluorite"
+        },
+        {
+            "type": "text",
+            "title": "석류석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 석류석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "garnet",
+            "flag": "productivebees:garnet"
+        },
+        {
+            "type": "entity",
+            "name": "석류석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:garnet'}",
+            "flag": "productivebees:garnet"
+        },
+        {
+            "type": "text",
+            "title": "초록 사파이어 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 초록 사파이어 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "green_sapphire",
+            "flag": "productivebees:green_sapphire"
+        },
+        {
+            "type": "entity",
+            "name": "초록 사파이어 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:green_sapphire'}",
+            "flag": "productivebees:green_sapphire"
+        },
+        {
+            "type": "text",
+            "title": "헬리오도르 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 헬리오도르 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "heliodor",
+            "flag": "productivebees:heliodor"
+        },
+        {
+            "type": "entity",
+            "name": "헬리오도르 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:heliodor'}",
+            "flag": "productivebees:heliodor"
+        },
+        {
+            "type": "text",
+            "title": "아이오라이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 아이오라이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "iolite",
+            "flag": "productivebees:iolite"
+        },
+        {
+            "type": "entity",
+            "name": "아이오라이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:iolite'}",
+            "flag": "productivebees:iolite"
+        },
+        {
+            "type": "text",
+            "title": "옥 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 옥 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "jade",
+            "flag": "productivebees:jade"
+        },
+        {
+            "type": "entity",
+            "name": "옥 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:jade'}",
+            "flag": "productivebees:jade"
+        },
+        {
+            "type": "text",
+            "title": "벽옥 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 벽옥 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "jasper",
+            "flag": "productivebees:jasper"
+        },
+        {
+            "type": "entity",
+            "name": "벽옥 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:jasper'}",
+            "flag": "productivebees:jasper"
+        },
+        {
+            "type": "text",
+            "title": "쿤자이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 쿤자이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "kunzite",
+            "flag": "productivebees:kunzite"
+        },
+        {
+            "type": "entity",
+            "name": "쿤자이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:kunzite'}",
+            "flag": "productivebees:kunzite"
+        },
+        {
+            "type": "text",
+            "title": "카야나이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 카야나이트 보석을 사용하여 변환시킬 수 있습니다.
+            "flag": "productivebees:kyanite"
+        },
+        {
+            "type": "entity",
+            "name": "카야나이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:kyanite'}",
+            "flag": "productivebees:kyanite"
+        },
+        {
+            "type": "text",
+            "title": "나비석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 나비석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "lepidolite",
+            "flag": "productivebees:lepidolite"
+        },
+        {
+            "type": "entity",
+            "name": "나비석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:lepidolite'}",
+            "flag": "productivebees:lepidolite"
+        },
+        {
+            "type": "text",
+            "title": "공작석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 공작석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "malachite",
+            "flag": "productivebees:malachite"
+        },
+        {
+            "type": "entity",
+            "name": "공작석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:malachite'}",
+            "flag": "productivebees:malachite"
+        },
+        {
+            "type": "text",
+            "title": "몰다바이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 몰다바이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "moldavite",
+            "flag": "productivebees:moldavite"
+        },
+        {
+            "type": "entity",
+            "name": "몰다바이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:moldavite'}",
+            "flag": "productivebees:moldavite"
+        },
+        {
+            "type": "text",
+            "title": "월석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 월석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "moonstone",
+            "flag": "productivebees:moonstone"
+        },
+        {
+            "type": "entity",
+            "name": "월석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:moonstone'}",
+            "flag": "productivebees:moonstone"
+        },
+        {
+            "type": "text",
+            "title": "모르가나이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 모르가나이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "morganite",
+            "flag": "productivebees:morganite"
+        },
+        {
+            "type": "entity",
+            "name": "모르가나이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:morganite'}",
+            "flag": "productivebees:morganite"
+        },
+        {
+            "type": "text",
+            "title": "오닉스 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 오닉스 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "onyx",
+            "flag": "productivebees:onyx"
+        },
+        {
+            "type": "entity",
+            "name": "오닉스 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:onyx'}",
+            "flag": "productivebees:onyx"
+        },
+        {
+            "type": "text",
+            "title": "오팔 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 오팔 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "opal",
+            "flag": "productivebees:opal"
+        },
+        {
+            "type": "entity",
+            "name": "오팔 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:opal'}",
+            "flag": "productivebees:opal"
+        },
+        {
+            "type": "text",
+            "title": "진주 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 진주 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "pearl",
+            "flag": "productivebees:pearl"
+        },
+        {
+            "type": "entity",
+            "name": "진주 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:pearl'}",
+            "flag": "productivebees:pearl"
+        },
+        {
+            "type": "text",
+            "title": "감람석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 감람석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "peridot",
+            "flag": "productivebees:peridot"
+        },
+        {
+            "type": "entity",
+            "name": "감람석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:peridot'}",
+            "flag": "productivebees:peridot"
+        },
+        {
+            "type": "text",
+            "title": "포스포필라이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 포스포필라이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "phosphophyllite",
+            "flag": "productivebees:phosphophyllite"
+        },
+        {
+            "type": "entity",
+            "name": "포스포필라이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:phosphophyllite'}",
+            "flag": "productivebees:phosphophyllite"
+        },
+        {
+            "type": "text",
+            "title": "파이로프 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 파이로프 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "pyrope",
+            "flag": "productivebees:pyrope"
+        },
+        {
+            "type": "entity",
+            "name": "파이로프 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:pyrope'}",
+            "flag": "productivebees:pyrope"
+        },
+        {
+            "type": "text",
+            "title": "로즈 쿼츠 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 로즈 쿼츠 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "rose_quartz",
+            "flag": "productivebees:rose_quartz"
+        },
+        {
+            "type": "entity",
+            "name": "로즈 쿼츠 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:rose_quartz'}",
+            "flag": "productivebees:rose_quartz"
+        },
+        {
+            "type": "text",
+            "title": "루비 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 루비 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "ruby",
+            "flag": "productivebees:ruby"
+        },
+        {
+            "type": "entity",
+            "name": "루비 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:ruby'}",
+            "flag": "productivebees:ruby"
+        },
+        {
+            "type": "text",
+            "title": "사파이어 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 사파이어 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "sapphire",
+            "flag": "productivebees:sapphire"
+        },
+        {
+            "type": "entity",
+            "name": "사파이어 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:sapphire'}",
+            "flag": "productivebees:sapphire"
+        },
+        {
+            "type": "text",
+            "title": "소달라이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 소달라이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "sodalite",
+            "flag": "productivebees:sodalite"
+        },
+        {
+            "type": "entity",
+            "name": "소달라이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:sodalite'}",
+            "flag": "productivebees:sodalite"
+        },
+        {
+            "type": "text",
+            "title": "스피넬 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 스피넬 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "spinel",
+            "flag": "productivebees:spinel"
+        },
+        {
+            "type": "entity",
+            "name": "스피넬 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:spinel'}",
+            "flag": "productivebees:spinel"
+        },
+        {
+            "type": "text",
+            "title": "일석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 일석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "sunstone",
+            "flag": "productivebees:sunstone"
+        },
+        {
+            "type": "entity",
+            "name": "일석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:sunstone'}",
+            "flag": "productivebees:sunstone"
+        },
+        {
+            "type": "text",
+            "title": "탄자나이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 탄자나이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "tanzanite",
+            "flag": "productivebees:tanzanite"
+        },
+        {
+            "type": "entity",
+            "name": "탄자나이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tanzanite'}",
+            "flag": "productivebees:tanzanite"
+        },
+        {
+            "type": "text",
+            "title": "텍타이트 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 텍타이트 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "tektite",
+            "flag": "productivebees:tektite"
+        },
+        {
+            "type": "entity",
+            "name": "텍타이트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tektite'}",
+            "flag": "productivebees:tektite"
+        },
+        {
+            "type": "text",
+            "title": "황옥 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 황옥 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "topaz",
+            "flag": "productivebees:topaz"
+        },
+        {
+            "type": "entity",
+            "name": "황옥 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:topaz'}",
+            "flag": "productivebees:topaz"
+        },
+        {
+            "type": "text",
+            "title": "전기석 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 전기석 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "tourmaline",
+            "flag": "productivebees:tourmaline"
+        },
+        {
+            "type": "entity",
+            "name": "전기석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tourmaline'}",
+            "flag": "productivebees:tourmaline"
+        },
+        {
+            "type": "text",
+            "title": "터키 옥 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 터키 옥 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "turquoise",
+            "flag": "productivebees:turquoise"
+        },
+        {
+            "type": "entity",
+            "name": "터키 옥 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:turquoise'}",
+            "flag": "productivebees:turquoise"
+        },
+        {
+            "type": "text",
+            "title": "노란 다이아몬드 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 노란 다이아몬드 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "yellow_diamond",
+            "flag": "productivebees:yellow_diamond"
+        },
+        {
+            "type": "entity",
+            "name": "노란 다이아몬드 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:yellow_diamond'}",
+            "flag": "productivebees:yellow_diamond"
+        },
+        {
+            "type": "text",
+            "title": "지르콘 벌",
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 지르콘 보석을 사용하여 변환시킬 수 있습니다.",
+            "anchor": "zircon",
+            "flag": "productivebees:zircon"
+        },
+        {
+            "type": "entity",
+            "name": "지르콘 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:zircon'}",
+            "flag": "productivebees:zircon"
+        }
+    ]
+}

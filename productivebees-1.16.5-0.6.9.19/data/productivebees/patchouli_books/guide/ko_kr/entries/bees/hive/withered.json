@@ -1,0 +1,19 @@
+{
+    "name": "위더 해골 벌",
+    "icon": "productivebees:wither_skull_chip",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:withered",
+    "pages": [
+        {
+            "type": "text",
+            "title": "위더 해골 벌",
+            "text": "$(l:bees/hive/skeletal)해골 벌$(/l)에게 위더 장미를 먹여 얻을 수 있습니다.",
+            "anchor": "withered"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:withered'}"
+        }
+    ]
+}

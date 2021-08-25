@@ -1,0 +1,57 @@
+{
+    "name": "Thermal",
+    "icon": "thermal:machine_chiller",
+    "read_by_default": true,
+    "sortnum": 8,
+    "category": "productivebees:bees_modded",
+    "flag": "mod:thermal",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Thermal모드의 벌입니다. 특별 재료의 벌만 보이며 구리나 주석같은 일반 재료는 $(l:bees/modded/ingot_bees)주괴 벌 목록$(/l)을 확인하세요."
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        },
+        {
+            "type": "text",
+            "title": "바살즈 벌",
+            "text": "교배로는 얻을 수 없고 $(l:bees/hive/blazing)블레이즈 벌$(/l)생성 알과 유도 용광로를 사용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "basalz",
+            "flag": "productivebees:basalz"
+        },
+        {
+            "type": "entity",
+            "name": "바살즈 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:basalz'}",
+            "flag": "productivebees:basalz"
+        },
+        {
+            "type": "text",
+            "title": "블리츠 벌",
+            "text": "교배로는 얻을 수 없고 $(l:bees/hive/blazing)블레이즈 벌$(/l)생성 알과 유도 용광로를 사용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "blitz",
+            "flag": "productivebees:blitz"
+        },
+        {
+            "type": "entity",
+            "name": "블리츠 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:blitz'}",
+            "flag": "productivebees:blitz"
+        },
+        {
+            "type": "text",
+            "title": "블리즈 벌",
+            "text": "교배로는 얻을 수 없고 $(l:bees/hive/blazing)블레이즈 벌$(/l)생성 알과 급속 냉동기를 사용하여 생성 알을 만들 수 있습니다.",
+            "anchor": "blizz",
+            "flag": "productivebees:blizz"
+        },
+        {
+            "type": "entity",
+            "name": "블리즈 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:blizz'}",
+            "flag": "productivebees:blizz"
+        }
+    ]
+}

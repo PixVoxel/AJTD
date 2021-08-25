@@ -1,0 +1,19 @@
+{
+    "name": "흑요석 벌",
+    "icon": "minecraft:obsidian",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:obsidian",
+    "pages": [
+        {
+            "type": "text",
+            "title": "흑요석 벌",
+            "text": "$(l:bees/wild/magmatic)마그마틱 벌$(/l)과 $(l:bees/solitary/sweat)스위트 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "obsidian"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:obsidian'}"
+        }
+    ]
+}
