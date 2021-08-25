@@ -1,17 +1,17 @@
 {
-    "name": "Bee Cage",
+    "name": "벌 우리",
     "icon": "productivebees:bee_cage",
     "category": "productivebees:items",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:bee_cage",
-            "text": "A bee cage can be used to capture bees for storing or for transport. To catch a bee simply right click the bee with the cage. Right click the filled cage on the ground to release the bee again.$(br2)Make sure to always keep a few cages on you when travelling in case you come across an interesting bee."
+            "text": "벌 우리는 저장 또는 운송을 위해 벌을 포획하는 데 사용됩니다. 벌을 잡으려면 우리를 들고 우클릭하기만 하면 됩니다. 채워진 우리를 들고 땅에 우클릭하여 다시 풀어줍니다.$(br2)여행 도중에 흥미로운 꿀벌을 만날 가능성이 있으므로 항상 여분의 우리를 휴대하시는것이 좋습니다."
         },
         {
             "type": "crafting",
             "recipe": "productivebees:bee_cage",
-            "text": "Easy to get early in the game"
+            "text": "게임 초반에 쉽게 얻을 수 있습니다."
         }
     ]
 }

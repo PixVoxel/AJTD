@@ -1,5 +1,5 @@
 {
-    "name": "Chocolate Mining Bee",
+    "name": "초콜릿색 광산 벌",
     "icon": "productivebees:spawn_egg_chocolate_mining_bee",
     "read_by_default": true,
     "sortnum": 5,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "title": "Chocolate Mining Bee",
+            "title": "초콜릿색 광산 벌",
             "text": "[Andrena scotica]",
             "anchor": "chocolate_mining"
         },

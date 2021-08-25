@@ -1,5 +1,5 @@
 {
-    "name": "Quarry Bee",
+    "name": "채석장 벌",
     "icon": "minecraft:wooden_pickaxe",
     "read_by_default": true,
     "sortnum": 4,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Quarry Bee",
-            "text": "Nibble on nearby stone, sand or gravel and collects stone chips in its hive. Stone chips can be crafted into its counterpart block."
+            "title": "채석장 벌",
+            "text": "근처에 있는 돌, 모래, 자갈을 갉아먹어 벌통에 돌 칩을 모읍니다. 돌 칩은 조합하여 해당되는 블록으로 제작할 수 있습니다."
         },
         {
             "type": "entity",

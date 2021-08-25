@@ -159,7 +159,7 @@
         {
             "type": "text",
             "title": "니켈 벌",
-            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)스위트 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)습기 벌$(/l)을 교배하여 얻을 수 있습니다.",
             "anchor": "nickel",
             "flag": "productivebees:nickel"
         },
@@ -289,7 +289,7 @@
         {
             "type": "text",
             "title": "아연 벌",
-            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)스위트 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)습기 벌$(/l)을 교배하여 얻을 수 있습니다.",
             "anchor": "zinc",
             "flag": "productivebees:zinc"
         },

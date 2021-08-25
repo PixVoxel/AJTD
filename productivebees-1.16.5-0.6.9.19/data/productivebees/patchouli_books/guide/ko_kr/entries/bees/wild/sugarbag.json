@@ -1,13 +1,13 @@
 {
-    "name": "Sugarbag Bee",
+    "name": "설탕주머니 벌",
     "icon": "minecraft:cocoa_beans",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Sugarbag Bee",
-            "text": "This little warm and moist bee can bee found in tropical areas. It produces a special type of super delicious comb.$(br)It can find it's way into cocoa beans even when grown outside of their natural climate.",
+            "title": "설탕주머니 벌",
+            "text": "이 작고 따듯하면서 촉촉한 벌은 열대 지역에서 발견할 수 있습니다. 이 벌은 특별히 엄청 맛있는 벌집 조각을 생산해냅니다.$(br)이 자연적인 기후 이상 속에서도 그들만의 방식으로 코코아 콩을 찾아냅니다.",
             "anchor": "sugarbag"
         },
         {

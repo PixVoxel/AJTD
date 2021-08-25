@@ -1,5 +1,5 @@
 {
-    "name": "Digger Bee",
+    "name": "땅파기 벌",
     "icon": "productivebees:spawn_egg_digger_bee",
     "read_by_default": true,
     "sortnum": 6,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "title": "Digger Bee",
+            "title": "땅파기 벌",
             "text": "[Anthophora urbana]",
             "anchor": "digger"
         },

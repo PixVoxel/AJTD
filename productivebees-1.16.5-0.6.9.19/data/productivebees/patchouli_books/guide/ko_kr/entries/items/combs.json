@@ -1,11 +1,11 @@
 {
-    "name": "Combs",
+    "name": "벌집 조각",
     "icon": "minecraft:honeycomb",
     "category": "productivebees:items",
     "pages": [
         {
             "type": "text",
-            "text": "Bees living in advanced beehives will produce resource combs which can be put into a centrifuge to extract resources.$(br)Combs can also be compressed into comb blocks for easier storage."
+            "text": "고급 벌통에 사는 벌들은 원심분리기에 넣어 자원을 추출할 수 있는 자원 벌집 조각을 생산합니다.$(br)벌집 조각은 더 쉽게 보관할 수 있도록 벌집 조각 블록으로 압축할 수도 있습니다."
         }
     ]
 }

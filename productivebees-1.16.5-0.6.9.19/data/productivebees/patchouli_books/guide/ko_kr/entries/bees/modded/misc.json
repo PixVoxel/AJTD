@@ -21,7 +21,7 @@
         {
             "type": "text",
             "title": "플라스틱 벌",
-            "text": "$(l:bees/solitary/resin)수지 벌$(/l)과 $(l:bees/worker_bees#lumber)목재 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "text": "$(l:bees/solitary/resin)수지 벌$(/l)과 $(l:bees/worker_bees#lumber)나무꾼 벌$(/l)을 교배하여 얻을 수 있습니다.",
             "anchor": "plastic",
             "flag": "productivebees:plastic"
         },

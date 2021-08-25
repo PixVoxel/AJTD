@@ -1,13 +1,13 @@
 {
-    "name": "Ender Bee",
+    "name": "엔더 벌",
     "icon": "minecraft:ender_pearl",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
     "pages": [
         {
             "type": "text",
-            "title": "Ender Bee",
-            "text": "Found living in end stone nests on end islands. Ender Bees prefer pollinating the locally flora of chorus plants.",
+            "title": "엔더 벌",
+            "text": "엔드 섬을 구성하는 엔드 돌로 되어있는 둥지에서 찾을 수 있습니다. 엔더 벌은 현지 식물의 꽃인 후렴화에서 수분하는 것을 선호합니다.",
             "anchor": "ender"
         },
         {

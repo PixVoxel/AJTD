@@ -1,5 +1,5 @@
 {
-    "name": "Blue Banded Bee",
+    "name": "파란 줄무늬 벌",
     "icon": "productivebees:spawn_egg_blue_banded_bee",
     "read_by_default": true,
     "sortnum": 2,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "title": "Blue Banded Bee",
+            "title": "파란 줄무늬 벌",
             "text": "[Amegilla cingulata]",
             "anchor": "blue_banded"
         },

@@ -1,5 +1,5 @@
 {
-    "name": "CuBee",
+    "name": "큐피트 벌",
     "icon": "minecraft:arrow",
     "read_by_default": true,
     "sortnum": 7,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "CuBee",
-            "text": "The pheromones secreted from this bee gets animals in the mood."
+            "title": "큐피트 벌",
+            "text": "이 벌에서 분비되는 페로몬은 동물들을 기분 좋게 만들어줍니다."
         },
         {
             "type": "entity",

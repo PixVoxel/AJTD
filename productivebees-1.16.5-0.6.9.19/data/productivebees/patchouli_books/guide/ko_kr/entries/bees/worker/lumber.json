@@ -1,5 +1,5 @@
 {
-    "name": "Lumber Bee",
+    "name": "나무꾼 벌",
     "icon": "minecraft:wooden_axe",
     "read_by_default": true,
     "sortnum": 3,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Lumber Bee",
-            "text": "Nibble on nearby wood and collects wood chips in its hive. Wood chips can be crafted into logs."
+            "title": "나무꾼 벌",
+            "text": "근처에 있는 나무를 갉아먹어 벌통에 나무 칩을 모읍니다. 나무 칩은 조합하여 원목으로 제작할 수 있습니다."
         },
         {
             "type": "entity",

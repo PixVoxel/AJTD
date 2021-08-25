@@ -1,5 +1,5 @@
 {
-    "name": "Hoarder Bee",
+    "name": "호더 벌",
     "icon": "minecraft:shulker_shell",
     "read_by_default": true,
     "sortnum": 5,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Hoarder Bee",
-            "text": "Collects items on the ground and puts them in its hive.$(br)Combine with the farmer bee for an automated farm."
+            "title": "호더 벌",
+            "text": "바닥에 있는 아이템을 모아 벌통에 넣어둡니다.$(br)농부 벌과 결합하여 자동 농장을 구성할 수 있습니다."
         },
         {
             "type": "entity",

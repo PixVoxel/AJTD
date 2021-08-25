@@ -1,12 +1,12 @@
 {
-    "name": "Bee Jar",
+    "name": "벌 단지",
     "icon": "productivebees:jar_oak",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:jar_oak",
-            "text": "Show your bee collection to the world with this fancy glass container perfectly suited to hold a bee. Use a hopper or pipe to insert a $(l:items/bee_cage)bee cage$(/l) containing a bee of your choosing."
+            "text": "벌을 담기에 완벽한 이 멋진 유리용기로 당신의 꿀벌 수집품을 세상에 보여주세요! 호퍼나 파이프 블록을 사용하여 전시할 벌이 들어있는 $(l:items/bee_cage)벌 우리$(/l)를 단지에 집어넣으세요."
         }
     ]
 }

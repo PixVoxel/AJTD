@@ -1,15 +1,15 @@
 {
-    "name": "Collecting Genes",
+    "name": "유전자 모으기",
     "icon": "productivebees:gene",
     "category": "productivebees:genetics",
     "pages": [
         {
             "type": "text",
-            "text": "The bottler together with a piston can be used to bottle up bees. Place a bee in the middle and pull the lever. Make sure the bottler has empty bottles inside. Throw the bottled bee in a centrifuge to separate the useful stuff from the junk."
+            "text": "병을 피스톤과 함께 사용하여 벌을 병에 담을 수 있습니다. 옆 그림과 같이 설치한 뒤 가운데에 벌을 놓고 레버를 당겨 피스톤을 작동시키세요. 보틀러 안에 빈 병이 있는지 반드시 확인하셔야합니다. 병이 든 벌을 원심 분리기에 넣어 유용한 물질과 찌꺼기를 분리하세요."
         },
         {
             "type": "multiblock",
-            "name": "Bee Bottler",
+            "name": "벌 보틀러",
             "multiblock": {
                 "mapping": {
                     "P": "minecraft:piston[facing=down]",

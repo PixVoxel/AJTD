@@ -1,12 +1,12 @@
 {
-    "name": "Honey Generator",
+    "name": "꿀 발전기",
     "icon": "productivebees:honey_generator",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:honey_generator",
-            "text": "Burns honey to produce power. Honey can be piped in or honey bottles, blocks and buckets can be added in the GUI"
+            "text": "꿀을 소비하여 전력을 생산합니다. 꿀은 파이프 블록, 꿀병, 양동이 등의 수단으로 채워넣을 수 있고 GUI로 확인할 수 있습니다."
         }
     ]
 }

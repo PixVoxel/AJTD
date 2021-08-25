@@ -1,5 +1,5 @@
 {
-    "name": "Crystalline Bee",
+    "name": "결정화 벌",
     "icon": "minecraft:quartz",
     "read_by_default": true,
     "category": "productivebees:bees_wild",
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Crystalline Bee",
-            "text": "Found living in nether quartz nests in the nether. Crystalline Bees prefer pollinating something containing or made from nether quartz..",
+            "title": "결정화 벌",
+            "text": "네더의 네더 석영 둥지에서 발견할 수 있습니다. 결정화 벌은 네더 석영으로 이루어진 것에서 수분하는 것을 선호합니다..",
             "anchor": "crystalline"
         },
         {

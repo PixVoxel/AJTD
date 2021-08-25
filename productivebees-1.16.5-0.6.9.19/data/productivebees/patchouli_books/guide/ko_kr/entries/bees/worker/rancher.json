@@ -1,5 +1,5 @@
 {
-    "name": "Rancher Bee",
+    "name": "목장 벌",
     "icon": "minecraft:milk_bucket",
     "read_by_default": true,
     "sortnum": 2,
@@ -7,8 +7,8 @@
     "pages": [
         {
             "type": "text",
-            "title": "Rancher Bee",
-            "text": "Will milk nearby cows, sheep or llamas to create milky combs in its hive.$(br2)Many cows were harmed in the making of this bee."
+            "title": "목장 벌",
+            "text": "근처에 있는 소, 양, 라마에게서 우유를 얻어 유백색 벌집 조각을 생산해냅니다.$(br2)이 벌을 만드는 과정에서 많은 소들이 피해를 입었다고 합니다."
         },
         {
             "type": "entity",

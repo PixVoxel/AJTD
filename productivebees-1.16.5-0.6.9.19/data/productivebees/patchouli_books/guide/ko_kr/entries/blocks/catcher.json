@@ -1,16 +1,16 @@
 {
-    "name": "Catcher",
+    "name": "포획기",
     "icon": "productivebees:catcher",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:catcher",
-            "text": "Load it up with cages and it will catch any bee flying over it. You can put a flower or $(l:blocks/feeder)feeding slab$(/l) on top to attract bees."
+            "text": "우리를 넣어두어 그 위로 날아가는 벌을 사로잡습니다. 꽃을 심거나 $(l:blocks/feeder)먹이그릇 반 블록$(/l) 위에 올려 벌을 유인할 수 있습니다."
         },
         {
             "type": "text",
-            "text": "The Cather accepts three upgrades; A $(l:items/upgrades#babee)BaBee upgrade$(/l) will filter out adult bees and only catch BaBees. $(l:items/upgrades#filter)Filter upgrade$(/l) will make catch only the bees on the filter. A $(l:items/upgrades#range)Range upgrade$(/l) will increase the range. Multiple Range upgrades can be installed."
+            "text": "포획기는 세 개의 업그레이드를 부착할 수 있습니다: $(l:items/upgrades#babee)아기벌 업그레이드$(/l)는 다 자란 벌 대신 아기 벌만 잡아들입니다. $(l:items/upgrades#filter)필터 업그레이드$(/l)는 필터로 등록된 벌만 잡아들입니다. $(l:items/upgrades#range)범위 업그레이드$(/l)는 작동 범위를 늘려주며 여러 개를 중첩하여 설치할 수 있습니다."
         }
     ]
 }

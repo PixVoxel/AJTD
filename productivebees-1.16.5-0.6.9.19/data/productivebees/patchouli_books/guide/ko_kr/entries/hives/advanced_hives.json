@@ -1,5 +1,5 @@
 {
-    "name": "Advanced Hives",
+    "name": "고급 벌통",
     "icon": "productivebees:advanced_oak_beehive",
     "category": "productivebees:hives",
     "sortnum": 2,
@@ -7,16 +7,16 @@
         {
             "type": "spotlight",
             "item": "productivebees:advanced_oak_beehive",
-            "text": "Productive bees expand on the vanilla hive with an Advanced Hive. Unlike the vanilla hive, the advanced hive does not require a campfire nearby to be harvestable it can be broken and moved with the bees still inside without the use of silk touch."
+            "text": "Productive bees모드에서는 고급 벌통으로 바닐라 벌통보다 더 넓게 확장이 가능합니다. 바닐라 벌집과는 달리 고급 벌통은 근처에 모닥불을 필요로 하지 않으며 섬세한 손길이 없더라도 벌이 안에 있는 채로 부숴 이동할 수 있습니다."
         },
         {
             "type": "crafting",
             "recipe": "productivebees:hives/advanced_oak_beehive",
-            "text": "There are many variants of advanced beehives available depending on other woods are available in your pack."
+            "text": "나무의 종류에 따라 사용할 수 있는 고급 벌통의 많은 변형 형태가 존재합니다."
         },
         {
             "type": "text",
-            "text": "Advanced Hives feature a GUI from where you can see which bees are currently inside the hive as well as take out any produced resources. Advanced Hives can be further upgraded using an $(l:hives/expansion_boxes)expansion boxe$(/l). Attaching an $(l:hives/expansion_boxes)expansion box$(/l) will increase the bee capacity from 3 to 5 and allow $(l:items/upgrades)upgrades$(/l) to be installed."
+            "text": "고급 벌집은 현재 벌집 안에 있는 벌을 확인하고 자원을 꺼낼 수 있는 GUI를 제공합니다. 고급 벌통은 $(l:hives/expansion_boxes)확장 박스$(/l)를 사용하여 추가로 업그레이드 할 수 있습니다. Attaching an $(l:hives/expansion_boxes)확장 상자$(/l)를 부착하면 벌 수용량이 3에서 5로 증가하고 $(l:items/upgrades)업그레이드$(/l)를 설치할 수 있게됩니다."
         }
     ]
 }
