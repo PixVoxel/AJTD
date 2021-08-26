@@ -1,0 +1,18 @@
+{
+    "name": "빛나는 벌",
+    "icon": "minecraft:glowstone_dust",
+    "read_by_default": true,
+    "category": "productivebees:bees_wild",
+    "pages": [
+        {
+            "type": "text",
+            "title": "빛나는 벌",
+            "text": "네더에 있는 발광석 둥지에서 찾을 수 있습니다. 빛나는 벌은 발광석이나 램프같은 빛나는 블럭에서 수분하는 것을 선호합니다.",
+            "anchor": "glowing"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:glowing'}"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "에메랄드 벌",
+    "icon": "minecraft:emerald",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:emerald",
+    "pages": [
+        {
+            "type": "text",
+            "title": "에메랄드 벌",
+            "text": "$(l:bees/wild/slimy)슬라임 벌$(/l)과 $(l:bees/hive/diamond)다이아몬드 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "emerald"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:emerald'}"
+        }
+    ]
+}

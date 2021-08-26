@@ -1,6 +1,0 @@
-{
-    "name": "단독 벌",
-    "description": "단독형 벌은 오버월드의 단독형 둥지에서 생성되는것을 찾아볼 수 있습니다.$(br2)$(l:hives/nests)둥지에 대한 내용을 읽어보시려면 이곳을 클릭해주세요.$(/l)",
-    "icon": "productivebees:oak_wood_nest",
-    "parent": "productivebees:bees"
-}

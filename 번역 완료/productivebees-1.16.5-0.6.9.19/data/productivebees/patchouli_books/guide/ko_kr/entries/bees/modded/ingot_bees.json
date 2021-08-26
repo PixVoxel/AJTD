@@ -1,0 +1,303 @@
+{
+    "name": "주괴/금속 벌",
+    "icon": "minecraft:iron_ingot",
+    "read_by_default": true,
+    "sortnum": 1,
+    "category": "productivebees:bees_modded",
+    "pages": [
+        {
+            "type": "text",
+            "text": "금속 계열의 모든 벌을 찾을 수 있습니다. 만약 찾고 있는 것이 없다면 특정 모드 페이지에 있을겁니다."
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        },
+        {
+            "type": "text",
+            "title": "알루미늄 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/solitary/ashy_mining)먼지 광산 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "aluminum",
+            "flag": "productivebees:aluminum"
+        },
+        {
+            "type": "entity",
+            "name": "알루미늄 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:aluminum'}",
+            "flag": "productivebees:aluminum"
+        },
+        {
+            "type": "text",
+            "title": "비스무트 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/hive/gold)금 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "bismuth",
+            "flag": "productivebees:bismuth"
+        },
+        {
+            "type": "entity",
+            "name": "비스무트 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:bismuth'}",
+            "flag": "productivebees:bismuth"
+        },
+        {
+            "type": "text",
+            "title": "황동 벌",
+            "text": "$(l:bees/modded/ingot_bees#zinc)아연 벌$(/l)과 $(l:bees/modded/ingot_bees#copper)구리 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "brass",
+            "flag": "productivebees:brass"
+        },
+        {
+            "type": "entity",
+            "name": "황동 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:brass'}",
+            "flag": "productivebees:brass"
+        },
+        {
+            "type": "text",
+            "title": "청동 벌",
+            "text": "$(l:bees/modded/ingot_bees#tin)주석 벌$(/l)과 $(l:bees/modded/ingot_bees#copper)구리 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "bronze",
+            "flag": "productivebees:bronze"
+        },
+        {
+            "type": "entity",
+            "name": "청동 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:bronze'}",
+            "flag": "productivebees:bronze"
+        },
+        {
+            "type": "text",
+            "title": "콘스탄탄 벌",
+            "text": "$(l:bees/modded/ingot_bees#copper)구리 벌$(/l)과 $(l:bees/modded/ingot_bees#nickel)니켈 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "constantan",
+            "flag": "productivebees:constantan"
+        },
+        {
+            "type": "entity",
+            "name": "콘스탄탄 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:constantan'}",
+            "flag": "productivebees:constantan"
+        },
+        {
+            "type": "text",
+            "title": "구리 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/solitary/ashy_mining)먼지 광산 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "copper",
+            "flag": "productivebees:copper"
+        },
+        {
+            "type": "entity",
+            "name": "구리 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:copper'}",
+            "flag": "productivebees:copper"
+        },
+        {
+            "type": "text",
+            "title": "일렉트럼 벌",
+            "text": "Bred from an $(l:bees/hive/gold)금 벌$(/l)과 $(l:bees/modded/ingot_bees#silver)은 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "electrum",
+            "flag": "productivebees:electrum"
+        },
+        {
+            "type": "entity",
+            "name": "일렉트럼 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:electrum'}",
+            "flag": "productivebees:electrum"
+        },
+        {
+            "type": "text",
+            "title": "엔더리움 벌",
+            "text": "Bred from an $(l:bees/modded/ingot_bees#lead)납 벌$(/l)과 $(l:bees/hive/diamond)다이아몬드 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "enderium",
+            "flag": "productivebees:enderium"
+        },
+        {
+            "type": "entity",
+            "name": "엔더리움 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:enderium'}",
+            "flag": "productivebees:enderium"
+        },
+        {
+            "type": "text",
+            "title": "인바 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/modded/ingot_bees#nickel)니켈 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "invar",
+            "flag": "productivebees:invar"
+        },
+        {
+            "type": "entity",
+            "name": "인바 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:invar'}",
+            "flag": "productivebees:invar"
+        },
+        {
+            "type": "text",
+            "title": "납 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/blue_banded)파란 줄무늬 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "lead",
+            "flag": "productivebees:lead"
+        },
+        {
+            "type": "entity",
+            "name": "납 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:lead'}",
+            "flag": "productivebees:lead"
+        },
+        {
+            "type": "text",
+            "title": "루미움 벌",
+            "text": "$(l:bees/modded/ingot_bees#silver)은 벌$(/l)과 $(l:bees/modded/ingot_bees#tin)주석 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "lumium",
+            "flag": "productivebees:lumium"
+        },
+        {
+            "type": "entity",
+            "name": "루미움 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:lumium'}",
+            "flag": "productivebees:lumium"
+        },
+        {
+            "type": "text",
+            "title": "니켈 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)습기 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "nickel",
+            "flag": "productivebees:nickel"
+        },
+        {
+            "type": "entity",
+            "name": "니켈 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:nickel'}",
+            "flag": "productivebees:nickel"
+        },
+        {
+            "type": "text",
+            "title": "오스뮴 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/neon_cuckoo)네온 뻐꾸기 벌$(/l)을 교배하여 얻을 수 있습니다.$(br)필요 모드: Mekanism",
+            "anchor": "osmium",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "entity",
+            "name": "오스뮴 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "text",
+            "title": "백금 벌",
+            "text": "$(l:bees/hive/gold)금 벌$(/l)과 $(l:bees/wild/ender)엔더 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "platinum",
+            "flag": "productivebees:platinum"
+        },
+        {
+            "type": "entity",
+            "name": "백금 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:platinum'}",
+            "flag": "productivebees:platinum"
+        },
+        {
+            "type": "text",
+            "title": "방사능 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/bees/hive/creeper)크리벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "radioactive",
+            "flag": "productivebees:radioactive"
+        },
+        {
+            "type": "entity",
+            "name": "방사능 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:radioactive'}",
+            "flag": "productivebees:radioactive"
+        },
+        {
+            "type": "text",
+            "title": "시그널륨 벌",
+            "text": "$(l:bees/modded/ingot_bees#silver)은 벌$(/l)과 $(l:bees/modded/ingot_bees#copper)구리 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "signalum",
+            "flag": "productivebees:signalum"
+        },
+        {
+            "type": "entity",
+            "name": "시그널륨 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:signalum'}",
+            "flag": "productivebees:signalum"
+        },
+        {
+            "type": "text",
+            "title": "은 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/mason)석공 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "silver",
+            "flag": "productivebees:silver"
+        },
+        {
+            "type": "entity",
+            "name": "은 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:silver'}",
+            "flag": "productivebees:silver"
+        },
+        {
+            "type": "text",
+            "title": "강철 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/hive/coal)석탄 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "steel",
+            "flag": "productivebees:steel"
+        },
+        {
+            "type": "entity",
+            "name": "강철 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:steel'}",
+            "flag": "productivebees:steel"
+        },
+        {
+            "type": "text",
+            "title": "주석 벌",
+            "text": "$(l:bees/wild/crystalline)결정화 벌$(/l)과 $(l:bees/solitary/ashy_mining)먼지 광산 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "tin",
+            "flag": "productivebees:tin"
+        },
+        {
+            "type": "entity",
+            "name": "주석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tin'}",
+            "flag": "productivebees:tin"
+        },
+        {
+            "type": "text",
+            "title": "티타늄 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/bees/hive/diamond)다이아몬드 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "titanium",
+            "flag": "productivebees:titanium"
+        },
+        {
+            "type": "entity",
+            "name": "티타늄 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:titanium'}",
+            "flag": "productivebees:titanium"
+        },
+        {
+            "type": "text",
+            "title": "텅스텐 벌",
+            "text": "$(l:bees/hive/coal)석탄 벌$(/l)과 $(l:bees/wild/ender)엔더 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "tungsten",
+            "flag": "productivebees:tungsten"
+        },
+        {
+            "type": "entity",
+            "name": "텅스텐 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:tungsten'}",
+            "flag": "productivebees:tungsten"
+        },
+        {
+            "type": "text",
+            "title": "아연 벌",
+            "text": "Bred from an $(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/sweat)습기 벌$(/l)을 교배하여 얻을 수 있습니다.",
+            "anchor": "zinc",
+            "flag": "productivebees:zinc"
+        },
+        {
+            "type": "entity",
+            "name": "아연 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:zinc'}",
+            "flag": "productivebees:zinc"
+        }
+    ]
+}

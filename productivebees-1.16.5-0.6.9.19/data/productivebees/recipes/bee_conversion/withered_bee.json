@@ -1,8 +1,0 @@
-{
-    "type": "productivebees:bee_conversion",
-    "source": "productivebees:skeletal",
-    "result": "productivebees:withered",
-    "item": {
-        "item": "minecraft:wither_rose"
-    }
-}

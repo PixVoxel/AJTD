@@ -1,0 +1,39 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:iron",
+    "parent2": "productivebees:nickel",
+    "offspring": [
+        "productivebees:invar"
+    ],
+    "breeding_items": [
+        {
+            "tag": "forge:ingots/iron"
+        },
+        {
+            "tag": "forge:ingots/nickel"
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/nickel"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/invar"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/invar"
+            }
+        }
+    ]
+}

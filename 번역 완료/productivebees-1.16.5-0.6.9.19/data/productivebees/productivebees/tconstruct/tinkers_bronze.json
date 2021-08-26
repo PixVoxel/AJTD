@@ -1,0 +1,24 @@
+{
+    "primaryColor": "#ffdb7e",
+    "secondaryColor": "#7a5800",
+    "particleColor": "#ffdb7e",
+    "description": "To acquire this bee, look up the crafting recipe for its spawn egg.",
+    "createComb": false,
+    "flowerTag": "forge:storage_blocks/silicon_bronze",
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/silicon_bronze"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:storage_blocks/silicon_bronze"
+            }
+        }
+    ]
+}

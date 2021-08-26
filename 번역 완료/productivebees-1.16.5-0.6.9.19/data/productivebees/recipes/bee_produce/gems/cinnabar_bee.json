@@ -1,0 +1,20 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:cinnabar",
+    "results": [
+        {
+            "item": {
+                "tag": "forge:honeycombs/cinnabar"
+            }
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:gems/cinnabar"
+            }
+        }
+    ]
+}

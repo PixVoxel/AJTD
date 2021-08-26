@@ -1,0 +1,18 @@
+{
+    "name": "염료 벌",
+    "icon": "minecraft:red_dye",
+    "read_by_default": true,
+    "sortnum": 6,
+    "category": "productivebees:bees_worker",
+    "pages": [
+        {
+            "type": "text",
+            "title": "염료 벌",
+            "text": "수분한 꽃의 색을 바탕으로 염료를 생산합니다."
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:dye_bee"
+        }
+    ]
+}

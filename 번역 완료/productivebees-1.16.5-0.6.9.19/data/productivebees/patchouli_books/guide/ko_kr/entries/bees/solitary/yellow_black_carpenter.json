@@ -1,0 +1,19 @@
+{
+    "name": "노랑 검정 목수 벌",
+    "icon": "productivebees:spawn_egg_yellow_black_carpenter_bee",
+    "read_by_default": true,
+    "sortnum": 4,
+    "category": "productivebees:bees_solitary",
+    "pages": [
+        {
+            "type": "text",
+            "title": "노랑 검정 목수 벌",
+            "text": "[Xylocopa aruana]",
+            "anchor": "yellow_black_carpenter"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:yellow_black_carpenter_bee"
+        }
+    ]
+}

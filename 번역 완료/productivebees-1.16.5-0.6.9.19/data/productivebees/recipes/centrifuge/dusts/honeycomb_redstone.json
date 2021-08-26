@@ -1,0 +1,20 @@
+{
+    "type": "productivebees:centrifuge",
+    "ingredient": {
+        "tag": "forge:honeycombs/redstone"
+    },
+    "outputs": [
+        {
+            "item": {
+                "tag": "forge:dusts/redstone"
+            },
+            "min": 3,
+            "max": 5
+        },
+        {
+            "item": {
+                "tag": "forge:wax"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:obsidian_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:draconic"
+        }
+    ],
+    "biomes": [
+        "the_end"
+    ]
+}

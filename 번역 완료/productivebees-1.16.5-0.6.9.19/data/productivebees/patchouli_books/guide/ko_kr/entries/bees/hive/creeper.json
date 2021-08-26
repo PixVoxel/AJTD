@@ -1,0 +1,19 @@
+{
+    "name": "크리벌",
+    "icon": "minecraft:gunpowder",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:creeper",
+    "pages": [
+        {
+            "type": "text",
+            "title": "크리벌",
+            "text": "바닐라 벌에 TNT를 먹여 변환시킬 수 있습니다.",
+            "anchor": "creeper"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:creeper_bee"
+        }
+    ]
+}

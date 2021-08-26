@@ -1,0 +1,27 @@
+{
+    "type": "productivebees:centrifuge",
+    "ingredient": {
+        "tag": "forge:honeycombs/ender_slimy"
+    },
+    "outputs": [
+        {
+            "item": {
+                "tag": "forge:slimeball/ender"
+            }
+        },
+        {
+            "item": {
+                "tag": "forge:wax"
+            }
+        }
+    ],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:slimeball/ender"
+            }
+        }
+    ]
+}

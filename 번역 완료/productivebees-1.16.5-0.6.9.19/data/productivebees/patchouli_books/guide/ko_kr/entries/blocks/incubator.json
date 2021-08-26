@@ -1,0 +1,16 @@
+{
+    "name": "인큐베이터",
+    "icon": "productivebees:incubator",
+    "category": "productivebees:blocks",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "productivebees:incubator",
+            "text": "이 작고 연약한 아기들이 자라기를 기다리는 데 지쳤나요? 인큐베이터를 사용하면 이런 과정을 단축시킬 수 있습니다. 그냥 우리에 아기 벌을 집어넣고, 많은 양의 꿀 먹이와 함께 인큐베이터에 넣어주시기만 하면 됩니다."
+        },
+        {
+            "type": "text",
+            "text": "인큐베이터의 또다른 용도는 달걀에 유전학 설정을 통해 획득한 특정 분류의 벌 $(l:genetics/collecting#crystalline)유전자$(/l)를 주입하여 해당 벌 생성 알을 만드는 것입니다.$(br)생성 알을 만들 때 사용되는 유전자는 유형 유전자이며 꿀 먹이에 들어간 다른 추가 유전자는 손실됩니다."
+        }
+    ]
+}

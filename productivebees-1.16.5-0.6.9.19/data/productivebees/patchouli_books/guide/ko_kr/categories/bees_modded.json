@@ -1,6 +1,0 @@
-{
-    "name": "모드 벌",
-    "description": "모드 벌은 요구사항이 충족되는 경우에만 나타납니다. 그 요구사항은 특정 모드가 설치되어있거나 모드에 의해 추가된 특정 자원은 존재 여부입니다.",
-    "icon": "minecraft:iron_block",
-    "parent": "productivebees:bees"
-}

@@ -1,0 +1,80 @@
+{
+    "name": "업그레이드",
+    "icon": "productivebees:upgrade_base",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "productivebees:upgrade_base",
+            "text": "업그레이드는 기계나 벌통에 넣어 기능을 향상시키거나 성능을 증가시키는데 사용됩니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/base",
+            "text": "다른 모든 업그레이드의 기반입니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/breeding",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l), $(l:blocks/catcher)포획기$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "벌통에 넣으면 안에 살고있는 벌들이 알아서 번식하고 새로운 자손을 낳을 수 있는 작은 기회를 줍니다.$(br)$(l:blocks/catcher)포획기$(/l)에 설치하면 아기 벌만 잡혀 우리에 넣어집니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/productivity",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "벌통에 넣으면 한 번의 여행 당 생산하는 벌집 조각의 갯수를 증가시킵니다. 중첩하여 설치가 가능합니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/time",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l), $(l:blocks/centrifuge)원심분리기$(/l), $(l:blocks/incubator)인큐베이터$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "벌통에 넣으면 꿀벌이 벌집 안에서 보내는 시간을 줄여줍니다.$(br) $(l:blocks/centrifuge)원심분리기$(/l)또는 $(l:blocks/incubator)인큐베이터$(/l)에 설치하면 작동 속도가 빨라집니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/filter",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l), $(l:blocks/catcher)포획기$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "꿀벌을 우클릭하여 필터에 추가할수 있고 조합대에 넣어 필터를 초기화 할 수 있습니다. 필터가 지정된 벌통은 해당 벌만 들어갈 수 있게됩니다.$(br)포획기에 설치하면 필터에 등록된 벌만 포획하여 우리에 집어넣습니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/range",
+            "text": "사용 가능한 곳: $(l:blocks/catcher)포획기$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "포획기에 설치하면 모든 방향으로 1블록 씩 작업 영역이 확대됩니다. 중첩하여 설치가 가능합니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/comb_block",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "벌통에 넣으면 벌이 벌집 조각 대신 벌집 블록을 생산합니다."
+        },
+        {
+            "type": "crafting",
+            "recipe": "productivebees:upgrades/anti_teleport",
+            "text": "사용 가능한 곳: $(l:hives/advanced_hives#expanded)확장 벌통$(/l)."
+        },
+        {
+            "type": "text",
+            "text": "벌통에 넣으면 순간이동이 가능한 벌이 이 벌통에 살 때 더이상 순간이동하지 않습니다."
+        }
+    ]
+}

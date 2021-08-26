@@ -1,0 +1,15 @@
+{
+    "name": "유전자 전달",
+    "icon": "productivebees:gene",
+    "category": "productivebees:genetics",
+    "pages": [
+        {
+            "type": "text",
+            "text": "유전자를 벌에게 전달하려면 유전자를 벌 먹이와 결합해야 합니다. 벌에게 벌 먹이를 먹이면 유전자의 순도에 따라 새로운 속성을 획득할 기회가 생깁니다."
+        },
+        {
+            "type": "text",
+            "text": "유전자의 순도는 같은 유전자 두 개를 결합하거나 같은 유전자를 더 많이 넣어 증가시킬 수 있습니다."
+        }
+    ]
+}

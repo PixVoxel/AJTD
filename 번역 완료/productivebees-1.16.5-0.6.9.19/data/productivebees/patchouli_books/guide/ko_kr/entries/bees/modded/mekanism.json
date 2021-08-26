@@ -1,0 +1,57 @@
+{
+    "name": "Mekanism",
+    "icon": "mekanism:energy_tablet",
+    "read_by_default": true,
+    "sortnum": 8,
+    "category": "productivebees:bees_modded",
+    "flag": "mod:mekanism",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Mekanism모드의 자원 벌입니다. 특별 재료의 벌만 보이며 구리나 주석같은 일반 재료는 $(l:bees/modded/ingot_bees)주괴 벌 목록$(/l)을 확인하세요."
+        },
+        {
+            "type": "empty",
+            "draw_filler": false
+        },
+        {
+            "type": "text",
+            "title": "오스뮴 벌",
+            "text": "$(l:bees/hive/iron)철 벌$(/l)과 $(l:bees/solitary/neon_cuckoo)네온 뻐꾸기 벌$(/l)을 교배하여 얻을 수 있습니다.$(br)필요 모드: Mekanism",
+            "anchor": "osmium",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "entity",
+            "name": "오스뮴 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:osmium'}",
+            "flag": "productivebees:osmium"
+        },
+        {
+            "type": "text",
+            "title": "정제된 발광석 벌",
+            "text": "$(l:bees/modded/mekanism#osmium)오스뮴 벌$(/l)과 $(l:bees/wild/glowing)빛나는 벌$(/l)을 교배하여 얻을 수 있습니다.$(br)필요 모드: Mekanism",
+            "anchor": "refined_glowstone",
+            "flag": "productivebees:refined_glowstone"
+        },
+        {
+            "type": "entity",
+            "name": "정제된 발광석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:refined_glowstone'}",
+            "flag": "productivebees:refined_glowstone"
+        },
+        {
+            "type": "text",
+            "title": "정제된 흑요석 벌",
+            "text": "$(l:bees/modded/mekanism#osmium)오스뮴 벌$(/l)과 $(l:bees/hive/obsidian)흑요석 벌$(/l)을 교배하여 얻을 수 있습니다.$(br)필요 모드: Mekanism",
+            "anchor": "refined_obsidian",
+            "flag": "productivebees:refined_obsidian"
+        },
+        {
+            "type": "entity",
+            "name": "정제된 흑요석 벌",
+            "entity": "productivebees:configurable_bee{type:'productivebees:refined_obsidian'}",
+            "flag": "productivebees:refined_obsidian"
+        }
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable",
-    "textures": {
-        "top": "block/glowstone",
-        "front": "productivebees:block/nest/glowstone",
-        "side": "block/glowstone"
-    }
-}

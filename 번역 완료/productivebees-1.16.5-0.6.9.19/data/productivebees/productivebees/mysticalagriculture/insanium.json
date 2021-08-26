@@ -1,0 +1,16 @@
+{
+    "primaryColor": "#4d086d",
+    "secondaryColor": "#804f40",
+    "particleColor": "#410062",
+    "size": 0.8,
+    "description": "To acquire this bee, look up the crafting recipe for its spawn egg.",
+    "flowerBlock": "mysticalagradditions:insanium_block",
+    "createComb": false,
+    "selfbreed": false,
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "mysticalagradditions"
+        }
+    ]
+}

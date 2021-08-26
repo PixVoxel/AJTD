@@ -1,0 +1,18 @@
+{
+    "name": "농부 벌",
+    "icon": "minecraft:wheat",
+    "read_by_default": true,
+    "sortnum": 1,
+    "category": "productivebees:bees_worker",
+    "pages": [
+        {
+            "type": "text",
+            "title": "농부 벌",
+            "text": "근처에 있는 작물을 수확하고 수확물은 바닥에 남겨둡니다."
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:farmer_bee"
+        }
+    ]
+}

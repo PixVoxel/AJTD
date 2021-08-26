@@ -1,0 +1,16 @@
+{
+    "name": "먹이그릇 반 블록",
+    "icon": "productivebees:feeder",
+    "category": "productivebees:blocks",
+    "pages": [
+        {
+            "type": "spotlight",
+            "item": "productivebees:feeder",
+            "text": "벌에게 먹이를 주기 위한 수분 장소로 사용할 수 있습니다. 블록 당 3개의 아이템을 보유할 수 있으며 나무꾼 또는 채석장 벌이 이곳에서 먹이를 먹을 경우 올려져있는 아이템 범위 내에서 무작위로 생산합니다."
+        },
+        {
+            "type": "text",
+            "text": "먹이그릇 양동이는 벌꿀을 부을 수 있어 벌들이 발을 담그고 긴 하루의 작업에서 회복할 수 있는 훌륭한 장소를 제공합니다. 다른말로 말하자면, 재생을 부여받습니다."
+        }
+    ]
+}

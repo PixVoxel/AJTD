@@ -1,0 +1,19 @@
+{
+    "name": "결정화 벌",
+    "icon": "minecraft:quartz",
+    "read_by_default": true,
+    "category": "productivebees:bees_wild",
+    "flag": "productivebees:crystalline",
+    "pages": [
+        {
+            "type": "text",
+            "title": "결정화 벌",
+            "text": "네더의 네더 석영 둥지에서 발견할 수 있습니다. 결정화 벌은 네더 석영으로 이루어진 것에서 수분하는 것을 선호합니다..",
+            "anchor": "crystalline"
+        },
+        {
+            "type": "entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:crystalline'}"
+        }
+    ]
+}

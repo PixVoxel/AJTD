@@ -1,0 +1,17 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:skeletal",
+    "results": [
+        {
+            "item": {
+                "tag": "forge:honeycombs/bone"
+            }
+        },
+        {
+            "item": {
+                "item": "minecraft:bone"
+            },
+            "chance": 5
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:nether_gold_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:gold"
+        }
+    ],
+    "biomes": [
+        "nether"
+    ]
+}

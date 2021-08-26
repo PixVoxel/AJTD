@@ -1,0 +1,6 @@
+{
+    "name": "야생 벌",
+    "description": "단독형 벌과 마찬가지로 야생형 벌은 전 세계에서 발견됩니다. 단독형 벌과는 달리 새로운 벌집에 기꺼이 이주합니다. 야생 벌은 주로 네더나 엔드에서 서식합니다.",
+    "icon": "minecraft:lily_of_the_valley",
+    "parent": "productivebees:bees"
+}
