@@ -1,6 +1,6 @@
 {
-    "name": "Natural Items",
-    "description": "The thought of nature might lead you to the beach, the forest, or a plain, but sometimes, it might lead you to items and accessories that are strongly intertwined with nature itself. In this category, such items can be found.",
+    "name": "자연의 아이템",
+    "description": "자연에 대한 생각은 보통 해변, 숲 또는 평야와 같은 자연 환경으로 인도하지만, 때로는 자연과 강하게 얽혀진 아이템과 액세서리로 인도하기도 합니다. 이 범주에서는 이러한 아이템들을 알아볼 수 있습니다.",
     "icon": "naturesaura:textures/gui/patchouli/categories/items.png",
     "sortnum": 25
 }

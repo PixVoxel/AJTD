@@ -1,6 +1,6 @@
 {
-    "name": "Natural Practices",
-    "description": "Related to $(aura), but not necessarily to its collection and storage, can be other practices that might prove beneficial in the long run. This category provides information on what practices exist and how to execute them.",
+    "name": "자연의 관행",
+    "description": "$(#419600)오라$()와는 연관되어 있지만, 수집 및 저장과 관련된 것이 아닌 장기적으로 도움이 될 수 있는 특정 관행이 있습니다. 이 범주에서는 존재하는 관행과 실행 방법에 대한 정보를 제공합니다.",
     "icon": "naturesaura:textures/gui/patchouli/categories/practices.png",
     "sortnum": 5
 }

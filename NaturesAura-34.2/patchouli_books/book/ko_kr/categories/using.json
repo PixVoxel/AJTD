@@ -1,6 +1,6 @@
 {
-    "name": "Harnessing Aura",
-    "description": "When collecting $(aura) from the world, an instinctive question for any human to ask would be $(italic)\"How can one make use of this?\"$() This category houses entries that will explain just that.",
+    "name": "오라의 동력화",
+    "description": "세계로부터 $(#419600)오라$()를 모을 때 모든 사람들은 이런 의문을 가지게됩니다. $(italic)\"이걸 어떻게 쓰는거지?\"$() 이 범주에는 그것을 설명해줄 항목들이 존재합니다.",
     "icon": "naturesaura:textures/gui/patchouli/categories/using.png",
     "sortnum": 15
 }

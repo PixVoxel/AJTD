@@ -1,6 +1,6 @@
 {
-    "name": "Creating Aura",
-    "description": "The finity of $(aura) in the world can be troubling to think about, because once it is drained, it seems like it is not restorable. That, however, is not the case: This category houses explanations for how to create $(aura) using different techniques.",
+    "name": "오라의 생성",
+    "description": "세계에 무한히 존재하는 $(#419600)오라$()는 한번 흡수되면 복구할 수 없는것 처럼 생각되기 때문에 쓰기 곤란해보일 수 있습니다. 하지만 이 챕터를 익힌다면 그렇지 않죠, 이 범주에서는 다양한 기술을 사용하여 $(#419600)오라$()를 만드는 방법에 대한 설명이 있습니다.",
     "icon": "naturesaura:textures/gui/patchouli/categories/creating.png",
     "sortnum": 18
 }

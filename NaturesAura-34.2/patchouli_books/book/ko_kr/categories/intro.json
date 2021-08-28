@@ -1,6 +1,6 @@
 {
-    "name": "Introduction",
-    "description": "For one who has never made use of the power of $(aura) before, it might be a daunting task to get a hold of.$(br2)These introductory entries will give a brief overview of how, why and where it works.",
+    "name": "개요",
+    "description": "지금까지 $(#419600)오라$()의 힘을 이용해 본 적 없는 사람들에게는 이 힘을 손에 넣는다는 것은 매우 어려울겁니다.$(br2)이 개요에서는 이 오라를 어떻게, 그리고 어디에서 사용하는 지 간략하게 설명해드립니다.",
     "icon": "naturesaura:textures/gui/patchouli/categories/intro.png",
     "sortnum": 0
 }
