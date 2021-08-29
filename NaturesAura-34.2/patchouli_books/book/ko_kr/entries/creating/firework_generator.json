@@ -1,25 +1,25 @@
 {
-    "name": "Firecracker Gaze",
+    "name": "폭죽 응시자",
     "icon": "naturesaura:firework_generator",
     "category": "creating",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Fireworks$() are beautiful to look at, while it is a bit pricy to create ones that look really good. The $(item)Firecracker Gaze$() seemingly shares this opinion especially: Consuming any fireworks that are $(thing)dropped$() on the ground around it, it will shoot them up into the air. Once they explode, their explosive and colorful energy is absorbed, and, based on the complexity of the firework,"
+            "text": "$(item)폭죽$()은 예쁜 것을 만들기에는 재료가 약간 비싸지만 보기에 참 아름답습니다. 이 $(item)폭죽 응시자$()는 특히나 이 의견에 크게 동의할 것입니다. 주변 땅에 $(thing)폭죽$()을 놓고 사용하면 공중으로 날아올라 폭발할 것입니다. 이 때 다채로운 에너지를 흡수하여 복잡성을 기반으로"
         },
         {
             "type": "text",
-            "text": "more or less $(aura) is created and spread into the environment as a result. For the complexity, especially the $(thing)value$() of the items used in the firework's creation is of importance, but also, the amount of $(thing)firework stars$(), the amount of $(thing)colors$() and some other variables factor into the amount of $(aura) created from each shot."
+            "text": "높낮음에 따라 $(#419600)오라$()가 생성되어 세계에 퍼뜨립니다. 재료의 $(thing)값$()도 중요한 영향을 미치지만 $(thing)불꽃 별$()의 양과 $(thing)색깔$()의 종류 및 기타 변수도 각각의 $(#419600)오라$()의 생성량에 영향을 미칩니다."
         },
         {
             "type": "text",
-            "text": "Additionally, it should be noted that, while a firework is already being shot into the air by the $(item)Firecracker Gaze$(), or while it is consuming an explosion's energy, dropping any more fireworks into its collection area will cause the fireworks to be consumed, but no $(aura) to be created from them. This implies that it would be wise to set up some sort of $(thing)timer$() for its automation."
+            "text": "또한 $(item)폭죽 응시자$()가 쏘아 올려진 폭죽에서 에너지를 모아 소모하고 있는 동안에 근처 영역에 폭죽을 쏘아올려도 폭죽만 소비되고 $(#419600)오라$()는 생성되지 않습니다. 이것은 일종의 $(thing)타이머$()를 설정하여 자동화를 하는 것이 현명할 것임을 의미합니다."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:firework_generator",
-            "text": "Creating the $(item)Firecracker Gaze$()"
+            "text": "$(item)폭죽 응시자$() 만드는 법"
         }
     ]
 }

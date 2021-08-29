@@ -1,17 +1,17 @@
 {
-    "name": "Rose of Oblivion",
+    "name": "망각의 장미",
     "icon": "naturesaura:end_flower",
     "category": "creating",
     "advancement": "naturesaura:end_flower",
     "pages": [
         {
             "type": "text",
-            "text": "The $(thing)Ender Dragon$() is known to be quite a beast to behold. It guards $(thing)The End$() better than anybody else, but it can be defeated. This not only bears a token of its offspring and a lot of pride, it also bears the $(item)Rose of Oblivion$(). Upon the dragon's death, they will start sprouting out of the ground on the end island, ready to be collected by any botanist and placed in any dimension."
+            "text": "$(thing)엔더 드래곤$()은 흉포한 것으로 꽤 잘 알려진 생물입니다. 다른 누구보다도 $(thing)엔드$()를 잘 수호하지만 쓰러뜨릴수도 있습니다. 자손의 증표와 많은 자부심을 얻게 될 뿐만 아니라 $(item)망각의 장미$()도 지니고 있습니다. 드래곤이 죽으면 엔드 섬의 땅에서 싹이 트기 시작하며 모든 식물학자들이 수집하여 어느 차원에서든 배치할 수 있습니다."
         },
         {
             "type": "spotlight",
             "item": "naturesaura:end_flower",
-            "text": "This flower bears very large amounts of $(aura) that can be harvested in an interesting way: Dropping an $(item)Ender Eye$() on the ground close to it will cause the rose to consume it and start dispersing its $(aura) into the environment. During this process, it can neither be stopped, nor harvested. Note that this process does $(italic)not$() require a $(l:creating/generator_limit_remover)Creational Catalyst$().",
+            "text": "이 장미는 $(item)엔더의 눈$()을 가까운 땅에 떨어뜨리면 그것을 소비하여 매우 많은 양의 $(#419600)오라$()를 만들어 세계에 흩뿌리는 흥미로운 생산 방식을 가지고 있습니다. 이 과정에서는 멈추거나 수확할 수 없습니다. 또한 이 과정에서 $(l:creating/generator_limit_remover)창조의 촉매$() 사용이 $(italic)불가능$()하다는 점을 유의하세요.",
             "link_recipe": true
         }
     ]

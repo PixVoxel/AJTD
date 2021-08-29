@@ -1,5 +1,5 @@
 {
-    "name": "Creational Catalyst",
+    "name": "창조의 촉매",
     "icon": "naturesaura:generator_limit_remover",
     "category": "creating",
     "advancement": "naturesaura:offering",
@@ -7,12 +7,12 @@
     "pages": [
         {
             "type": "text",
-            "text": "As described in the $(l:creating/on_generating)On Creating Aura$() section, most $(thing)creational devices$() lack the ability to create $(aura) beyond a certain point. The $(item)Creational Catalyst$() easily solves this problem: Placing it directly below any creational device will cause its limit to be lifted, making it able to generate $(aura) far beyond the previously mentioned point.$(br)This comes at no cost in return."
+            "text": "$(l:creating/on_generating)오라 생성에 대한$() 내옹에서 서술했듯이, 대부분의 $(thing)오라 생성 장치들$()은 특정 지점을 넘어서 $(#419600)오라$()를 생성할 수 없습니다. $(item)창조의 촉매$()를 생성 장치 바로 아래에 설치하면 이 한계가 해제되어 앞에서 언급한 지점을 훨씬 넘어 선 $(#419600)오라$()를 생성하여 이 문제를 쉽게 해결할 수 있게됩니다.$(br)이 과정에서 다른 무언가를 필요로 하지 않습니다."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:generator_limit_remover",
-            "text": "Crafting the $(item)Creational Catalyst$() using the tokens"
+            "text": "징표를 사용하여 $(item)창조의 촉매$() 만드는 법"
         }
     ]
 }

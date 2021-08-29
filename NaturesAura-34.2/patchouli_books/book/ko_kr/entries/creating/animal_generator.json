@@ -1,25 +1,25 @@
 {
-    "name": "Disentangler of Mortals",
+    "name": "필멸자의 해방기",
     "icon": "naturesaura:animal_generator",
     "category": "creating",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "Creating $(aura) through natural substances can be a double-edged sword. Creating $(aura) using the $(item)Disentangler of Mortals$() is especially so: Killing any passive animal close to it will cause the animal's soul to be freed and spread into the environment in the form of a rather big amount of $(aura). For this, baby animals' souls are less fulfilled, causing less $(aura) to be dispersed."
+            "text": "천연 물질을 통해 $(#419600)오라$()를 만드는 것은 양날의 검이 될 수 있습니다. $(item)필멸자의 해방기$()를 사용하여 $(#419600)오라$()를 생성하는 것이 특히 그렇습니다. 가까이에 있는 비공격적인 몹을 죽이면 해당 동물의 영혼이 해방되어 상당한 양의 $(#419600)오라$()가 만들어집니다. 아기 동물의 영혼은 미숙하기 때문에 $(#419600)오라$()가 덜 생산됩니다."
         },
         {
             "type": "text",
-            "text": "Additionally, the $(thing)longer$() an animal is alive, the more $(aura) it will generate - signifiantly more so, making it a lot more viable and efficient to create a device that makes the animals wait for a while until their slaughtering. To harvest souls at their most fulfilled, one should wait about $(thing)one and a half hours$() or so."
+            "text": "그리고 $(thing)오래r$()살은 동물일수록 더 많은 $(#419600)오라$()를 생성합니다. 이 방법이 훨씬 많은 양의 $(#419600)오라$()가 생성되므로 동물을 오래 길러두는 장치를 만드는 것이 훨씬 더 실용적이고 효율적일 것입니다. 가장 충만한 영혼을 수확하려면 대락 $(thing)한 시간 반$()정도가 소요됩니다."
         },
         {
             "type": "text",
-            "text": "It should be noted, also, that the animals whose souls are absorbed will not be lootable for their usual drops. Additionally, supplying the $(item)Disentangler of Mortals$() with a death while it is already in the process of converting a soul will cause both the animal's soul not to be freed and its remains not to be dropped."
+            "text": "또한 영혼이 흡수된 동물은 평소처럼 아이템을 떨어뜨리지 않는다는 점에 유의해야 합니다. 게다가 $(item)필멸자의 해방기$()가 이미 영혼을 $(#419600)오라$()로 변환시키는 과정에서 다른 동물을 죽이면 영혼이 해방되지 않으며 아이템도 떨어뜨리지 않습니다."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:animal_generator",
-            "text": "Creating the $(item)Disentangler of Mortals$()"
+            "text": "$(item)필멸자의 해방기$() 만드는 법"
         }
     ]
 }

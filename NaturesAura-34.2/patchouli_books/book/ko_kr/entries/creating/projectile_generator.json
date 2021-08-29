@@ -1,16 +1,16 @@
 {
-    "name": "Shooting Mark",
+    "name": "사격 표식",
     "icon": "naturesaura:projectile_generator",
     "category": "creating",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "The strength of any shot $(thing)projectiles$() is, in some instances, strong enough to pierce living beings and even move them around by way of teleportation. However, this power can be used to create $(aura) as well: The $(item)Shooting Mark$() converts the energy of any projectiles shot at it into $(aura) that it spreads into the environment."
+            "text": "$(thing)발사체$()는 경우에 따라 생명체를 꿰뚫을 수 있거나 심지어는 순간이동을 할 수 있을정도로 강력한 힘을 지니고 있습니다. 그리고 이 힘은 $(#419600)오라$()를 생성하는 데에도 사용할 수 있습니다. $(item)사격 표식$()은 모든 발사체의 에너지를 $(#419600)오라$()로 변환하여 세계에 퍼뜨립니다."
         },
         {
             "type": "text",
-            "text": "For this, different kinds of projectiles produce different amounts - a $(item)snowball$() is much less rich in energy than, say, an $(item)ender pearl$().$(p)There is a caveat, however: Projectiles need to be shot at the four sides $(thing)in order$(), starting on the north face. Projectiles that hit on any non-active side will not cause any $(aura) to be produced."
+            "text": "그리고 각각의 다른 발사체 종류에 따라 생성되는 양이 달라집니다. 예를 들어 $(item)눈덩이$()는 $(item)엔더 진주$()보다 생성되는 에너지가 적은 것과 같습니다.$(p)단, 주의사항이 있습니다. 발사체는 4면에서만 명중되어야 하며 북쪽면에서 부터 시작하여 $(thing)순서대로$() 착단되어야 하는 것입니다. 활성화되지 않은 측면에 명중한 발사체는 $(#419600)오라$()를 생성하지 않습니다."
         },
         {
             "type": "crafting",

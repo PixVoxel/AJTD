@@ -1,20 +1,20 @@
 {
-    "name": "Ancient Trees",
+    "name": "고대의 나무",
     "icon": "naturesaura:ancient_leaves",
     "category": "creating",
     "advancement": "naturesaura:wood_stand",
     "pages": [
         {
             "type": "text",
-            "text": "A basic way of replenishing the $(aura) in an area are $(item)Ancient Trees$(). Once an $(item)Ancient Sapling$() is created, it will grow like a normal tree, but its leaves will start increasing the $(aura) levels back to normal slowly.$(br)The tree, however, does not fare well during this process: As its leaves' $(aura) is drained into the world, the leaves start dying, leaving the tree bare if enough is drained."
+            "text": "지역의 $(#419600)오라$()를 보충하는 기본적인 방법은 바로 $(item)고대의 나무$()를 이용하는것 입니다. $(item)고대의 묘목$()을 심게되면 일반 나무처럼 자라게 될 것이고 나뭇잎이 주변의 $(#419600)오라$()를 천천히 원래 수치로 돌려놓을 것입니다.$(br) 그러나 이 $(#419600)오라$()가 세계에 퍼지는 과정이 진행되면서 나뭇잎은 서서히 말라죽기 시작할 것이고 결국에는 모든 나뭇잎이 말라버려 가지만 남게 될 것입니다."
         },
         {
             "type": "text",
-            "text": "It should additionally be noted that, while this tree looks especially beautiful in more hellish regions of the world due to the matching color scheme, it $(italic)does not work$() outside of the $(thing)overworld$() realm, as that is the only area where plants can thrive in the appropriate way."
+            "text": "또한 이 나무의 색채 때문에 네더같은 지역에서 특히 아름답게 보일 것 같지만 안타깝게도 $(thing)오버월드$() 이외의 차원에서는 $(#419600)오라$()생성 기능이 $(italic)작동하지 않습니다$(). 오버월드만이 식물이 적절한 방식으로 번성할 수 있는 유일한 차원이기 때문입니다."
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Ancient Sapling$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "$(item)고대 묘목$()을 만들기 위해서는 $(l:practices/tree_ritual)숲의 의식$()을 사용해야 합니다.",
             "recipe": "naturesaura:ancient_sapling"
         },
         {

@@ -1,21 +1,21 @@
 {
-    "name": "Offshoot Observer",
+    "name": "파생 관측기",
     "icon": "naturesaura:slime_split_generator",
     "category": "creating",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "$(thing)Slimes$() and $(thing)Magma Cubes$() are peculiar beings. Upon being hurt enough, they $(thing)split$() into smaller versions of themselves, similarly to how cells multiply in the body. This natural process can be exploited by the $(item)Offshoot Observer$(): When such a creature splits in its vicinity, the created entropy will be consumed and $(aura) will be dispersed into the environment."
+            "text": "$(thing)슬라임$()과 $(thing)마그마 큐브$()는 특이한 존재들입니다. 일정 피해를 받으면 몸에서 세포가 증식하는 방식과 유사하게 작은 크기로 $(thing)분열$()됩니다. 이 자연스러운 과정에서 생성된 엔트로피를 $(item)파생 관측기$()를 이용하여 $(#419600)오라$()로 변환하여 세계에 흩뿌려집니다."
         },
         {
             "type": "text",
-            "text": "Needless to say, the amount of $(aura) created is based on the $(thing)size$() and $(thing)rarity$() of the creature.$(br)It should also be noted that, while the $(item)Offshoot Observer$() is in the process of dispering $(aura), causing an additional creature to split will not cause any more $(aura) to be created."
+            "text": "말할것도 없이 생성된 생물의 $(thing)크기$()및 $(thing)희소성$()을 기반으로 $(#419600)오라$()의 생성량이 결정됩니다.$(br)또한 $(item)파생 관측기$()가 분열에 의한 $(#419600)오라$()를 생성 중에 다른 생물이 분열하면 더 이상 $(#419600)오라$()가 생성되지 않는다는 점을 유의하세요."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:slime_split_generator",
-            "text": "Creating the $(item)Offshoot Observer$()"
+            "text": "$(item)파생 관측기$() 만드는 법"
         }
     ]
 }

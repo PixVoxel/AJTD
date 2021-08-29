@@ -1,21 +1,21 @@
 {
-    "name": "Canopy Diminisher",
+    "name": "숲 약화기",
     "icon": "naturesaura:oak_generator",
     "category": "creating",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Surely, at one point in their lives, any person dealing with trees was faced with this well-known issue: An $(item)Oak Sapling$() grows into a $(thing)big tree$() which is hard to look at, to manage and to chop down.$(br)The $(item)Canopy Diminisher$() is a block that serves two purposes in and of itself:$(br)Placing it close to an area that oak trees are growing in, at most about 10 blocks away from them, will cause only"
+            "text": "나무를 키우는 사람들이라면 누구나 살면서 한 번쯤은 잘 알려진 문제를 보게 됩니다. 바로 $(item)참나무 묘목$()이 드물게 관리도, 베어내기도 어렵고 보기에도 좋지 않은 $(thing)큰 나무$()로 자라는 경우가 있습니다. $(br)$(item)숲 약화기$()는 그 자체로 두 가지 목적을 수행합니다. $(br)참나무가 자라고 있는 지역의 최대 10블록 떨어진 곳에 배치하면"
         },
         {
             "type": "text",
-            "text": "normal-sized oaks to grow.$(br)In the process, the additional natural energy of any saplings that were growing into big trees gets turned into a quite substantial amount of $(aura) that will be fed into the environment.$(br)It should be noted that, as the $(thing)overworld$() realm is the only area where the trees in question naturally grow, it is also the only area where this device has an effect.$(br)Quite obviously, a great way to make use of this is for an automatic $(thing)tree farm$()."
+            "text": "보통 크기의 참나무만 자라게 됩니다. $(br)이 과정 중에 자라고 있던 묘목이 큰 나무로 자라게 된다면 상당한 양의 $(#419600)오라$()가 추가적으로 생산되어 세계에 흩뿌려집니다.$(br)오버월드 영역은 해당 나무가 자연적으로 자라는 유일한 영역이므로 이를 유의해야 합니다.$(br)이것을 활용하기 가장 좋은 방법은 자동 $(thing)나무 농장$()을 구성하는 것입니다."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:oak_generator",
-            "text": "Creating the $(item)Canopy Diminisher$()"
+            "text": "$(item)숲 약화기$()를 만드는 법"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Magical Botany",
+    "name": "마법 식물학",
     "icon": "minecraft:oak_sapling",
     "category": "intro",
     "pages": [
         {
             "type": "text",
-            "text": "As many readers may be aware, there are several branches of $(item)Botany$(), the study of $(thing)plants$(). A lot of botanists have, in the past, focused on the magical properties of plants in the form of flowers, such as the peculiar and pure daisy.$(br)However, botany is a lot more than that, especially $(item)Magical Botany$(), because not only are there more things to be discovered in nature than"
+            "text": "많은 독자들이 알고 있듯이 $(thing)식물$()에 대한 연구인 $(item)식물학$()에는 여러 내용이 존재합니다. 과거에 많은 식물학자들은 독특하고 순수한 데이지와 같은 꽃 형태의 식물의 마법적인 특성에 초점을 맞추었습니다.$(br)그러나 여기서 배우는 식물학은 그 이상을 배우게 될 겁니다. $(item)마법 식물학$()은 일반 식물학이 그저 자연의 꽃에서만 그 힘을"
         },
         {
             "type": "text",
-            "text": "just flowers, but there are also most likely more powerful things that the world hasn't learned about yet.$(br)When becoming a botanist and studying the influences of trees, flowers and the like, one will stumble upon natural mechanics that seem familiar, yet are, at their core, entirely different. Studying and understanding these is the goal of magical botany."
+            "text": "발견했을 뿐이지만, 세상에는 아직 알려지지 않은 더 강력한 힘이 존재할 것입니다.$(br)식물학자가 되어 나무, 꽃 등의 영향을 연구할 때 일부는 익숙하게 느껴지겠지만 근본적으로 완전히 다릅니다. 이것들을 연구하고 이해하는 것이 마법 식물학의 목표입니다."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Baubles",
+    "name": "장신구",
     "icon": "minecraft:totem_of_undying",
     "category": "intro",
     "read_by_default": true,
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes you might find yourself lost with the space of your $(thing)inventory$(), having sky-high stacks of blocks and items cluttering your backpack and slowing you down.$(br)Some $(thing)natural items$() might be able to be placed directly on arms, waist and chest as $(item)Baubles$(). If an item has this functionality, it will display in its tooltip the parts of the body that it can reside on."
+            "text": "때로는 $(thing)인벤토리$()의 공간 제한 때문에 하늘높이 쌓을 만큼의 블록과 아이템들이 배낭을 어지럽혀 무거워진 자신을 발견하게 될겁니다.$(br)몇몇 $(thing)자연의 아이템$() $(item)장신구$()는 팔, 허리, 몸통 등에 직접 장착할 수 있습니다. 아이템에 이 기능이 있는 경우 아이템에 달려있는 설명에 착용할 수 있는 신체부분이 적혀있습니다."
         }
     ]
 }

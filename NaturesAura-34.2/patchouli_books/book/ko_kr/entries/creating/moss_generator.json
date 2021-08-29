@@ -1,12 +1,12 @@
 {
-    "name": "Swamp Homi",
+    "name": "늪지대 호미",
     "icon": "naturesaura:moss_generator",
     "category": "creating",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "A great source of natural $(aura) is the $(thing)moss$() on any type of mossy block. This property can be made use of in the form of the $(item)Swamp Homi$(): It will take any blocks around it that are covered in moss and remove it, leaving the clean block behind. For each block that it does this with, it generates a bit of $(aura) and spreads it into the environment."
+            "text": "자연 $(#419600)오라$()가 잘 나오는 곳은 모든 유형의 $(thing)이끼 낀$() 블록입니다. 이런 블록들은 $(item)늪지대 호미$()를 사용하여 활용할 수 있습니다. 주변의 이끼 낀 블록의 이끼를 흡수하여 깨끗한 블록으로 만들어 내고 이 과정에서 약간의 $(#419600)오라$()를 생성하여 세계에 퍼뜨립니다."
         },
         {
             "type": "crafting",
