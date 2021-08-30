@@ -1,16 +1,16 @@
 {
-    "name": "Corporeal Eye",
+    "name": "육체의 눈",
     "icon": "naturesaura:animal_container",
     "category": "devices",
     "advancement": "naturesaura:eye",
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes, as a farmer, one wants their $(thing)animals$() to be contained in a small area as to prevent them from running away.$(br)The $(item)Corporeal Eye$() prevents any animals from exiting its area of effect without needing any blocks around it. Its $(thing)range$() for this containment is determined by the $(thing)redstone signal$() applied to it - the stronger it is, the bigger the area."
+            "text": "때때로 농부는 $(thing)동물들$()이 도망가는 것을 방지하기 위해 $(thing)동물들$()을 작은 지역에 보관하기를 원합니다.$(br)$(item)육체의 눈$()은 아무 블록으로 주변을 둘러놓을 필요 없이 동물이 도망가지 못하게 막는 효과를 발휘합니다. 적용 $(thing)범위$()는 적용된 $(thing)레드스톤 신호$()의 크기에 따라 달라지며 강할수록 범위가 넓어집니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Corporeal Eye$()",
+            "text": "$(item)육체의 눈$() 만드는 법",
             "recipe": "naturesaura:animal_container"
         }
     ]

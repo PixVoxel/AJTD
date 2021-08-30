@@ -1,20 +1,20 @@
 {
-    "name": "Item Distributor",
+    "name": "아이템 분배기",
     "icon": "naturesaura:item_distributor",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "In a time long past, non-botanic scientists had created an actual addition to the world: The $(item)Item Distributor$(). Yet back in the day, its state was far less than functioning, but $(aura) turned this around by infusing the materials with the required power to move items by a designated pattern.$(br)The $(item)Item Distributor$() will take any items from containers that are placed $(thing)on top$() of it and"
+            "text": "오래 전 식물학자가 아닌 과학자들이 $(item)아이템 분배기$()를 만들어 냈습니다. 그러나 당시에는 상태가 기능에 비해 훨씬 낮은 상태였습니다. 하지만 $(#419600)오라$()를 이용하여 지정된 패턴으로 항목을 이동하는 필요한 힘을 재료에 주입함으로써 당시의 상황은 뒤집혔습니다.$(br)$(item)아이템 분배기$()는 $(thing)상단$()에 배치된 모든 종류의 저장공간에서 아이템을 가져와서"
         },
         {
             "type": "text",
-            "text": "distribute them $(thing)equally$() throughout all of the containers that are placed $(thing)on the sides$() of it. Additionally, when having an $(l:items/eye)Environmental Eye$() equipped, the distributor is able to be switched into $(thing)random mode$() simply by sneaking and interacting with it. Following this action, items will not be distributed into the inventories equally, but randomly. This can be useful, for example, for redstone contraptions that require randomness."
+            "text": "$(thing)측면$()에 배치된 모든 저장공간에 $(thing)공평하게$() 배포합니다. 또한 $(l:items/eye)세계의 눈$()을 장착한 상태로 웅크린 상태로 우클릭하여 $(thing)무작위 모드$()로 전환할 수 있습니다. 이렇게 설정하면 아이템이 저장공간에 균등하게 분배되지 않고 무작위로 분배됩니다. 무작위성을 요구하는 레드스톤 장치 같은 것에 유용할 수 있습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Item Distributor$()",
+            "text": "$(item)아이템 분배기$() 만드는 법",
             "recipe": "naturesaura:item_distributor"
         }
     ]

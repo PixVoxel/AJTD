@@ -1,16 +1,16 @@
 {
-    "name": "Aura Detector",
+    "name": "오라 탐색기",
     "icon": "naturesaura:aura_detector",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "When working with $(aura), sometimes it can be beneficial to know about its levels in an area without having to be there to check in person. The $(item)Aura Detector$() gives out a $(thing)redstone$() signal based on the amount of $(aura) in the close vicinity around it, so long as you attach a $(item)Comparator$() to it. For that, its range of display is similar to that of the $(l:items/eye)Environmental Eye$()."
+            "text": "$(#419600)오라$()로 작업할 때 때때로는 직접 확인하지 않고도 해당 지역의 정도를 아는 것이 도움이 될 수 있습니다. $(item)오라 탐색기$()는 $(item)비교기$()를 부착하기만 하면 주변에 있는 $(#419600)오라$()의 양에 따라 $(thing)레드스톤 신호$()를 내보냅니다. 관측하는 범위는 $(l:items/eye)세계의 눈$()과 유사합니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Detector$()",
+            "text": "$(item)오라 탐색기$() 만드는 법",
             "recipe": "naturesaura:aura_detector"
         }
     ]

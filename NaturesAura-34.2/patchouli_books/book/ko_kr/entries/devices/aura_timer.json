@@ -1,20 +1,20 @@
 {
-    "name": "Redstone Aura Vaporizer",
+    "name": "래드스톤 오라 기화기",
     "icon": "naturesaura:aura_timer",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Some $(thing)redstone$() contraptions, especially more complicated ones, may require the construction of a device that activates in a certain $(thing)interval$() - a $(item)timer$(). To the unexperienced engineer, this may seem like a daunting task, but the $(item)Redstone Aura Vaporizer$() simplifies it quite a bit.$(br)The infused iron bowl in the center of the device can hold any type of $(l:practices/aura_bottle)Bottled Aura$(),"
+            "text": "일부 $(thing)레드스톤$() 장치들, 특히 더 복잡하게 구성된 장치들은 특정 $(thing)간격$()으로 활성화 되는 $(item)타이머$()의 구성이 필요할 수 있습니다. 경험이 없는 엔지니어에겐 이것은 어려운 작업일겁니다. 하지만 $(item)레드스톤 오라 기화기$()는 이를 상당히 단순화합니다.$(br) 장치 중앙에 오라가 주입된 철 그릇에 모든 유형의 $(l:practices/aura_bottle)병에 담긴 오라$()를 놓으면"
         },
         {
             "type": "text",
-            "text": "which will be vaporized at a precise speed. Each time a vaporization is finished, a $(thing)redstone signal$() is emitted for a brief moment, and the $(aura) flows back into the bowl.$(br)The type of $(aura) inserted, as well as the amount of bottles, determine the time between activations: A bottle of $(thing)sunlight$() lasts for a second, a bottle of $(thing)ghosts$() for a minute and a bottle of $(thing)darkness$() for an hour. This means that a redstone signal can be emitted as infrequently as once every sixty-four hours, if required."
+            "text": "일정한 속도로 기화됩니다. 기화가 완료될 때마다 잠시 동안 $(thing)레드스톤 신호$()가 방출되고 $(#419600)오라$()가 그릇으로 다시 돌아옵니다.$(br)넣은 $(#419600)오라$()의 종류에 따라 작동 주기가 달라집니다. $(thing)햇빛$()이 든 병은 1초 간격, $(thing)유령$()이 든 병은 1분 간격, $(thing)어둠$()이 든 병은 1시간 간격으로 주기를 결정합니다. 이는 필요한 경우 최대 64시간 마다 한 번씩 드물게 $(thing)레드스톤 신호$()를 방출되게 만들수도 있다는 것을 의미합니다."
         },
         {
             "type": "text",
-            "text": "Inserting the bottles by hand should suffice in most situations, but if necessary, bottles can also be inserted and extracted through any kind of $(thing)automation$().$(br)The device's vaporization progress can easily be reset by supplying a $(thing)redstone signal$().$(br)Additionally, the total amount of time, as well as the remaining time for each vaporization, can be viewed by looking at the device with an $(l:items/eye)Environmental Eye$() equipped."
+            "text": "보통은 손에 병을 들고 직접 넣는 것으로 충분하겠지만 필요한 경우 특정 종류의 $(thing)자동화$()를 통해 병을 집어넣고 뺄 수 있습니다.$(br)장치의 기화 진행은 $(thing)레드스톤 신호$()를 주어 쉽게 재설정 할 수 있습니다.$(br)또한 $(l:items/eye)환경의 눈$()을 장착한 상태로 장치를 보면 총 시간과 전부 기화되기까지의 남은 시간을 볼 수 있습니다."
         },
         {
             "type": "crafting",

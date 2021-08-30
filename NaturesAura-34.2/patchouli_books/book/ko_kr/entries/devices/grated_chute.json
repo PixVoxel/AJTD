@@ -1,24 +1,24 @@
 {
-    "name": "Adept Hopper",
+    "name": "개조 호퍼",
     "icon": "naturesaura:grated_chute",
     "category": "devices",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "A lot of times when dealing with mechanical devices, $(thing)transporting items$() is of great importance and can become a nuisance if done on a large scale, especially because of the lack of $(thing)filtering$() abilities. The $(item)Adept Hopper$() creates the ability to filter items travelling through $(item)Hoppers$() with ease."
+            "text": "자주 기계 장치를 다룰 때 $(thing)아이템 운송$()은 매우 중요하며 특히 기존에는 $(thing)필터링$() 기능이 부족하기 때문에 대규모 장치 구성에서는 여러모로 성가신 일이 되는 경우가 많았습니다. $(item)개조 호퍼$()는 $(item)호퍼$()를 통한 운송에서 필터링 기능을 쉽게 만듭니다."
         },
         {
             "type": "text",
-            "text": "The $(item)Adept Hopper$() works just like a normal $(item)Hopper$(), except that it is a bit faster and that it can filter items as follows: Attaching any number of $(item)Item Frames$() to any side of it and placing items inside will cause $(thing)only those items$() to be let through. This counts both for pulling items from chests and the world and for having items inserted into it.$(p)It should additionally be noted that the $(l:using/hopper_upgrade)Hopper Enhancement$() can be combined with this to pick up only filtered items."
+            "text": "$(item)개조 호퍼$()는 $(item)호퍼$()처럼 작동하지만, 조금 더 빠르고 몇 개의 $(item)아이템 액자$()를 측면에 부착한 뒤 아이템을 배치하면 $(thing)해당 아이템들$()만 통과할 수 있게되는 필터링 기능을 제공합니다. 이 필터링은 세계나 상자에서 아이템을 가져오고 아이템을 다른 저장공간 등에 집어넣는 모든 과정에서 고려됩니다.$(p)추가로 $(l:using/hopper_upgrade)호퍼 마법 부여$()를 결합하여 필터로 지정된 아이템만 집어낼 수 있게 만들수 있습니다."
         },
         {
             "type": "text",
-            "text": "Additionally, the $(item)Adept Hopper$()'s functionality can be $(thing)inverted$() simply by interacting with it while sneaking: This will cause not items $(italic)in$() the frames to be accepted, but all items that are $(italic)not$() in the frames. This, additionally, allows for throughput of any item, simply by not placing down any frames at all."
+            "text": "또한 $(item)개조 호퍼$()에 웅크린 상태로 우클릭하여 작동을 $(thing)반전$()시킬 수 있는 기능이 있습니다. 이 동작은 필터링 된 아이템의 통과를 허용하지 $(italic)않고 필터링 된 아이템 전부를 $() $(italic)허용합니다$(). 이런 방식으로 아이템 액자를 배치하지 않고 모든 아이템의 처리를 허용할 수 있습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Adept Hopper$()$(p)It should be noted that, when equipping an $(l:items/eye)Environmental Eye$(), the amount of items currently stored in the hopper can be seen.",
+            "text": "$(item)Adept Hopper$() 만드는 법$(p)그리고 $(l:items/eye)환경의 눈$()을 장착하면 현재 호퍼에 저장된 아이템의 양을 볼 수 있습니다.",
             "recipe": "naturesaura:grated_chute"
         }
     ]

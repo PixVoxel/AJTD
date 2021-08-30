@@ -1,20 +1,20 @@
 {
-    "name": "Aura Attraction Cart",
+    "name": "오라 견인 수레",
     "icon": "naturesaura:mover_cart",
     "category": "devices",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "One of the problems many $(aura) researchers face is that, while it's plentiful and easy to access, it's not necessarily easy to $(thing)move around$(). For this, the $(item)Aura Attraction Cart$() was developed: Its sole purpose is to provide the ability for $(aura) to be moved around the world easily. For that, all that is required is an excess amount of $(aura) in the starting area and some $(item)rails$()."
+            "text": "많은 오라 연구자들이 직면하는 문제는 $(#419600)오라$()는 풍부하고 접근하기 쉽지만 $(thing)운송$()은 쉽지 않다는 점입니다. 이를 위해 $(item)오라 견인 수레$()가 개발되었습니다. 이 수레의 유일한 목적은 $(#419600)오라$()가 전 세계를 쉽게 이동할 수 있도록 운송 수단을 제공해준다는 점입니다. 이를 위해 필요한 것은 초기 $(#419600)오라$()의 양과 몇 개의 특정한 $(item)레일$()입니다."
         },
         {
             "type": "text",
-            "text": "To use the $(item)Aura Attraction Cart$(), one needs to place it on a rail. To cause it to hook on to $(aura) in the area around it and to make it able to move it around, it needs to pass a powered $(item)Activator Rail$(). It will then pick up the $(aura) around it and pull it along with it until it reaches an unpowered $(item)Activator Rail$(), at which point it will let go of the $(aura).$(p)It should be noted that, during the process of moving $(aura) in this manner, some of the excess is $(thing)$(t:| || || |_)lost$()."
+            "text": "$(item)오라 견인 수레$()를 사용하려면 먼저 레일에 놓아야 합니다. 주변 영역의 $(#419600)오라$()를 담아 운송할 수 있도록 하려면 레드스톤 신호가 공급된 $(item)활성화 레일$()을 통과해야합니다. 전원이 공급되지 않은 $(item)활성화 레일$()에 도달하기 전까지 운송합니다. 그리고 해당 지점에 도착하면 $(#419600)오라$()를 서계에 퍼뜨립니다.$(p)운송 과정 중 주의할 점은 이런 방식으로 운송 할 때에는 $(#419600)오라$()의 일부가 $(thing)$(t:| || || |_)손실$()된다는 점입니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Aura Attraction Cart$()",
+            "text": "$(item)오라 견인 수레$() 만드는 법",
             "recipe": "naturesaura:mover_cart"
         }
     ]
