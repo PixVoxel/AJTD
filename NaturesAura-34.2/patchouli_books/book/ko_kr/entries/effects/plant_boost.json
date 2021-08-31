@@ -1,21 +1,21 @@
 {
-    "name": "Vegetational Increase",
+    "name": "식물성 증강",
     "icon": "minecraft:wheat_seeds",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When the amount of $(aura) in an area is high enough for it to become unstable, it starts to migrate into parts of vegetation that is close by, specifically plants like $(item)Wheat$(), $(item)Potatoes$() and so on. This will cause them to have $(thing)growth spurts$(), while, at the same time, causing the $(aura) in the area to slightly decrease as a result."
+            "text": "불균형을 일으킬 만큼의 충분한 $(#419600)오라$()가 모일 경우 근처의 식물들, 특히 $(item)밀$(), $(item)감자$()와 같은 식물 종류에 이동하기 시작합니다. $(thing)성장 급증$()을 일으키면서 동시에 해당 지역의 $(#419600)오라$()가 약간 감소합니다."
         },
         {
             "type": "text",
-            "text": "Effects like these become apparent around the time that the meter of the $(l:items/eye)Environmental Eye$() fills up by about three quarters.$(br)This effect is known to only occur in the $(thing)overworld$()."
+            "text": "이러한 효과는 $(l:items/eye)환경의 눈$()으로 봤을 때의 게이지가 약 3/4 채워졌을 때에 확실하게 발생합니다.$(br)이 효과는 $(thing)오버월드$()에서만 발생하는 것으로 알려져 있습니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:plant_powder",
-            "text": "This effect can be inhibited using $(l:effects/effect_powder)Powder of Steady Growth$()."
+            "text": "이 효과는 $(l:effects/effect_powder)꾸준한 성장의 가루$()로 억제할 수 있습니다."
         }
     ]
 }

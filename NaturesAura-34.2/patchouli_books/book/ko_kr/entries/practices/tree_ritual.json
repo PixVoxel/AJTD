@@ -1,5 +1,5 @@
 {
-    "name": "Ritual of the Forest",
+    "name": "숲의 의식",
     "icon": "naturesaura:wood_stand",
     "category": "practices",
     "advancement": "naturesaura:gold_leaf",
@@ -8,45 +8,45 @@
     "pages": [
         {
             "type": "text",
-            "text": "When starting out as a magical botanist, it proves beneficial to use the powers of nature on a more direct level before delving directly into $(aura) itself. The $(item)Ritual of the Forest$() uses properties of $(l:practices/gold_trees)Gold Powder$() to encorporate the power of natural ingredients directly into a fresh, growing tree, devouring it in the process, but at the same time, transforming it into useful tools and items."
+            "text": "마법의 식물학자에 입문할 때 $(#419600)오라$()자체를 직접 탐구하기 보다는 직접적인 수준에서 자연의 힘을 사용하는 것이 유익한 것으로 판명되었습니다. $(item)숲의 의식$()은 $(l:practices/gold_trees)금빛 가루$()의 속성을 이용하여 자연 성분의 힘을 막 자라난 나무에 통합하여 그 나무를 먹어치워 새로운 도구나 아이템으로 탈바꿈 시킵니다."
         },
         {
             "type": "text",
-            "text": "To construct this $(thing)ritual$(), one has to place $(item)Gold Powder$() in the configuration shown on the next page, with some $(item)Wooden Stands$() around that which will hold the ingredients.$(br)Then, the correct $(item)Sapling$() must be placed in the middle, and, either through some kind of fertilizer, or through the inevitability of time, its growth will cause the ritual to start."
+            "text": "이 $(thing)의식$() 구조믈을 구성하려면 다음 페이지에 표시된 곳에 $(item)금빛 가루$()를 배지해야 되며 재료를 놓을 수 있는 $(item)나무 전시대$()가 있어야 합니다.$(br)그 다음 올바른 $(item)묘목$()을 중앙에 배치하여야 하며 일종의 비료를 사용하거나 시간의 불가피성을 통해 나무가 성장하면 의식이 시작됩니다."
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:tree_ritual",
-            "text": "Preparing the $(item)Ritual of the Forest$(). It is not required to have all $(item)Wood Stands$() present."
+            "text": "$(item)숲의 의식$() 준비하는 법. 모든 $(item)나무 전시대$()를 준비할 필요는 없습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating $(item)Wooden Stands$()",
+            "text": "$(item)나무 전시대$() 만드는 법",
             "recipe": "naturesaura:wood_stand"
         },
         {
             "type": "text",
-            "text": "Together with the ritual, knowledge of $(item)Tokens$() can be gained: Wooden figurines, depicting key emotions - created from trees infused with their respective symbols. These figurines contain a combination of the vast power of $(aura) itself and the power of the emotions they represent.$(p)Going forward, these $(item)Tokens$() will be a key construction ingredient."
+            "text": "의식과 함께 $(item)징표$()에 대한 지식을 얻을 수 있습니다. 이것은 나무로 만들어진 인형이며 주요 감정들이 묘사되어있습니다. 이 인형들은 $(#419600)오라$() 자체의 엄청난 힘과 그것을 나타내는 감정의 힘이 결합되어 있습니다.$(p)앞으로 이 $(item)징표$()들은 핵심 재료가 될 것입니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_joy",
-            "text": "Creating the $(item)Token of Joy$(), infused with items that spark joy, found in nature, exploration and beauty"
+            "text": "$(item)기쁨의 징표$() 만드는 법; 자연, 탐험, 아름다움에서 찾은 기쁨을 불러일으키는 요소들로 가득 차 있습니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_fear",
-            "text": "Creating the $(item)Token of Fear$(), infused with items representing transience, falling"
+            "text": "$(item)두려움의 징표$() 만드는 법; 추락, 무상을 나타내는 요소들이 주입되어 있습니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_anger",
-            "text": "Creating the $(item)Token of Anger$(), infused with dark components - explosiveness, fire, darkness"
+            "text": "$(item)분노의 징표$() 만드는 법; 폭발성, 불, 어둠과 같은 어두운 감정의 요소가 주입되어 있습니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:token_sorrow",
-            "text": "Creating the $(item)Token of Sorrow$(), infused with tears, fragility and death"
+            "text": "$(item)슬픔의 징표$() 만드는 법; 눈물, 연약함, 죽음이 주입되어 있습니다."
         }
     ]
 }

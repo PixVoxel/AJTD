@@ -1,5 +1,5 @@
 {
-    "name": "Brilliant Trees",
+    "name": "찬란한 나무",
     "icon": "naturesaura:gold_leaf",
     "category": "practices",
     "priority": true,
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "text",
-            "text": "Through the years that botanist's have been trying to figure out the magical properties of $(aura) bearing objects, they have discovered an unexpected, yet common, theme: $(item)Gold$() seems to always play a role in the interaction between humans and $(aura)."
+            "text": "식물학자들은 $(#419600)오라$()를 지닌 물체의 마법적인 속성을 알아내려는 노력을 진행해왔습니다. 그러다 문득 예상치 못하였으며, 흔한 재료에서 이를 발견했습니다. 바로 $(item)금$()이였습니다. 이것은 항상 인간과 $(#419600)오라$()를 이어주는 징검다리 역활을 해왔던 것이였습니다."
         },
         {
             "type": "spotlight",
-            "text": "To get into first contact with the substance's powers, one is required to create a $(item)Brilliant Tree$() that will, when harvested, shed $(item)Gold Leaf$() - a delicate, yet powerful material. To create such a tree, simply craft a bit of $(item)Brilliant Fiber$() and place it into the crown of a tree. Time will then bring brilliance.",
+            "text": "물질의 힘을 처음 접하려면 먼저 $(item)찬란한 나무$()를 만든 뒤 섬세하지만 강력한 물질인 $(item)금빛 나뭇잎$()을 얻을 필요가 있습니다. 이러한 나무를 만들려면 $(item)찬란한 섬유를 만들어$()나무의 잎에 사용하기만 하면 됩니다. 시간이 지나게 되면 나무에 찬란함을 가져올 것입니다.",
             "item": "naturesaura:gold_leaf",
             "link_recipe": true
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Brilliant Fiber$()",
+            "text": "$(item)찬란한 섬유$() 만드는 법",
             "recipe": "naturesaura:gold_fiber"
         },
         {
             "type": "crafting",
-            "text": "$(item)Gold Leaf$(), once harvested, can easily be crushed into $(item)Gold Powder$() which can be placed on the ground as an integral part of the $(l:practices/tree_ritual)Ritual of the Forest$().",
+            "text": "$(item)금빛 나뭇잎$()은 수확하여 쉽게 $(item)금빛 가루$()로 갈아낼 수 있으며 이는 $(l:practices/tree_ritual)숲의 의식$()의 필수적인 재료로 땅에 배치할 수 있습니다.",
             "recipe": "naturesaura:gold_powder"
         }
     ]

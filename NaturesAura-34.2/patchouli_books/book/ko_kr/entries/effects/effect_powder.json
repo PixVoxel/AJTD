@@ -1,5 +1,5 @@
 {
-    "name": "Effect Powder",
+    "name": "효과 가루",
     "icon": "naturesaura:effect_powder{effect:'naturesaura:plant_boost'}",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Effect Powder$() is a magical substance that has two purposes: For one, it can $(thing)inhibit$() existing passive effects from happening. Additionally, some effects can only happen with it around in the first place, meaning that it also has $(thing)creational$() abilities.$(p)The powder, of course, only works on positive effects."
+            "text": "$(item)효과 가루$()는 두 가지 목적을 가진 마법의 가루입니다. 하나는 기존의 효과를 $(thing)억제$()하는데, 다른 하나는 주변에서만 발생하는 $(thing)창조$()효과를 지녔습니다.$(p)가루는 당연히 긍정적인 효과에서만 작동합니다."
         },
         {
             "type": "text",
-            "text": "To use it, simply placing a stack of any size down on the ground will cause it to either stop its effect or create it, depending on the type of powder used. The $(thing)range$() the effect will have in blocks is equal to the size of the stack placed down. Hitting it while it is on the ground will cause it to go back into its item form.$(p)Each effect that has an $(item)Effect Powder$() attached to it will show the recipe in its chapter."
+            "text": "사용하려면 해당 가루의 유형에 따라 아무 갯수 만큼 바닥에 놓기만 하면 효과가 중지되거나 발생합니다. 효과의 $(thing)범위$()는 블록에 놓인 블록 갯수의 크기와 같습니다. 바닥에 있을 때 왼클릭으로 아이템화 하여 회수할 수 있습니다.$(p)$(item)효과 가루$()에 붙어있는 각 효과는 해당 장의 레시피에서 확인할 수 있습니다."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Aura Bottling",
+    "name": "오라 병에 담기",
     "icon": "naturesaura:aura_bottle{stored_type:'naturesaura:overworld'}",
     "category": "practices",
     "advancement": "naturesaura:wood_stand",
@@ -7,22 +7,22 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(aura) and its presence in the world has been a conundrum to researchers for a long time now. Back in the day, they used to use $(item)Bottles$() to collect $(aura) and to be able to analyze it in greater detail as it becomes visible to the naked eye that way. Soon after, complaints from uninformed civilians started troubling them: \"Other scientists already have a use for bottles, this will cause issues\", they said."
+            "text": "$(#419600)오라$()와 그것이 존재한 세계에서의 존재는 오랫동안 연구원들에게 수수께끼였습니다. 예전에는 $(item)병$()을 이용하여 $(#419600)오라$()를 수집하면 육안으로도 보여 더 자세히 분석할 수 있었습니다. 얼마 가지않아 지식이 없는 민간인들은 \"다른 과학자들이 이미 병을 사용하고 있고 이것이 언젠가 문제를 일으킬겁니다!\" 라고 주장하며 그들을 괴롭히기 시작했습니다."
         },
         {
             "type": "crafting",
-            "text": "As such, and to shut out all the incoherent blabber, they created the $(item)Bottle and Cork$(): A similar, yet slightly different utensil to the bottle that can be used exclusively to collect $(aura) by simply interacting with the air while holding it.",
+            "text": "따라서 이런 일관성 없는 모든 말을 사전에 방지하기 위해서 $(item)코르크와 병$()을 만들었습니다. 병과 유사하지만 약간 다른 사용법을 가지고 있습니다. 병을 들고 있는 동안 단순히 허공에 우클릭하여 $(#419600)오라$()를 수집하는 데에만 사용할 수 있습니다.",
             "recipe": "naturesaura:bottle_two_the_rebottling"
         },
         {
             "type": "spotlight",
             "item": "naturesaura:aura_bottle{stored_type:'naturesaura:overworld'}",
             "link_recipe": true,
-            "text": "Of course, based on the world that you are currently in, the type of $(aura) collected will slightly vary. For instance, in the normal world, $(aura) can be gathered in the form of sunlight, while in the Nether realm, $(aura) can be gathered in the form of ghosts, and in the End realm, $(aura) is present in the form of an overabundance of darkness."
+            "text": "당연히 현재 있는 차원에 따라 수집되는 $(#419600)오라$()의 존재가 다를 수 있습니다. 예를 들어 일반 세계에서는 $(#419600)오라$()가 햇빛의 형태로 수집되고 네더 영역에서는 $(#419600)오라$()가 유령의 형태로 수집되며 엔드 영역에서는 $(#419600)오라$()가 매우 짙은 어둠의 형태로 수집됩니다."
         },
         {
             "type": "text",
-            "text": "Additionally, the collection of $(aura) in this manner can be automated easily using $(item)Dispensers$(): Putting empty $(item)Bottles and Corks$() into them will cause them to be shot out open, making them fill up with $(aura) in the process. As they are not sucked up by the Dispenser again afterwards, an additional tool like a $(item)Hopper$() is required."
+            "text": "또한 $(item)발사기$()를 이용하여 $(#419600)오라$() 수집을 쉽게 자동화 할 수 있습니다. 단순히 사용하기만 하면 비어있는 $(item)코르크와 병$()에 $(#419600)오라$()를 채워넣을 수 있게됩니다. 이후 다시 발사기에 들어가지 않으므로 $(item)호퍼$()와 같은 추가적인 도구가 필요합니다."
         }
     ]
 }

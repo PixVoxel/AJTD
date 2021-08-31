@@ -1,21 +1,21 @@
 {
-    "name": "Increase of Fertility",
+    "name": "생식력 증가",
     "icon": "minecraft:egg",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When the amount of $(aura) in an area increases beyond about two thirds of the $(l:items/eye)Environmental Eye$()'s gauge, and there is some $(l:effects/effect_powder)Powder of Fertility$() nearby, it starts to affect the $(item)animals$() in the area: Cows, sheep, pigs and the like will start $(thing)mating$() without any encouragement occasionally, draining some of the $(aura) in the process as if falling in love because of its power."
+            "text": "$(#419600)오라$()의 양이 $(l:items/eye)환경의 눈$()으로 봤을 때의 게이지에서 약 2/3이상으로 증가한 상태에서 근처에 $(l:effects/effect_powder)다산의 가루$()가 있다면 해당 지역의 소, 양, 돼지 등의 $(item)동물$()에게 격려 없이도 스스로 $(thing)짝$()을 짓습니다. 그 과정에서 사랑의 힘에 의해 $(#419600)오라$()가 소비됩니다."
         },
         {
             "type": "text",
-            "text": "Additionally, $(item)Eggs$() that have been laying around on the ground as an item for a while will $(thing)hatch$() into a chicken without needing to be thrown.$(p)Note that both of these effects will cease to occur once there are enough animals present in the area, preventing overpopulation."
+            "text": "또한 $(item)계란$()은 던질 필요없이 바닥에 떨어져 있기만 해도 닭으로 $(thing)부화$()합니다.$(p)참고로 이러한 효과는 해당 지역에 충분한 동물이 존재하면 더 이상 발생하지 않아 과잉 교배를 방지합니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:animal_powder",
-            "text": "Creating the $(l:effects/effect_powder)Powder of Fertility$()."
+            "text": "$(l:effects/effect_powder)다산의 가루$() 만드는 법."
         }
     ]
 }

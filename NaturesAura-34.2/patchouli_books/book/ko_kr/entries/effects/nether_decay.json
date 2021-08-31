@@ -1,12 +1,12 @@
 {
-    "name": "Crimson Decay",
+    "name": "진홍빛 부식",
     "icon": "minecraft:soul_sand",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "As it turns out, the effects of $(l:effects/decay)Natural Decay$() extend to the $(thing)nether$() in a way: When the $(aura) levels are low enough, $(item)netherrack$() and other blocks will start to $(thing)decay$() as well. First, they will transform into $(item)soul soil$(), then into $(item)soul sand$(), inevitably making the area truly hard to traverse. Additionally, blocks will also start to $(thing)ignite$() seemingly at random."
+            "text": "$(l:effects/decay)자연 부패$()는 $(thing)네더$()에서 $(#419600)오라$()가 일정 수치 이하로 낮아질 때 발생하며 결과적으로 $(item)네더랙$()과 몇몇 블록들이 $(thing)부식$()됩니다. 먼저 $(item)영혼 흙$()으로 변환되고 그 다음 $(item)영혼 모래$()로 변환되어 결국 해당 지역을 횡단하기 어렵게 만듭니다. 또한 무작위로 블록에 불이 $(thing)점화$()되기 시작합니다."
         }
     ]
 }

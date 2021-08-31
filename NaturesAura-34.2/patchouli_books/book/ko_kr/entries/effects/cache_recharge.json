@@ -1,17 +1,17 @@
 {
-    "name": "Natural Storage",
+    "name": "자연의 저장",
     "icon": "naturesaura:aura_cache",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "If enough $(aura) is present in the environment, so much so that the bar of the $(l:items/eye)Environmental Eye$() is filled up by about half above the regular amount, $(item)Natural Storage$() will start to occur: For any players around a saturated area that carry an $(l:items/aura_cache)Aura Cache$() with them, it will slowly start to $(thing)fill up$(), draining from the oversaturated $(aura)."
+            "text": "$(l:items/eye)환경의 눈$()으로 봤을 때의 게이지에서 절반 이상의 $(#419600)오라$()가 채워지면 $(item)자연의 저장$()현상이 발생합니다. 주변의 $(l:items/aura_cache)오라 축적기$()를 가진 플레이어가 해당 지역에 있을 때 과포화 상태의 $(#419600)오라$()를 흡수하여 천천히 $(thing)채워집니다$()."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:cache_powder",
-            "text": "This effect can be inhibited using $(l:effects/effect_powder)Powder of no Storage$()."
+            "text": "이 효과는 $(l:effects/effect_powder)무공간의 가루$()로 억제할 수 있습니다."
         }
     ]
 }

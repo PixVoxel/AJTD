@@ -1,21 +1,21 @@
 {
-    "name": "Mineral Amassing",
+    "name": "광물 집결",
     "icon": "minecraft:diamond_ore",
     "category": "effects",
     "advancement": "naturesaura:positive_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "Using the $(l:creating/generator_limit_remover)Creational Catalyst$(), $(aura) can be created beyond the point visible to the $(l:items/eye)Environmental Eye$(). This capability allows for a higher tier of imbalance effect to happen: $(item)Mineral Amassing$() will start occuring, provided there is a bit of $(l:effects/effect_powder)Powder of the Bountiful Core$() around."
+            "text": "$(l:creating/generator_limit_remover)창조의 촉매$()를 사용하면 $(l:items/eye)세계의 눈$()에서 보이는 지점을 넘어서 $(#419600)오라$()를 생성할 수 있습니다. 이 기능을 활용하여 $(l:effects/effect_powder)풍부한 핵의 가루$()가 주변에 뿌려져 있는 경우에 발생하는 $(item)광물 집결$()이라는 더 높은 단계의 불균형을 유도할 수 있습니다."
         },
         {
             "type": "text",
-            "text": "$(thing)Ores$() of varying rarities will start appearing in $(item)stone$() blocks in the overworld and $(item)netherrack$() blocks in the nether and, expectedly, quite a large amount of the natural $(aura) will be drained while these ores are being conjured.$(p)Of course, creational capabilities like this could be used for some sort of automation, maybe making use of blocks like the $(l:using/field_creator)Aura Field Creator$()."
+            "text": "다양한 희귀도의 $(thing)광석$()이 오버월드의 $(item)돌$() 블록과 네더의 $(item)네더랙$() 블록에 나타나기 시작하며 당연하게도 상당히 많은 양의 공석이 생성되는 동안 빠르게 $(#419600)오라$()가 고갈됩니다.$(p)물론 이와 같은 생성 기능은 일종의 자동화에 사용될 수 있으며 $(l:using/field_creator)오라 필드 생성기$()와 같은 블록으로 활용할 수도 있을겁니다."
         },
         {
             "type": "naturesaura:tree_ritual",
             "recipe": "naturesaura:ore_spawn_powder",
-            "text": "Creating the $(l:effects/effect_powder)Powder of the Bountiful Core$()."
+            "text": "$(l:effects/effect_powder)풍부한 핵의 가루$() 만드는 법."
         }
     ]
 }

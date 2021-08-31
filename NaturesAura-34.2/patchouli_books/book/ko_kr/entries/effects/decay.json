@@ -1,12 +1,12 @@
 {
-    "name": "Natural Decay",
+    "name": "자연의 부패",
     "icon": "naturesaura:decayed_leaves",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When draining $(aura) from an area to the point that plants and other vegetation no longer have the natural energy required to support themselves, $(thing)Natural Decay$() kicks in. All $(item)Grass$() will decay, along with $(item)Leaves$() from trees and other plants. The more $(aura) is drained from an area, the worse this effect will get.$(br)It seems that this effect only occurs in the $(thing)overworld$() and the $(thing)nether$()."
+            "text": "식물 및 다른 작물들이 더 이상 스스로를 지탱하는 데 필요한 자연 에너지가 없는 지점까지 $(#419600)오라$()가 흡수되면 $(thing)자연의 부패$()가 시작됩니다. $(item)모든 식물$(), 나무의 $(item)나뭇잎$()이나 모든 식물들이 시들어갑니다. 더 많은 $(#419600)오라$()가 흡수될 수록 더 악화됩니다.$(br)이 효과는 $(thing)오버월드$()와 $(thing)네더$()에서만 발생하는 것 같습니다."
         }
     ]
 }

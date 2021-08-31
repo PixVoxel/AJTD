@@ -1,12 +1,12 @@
 {
-    "name": "Inexplicable Anger",
+    "name": "형용할 수 없는 분노",
     "icon": "minecraft:fire_charge",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When $(aura) levels get low enough in any area of any world, the increasing pressure of the environment makes it harder to contain oneself. Certain monsters, like $(item)Zombified Piglins$(), $(item)Endermen$() and other creatures that would usually only feel bothered when disturbed will instead start to $(thing)get angry$() seemingly completely out of the blue as soon as one comes close enough to them."
+            "text": "아무 차원의 해당 지역에 $(#419600)오라$()가 일정량 이하가 될 때 환경의 압력이 증가되어 자신을 억제하기가 어려워집니다. 특정 몬스터, 가령 $(item)좀비화 피글린$()이나 $(item)엔더맨$()처럼 일반적으로 공격 당할 때만 분노하는 몬스터에게 가까이 다가가기만 해도 난데없이 $(thing)분노$()합니다."
         }
     ]
 }

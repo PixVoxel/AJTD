@@ -1,12 +1,12 @@
 {
-    "name": "Unstable Outbreak",
+    "name": "불안정한 돌발",
     "icon": "minecraft:tnt",
     "category": "effects",
     "advancement": "naturesaura:negative_imbalance",
     "pages": [
         {
             "type": "text",
-            "text": "When the $(aura) levels in the area are extremely low, to the point that $(item)Natural Decay$() has already done all of the work it can, but the levels are still not increased, nature itself loses stability to the point of $(item)Unstable Outbreak$(): $(thing)Explosions$() will start sporadically occuring in a large area on the surface, their severity and interval varying based on the severity of the imbalance."
+            "text": "해당 지역의 $(#419600)오라$()가 심각하게 낮아진 상태에서 $(item)자연의 부패$()가 전부 진행됩니다. 그 상태 이후로 여전히 $(#419600)오라$()의 수치가 낮다면 자연은 심각한 불균형으로 인해 $(item)불안정한 돌발$()이 발생하여 표면의 넓은 영역에 산발적으로 $(thing)폭발$()이 일어나기 시작합니다. 불균형의 심각도에 따라 폭발 크기와 간격이 달라집니다."
         }
     ]
 }

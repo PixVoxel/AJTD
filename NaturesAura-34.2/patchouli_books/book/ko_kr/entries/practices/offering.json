@@ -1,61 +1,61 @@
 {
-    "name": "Offering to the Gods",
+    "name": "신들을 위한 제물",
     "icon": "naturesaura:offering_table",
     "category": "practices",
     "advancement": "naturesaura:tainted_gold",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)Infused Iron$() is good and well, and it has enough natural power to do a variety of things on its own. But for more advanced mechanisms, a more powerful metal is required. For that, and for a lot of other things, the $(item)Offering to the Gods$() is required.$(br)The Gods have been, for a long time, the strongest and most powerful beings, and as such, also posess the strongest metals known to man."
+            "text": "$(item)오라가 주입된 철$()은 좋은 성능을 지녔으며, 스스로 다양한 일을 할 수 있을 만큼의 타고난 힘을 지녔습니다. 그러나 더 발전된 메커니즘을 위해서는 더 강력한 금속이 필요합니다.  이를 위해, 그리고 다른 많은 것들을 위해 $(item)신들에게 바치는 제물 제단$()이 필요합니다.$(br)신은 오랫동안 가장 강력하고 강대한 존재였으며 인간에게 잘 알려진 가장 강한 금속을 가지고 있습니다."
         },
         {
             "type": "text",
-            "text": "To construct a way to call to the Gods themselves, simply place down an $(item)Offering Table$() with some flowers around it as depicted on the next page. Then, to start an offering, place any amount of items you want to offer into the bowl on the table, and then throw down the item that will call the Gods themselves, in most cases, the $(item)Spirit of Calling$(), close to the table.$(br)The requested items will then, with any luck, rain down from the sky."
+            "text": "신들을 부를 방법을 구성하려면 다음 페이지에 설명된 것처럼 주위에 꽃과 함께$(item)제물 탁자$()를 놓기만 하면 됩니다. 그런다음 제물 의식을 시작하려면 탁자 위의 그릇에 원하는 양만큼 제물로 바치고 싶은 물건을 놓은 다음 탁자 근처에 $(item)부름의 영혼을$()던져놓습니다.$(br)그러면 신에게 요청한 아이템이 하늘에서 떨어져 내려올 것입니다."
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:offering_table",
-            "text": "Preparing the $(item)Offering to the Gods$(). Any type of flower can be used."
+            "text": "$(item)신들을 위한 제물 제단$() 구성하는 법. 꽃은 아무 종류나 사용할 수 있습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Offering Table$()",
+            "text": "$(item)제물 탁자$() 만드는 법",
             "recipe": "naturesaura:offering_table"
         },
         {
             "type": "crafting",
-            "text": "Creating $(item)Spirits of Calling$()",
+            "text": "$(item)부름의 영혼$() 만드는 법",
             "recipe": "naturesaura:calling_spirit"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Asking for $(item)Ingots of the Sky$(), a powerful metal infused with divine energy.",
+            "text": "$(item)하늘의 주괴$() 요청하는 법, 신성한 힘이 주입된 강력한 금속입니다.",
             "recipe": "naturesaura:sky_ingot"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Asking for $(item)Ingots of the Sky$() using $(item)Tainted Gold$() results in a higher yield.",
+            "text": "$(item)오염된 금$()을 사용하여 $(item)하늘의 주괴$()를 요청하면 더 많이 획득할 수 있습니다.",
             "recipe": "naturesaura:sky_ingot_from_gold"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Exchanging the $(item)Token of Joy$() for a much stronger version, the $(item)Token of Euphoria$()",
+            "text": "$(item)기쁨의 징표를$()를 더 강력한 형태인 $(item)행복감의 징표$()로 바꾸는 법",
             "recipe": "naturesaura:token_euphoria"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Exchanging the $(item)Token of Fear$() for a much stronger version, the $(item)Token of Terror$()",
+            "text": "$(item)두려움의 징표$()를 더 강력한 형태인 $(item)공포의 징표$()로 바꾸는 법",
             "recipe": "naturesaura:token_terror",
             "anchor": "terror"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Exchanging the $(item)Token of Anger$() for a much stronger version, the $(item)Token of Rage$()",
+            "text": "$(item)분노의 징표$()를 더 강력한 형태인 $(item)격노의 징표$()로 바꾸는 법",
             "recipe": "naturesaura:token_rage"
         },
         {
             "type": "naturesaura:offering",
-            "text": "Exchanging the $(item)Token of Sorrow$() for a much stronger version, the $(item)Token of Grief$()",
+            "text": "$(item)슬픔의 징표$()를 더 강력한 형태인 $(item)비통의 징표$()로 바꾸는 법",
             "recipe": "naturesaura:token_grief"
         }
     ]
