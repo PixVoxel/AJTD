@@ -1,111 +1,111 @@
 {
-    "name": "Transmutation Catalyst",
+    "name": "변환 촉매",
     "icon": "naturesaura:conversion_catalyst",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The $(l:using/altar)Natural Altar$() can be useful for infusing certain items with the power of $(aura), however, it can also assist in transmuting items from one type into another.$(br)This can be achieved by creating the $(item)Transmutation Catalyst$() and placing it on top of any of the four lower $(item)Golden Stone Brick$() blocks around the altar, and then placing the ingredient on the altar as usual."
+            "text": "$(l:using/altar)자연의 제단$()의 힘은 특정 아이템에 $(#419600)오라$()를 주입하는데 유용할 수 있지만 아이템을 한 유형에서 다른 유형으로 변환하는 데에도 도움이 될 수 있습니다.$(br)이 $(item)변환 촉매$()를 만들어서 제단 주위의 4개의 낮은 $(item)황금 석재 벽돌$() 위에 놓은 다음 평소처럼 제단에 재료 아이템을 다음과 배치하면 작동시킬 수 있습니다."
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Transmutation Catalyst$() using the $(l:practices/tree_ritual)Ritual of the Forest$().",
+            "text": "$(l:practices/tree_ritual)숲의 의식$()을 사용하여 $(item)변환 촉매$() 만드는 법.",
             "recipe": "naturesaura:conversion_catalyst"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Dragon's Breath$() out of the end's $(aura)",
+            "text": "엔드의 $(#419600)오라$()를 주입하여 $(item)드래곤의 숨결$() 만드는 법",
             "recipe": "naturesaura:breath"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Conjuring $(item)Leather$() from a zombie's remains",
+            "text": "좀비의 유해로부터 $(item)가죽$()을 창조하는 법",
             "recipe": "naturesaura:leather"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Making $(item)Soul Sand$() out of worldly grains",
+            "text": "흔한 모래로 $(item)영혼 모래$() 만들어 내는 법",
             "recipe": "naturesaura:soul_sand"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Nether Wart$() from the Nether's spores",
+            "text": "네더 버섯으로 $(item)네더 사마귀$() 만들어 내는 법",
             "recipe": "naturesaura:nether_wart"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Conjuring $(item)Prismarine Shards$() from the nether's ore",
+            "text": "네더의 광물로 $(item)프리즈머린 조각$() 창조하는 법",
             "recipe": "naturesaura:prismarine"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Causing $(thing)water$() to accumulate inside an empty $(item)bottle$()",
+            "text": "비어있는 $(item)병$() 안에 $(thing)물$()을 축적하는 법",
             "recipe": "naturesaura:water"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Charcoal$() into $(item)Coal$()",
+            "text": "$(item)목탄$()을 $(item)석탄$()으로 바꾸는 법",
             "recipe": "naturesaura:coal"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Spectral Arrows$()",
+            "text": "$(item)분광 화살$() 만드는 법",
             "recipe": "naturesaura:arrow"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Chorus Flower$()",
+            "text": "$(item)후렴화$() 만드는 법",
             "recipe": "naturesaura:chorus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Fermented Spider Eyes$()",
+            "text": "$(item)발효된 거미 눈$() 만드는 법",
             "recipe": "naturesaura:fermented"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Lead$()",
+            "text": "$(item)끈$() 만드는 법",
             "recipe": "naturesaura:lead"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Purifying a $(item)Poisonous Potato$()",
+            "text": "$(item)독이 있는 감자$() 정화하는 법",
             "recipe": "naturesaura:potato"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Prismarine Crystals$()",
+            "text": "$(item)프리즈머린 수정$() 만드는 법",
             "recipe": "naturesaura:prismarine_crystal"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating a $(item)Rabbit's Foot$()",
+            "text": "$(item)토끼 발$() 만드는 법",
             "recipe": "naturesaura:rabbit_foot"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Gilded Blackstone$()",
+            "text": "$(item)황금이 박힌 흑암$() 만드는 법",
             "recipe": "naturesaura:gilded_blackstone"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Crimson Fungus$()",
+            "text": "$(item)진홍빛 균$() 만드는 법",
             "recipe": "naturesaura:crimson_fungus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Creating $(item)Warped Fungus$()",
+            "text": "$(item)뒤틀릿 균$() 만드는 법",
             "recipe": "naturesaura:warped_fungus"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Apples$() into $(item)Eggs$()",
+            "text": "$(item)사과$()를 $(item)달걀$()로 바꾸는 법",
             "recipe": "naturesaura:egg"
         },
         {
             "type": "naturesaura:altar",
-            "text": "Turning $(item)Water$() into $(item)Milk$()$(p)$(italic)Just like Jesus$()",
+            "text": "$(item)물$()을 $(item)우유$()로 바꾸는 법$(p)$(italic)예수 처럼 창조합니다.$()",
             "recipe": "naturesaura:milk"
         }
     ]

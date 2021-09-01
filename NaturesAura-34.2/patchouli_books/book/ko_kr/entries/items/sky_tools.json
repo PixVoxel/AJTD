@@ -1,35 +1,35 @@
 {
-    "name": "Skyseeker's Tools",
+    "name": "하늘 추종자의 도구",
     "icon": "naturesaura:sky_pickaxe",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "The Gods' power is obviously immense and may not ever be understood by magical botanists. However, a very simple way to get a small taste of it are $(item)Skyseeker's tools$(). While also functioning as regular tools, they each have an additional $(thing)special ability$() that sets them apart from their $(item)diamond$() counterparts.$(br)Additionally, these tools can be $(thing)repaired$() in the same way as $(l:items/infused_iron_tools)Botanist's tools$()."
+            "text": "신의 힘은 분명히 엄청나며 이는 마법의 식물학자들은 결코 이해하지 못할 수도 있습니다. 그러나 이해할 수 있는 아주 간단한 방법이 있습니다. 바로 $(item)하늘 추종자의 도구$()입니다. 일반 도구의 기능도 가지고 있지만 각각 $(item)다이아몬드$() 도구와는 차별되는 $(thing)특별한 능력$()이 존재합니다.$(br)또한 이러한 도구들은 $(l:items/infused_iron_tools)식물학자의 도구$()와 같은 방법으로 $(thing)수리$()할 수 있습니다."
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Pickaxe$() causes any items that were mined to immediately enter the user's inventory, removing the chance of precious diamonds plummeting into lava below.",
+            "text": "$(item)하늘 추종자의 곡괭이$()는 채굴된 아이템이 즉시 사용자의 인벤토리로 들어가도록 하여 귀중한 다이아몬드가 용암 아래로 떨어질 가능성을 제거합니다.",
             "recipe": "naturesaura:sky_pickaxe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Handaxe$() is very efficient at chopping $(thing)trees$(), doing so in one fell swoop.",
+            "text": "$(item)하늘 추종자의 손도끼$()는 $(thing)나무$()를 매우 효율적으로 한번에 캐냅니다.",
             "recipe": "naturesaura:sky_axe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Shovel$() makes creating varied paths a lot easier: When holding any $(thing)blocks$() in the off-hand, using the shovel will cause the targeted block to be $(thing)replaced$() with the held block.",
+            "text": "$(item)하늘 추종자의 삽$()은 아무 $(thing)블록$()을 보조 손에 들고 삽을 사용하면 바라보고 있는 블록이 들고있는 블록으로 $(thing)교체$()되어 다양한 길을 훨씬 쉽게 만들어낼 수 있습니다.",
             "recipe": "naturesaura:sky_shovel"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Hoe$() helps farmers twofold: For one, it tills a $(thing)bigger area$() of ground. Additionally, destroying a piece of $(item)tall grass$() causes all other bush-like blocks in a rather big area to be destroyed with it.",
+            "text": "$(item)하늘 추종자의 괭이$()는 $(thing)더 넓은 면적$()의 땅을 경작할 수 있으며 $(item)잔디$()를 파괴하면 다소 넓은 지역에 있는 다른 잔디 형태의 블록도 함께 파괴되는 기능이 있어 농부들을 두 배로 더 돕습니다.",
             "recipe": "naturesaura:sky_hoe"
         }, {
             "type": "crafting",
-            "text": "The $(item)Skyseeker's Blade$() is an excellent way of dealing with monsters: When attacked, they will be briefly inflicted with the $(item)Levitation$() effect, causing them to rise up into the sky and plummet back down a short while later.",
+            "text": "$(item)하늘 추종자의 검$()은 공격을 가하면 잠시동안 $(item)공중 부양$() 효과를 부여하여 잠시후 하늘로 올라갔다가 다시 아래로 떨어지게 하며 몬스터를 처리할 수 있는 훌륭한 도구입니다.",
             "recipe": "naturesaura:sky_sword"
         }
     ]

@@ -1,16 +1,16 @@
 {
-    "name": "Eye of the Pillager",
+    "name": "약탈자의 눈",
     "icon": "naturesaura:outpost_finder",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_overworld",
     "pages": [
         {
             "type": "text",
-            "text": "For several occurences in the world, $(item)Explorer Maps$() can be used to find them easily. However, these maps cannot be found for all of the structures in the world. Specifically, $(thing)Pillager Outposts$() cannot be discovered in this manner. To solve this issue, magical botanists have constructed the $(item)Eye of the Pillager$(), which, upon being thrown, will fly towards the nearest $(thing)Pillager Outpost$()."
+            "text": "세계에서 여러번 발생하는 경우에는 $(item)탐험 지도$()를 사용하여 쉽게 찾을 수 있지만 이러한 지도는 세계의 모든 구조물을 찾을수는 없습니다. 특히 $(thing)약탈자 전초 기지$()는 이러한 방식으로는 찾지 못합니다. 이런 점을 해결하기 위해 마법 식물학자들은 $(item)약탈자의 눈$()을 만들었습니다. 이 눈은 던지면 가장 가까운 $(thing)약탈자 전초 기지$()를 향해 날아갈 것입니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Eye of the Pillager$()",
+            "text": "$(item)약탈자의 눈$() 만드는 법",
             "recipe": "naturesaura:outpost_finder"
         }
     ]

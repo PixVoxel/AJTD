@@ -1,20 +1,20 @@
 {
-    "name": "Staff of Ancient Knowledge",
+    "name": "고대 지식의 지팡이Staff of Ancient Knowledge",
     "icon": "naturesaura:netherite_finder",
     "category": "items",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "Recent discoveries have unmasked a rather important, buried substance within the darker parts of this world: $(thing)Ancient Debris$(). This hard-to-find material is sturdy and extremely useful to miners, yet its rarity makes it hard to obtain. The $(item)Staff of Ancient Knowledge$() solves this problem in an elegant way."
+            "text": "최근에 이 세상의 더 어두운 부분에 묻혀있는 상당히 희귀한 물질인 $(thing)고대 잔해$()가 발견되었습니다. 이 구하기 힘든 재료는 튼튼하고 광부에게 매우 유용하지만 그 희소성으로 인해 얻기가 어렵습니다. $(item)고대 지식의 지팡이$()는 이 문제를 우아한 방법으로 해결합니다."
         },
         {
             "type": "text",
-            "text": "When using it, all $(thing)Ancient Debris$() blocks in an area around the user will be highlighted, making them visible even $(thing)through other blocks$(), for about a minute or so. During this time, the material can easily be located and mined.$(br)Needless to say, this operation requires a large amount of $(aura) from an $(l:items/aura_cache)Aura Cache$() or similar device."
+            "text": "사용하면 사용자 주변 영역의 모든 $(thing)고대 잔해$() 블록이 약 1분 동안 $(thing)다른 블록을 관통하여$() 강조되어 보입니다. 이 시간동안 재료를 쉽게 찾아 채굴할 수 있게됩니다.$(br)이 작업은 말할것도 없이 $(l:items/aura_cache)오라 축적기$() 또는 이와 유사한 장치에서 많은 양의 (#419600)오라$()가 필요합니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Staff of Ancient Knowledge$()",
+            "text": "$(item)고대 지식의 지팡이$() 만드는 법",
             "recipe": "naturesaura:netherite_finder"
         }
     ]

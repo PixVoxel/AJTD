@@ -1,20 +1,20 @@
 {
-    "name": "Ring of Last Chance",
+    "name": "마지막 기회의 반지",
     "icon": "naturesaura:death_ring",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "When one is stuck, as one says, between a rock and a hard place, not much can be done - sometimes, $(thing)death$() just has to be accepted as an occurence.$(p)That's what magical botanists used to think before they realized that $(thing)death itself$() could be $()averted$() using something as simple as a ring: The $(item)Ring of Last Chance$(), when placed anywhere in the user's"
+            "text": "예를 들어 단단한 돌이나 비슷한 블록에 끼어버린다면 방도가 없습니다. 가끔은 $(thing)죽음$()을 받아들여야 할 수도 있습니다.$(p)그것이 $(thing)죽음 자체$()를 링과 같은 간단한 것을 사용하여 $()피할$() 수 있다는 것을 깨닫기 전의 마법 식물학자의 생각이였습니다. $(item)마지막 기회의 반지$()는 사용자의"
         },
         {
             "type": "text",
-            "text": "inventory, will prevent their death by healing them and $(thing)disappearing$() in the process, similary to the $(item)Totem of Undying$()."
+            "text": "인벤토리 어디에나 존재하면 $(item)불사의 토템$()과 유사하게 죽을 위험에 처하면 소유자를 치료하여 죽음을 방지하며 그 과정에서 $(thing)사라집니다$()."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Ring of Last Chance$()$(p)$(italic)This Ring Fits perfectly",
+            "text": "$(item)마지막 기회의 반지$() 만드는 법$(p)$(italic)이 반지는 딱 들어맞습니다$().",
             "recipe": "naturesaura:death_ring"
         }
     ]

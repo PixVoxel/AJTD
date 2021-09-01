@@ -1,16 +1,16 @@
 {
-    "name": "Staff of Riches",
+    "name": "재물의 지팡이",
     "icon": "naturesaura:loot_finder",
     "category": "items",
     "advancement": "naturesaura:offering",
     "pages": [
         {
             "type": "text",
-            "text": "All around the world, different kinds of $(thing)treasures$() can be found, including plentifully filled $(item)Chests$(), $(item)Storage Minecarts$() and so on.$(p)The $(item)Staff of Riches$() has the ability to uncover these riches and make them easier to find. Upon swinging it, it will $(thing)highlight$() each storage container in a radius of 64 blocks or so for about a minute."
+            "text": "전 세계에 널려진 $(item)상자$(), $(item)상자가 실린 광산 수레$()등 다양한 종류의 $(thing)보물$()을 찾을 수 있습니다.$(p)$(item)재물의 지팡이$()는 이러한 보물들을 추적하고 더 쉽게 찾아낼 수 있도록 합니다. 흔들면 약 1분 동안 64블록 반경에서 각 저장공간을 $(thing)강조$()시킵니다."
         },
         {
             "type": "text",
-            "text": "This would give the user enough time to simply travel to the magically visible location and collect the treasure.$(p)Naturally, for the staff to be able to discover riches in this manner, a fair amount of $(aura) is required to be stored in an $(l:items/aura_cache)Aura Cache$() or similar."
+            "text": "이것은 사용자에게 단순히 마법처럼 보이는 위치로 이동하여 보물을 수집하기에 충분한 시간을 제공할 것입니다.$(p)물론 사용자가 이러한 방식으로 부를 발견할 수 있으려면 $(l:items/aura_cache)오라 축적기$() 혹은 이와 유사한 곳에 저장된 상당한 양의 (#419600)오라$()가 필요합니다."
         },
         {
             "type": "crafting",

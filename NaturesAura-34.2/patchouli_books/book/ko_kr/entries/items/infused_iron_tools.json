@@ -1,39 +1,39 @@
 {
-    "name": "Botanist's Tools",
+    "name": "식물학자의 도구",
     "icon": "naturesaura:infused_iron_pickaxe",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Using the inherent powers of $(l:using/altar)Infused Iron$(), one can produce tools that not only have similar properties to its base material $(item)Iron$(), but also have additional features that one wouldn't quite expect.$(br)The following pages will display how to create the tools and how to use their special features."
+            "text": "$(l:using/altar)오라가 주입된 철$()의 고유한 기능을 사용하여 기본 재료인 $(item)철$()과 유사한 속성을 가질 뿐만 아니라 추가 기능을 가진 도구를 만들어낼 수 있습니다.$(br)다음 페이지에서는 도구를 만드는 방법과 도구의 특수 기능을 사용하는 법을 보여줍니다."
         },
         {
             "type": "text",
-            "text": "On top of that, when taking an $(l:items/aura_cache)Aura Cache$() with you, the tools will be able to use the $(aura) that it has stored to regenerate their durability, significantly increasing their lifespan. For this, one simply needs to hold still and sneak, and the tool in one's hand will slowly recharge."
+            "text": "게다가 $(l:items/aura_cache)오라 축적기$()가 있다면 도구는 저장한 (#419600)오라$()를 사용하여 내구도를 회복하여 도구 수명을 크게 늘릴 수 있습니다. 가만히 서서 웅크리면 손에 든 도구가 천천히 재충전됩니다."
         },
         {
             "type": "crafting",
-            "text": "The $(item)Botanist's Pickaxe$(), when interacted with a block, will turn it into its $(thing)mossy$() variation, provided that it has one.",
+            "text": "$(item)식물학자의 곡괭이$()는 블록에 상호작용 하였을때 가능한 경우 $(thing)이끼 낀$() 상태로 변화시킵니다.",
             "recipe": "naturesaura:infused_pickaxe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Botanist's Handaxe$() is quite a bit better at removing $(thing)leaves$(), doing so much faster than regular tools.",
+            "text": "$(item)식물학자의 손도끼$()는 일반 도끼보다 $(thing)나뭇잎$()을 제거하는 속도가 훨씬 빠릅니다.",
             "recipe": "naturesaura:infused_axe"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Botanist's Shovel$() has the ability to make $(thing)grass$() grow on fallow land through simple interaction, along with making broader $(thing)paths$() on grass.",
+            "text": "$(item)식물학자의 삽$()은 잔디에 더 넓은 $(thing)잔디 길$()을 만드는 것과 함께 간단한 상호작용을 통해 $(thing)잔디$()를 휴경지에서 자라게 하는 능력이 있습니다.",
             "recipe": "naturesaura:infused_shovel"
         },
         {
             "type": "crafting",
-            "text": "The $(item)Botanist's Hoe$() helps a farmer obtain different kinds of $(thing)seeds$() in the ways of old by simply being used on a piece of grass or dirt.",
+            "text": "$(item)식물학자의 괭이$()는 잔디나 흙에 사용하여 옛날 방식처럼 다양한 종류의 $(thing)씨앗$()을 얻을 수 있어 농부에게 도움을 줍니다.",
             "recipe": "naturesaura:infused_hoe"
         }, {
             "type": "crafting",
-            "text": "The $(item)Botanist's Blade$() is a good way of dealing with monsters: It will cause any mob you hit to be $(thing)slowed down$() for a couple of seconds, making them an easier target.",
+            "text": "$(item)식물학자의 검$()은 적중한 몹이 몇 초 동안 $(thing)감속$()되어 더 쉽게 잡을수 있어 몬스터를 처리하는 데 좋은 무기입니다.",
             "recipe": "naturesaura:infused_sword"
         }
     ]

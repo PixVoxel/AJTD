@@ -1,12 +1,12 @@
 {
-    "name": "Ender Ocular",
+    "name": "엔더 렌즈",
     "icon": "naturesaura:ender_access",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Ender Ocular$() is, to put it simply, a handheld version of the $(l:using/ender_crate)Ender Crate$(). After giving it an $(thing)Ender Name$() the exact same way, interacting with it while holding it in one's hand will open the storage then and there. For this, an $(l:items/aura_cache)Aura Cache$() is required that some $(aura) will be drained from."
+            "text": "$(item)엔더 렌즈$()는 간단히 생각하자면 $(l:using/ender_crate)엔더 크레이트$()의 휴대용 버전입니다. 똑같은 방식으로 $(thing)엔더 이름$()을 부여한 후 손에 들고 상호 작용하면 저장소가 열릴 것입니다. 사용하기 위해선 $(l:items/aura_cache)오라 축적기$()에서 약간의 (#419600)오라$()를 요구합니다."
         },
         {
             "type": "crafting",

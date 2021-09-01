@@ -1,16 +1,16 @@
 {
-    "name": "Eye of the Blaze",
+    "name": "블레이즈의 눈",
     "icon": "naturesaura:fortress_finder",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_nether",
     "pages": [
         {
             "type": "text",
-            "text": "To find $(thing)Strongholds$(), one can use the abilities of the $(item)Eye of Ender$(), which will, upon being thrown, slowly move towards the nearest one of these structures, and in doing so, point the way to it. Similar behavior can be observed for the $(item)Eye of the Blaze$(), but, instead of finding strongholds, it will locate the closest $(thing)Nether Fortress$()."
+            "text": "$(thing)엔더 유적$()을 찾기 위해서 던져지면 이 구조물 중 가장 가까운 곳으로 천천히 인도하는 $(item)엔더의 눈$()이 가진 능력을 사용할 수 있습니다. $(item)블레이즈의 눈$()도 비슷한 행동을 볼 수 있지만 엔더 유적을 찾는 대신 $(thing)네더 요새$()를 찾습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Eye of the Blaze$()",
+            "text": "$(item)Eye of the Blaze$() 만드는 법",
             "recipe": "naturesaura:fortress_finder"
         }
     ]

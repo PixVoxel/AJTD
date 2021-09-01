@@ -1,12 +1,12 @@
 {
-    "name": "Skyseeker's Armor",
+    "name": "하늘 추종자의 방어구",
     "icon": "naturesaura:sky_chest",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Botanists may feel like the Gods when wearing $(thing)Skyseeker's armor$(). Not only can it be repaired like its $(l:items/infused_iron_armor)infused counterpart$(), it also provides a $(thing)set bonus$(): When wearing every piece of the armor (or swapping the chestplate for an $(item)Elytra$()), the wearer's $(thing)movement speed$() will be increased. Additionally, their ability to $(thing)step up$() onto blocks will be heightened, removing their requirement to jump as often."
+            "text": "식물학자들은 $(thing)하늘 추종자의 방어구$()을 착용할 때 신이 된 것처럼 느낄 수 있습니다. $(l:items/infused_iron_armor)오라가 주입된 방어구$()처럼 수리할 수 있을 뿐만 아니라 모든 부위를 착용하면(혹은 모든 부위에 흉갑만 $(item)겉날개$()를 착용한 상태에서) 착용자의 $(thing)이동 속도$()가 증가하고 한 블록 크기를 $(thing)딛고 올라가는$() 능력이 생겨 점프를 하지 않아도 1 블록 높이를 올라갈 수 있는 $(thing)세트 보너스$()가 제공됩니다."
         },
         {
             "type": "crafting",

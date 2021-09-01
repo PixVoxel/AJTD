@@ -1,20 +1,20 @@
 {
-    "name": "Token of Undying Friendship",
+    "name": "불멸의 우정의 징표",
     "icon": "naturesaura:pet_reviver",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Owning $(thing)pets$() is quite the emotional endeavour, since the chance of them succumbing to monsters or hot lava is alarmingly high. Magical botanists have had to deal with this problem for a long time, until they found out about the powers of the $(item)Token of Undying Friendship$(). Upon being applied to any $(thing)tamed animal$(), the animal will never be able to die anymore."
+            "text": "$(thing)반려 동물$()을 소유하는 것은 매우 감정적인 노력입니다. 왜냐하면 그들이 몬스터나 뜨거운 용암 등에 쓰러질 가능성이 놀라울 정도로 높기 때문입니다. 마법 식물학자들은 이 $(item)불멸의 우정의 징표$()의 힘에 대해 알게 될 때까지 오랫동안 이 문제를 해결해야 했었습니다. 이것은 $(thing)사육한 동물$()에 적용되면 동물은 더 이상 죽지 않습니다."
         },
         {
             "type": "text",
-            "text": "Instead, when it reaches dangerously low health, it will be $(thing)sent home$() to the owner's usual revival location. During this process, a rather large amount of $(aura) is drained from the area around this home location.$(br)The animal additionally expresses its happiness over being given this special token by occasionally showing you their heart."
+            "text": "대신, 위험할 정도로 낮은 체력에 도달하면 소유자의 일반적인 소생 위치, 즉 $(thing)집으로 보내집니다$(). 이 과정에서 집 주변의 꽤 많은 양의 (#419600)오라$()가 흡수됩니다.$(br)추가로 동물은 이따금 이 특별한 징표를 받은 것에 대한 행복함을 하트로 표현합니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Token of Undying Friendship$()",
+            "text": "$(item)불멸의 우정의 징표$() 만드는 법",
             "recipe": "naturesaura:pet_reviver"
         }
     ]

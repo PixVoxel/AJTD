@@ -1,16 +1,16 @@
 {
-    "name": "Mystical Magnifier",
+    "name": "신비로운 돋보기",
     "icon": "naturesaura:range_visualizer",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "The $(item)Mystical Magnifier$() is a $(t:is a mod by vazkii)neat$() device for any magical botanist working with machinery. When equipped in either hand, and interacting with a compatible device, its $(thing)range of operation$() will be displayed around it, allowing any contraptions built with it to be inspected easily and precisely. To stop a device from displaying its range, simply interact with it a second time."
+            "text": "$(item)신비로운 돋보기는$() 기계로 작업하는 마법의 식물학자를 위한 $(t:is a mod by vazkii)깔끔한$() 장치입니다. 아무 손에 들고 장치에 우클릭하면 $(thing)작동 범위$()가 주위에 표시되며 이를 활용하여 제작된 모든 장치를 쉽고 정확하게 검사할 수 있습니다. 장치가 범위를 표시하지 않도록 하려면 장치에 다시 우클릭하면 됩니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Mystical Magnifier$()",
+            "text": "$(item)신비로운 돋보기$() 만드는 법",
             "recipe": "naturesaura:range_visualizer"
         }
     ]

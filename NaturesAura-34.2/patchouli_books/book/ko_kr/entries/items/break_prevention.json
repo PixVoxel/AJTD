@@ -1,16 +1,16 @@
 {
-    "name": "Eir's Token",
+    "name": "얼의 징표",
     "icon": "naturesaura:break_prevention",
     "category": "items",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "There are few things more unpleasant than one's favorite $(thing)tool$() breaking when it is needed most, removing the ability to even repair it and rendering all enchanting efforts useless. To mitigate this problem, $(item)Eir's Token$() can be applied to any tool using an $(thing)anvil$(). Any tools that have this token applied will, instead of breaking when their durability reaches zero, simply $(thing)stop functioning$() instead."
+            "text": "자신이 가장 좋아하던 $(thing)도구$()가 필요한 순간에 부서진다면 수리조차 못하고 모든 마법 부여를 한 노력을 무용지물로 만들기 때문에 이보다 불쾌한 상황은 거의 없습니다. 이 문제를 완화하기 위해 $(thing)모루$()를 사용할 수 있는 모든 도구에 $(item)얼의 징표$()를 부여할 수 있습니다. 이 징표가 적용된 모든 종류의 도구는 내구성이 0에 도달하면 파괴되지 않고 $(thing)해당 기능$()만 중지됩니다."
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "Creating the $(item)Eir's Token$() using the $(l:practices/tree_ritual)Ritual of the Forest$()",
+            "text": "$(l:practices/tree_ritual)숲의 의식$()을 사용하여 $(item)얼의 징표$() 만드는 법",
             "recipe": "naturesaura:break_prevention"
         }
     ]

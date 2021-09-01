@@ -1,16 +1,16 @@
 {
-    "name": "Botanist's Armor",
+    "name": "식물학자의 방어구",
     "icon": "naturesaura:infused_iron_chest",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
     "pages": [
         {
             "type": "text",
-            "text": "Additionally to their $(l:items/infused_iron_tools)tools$(), a botanist can gain protection through armor, specifically $(item)Botanist's Armor$(). Along with being about as protective as iron armor, it can have its lost durability recharged by sneaking while posessing an $(l:items/aura_cache)Aura Cache$(), similarly to the tools of the same kind. Additionally, however, the armor also has a $(thing)set bonus$() which is applied when the full armor set is worn at once."
+            "text": "$(l:items/infused_iron_tools)도구$() 외에도 식물학자는 방어구, 특히 $(item)식물학자의 방어구$()를 통해 보호를 받을 수 있습니다. 철 방어구 만금의 보호력이 있을 뿐만 아니라 같은 재질의 도구와 같이 $(l:items/aura_cache)오라 축적기$()를 소지한 상태에서 웅크려 잃어버린 내구도를 재충전할 수 있습니다. 또한 전체 방어구 세트를 착용하였을 때 적용되는 $(thing)세트 보너스$()도 존재합니다."
         },
         {
             "type": "text",
-            "text": "Then, when a mob attacks the wearer, it will be inflicted with a short $(item)Withering$() effect, hurting it in a similar way to the Thorns enchantment.$(br)Additionally, using an $(l:items/shockwave_creator)Amulet of Wrath$() while the full set is equipped will also inflict the Withering effect onto any mobs that are hit by its effect for a short amount of time."
+            "text": "몹이 착용자를 공격하였을 때 짧은 $(item)시듦$()효과를 부여하여 마치 가시 마법 부여와 유사한 방식으로 피해를 줍니다.$(br)또한 $(l:items/shockwave_creator)분노의 부적$()을 사용하면 풀 세트를 장착한 상태에서 해당 효과에 적중당한 모든 몹에게 짧을 시간동안 시듦 효과를 부여합니다."
         },
         {
             "type": "crafting",

@@ -1,16 +1,16 @@
 {
-    "name": "Eye of the Shulker",
+    "name": "셜커의 눈",
     "icon": "naturesaura:end_city_finder",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "Being aware of the abilities of the $(item)Eye of Ender$() and the $(l:items/fortress_finder)Eye of the Blaze$(), magical botanists can construct a third one of these structure-finding eyes, completing the dimension sequence. The $(item)Eye of the Shulker$() will, in a very similar manner to its overworld and nether counterparts, locate the closest $(thing)End City$() upon being thrown."
+            "text": "$(item)엔더의 눈$() 및 $(l:items/fortress_finder)블레이즈의 눈$()의 능력을 알고 있는 마법 식물학자는 이러한 구조를 가진 눈 중 세 번째 눈을 완성했습니다. 바로 $(item)셜커의 눈$()입니다. 이것은 오버월드 및 네더에서 사용되는 눈들 처럼 던질 때 가장 가까운 $(thing)엔드 도시$()를 찾습니다."
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Eye of the Shulker$()",
+            "text": "$(item)셜커의 눈$() 만드는 법",
             "recipe": "naturesaura:end_city_finder"
         }
     ]
