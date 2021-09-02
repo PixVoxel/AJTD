@@ -10,7 +10,7 @@
         },
         {
             "type": "crafting",
-            "text": "$(item)Eye of the Blaze$() 만드는 법",
+            "text": "$(item)블레이즈의 눈$() 만드는 법",
             "recipe": "naturesaura:fortress_finder"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "name": "고대 지식의 지팡이Staff of Ancient Knowledge",
+    "name": "고대 지식의 지팡이",
     "icon": "naturesaura:netherite_finder",
     "category": "items",
     "advancement": "naturesaura:offering",
@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "사용하면 사용자 주변 영역의 모든 $(thing)고대 잔해$() 블록이 약 1분 동안 $(thing)다른 블록을 관통하여$() 강조되어 보입니다. 이 시간동안 재료를 쉽게 찾아 채굴할 수 있게됩니다.$(br)이 작업은 말할것도 없이 $(l:items/aura_cache)오라 축적기$() 또는 이와 유사한 장치에서 많은 양의 (#419600)오라$()가 필요합니다."
+            "text": "사용하면 사용자 주변 영역의 모든 $(thing)고대 잔해$() 블록이 약 1분 동안 $(thing)다른 블록을 관통하여$() 강조되어 보입니다. 이 시간동안 재료를 쉽게 찾아 채굴할 수 있게됩니다.$(br)이 작업은 말할것도 없이 $(l:items/aura_cache)오라 축적기$() 또는 이와 유사한 장치에서 많은 양의 $(#419600)오라$()가 필요합니다."
         },
         {
             "type": "crafting",

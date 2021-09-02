@@ -11,7 +11,7 @@
         {
             "type": "crafting",
             "recipe": "naturesaura:moss_generator",
-            "text": "Creating the $(item)Swamp Homi$()"
+            "text": "$(item)늪지대 호미$() 만드는 법"
         }
     ]
 }

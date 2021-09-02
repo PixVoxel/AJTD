@@ -15,7 +15,7 @@
         {
             "type": "crafting",
             "recipe": "naturesaura:projectile_generator",
-            "text": "Creating the $(item)Shooting Mark$()"
+            "text": "$(item)사격 표식$() 만드는 법"
         }
     ]
 }

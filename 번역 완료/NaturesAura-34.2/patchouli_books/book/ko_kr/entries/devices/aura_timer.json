@@ -18,7 +18,7 @@
         },
         {
             "type": "crafting",
-            "text": "Creating the $(item)Redstone Aura Vaporizer$()",
+            "text": "$(item)레드스톤 오라 기화기$() 만드는 법",
             "recipe": "naturesaura:aura_timer"
         }
     ]

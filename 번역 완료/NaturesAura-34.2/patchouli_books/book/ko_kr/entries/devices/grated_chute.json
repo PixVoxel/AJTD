@@ -18,7 +18,7 @@
         },
         {
             "type": "crafting",
-            "text": "$(item)Adept Hopper$() 만드는 법$(p)그리고 $(l:items/eye)환경의 눈$()을 장착하면 현재 호퍼에 저장된 아이템의 양을 볼 수 있습니다.",
+            "text": "$(item)개조 호퍼$() 만드는 법$(p)그리고 $(l:items/eye)환경의 눈$()을 장착하면 현재 호퍼에 저장된 아이템의 양을 볼 수 있습니다.",
             "recipe": "naturesaura:grated_chute"
         }
     ]
