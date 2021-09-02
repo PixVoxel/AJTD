@@ -1,0 +1,27 @@
+{
+    "name": "에너지틱 오라 포지",
+    "icon": "naturesaura:rf_converter",
+    "category": "using",
+    "advancement": "naturesaura:sky_ingot",
+    "flag": "naturesaura:rf_converter",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(#419600)오라$()는 매우 다재다능하고 유용하지만 유일한 $(thing)에너지 자원$()은 아닙니다. 최근 역사에서 자연적인 것으로 간주되지 않는 새로운 에너지원은 사람들에 의해 $(italic)제조$()되었습니다. 때로는 그러한 전원을 마음대로 사용할 수 있는것이 유용할 때도 있습니다. $(item)에너지틱 오라 포지$()는 $(#419600)오라$()를 많은 사람들에게 알려진 $(thing)레드스톤 플럭스(RF)$()라는 에너지로 변환합니다."
+        },
+        {
+            "type": "text",
+            "text": "이런 에너지는 누군가에게는 $(thing)포지 에너지(FE)$()로, 또는 $(thing)크리스탈 플럭스(CF)$()로 사용될 것입니다.$(br)이를 이뤄내려면 다음 페이지에 표신된것 처럼 구조물을 형성한 다음 $(item)에너지틱 오라 포지$()를 구조물에 배치하기만 하면 됩니다. 그러면 해당 지역의 초과된 $(#419600)오라$()는 자동으로 전기 에너지로 전환됩니다. $(#419600)오라$()가 많을 수록 변환 과정은 더욱 빨라집니다.$(br)또한 $(l:items/eye)세계의 눈$()을 장착하고 있으면 장치에 모인 에너지의 양이 표시됩니다."
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "naturesaura:rf_converter",
+            "text": "$(item)에너지틱 오라 포지$() 주변의 구조물 짓는 법"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)에너지틱 오라 포지$() 만드는 법",
+            "recipe": "naturesaura:rf_converter"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "분쇄 촉매",
+    "icon": "naturesaura:crushing_catalyst",
+    "category": "using",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l:using/altar)자연의 제단$()은 특정 아이템에 $(#419600)오라$()의 힘을 주입하는 데에 유용하지만, 특정 아이템을 $(thing)분쇄$()하여 다른 형태의 아이템으로 바꾸는데에도 사용할 수 있습니다.$(br)이런 과정은 $(item)분쇄 촉매$()를 만들어 제단 주변 네 개의 낮은 $(item)황금 석재 벽돌$() 위에 배치하는 것으로 사용할 수 있습니다. 그런 다음 평소처럼 재료를 제단 위에 올려놓기만 하면 됩니다."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "$(l:practices/tree_ritual)숲의 의식$()을 사용하여 $(item)분쇄 촉매$() 만드는 법.",
+            "recipe": "naturesaura:crushing_catalyst"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)뼈$()를 분쇄하여 $(item)뼛가루$() 만드는 법",
+            "recipe": "naturesaura:bone"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "사탕수수에서 $(item)설탕$()을 뽑아내는 법",
+            "recipe": "naturesaura:sugar"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "네더의 광물에서 $(item)블레이즈 가루$() 뽑아내는 법",
+            "recipe": "naturesaura:blaze"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)발광석$()을 부숴 $(item)발광석 가루$() 만드는 법",
+            "recipe": "naturesaura:glowstone"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)조약돌$()을 분쇄하여 $(item)모래$() 만드는 법",
+            "recipe": "naturesaura:sand"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)금빛 나뭇잎$()으로 $(item)금빛 가루$() 만드는 법",
+            "recipe": "naturesaura:gold_powder"
+        }
+    ]
+}

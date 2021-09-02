@@ -1,0 +1,21 @@
+{
+    "name": "방어구 제작자의 촉진기",
+    "icon": "naturesaura:blast_furnace_booster",
+    "category": "using",
+    "advancement": "naturesaura:offering",
+    "pages": [
+        {
+            "type": "text",
+            "text": "마을 과학자들이 $(item)용광로$()를 만들기 위해 더 높은 단계의 재료를 사용했다는 사실을 발견한 이후로 마법 식물학자들은 이 기술을 더욱 발전시키려고 시도했습니다. 그들은 $(#419600)오라$()가 모든 종류의 $(thing)광물$()을 정화하여 하나가 아닌 $(thing)두 개의 주괴$()를 만들어 낼 가능성이 있다는 점을 발견했습니다."
+        },
+        {
+            "type": "text",
+            "text": "이러한 기능은 $(item)방어구 제작자의 촉진기$()를 통해 도입할 수 있으며 $(item)용광로$() 위에 올려 사용할 수 있습니다.$(p) $(thing)자동화$()를 위해 $(item)호퍼$() 또는 이와 유사한 장치를 이용하여 $(item)방어구 제작자의 촉진기$() 장치의 아무쪽에나 광물을 집어 넣을 수 있다는 것에 유의해야 합니다. 이렇게 하면 $(item)용광로$()가 상단에서 광물을 직접 공급받는 것 처럼 제련이 끝납니다."
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)방어구 제작자의 촉진기$() 만드는 법",
+            "recipe": "naturesaura:blast_furnace_booster"
+        }
+    ]
+}

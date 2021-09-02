@@ -1,0 +1,43 @@
+{
+    "name": "자연의 제단",
+    "icon": "naturesaura:nature_altar",
+    "category": "using",
+    "advancement": "naturesaura:aura_bottle_overworld",
+    "priority": true,
+    "turnin": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "초기에 $(#419600)오라$()를 수집하는 기조적이면서도 효과적인 방법은 $(item)자연의 제단$()입니다. 다음 페이지의 그림과 같이 건설하면 제단은 주변의 $(#419600)오라$()를 천천히 빨아들입니다. 하지만 주변에 피해를 줄 정도로 강력하지는 않아 해당 지역에 오라가 남지 않을 때까지만 흡수합니다.$(br)모아둔 $(#419600)오라$()는 다음 페이지와 같이 사용할 수 있습니다."
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "naturesaura:altar",
+            "text": "$(item)자연의 제단$() 건설하는 법"
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "$(l:practices/tree_ritual)숲의 의식$()을 사용하여 $(item)자연의 제단$() 만드는 법",
+            "recipe": "naturesaura:nature_altar"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:gold_brick",
+            "text": "$(item)자연의 제단$() 구성요소로 사용되는 $(item)황금 석재 벽돌$() 만드는 법"
+        },
+        {
+            "type": "text",
+            "text": "$(item)자연의 제단$()에 충분한 양의 $(#419600)오라$()가 모이면 특정 재료 아이템에 주입할 수 있게됩니다. 제단 위에 아무 재료나 놓고 주입이 완료될 때까지 기다리기만 하면 됩니다.$(br2)나중에는 제단 주위에 다른 유형의 $(#419600)오라$()가 있어야만 만들 수 있는 재료도 발견할 수 있습니다."
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)오라가 주입된 철$() 만드는 법, $(#419600)오라$()의 힘으로 축복받은 재료로 여러 마법 $(thing)자연적인 아이템$()을 만드는데 사용할 수 있습니다.$(br)재료의 블록 형태를 사용하여 동일한 주입이 가능하다는 것에 유의하세요.",
+            "recipe": "naturesaura:infused_iron"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "$(item)오라가 주입된 돌$(), $(#419600)오라$()가 주입된 석재 재료입니다.",
+            "recipe": "naturesaura:infused_stone"
+        }
+    ]
+}

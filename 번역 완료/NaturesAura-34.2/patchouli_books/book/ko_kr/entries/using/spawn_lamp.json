@@ -1,0 +1,17 @@
+{
+    "name": "성역의 램프",
+    "icon": "naturesaura:spawn_lamp",
+    "category": "using",
+    "advancement": "naturesaura:aura_bottle_end",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)성역의 램프$()는 훌륭한 장식품도 될 수 있지만 또 다른 매우 유용한 기능이 있습니다. $(thing)레드스톤 신호$()가 가해지면 주변 반경 약 48블록에서 빛 레벨에 상관없이 몬스터가 $(thing)생성되는 것을 방지$()해줍니다. 해당 범위는 레드스톤 신호의 강도에 따라 달라집니다. 몬스터 스폰을 방지할 때 마다 소량의 $(#419600)오라$()가 사용됩니다."
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)성역의 램프$() 만드는 법$(p)$(italic)몹프로비우스 람푸스$()",
+            "recipe": "naturesaura:spawn_lamp"
+        }
+    ]
+}

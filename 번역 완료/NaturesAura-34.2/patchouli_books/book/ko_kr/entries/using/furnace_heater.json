@@ -1,0 +1,17 @@
+{
+    "name": "외장형 파이어스타터",
+    "icon": "naturesaura:furnace_heater",
+    "category": "using",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "어느 시점부터는 $(item)화로$()가 너무 느리고 효율적으로 사용하기에는 자원을 소모한다는 것을 깨닫게 됩니다.$(br)$(item)외장형 파이어스타터$()는 $(item)화로$()의 측면에 배치아여 연료를 사용하지 않고도 재련할 수 있으며 속도를 더 높힙니다. 이 과정에 (#419600)오라$()를 사용하며 (#419600)오라$() 수준이 음수로 떨어지면 $(l:intro/aura)효율의 감소$()가 발생합니다."
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "$(l:practices/tree_ritual)숲의 의식$()을 사용하여 $(item)외장형 파이어스타터$() 만드는 법",
+            "recipe": "naturesaura:furnace_heater"
+        }
+    ]
+}

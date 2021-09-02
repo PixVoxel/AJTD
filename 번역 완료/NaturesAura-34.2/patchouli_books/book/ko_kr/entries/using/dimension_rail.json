@@ -1,0 +1,35 @@
+{
+    "name": "세계의 레일",
+    "icon": "naturesaura:dimension_rail_nether",
+    "category": "using",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)광산 수레$()의 경우 $(thing)차원문$() 같은 것을 통하여 차원을 넘나드는 능력이 제한되어있습니다. 그래서 그런 것을 설계할 때 꽤나 복잡해집니다. $(item)세계의 레일$()은 알려진 각 차원에 대해 한 종류 씩 존재합니다. 광산 수레가 그 위를 지나갈 때 그 과정에서 약간의 $(#419600)오라$()를 사용하여 해당 차원으로 직접 넘어갑니다."
+        },
+        {
+            "type": "text",
+            "text": "광산 수레가 보내지는 $(thing)위치$()는 실제 여행과 관련된 차원문들을 기반으로 합니다.$(br)오버월드에서 네더로 떠날 때는 광산 수레의 위치가 오버월드의 1/8 좌표로 보내지며 이는 일반 차원문의 작동 방식과 유사합니다.$(br)오버월드에서 엔드로 떠날 때는 광산 수레가 $(thing)흑요석으로 된 발판$()위로 보내지며 그 반대로 떠나면 오버월드의 스폰 지점으로 보내집니다."
+        },
+        {
+            "type": "text",
+            "text": "$(l:items/range_visualizer)신비로운 돋보기$()를 사용하면 모든 레일에서 목적지 위치가 도착하는 차원에서 강조 표시되며 해당 강조 표시는 $(thing)벽을 통과$()하여 보여주기 때문에 번거로움 없이 쉽게 찾을 수 있습니다.$(p)유일하게 알려진 주의사항으로는 레일의 힘이 $(thing)생물$()을 운반하기에는 부족하다는 점입니다."
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)오버월드의 레일$() 만드는 법",
+            "recipe": "naturesaura:dimension_rail_overworld"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)네더의 레일$() 만드는 법",
+            "recipe": "naturesaura:dimension_rail_nether"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)엔드의 레일$() 만드는 법",
+            "recipe": "naturesaura:dimension_rail_end"
+        }
+    ]
+}

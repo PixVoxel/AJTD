@@ -1,32 +1,32 @@
 {
-    "name": "Altar of Birthing",
+    "name": "탄생의 제단",
     "icon": "naturesaura:animal_spawner",
     "category": "using",
     "advancement": "naturesaura:sky_ingot",
     "pages": [
         {
             "type": "text",
-            "text": "Sometimes, the $(thing)creation$() of certain living creatures would be of use for any slightly gruesome botanist. For this, the $(item)Altar of Birthing$() can be used: It can create and spawn almost any $(thing)living creature$() at the cost of some ingredients that are related to that very creature and a bit of $(aura) from the environment."
+            "text": "때때로, 어떤 생물체의 $(thing)창조$()는 약간 섬뜩한 괴짜 식물학자에게 유용할 것입니다. 이를 위해 특정 생물과 관련 된 일부 재료와 약간의 $(#419600)오라$()로 거의 모든 $(thing)생명체$()를 만들어낼 수 있는 $(item)탄생의 제단$()을 사용할 수 있습니다."
         },
         {
             "type": "text",
-            "text": "For it to work, it requires the right structure to be assembled as well as the usage of a $(item)Spirit of Birthing$() as follows: All ingredients, including the $(item)Spirit of Birthing$(), are required to be thrown down on the ground close to the $(item)Altar of Birthing$() and the process will begin automatically.$(p)The following pages outline the construction, the way to obtain the $(item)Spirit of Birthing$() and all of the possible creatures to be spawned."
+            "text": "작동시키기 위해서는 다음과 같이 $(item)탄생의 영혼$()의 사용법과 함께 올바른 구조물을 형성해야 합니다. $(item)탄생의 영혼$()을 포함하여 요구하는 모든 재료가 필요하며 이것들을 모두 탄생의 제단 가까이에 던져놓기만 하면 저절로 작동합니다.$(p)다음 페이지에서는 $(item)탄생의 영혼$()얻는 방법과 구조물 건설 방법, 그리고 생성할 수 있는 모든 생물의 목록에 대해 간략히 설명합니다."
         },
         {
             "type": "spotlight",
             "item": "naturesaura:birth_spirit",
             "link_recipe": true,
-            "text": "The required $(item)Spirit of Birthing$() can be obtained easily by a person $(thing)breeding$() two passive animals together while there is a (slight) excess of $(aura) present in the surrounding area. For each new baby born, there is a chance of a few $(item)Spirits of Birthing$() to be created in the process."
+            "text": "필요한 $(item)탄생의 영혼$()은 간단하게 $(#419600)오라$()가 (약간) 초과하는 장소의 주변에 사람이 있을 때 두 비공격적 동물을 $(thing)교배$()시켰을 때 새로 태어난 아기마다 몇 개의 $(item)탄생의 영혼$()이 생성될 기회가 있습니다."
         },
         {
             "type": "crafting",
             "recipe": "naturesaura:animal_spawner",
-            "text": "Creating the $(item)Altar of Birthing$()"
+            "text": "$(item)탄생의 제단$() 만드는 법"
         },
         {
             "type": "multiblock",
             "multiblock_id": "naturesaura:animal_spawner",
-            "text": "This formation needs to be created around the $(item)Altar of Birthing$() for it to work as expected."
+            "text": "이 형태가 예상대로 작동하게 하려면 $(item)탄생의 제단$() 주변에 건설해야 합니다."
         },
         {
             "type": "naturesaura:animal_spawner",
@@ -35,7 +35,7 @@
         {
             "type": "naturesaura:animal_spawner",
             "recipe": "naturesaura:sheep_white",
-            "text": "The color of the $(item)Wool$() used determines the color of the $(thing)Sheep$() created."
+            "text": "사용된 $(item)양털$()의 색깔은 생성되는 $(thing)양$()의 색상을 결정합니다."
         },
         {
             "type": "naturesaura:animal_spawner",
