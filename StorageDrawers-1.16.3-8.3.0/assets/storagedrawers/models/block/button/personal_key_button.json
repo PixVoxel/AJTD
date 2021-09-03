@@ -1,7 +1,0 @@
-{
-    "parent": "storagedrawers:block/button/key_button",
-    "textures": {
-        "texture": "storagedrawers:blocks/key_button",
-        "label": "storagedrawers:blocks/button_face_personal_key"
-    }
-}
