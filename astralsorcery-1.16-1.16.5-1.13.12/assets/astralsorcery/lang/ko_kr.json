@@ -81,7 +81,7 @@
   "structure.astralsorcery.pattern_singularity.name": "아르니마 특이점",
   "structure.astralsorcery.pattern_fountain.name": "항시변화 분수",
 
-  "astralsorcery.subtitles.block_coloredlens_attach": "색 렌즈 장착됨",
+  "astralsorcery.subtitles.block_coloredlens_attach": "색상 렌즈 장착됨",
   "astralsorcery.subtitles.altar_craft_start": "제단 제작이 시작됨",
   "astralsorcery.subtitles.altar_craft_finish": "제단 제작이 완료됨",
   "astralsorcery.subtitles.altar_craft_loop_t1": "야광 제작대에서 제작 중",
@@ -161,7 +161,7 @@
   "astralsorcery.amulet.enchantment.add_to_existing_all.name": "+%s %s에 기존 모든 마법",
 
   "screen.astralsorcery.hand_telescope": "망원경",
-  "screen.astralsorcery.observatory": "전망대",
+  "screen.astralsorcery.observatory": "천문대",
   "screen.astralsorcery.telescope": "관측대",
   "screen.astralsorcery.refraction_table": "항성 굴절대",
   "screen.astralsorcery.tome.progression": "연구",
@@ -353,7 +353,7 @@
 
   "astralsorcery.journal.node.ATT_CRYSTAL.name": "수정 조율",
   "astralsorcery.journal.ATT_CRYSTAL.1.text": "별빛 수집 수정을 만드는 중요한 단계는 수정을 별자리의 마법 주파수에 맟추면 거위가 뒤에서 물을 흘리듯이 다른 별자리의 마법의 빛을 걸러낼 수 있습니다.<NL>조율된 암석은 촉매로 사용될 때 빛우물에서 액체 별빛의 증류를 크게 개선하는 데 사용할 수 있지만, 조율된 수정은 더 숙련된 학생이 더 정제할 때까지는 단지 중간 물질일 뿐입니다.",
-  "astralsorcery.journal.ATT_CRYSTAL.2.text": "조율된 수정은 여전히 다른 수정과 마찬가지로 스타메탈 끌로 작업할 수 있지만 이러한 과정에서 생성된 모든 파편에 대한 조율이 살아남을 가능성은 낮습니다.<NL>수정은 일단 조율되면 수정의 무결성에 치명적인 결과를 초래하는 이유로 조율을 다른 것으로 변경할 수 없으며 표준 조율 제단에는 그러한 과정을 방지하기 위해 아카데미에서 설계한 보호 장치가 있습니다.Once attuned, a crystal cannot have its attunement changed to another without catastrophic results to the integrity of the crystal, and the standard attunement altar has safeguards created by the Academy in its design to prevent such process.",
+  "astralsorcery.journal.ATT_CRYSTAL.2.text": "조율된 수정은 여전히 다른 수정과 마찬가지로 스타메탈 끌로 작업할 수 있지만 이러한 과정에서 생성된 모든 파편에 대한 조율이 살아남을 가능성은 낮습니다.<NL>수정은 일단 조율되면 수정의 무결성에 치명적인 결과를 초래하는 이유로 조율을 다른 것으로 변경할 수 없으며 표준 조율 제단에는 그러한 과정을 방지하기 위해 아카데미에서 설계한 보호 장치가 있습니다.",
 
   "astralsorcery.journal.node.RIT_PEDESTAL.name": "의식 받침대",
   "astralsorcery.journal.RIT_PEDESTAL.1.text": "별빛의 마력은 충분히 모아지고 걸러지면서 지억에 직접적인 영향을 미칠 수 있습니다. 조율된 수정을 의식 받침대에 배치하면 한 별자리의 별빛만 장치로 전달되어 받침대의 중심 내부 수정과 공명하는 마법 효과를 만듭니다. 한 별자리의 별빛은 머리 위에 존재하지 않을 때 크게 줄어들기 때문에 받침대에 같은 별자리의 별빛을 추가로 모으는 것으로 위력이 크게 증가하는 것을 볼 수 있습니다.",
@@ -384,129 +384,129 @@
 
 
 
-  "astralsorcery.journal.node.LENSES_EFFECTS.name": "Colored Lenses",
-  "astralsorcery.journal.LENSES_EFFECTS.1.text": "Filtration of Starlight magic is accomplished by Constellation Attunement, but filtering the energy isn't the only way to change its magical effects. By using aligned ingredients to dope a glass lens, Starlight passed through the lens will be twisted to only a specific aspect of the light, regardless of which constellation to which it belongs. <NL>Because this light is not limited to a specific constellation, explicit focus of the energy does not matter, and simply being bathed in the light will see a magical effect applied.",
-  "astralsorcery.journal.LENSES_EFFECTS.2.text": "Affixing one of these colored lenses to a Crystal Lens array will filter any light sent through it. Unfortunately, shifting the spectrum of the magical energy with one of these lenses will not persist through another lens or prism, which will disperse the magical frequency shift and bring it back to normal. If the effect is desired through multiple crystal lenses in a chain, a colored lens would need to be applied to each Crystal Lens in the chain.",
+  "astralsorcery.journal.node.LENSES_EFFECTS.name": "색상 렌즈",
+  "astralsorcery.journal.LENSES_EFFECTS.1.text": "별빛 마법의 여과는 보통 별자리 조율에 의해 수행되지만 에너지를 여과하는 것이 마법 효과를 변경하는 유일한 방법은 아닙니다. 정렬된 성분을 사용하여 유리 렌즈를 도핑함으로써 렌즈를 통과한 별빛은 그것이 속한 별자리에 관계없이 빛의 특정 측면으로 왜곡됩니다.<NL>이 빛은 특정 별자리에 국한되지 않기 때문에 에너지의 명시적인 초점은 중요하지 않으며 단순히 그 빛을 비추기만 해도 마법의 효과가 적용됩니다.",
+  "astralsorcery.journal.LENSES_EFFECTS.2.text": "이러한 색상 렌즈 중 하나를 수정 렌즈 배열에 부착하면 통과하는 모든 빛을 필터링할 수 있습니다. 안타깝게도, 이 렌즈 중 하나로 마법 에너지의 스펙트럼을 이동하는 것은 마법 주파수 이동을 분산시키기 때문에 다른 렌즈나 프리즘을 통해 본래의 별빛으로 변경할 수는 없습니다. 여러 크리스탈 렌즈를 통한 연쇄 효과를 원하는 경우 연쇄되는 각 크리스탈 렌즈에 특정 색상 렌즈를 적용해야 합니다.",
 
-  "astralsorcery.journal.node.IGNITION_LENS.name": "Ignition Lens",
-  "astralsorcery.journal.IGNITION_LENS.1.text": "The beam from an Ignition Lens heats things up until they catch on fire. Creatures will burn under the flames, and items dropped or blocks placed in its path are smelted down as though subjected to a furnace. <NL>The rate of ignition is based on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.IGNITION_LENS.name": "점화 렌즈",
+  "astralsorcery.journal.IGNITION_LENS.1.text": "점화 렌즈의 광선은 불이 붙을 때까지 물건을 가열합니다. 생물은 화염 아래에서 타오를 것이고, 떨어뜨린 아이템이나 경로에 놓인 블록은 용광로에 노출된 것처럼 제련됩니다.<NL>발화율은 별빛이 렌즈를 통과하는 정도에 따라 달라집니다.",
 
-  "astralsorcery.journal.node.BREAK_LENS.name": "Break Lens",
-  "astralsorcery.journal.BREAK_LENS.1.text": "The beam of a Break Lens breaks any blocks placed into its path, except those that cannot be broken such as Illuminated blocks and bedrock. <NL>How quickly a placed block is broken is based on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.BREAK_LENS.name": "파괴 렌즈",
+  "astralsorcery.journal.BREAK_LENS.1.text": "파괴 렌즈의 광선은 조명 불꽃 및 기반암과 같이 부서지지 않는 블록을 제외하고 경로에 배치된 모든 블록을 파괴합니다.<NL>배치된 블록이 얼마나 빨리 부서지는지는 별빛이 렌즈를 통과하는 정도에 따라 결정됩니다.",
 
-  "astralsorcery.journal.node.DAMAGE_LENS.name": "Harm Lens",
-  "astralsorcery.journal.DAMAGE_LENS.1.text": "Creatures in the beam from a Harm Lens will periodically take damage as though struck by a sword. <NL>The rate at which damage is dealt depends on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.DAMAGE_LENS.name": "피해 렌즈",
+  "astralsorcery.journal.DAMAGE_LENS.1.text": "피해 렌즈의 광선에 있는 생물은 주기적으로 검에 맞은 것처럼 피해를 입습니다.<NL>데미지 비율은 렌즈를 통과하는 별빛의 양에 따라 달라집니다.",
 
-  "astralsorcery.journal.node.PUSH_LENS.name": "Push Lens",
-  "astralsorcery.journal.PUSH_LENS.1.text": "The beam of a Push Lens applies a constant force away from the lens to both items and creatures in its path. An icy path can accelerate how quickly an affected object or creature is moved. <NL>The frequency of the pushing effect is based on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.PUSH_LENS.name": "척력 렌즈",
+  "astralsorcery.journal.PUSH_LENS.1.text": "척력 렌즈의 광선은 경로에 있는 아이템과 생물 모두에 렌즈에서 멀리 떨어지도록 일정한 힘을 적용합니다. 얼음같이 미끄러운 블록 위에서 영향을 받는 물체나 생물이 이동하는 속도를 가속화할 수 있습니다.<NL>밀어내는 효과의 빈도는 별빛이 렌즈를 통과하는 정도에 따라 달라집니다.",
 
-  "astralsorcery.journal.node.REGENERATION_LENS.name": "Regeneration Lens",
-  "astralsorcery.journal.REGENERATION_LENS.1.text": "The beam of a Regeneration Lens encourages rapid regeneration of injuries. <NL>How frequently this healing is applied depends on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.REGENERATION_LENS.name": "재생 렌즈",
+  "astralsorcery.journal.REGENERATION_LENS.1.text": "재생 렌즈의 광선은 부상의 빠른 재생을 촉진합니다.<NL>이 치유가 적용되는 빈도는 렌즈를 통과하는 별빛의 양에 따라 달라집니다.",
 
-  "astralsorcery.journal.node.GROWTH_LENS.name": "Growth Lens",
-  "astralsorcery.journal.GROWTH_LENS.1.text": "The beam from a Growth lens subjects any plants in its path to rapid growth, as though by fertilizer or by any other method that would cause the plant to grow. <NL>How often a plant is forced to grow is based on how much Starlight is passing through the lens.",
+  "astralsorcery.journal.node.GROWTH_LENS.name": "성장 렌즈",
+  "astralsorcery.journal.GROWTH_LENS.1.text": "성장 렌즈의 광선은 마치 비료를 사용하여 식물을 자라게 하는 방법을 사용하는 것처럼 경로에 있는 모든 식물을 빠르게 성장시킵니다.<NL>식물이 강제로 빠르게 자라는 빈도는 별빛이 렌즈를 통과하는 정도에 따라 달라집니다.",
 
-  "astralsorcery.journal.node.SPECTRAL_LENS.name": "Spectral Lens",
-  "astralsorcery.journal.SPECTRAL_LENS.1.text": "There are times when operating under an open sky isn't possible, and the safety of the underground or behind a closed door is needed. Starlight transmission through glass can solve some of these problems, but sometimes this is not possible. The modulation of a Spectral Lens allows collected Starlight to transmit through solid blocks, though this subjects the stream of Starlight to small losses.",
+  "astralsorcery.journal.node.SPECTRAL_LENS.name": "영혼 렌즈",
+  "astralsorcery.journal.SPECTRAL_LENS.1.text": "탁 트인 하늘 아래에서의 작동이 위험하여 지하나 닫힌 문 뒤와 같은 안전요소가 필요한 경우도 존재합니다. 유리를 통한 별빛 투과는 이러한 문제 중 일부를 해결할 수 있지만 때로는 불가능합니다. 유령 렌즈로 변조하면 수집된 별빛이 고체 블록을 뚫고서 전송될 수 있지만 이로 인해 별빛의 흐름에 약간의 손실을 입게 됩니다.",
 
-  "astralsorcery.journal.node.INFUSER.name": "Starlight Infusion",
-  "astralsorcery.journal.INFUSER.1.text": "Increasing the reactivity of materials to Starlight energy is necessary in many cases. The Academy recognizes only a few materials that are receptive to simply submerging them into Liquid Starlight. Arcane fluid Infusion is needed to transmute many objects into what the Academy considers their more \"natural\" states than applying magical spectra directly allows. This is more temperamental than Attunement or Starlight Transmutation. Liquid Starlight is a sufficiently meterable source of magical energy, but needs a more balanced introduction to the target material.",
-  "astralsorcery.journal.INFUSER.3.text": "By drawing from the structure's Liquid Starlight reservoir, no sky access is required for a Starlight Infuser to work. The more volatile storage method of the liquid magic does mean partial losses of the liquid may be common when agitation is introduced during the Infusion process. The lost liquid must be replaced before the Infuser will allow subsequent activation for safety. Using a Resonating Wand will activate the Starlight Infuser much like other Starlight crafting devices. <NL>The Academy has blocked these devices infusing creatures on ethical grounds.",
+  "astralsorcery.journal.node.INFUSER.name": "별빛 주입",
+  "astralsorcery.journal.INFUSER.1.text": "많은 경우에 별빛 에너지에 대한 재료의 반응성을 높이는 것이 필요합니다. 아카데미는 단순히 액체 별빛에 담그기만 하면 잘 받아들이는 몇 가지 재료만 인정합니다. 신비한 액체 주입은 아카데미가 마법 스펙트럼을 직접 적용하는 것보다 더 "자연스러운" 상태로 간주하는 것으로 많은 물체를 변환하는 데 필요합니다. 이것은 조율이나 별빛 변환보다 더 변덕스럽습니다. 액체 별빛은 충분히 측정 가능한 마력의 원천이지만 대상 물질에 대한 보다 균형 잡힌 도입이 필요합니다.",
+  "astralsorcery.journal.INFUSER.3.text": "구조의 액체 별빛 웅덩이에서 별빛을 끌어오는 형태이기 때문에 별빛 주입기가 작동하기 위해 하늘이 노출되어 있어야 할 필요가 없습니다. 액체 마법의 이 휘발성의 저장 방법은 주입 과정에서 교반이 도입될 때 액체의 부분적 손실이 일반적일 수 있음을 의미합니다. 주입기는 안전을 위해 다음 활성화를 수행하기 전에 이렇게 손실된 액체를 다시 공급해야 합니다. 공명 마법봉을 사용하면 다른 별빛 제작 장치와 마찬가지로 별빛 주입기가 활성화됩니다.<NL>아카데미는 윤리적인 이유로 생물에게 별빛을 주입하는 기능은 차단했습니다.",
 
-  "astralsorcery.journal.node.ENCHANTMENT_AMULET.name": "Resplendent Prism",
-  "astralsorcery.journal.ENCHANTMENT_AMULET.1.text": "Shifting Stars normally resonate in chaotic and strange patterns, which allow them to disrupt personal attunements. This chaos can be halted when exposed to specially filtered Starlight. With the emanating power no longer constantly in flux, a more focused benefit can be achieved.<NL>Directing these energies into an Eye of Ender causes them to softly radiate and diffuse outwards a short distance, interacting with existing magical fields worn or held.",
-  "astralsorcery.journal.ENCHANTMENT_AMULET.3.text": "While worn, a Resplendent Prism adds or empowers magical effects applied to the rest of the wearer's equipment. Controlling this empowerment is not possible, and the effect is based entirely on the magical frequency the Shifting Star was locked into.<NL>Re-exposing a Resplendent Prism to filtered Starlight momentarily releases the frequency lock, with the uncontrollable chaos of the Shifting Star determining the magical results when it becomes set again.",
+  "astralsorcery.journal.node.ENCHANTMENT_AMULET.name": "찬란한 프리즘",
+  "astralsorcery.journal.ENCHANTMENT_AMULET.1.text": "변화하는 별은 일반적으로 혼란스럽고 이상한 패턴으로 공명하여 개인적인 조율을 방해합니다. 이 혼돈은 특별히 필터링된 별빛에 노출될 때 멈출 수 있습니다. 방출하는 힘이 더 이상 지속적으로 유동적이지 않으므로 보다 집중된 이점을 얻을 수 있습니다.<NL>이 에너지를 엔더의 눈에 전달하면 해당 에너지가 부드럽게 방사되고 짧은 거리 바깥쪽으로 확산되어 착용하거나 보유하고 있는 기존 마법장과 상호 작용합니다.",
+  "astralsorcery.journal.ENCHANTMENT_AMULET.3.text": "착용하는 동안 찬란한 프리즘은 착용자의 나머지 장비에 마법 효과를 추가하거나 강화합니다. 이 권한 부여를 제어하는 ​​것은 불가능하며 효과는 전적으로 변화하는 별이 잠겨 있던 마법 ​​주파수를 기반으로 합니다.<NL>찬란한 프리즘을 필터링된 별빛에 다시 노출시키면 이동하는 별의 제어할 수 없는 혼돈과 함께 주파수 고정이 일시적으로 해제됩니다. 다시 설정되면 마법의 결과를 결정합니다.",
 
-  "astralsorcery.journal.node.RITUAL_LINK.name": "Ritual Anchor",
-  "astralsorcery.journal.RITUAL_LINK.1.text": "The supporting structure for a Ritual Pedestal takes up considerable space, an unfortunate necessity to channel Starlight into a magical ritual. The Academy has devised a way to relocate the epicenter of the magical emanations from a ritual pedestal using a combination of linked anchors. By placing one anchor five meters above the pedestal, a Linking Tool can connect it to another anchor placed anywhere else in the same dimension. This will cause the linked Anchor to function as the source of the effects, centering the magical ritual on itself.",
+  "astralsorcery.journal.node.RITUAL_LINK.name": "의식 고착",
+  "astralsorcery.journal.RITUAL_LINK.1.text": "의식 받침대의 지지 구조는 상당한 공간을 차지하며, 또한 안타깝게도 별빛을 마법의 의식으로 전환해야 합니다. 아카데미는 연결된 고착기의 조합을 사용하여 의식 받침대에서 마법 방출의 진원지를 재배치하는 방법을 고안했습니다. 받침대 위 5미터 위에 하나의 고착기를 배치하여 연결 도구를 사용하여 동일한 차원의 다른 곳에 배치된 다른 고착기에 연결할 수 있습니다. 이렇게 하면 연결된 고착기가 마법 의식을 중심에 두고 효과의 근원으로 기능하게 됩니다.",
 
-  "astralsorcery.journal.node.ILLUMINATION_WAND.name": "Illumination Wand",
-  "astralsorcery.journal.ILLUMINATION_WAND.1.text": "Rather than drawing the passive Starlight power from glowstone and aquamarine or from the latent Fosic field, personal Attunement Charge can be used to create illuminating sparks when properly channeled. By combining dye with an Illumination Wand, the color of the spark can be changed. Channeling Charge into a Cave Illuminator through this wand will also provide the Illuminator with enough energy to run without nighttime Fosic strength or access to the sky for 10 seconds. When a Cave Illuminator is powered in this fashion, it will start placing sparks matching the wand's color.",
-  "astralsorcery.journal.ILLUMINATION_WAND.3.text": "Performing a shift-right-click on a block will channel enough Charge energy into the block to bridge the gap between the magically ethereal, and the real world. This will cause the block to take on the appearance of an ethereal ghost, tinted the color of the wand. By bridging existence in this fashion, the block is placed into ethereal stasis and will be totally unbreakable just like bedrock, until shift-right-clicked again to bring it back fully into the real world, making it breakable again. Any Illumination Wand can remove a block from this state, not only the one used to Illuminate it.",
+  "astralsorcery.journal.node.ILLUMINATION_WAND.name": "조명 마법봉",
+  "astralsorcery.journal.ILLUMINATION_WAND.1.text": "발광석과 청록색 또는 잠재된 포식 필드에서 수동적인 별빛 에너지를 끌어오는 대신, 적절하게 채널링되면 개인 조율 힘을 사용하여 빛나는 불꽃을 생성할 수 있습니다. 염료와 조명 마법봉를 결합하여 불꽃의 색을 변경할 수 있습니다. 이 지팡이를 통해 충전을 동굴 조명기에 집중시키면 야간 포식의 힘 없이도 10초 동안 하늘에 접근하지 않고도 작동할 수 있는 충분한 에너지를 조명기에 제공할 것입니다. 동굴 조명기가 이러한 방식으로 에너지가 공급되면 마법봉의 색상과 일치하는 불꽃을 놓기 시작합니다.",
+  "astralsorcery.journal.ILLUMINATION_WAND.3.text": "블록에 shift + 우클릭하면 마법처럼 천상의 세계와 현실 세계 사이의 간격을 메우기 위해 블록을 만들어내기 충분한 응집 에너지가 집중됩니다. 이것은 블록이 지팡이의 색을 띠는 미묘한 유령의 모습을 띠게 할 것입니다. 이러한 방식으로 존재를 연결함으로써 블록은 미묘한 정지 상태에 놓이고 기반암처럼 완전히 부서지지 않을 것입니다, Shift + 우클릭으로 현실 세계의 블록을 다시 가져와 다시 부서질 수 있을 때까지 말입니다. 조명 마법봉은 이 상태에서 블록을 조명으로 사용할 뿐만 아니라 블록을 제거할 수 있습니다.",
 
-  "astralsorcery.journal.node.CHARGED_TOOLS.name": "Infused Crystal Tools",
-  "astralsorcery.journal.CHARGED_TOOLS.1.text": "As crystalline tools already rely heavily on channeling passive Starlight for their function, they behave differently when Infused. Rather than transmuting their physical form, they instead have the natural magical pathways inside the crystals reinforced, allowing for far more direct and obvious magical effects when supplied with magic. Feeding these tools with the natural Starlight Charge of the wielder will manifest this magic, but this will apply stresses to the crystals that require a \"cooldown\" period before the process is repeated. Over time, the tool will",
-  "astralsorcery.journal.CHARGED_TOOLS.2.text": "dissipate its own Infusion and require a redo. <NL>The magic manifested by this Charge energy relates directly to how the crystals were shaped in crafting the tool. Axes can harvest many connected parts of the struck tree at once, pickaxes can ethereally detect nearby ores, shovels can dig a broader hole at once, and swords will unleash a blast of magical energy on impact that causes other nearby foes to also be injured.",
+  "astralsorcery.journal.node.CHARGED_TOOLS.name": "별빛이 주입된 수정 도구",
+  "astralsorcery.journal.CHARGED_TOOLS.1.text": "수정 도구는 이미 기능을 위해 패시브 별빛 채널링에 크게 의존하기 때문에 별빛을 주입하면 다르게 작동합니다. 물리적 형태를 변형하는 대신 수정 내부의 자연적인 마법 경로가 강화되어 마법이 공급될 때 훨씬 더 직접적이고 명백한 마법 효과를 허용합니다. 이 도구에 사용자의 자연적인 별빛 힘을 공급하면 이 마법 효과가 나타날 것이지만 프로세스가 반복되기 전에 결정에 스트레스가 가해지므로 \"쿨다운\" 기간이 필요합니다. 시간이 지남에 따라 도구는",
+  "astralsorcery.journal.CHARGED_TOOLS.2.text": "자체 주입을 소산하기 때문에 별빛 주입 과정을 다시 수행해야 합니다.<NL>이 충전 에너지가 나타내는 마법은 도구를 제작할 때 결정이 어떻게 형성되었는지와 직접적인 관련이 있습니다. 도끼는 부딪힌 나무의 연결된 여러 부분을 한 번에 수확할 수 있고, 곡괭이는 가까이 있는 광석을 미묘하게 감지할 수 있고, 삽은 한 번에 더 넓은 구멍을 파낼 수 있으며, 칼은 공격 시 마법 에너지의 폭발을 일으켜 주변의 다른 적들도 피해를 입게 합니다.",
 
-  "astralsorcery.journal.node.TREEBEACON.name": "Tree Farming",
-  "astralsorcery.journal.TREEBEACON.1.text": "Living matter is more receptive to Starlight than non-living matter, and new growth even more so. This is shown most-readily with plants, and the most reactive are those that grow the largest: trees. By tapping into that natural reactivity with a specially crafted beacon, a snapshot of the essence of the tree can be captured at the moment it grows from a sapling, expending the growth into an ethereal construct exemplifying the essence of that sapling. The sapling itself will be consumed to fuel the creation of this echo. By passing captured Starlight through this",
-  "astralsorcery.journal.TREEBEACON.3.text": "echo, it may be extruded into real products of that tree. <NL>In this way, far more resources can be created magically from this echo than if the real tree were to be harvested. Focusing Starlight into this beacon will accelerate how quickly the resources are generated, with light from Aevitas providing the most benefit. Foliage is least likely to be generated by the beacon, as it is furthest from the essence of each tree. <NL>While each beacon can support multiple echoes, each echo has a limited lifespan and will eventually break down, requiring the planting of a new sapling.",
+  "astralsorcery.journal.node.TREEBEACON.name": "나무 농사",
+  "astralsorcery.journal.TREEBEACON.1.text": "생물은 무생물보다 별빛을 더 잘 받아들이며, 새로운 성장은 더욱 그렇습니다. 이것은 식물에서 가장 쉽게 나타나며 가장 반응성이 좋은 것은 가장 크게 자라는 나무입니다. 특수 제작된 비콘으로 자연적인 반응성을 활용하여 나무가 자라는 순간 그 나무의 본질을 포착하고 그 성장을 확대하여 그 묘목의 본질을 보여주는 미묘한 구조물로 확장할 수 있습니다. 묘목 자체가 이 에코 생성에 연료를 공급하기 위해 소모됩니다. 포착한 별빛을 통과시켜",
+  "astralsorcery.journal.TREEBEACON.3.text": "에코를 형성하며, 그 과정에서 해당 나무의 실제 생산물이 압출될 수 있습니다.<NL>이렇게 하면 실제 나무를 수확하는 것보다 훨씬 더 많은 자원이 이 에코에서 마법처럼 생성될 수 있습니다. 아에비타스의 별빛을 이 비콘에 집중시키면 빛이 가장 많은 이점을 제공하여 자원 생성 속도가 빨라집니다. 나뭇잎은 각 나무의 중심에서 가장 멀리 떨어져 있기 때문에 비콘에 의해 생성될 가능성이 가장 적습니다. <NL>각 비콘은 여러 에코를 지원할 수 있지만 각 에코는 수명이 제한되어 있으며 결국에는 고장이 나서 새로운 묘목을 심어야 합니다.",
 
-  "astralsorcery.journal.node.PRISM.name": "Crystal Prism",
-  "astralsorcery.journal.PRISM.1.text": "While crystal lenses form the backbone of any distributed Starlight network, they can only transmit to a single location at once, which limits possibilities. The Crystal Prism solves this, though at a much greater material cost. The same principles behind crafting Crystal Lenses apply here, with the crystal used as the heart of the prism dictating the transmissive qualities of the prism. A crystal prism will evenly distribute and Starlight it received from a collector to all its target links.",
+  "astralsorcery.journal.node.PRISM.name": "수정 프리즘",
+  "astralsorcery.journal.PRISM.1.text": "수정 렌즈는 분산된 별빛 네트워크의 중추를 형성하지만 한 번에 한 위치로만 전송할 수 있으므로 가능성이 제한됩니다. 수정 프리즘은 이 문제를 해결하지만 훨씬 더 많은 재료 비용이 듭니다. 수정 렌즈 제작의 동일한 원리가 프리즘의 핵심으로 사용되는 크리스탈과 함께 프리즘의 투과 특성을 결정하는 데 적용됩니다. 수정 프리즘은 수집 수정으로부터 받은 별빛을 모든 대상 링크에 고르게 분배합니다.",
 
-  "astralsorcery.journal.node.DRAWING_TABLE.name": "Stellar Refraction Table",
-  "astralsorcery.journal.DRAWING_TABLE.1.text": "Enchanting through bulk communal knowledge is a somewhat inexact process. By leveraging the properties of constellations and the focus of Starlight, more powerful enchantment combinations than may be normally available becomes a possibility. <NL>Specially etched panes of glass are needed for this process. <NL>Up to three constellations at a time may be leveraged with the Stellar Refraction Table, assuming all are in the sky at once.",
-  "astralsorcery.journal.DRAWING_TABLE.3.text": "Placement of the constellations for tracing is important, as interference from lines crossing other constellations will reduce the overall strength. Overlapping individual stars is recommended when possible for maximum effect. <NL>Starlight-reactive Parchment is needed to perform the tracing that will guide the etching of the subsequently prepared glass. <NL>The Academy warns that repeating the use of a single constellation on the same Parchment or etching will not improve the end result, and due to interference among all tracings, may actually hamper the outcome.",
-  "astralsorcery.journal.DRAWING_TABLE.4.text": "Once an Etched Infused Glass is created, it may be used to directly enchant an unenchanted piece of equipment or book, if all the constellations on the glass are in the sky. <NL>Using this method, normally antithetical enchantments may be placed alongside each other on the enchanted item, and the resulting enchanted item may be more powerful than could be normally created. Books enchanted this way may not be able to have their full power placed onto an item.",
-  "astralsorcery.journal.DRAWING_TABLE.6.text": "The essence of the enchantment may also be instilled into a bottle of water, or a mundane, thick, or awkward potion to create Stardew - a magical beverage that provides various effects to the imbiber for a short period of time, depending on the constellations leveraged.",
+  "astralsorcery.journal.node.DRAWING_TABLE.name": "항성 굴절대",
+  "astralsorcery.journal.DRAWING_TABLE.1.text": "대량의 공동 지식을 통한 마법부여는 다소 부정확한 과정입니다. 별자리의 속성과 별빛의 초점을 활용하여 일반적으로 사용할 수 있는 것보다 더 강력한 마법 조합이 가능합니다.<NL>이 과정을 위해서는 특별히 에칭된 유리판이 필요합니다.<NL>모든 별자리가 동시에 하늘에 있다고 가정하에 한 번에 최대 3개의 별자리가 항성굴절표로 활용될 수 있습니다.",
+  "astralsorcery.journal.DRAWING_TABLE.3.text": "다른 별자리를 가로지르는 선의 간섭이 전체 강도를 감소시키므로 별자리의 적절한 배치가 중요합니다. 최대 효과를 위해 가능한 한 개별 별을 겹치는 것이 좋습니다.<NL>별빛 반응성 양피지는 이후에 준비된 유리의 에칭에 대한 추적을 수행하는 데 필요합니다.<NL>아카데미에서는 동일한 양피지 또는 에칭에 단일 별자리를 반복적으로 사용하는 것은 모든 추적 간의 간섭을 야기하여 별자리 서로가 방해되어 최종 결과가 개선되지 않음을 경고합니다.",
+  "astralsorcery.journal.DRAWING_TABLE.4.text": "에칭된 별빛이 주입된 유리가 생성되면 유리의 모든 별자리가 하늘에 있는 경우 마법이 부여되지 않은 장비나 책에 직접 마법을 부여하는 데 사용할 수 있습니다.<NL>이 방법을 사용하면 일반적인 마법부여 항목에 나란히 배치되며 결과로 생성되는 마법이 부여된 아이템은 일반적인 마법부여보다 더 강력할 수 있습니다. 이러한 방식으로 마법이 부여된 책은 최대 능력의 제한으로 인해 부여하지 못할 수도 있습니다.",
+  "astralsorcery.journal.DRAWING_TABLE.6.text": "마법의 에센스는 물병에 주입하여 사용되는 별자리에 따라 짧은 시간 동안 마시는 사람에게 다양한 효과를 제공하는 마법의 음료인 별방울(Stardew)을 만들 수 있으며 일반 물병 대신 평범하거나 진한, 또는 어색한 물약에도 주입할 수도 있습니다.",
 
-  "astralsorcery.journal.node.ALTAR4.name": "Iridescent Altar",
-  "astralsorcery.journal.ALTAR4.1.text": "The final test for any initiate to graduate the Academy as an Astral Sorcerer is to complete construction of an Iridescent Altar - the most advanced method of Starlight Crafting presently known. Brute force will only succeed for so long with magic before a more deft hand is needed to prevent disaster. <NL>By filtering received Starlight through an Attuned Crystal socketed into the altar, the influence of only a single constellation can be applied to the crafted item without risking a rapid and catastrophic unplanned disassembly.",
-  "astralsorcery.journal.ALTAR4.4.text": "To make the most use of this approach to filtered magic, Astral Relays can be placed on any sooty marble of the altar structure. They will allow for specific items to be placed during the crafting process when requested by the altar, so their essence may be infused into the crafted item. <NL>These items will show in the crafting recipe as orbiting the outside of the crafting grid, and any required Crystal Attunement will be shown in the background of the recipe.",
+  "astralsorcery.journal.node.ALTAR4.name": "훈색 제단",
+  "astralsorcery.journal.ALTAR4.1.text": "아스트랄 소서리로서 아카데미를 졸업하기 위한 모든 입문자의 마지막 테스트는 현재 알려진 별빛 제작의 가장 진보된 방법인 훈색 제단 건설을 완료하는 것입니다. 무차별 대입에 의한 재앙을 막기 위해 더 능숙한 손이 필요하지만 완수하면 마법으로 오랫동안 성공할 것입니다.<NL>수신된 별빛을 제단에 장착된 조율 수정을 통해 걸러냄으로써, 신속하고 치명적인 계획되지 않은 분해 위험 없이 제작된 항목에 단일 별자리의 영향만 적용할 수 있습니다.",
+  "astralsorcery.journal.ALTAR4.4.text": "필터링된 마법에 대한 이 접근 방식을 최대한 활용하기 위해 아스트랄 중계기를 제단 구조의 그을린 대리석에 놓을 수 있습니다. 제단의 요청에 따라 제작 과정에서 특정 아이템을 배치할 수 있도록 하여 해당 아이템의 정수를 제작된 아이템에 주입할 수 있습니다. <NL>필요한 아이템들은 제작법에서 제작 그리드 외부를 도는 것으로 표시되며 필요한 수정 조율은 제작법의 배경에 표시됩니다.",
 
-  "astralsorcery.journal.node.COLL_CRYSTAL.name": "Collector Crystal",
-  "astralsorcery.journal.COLL_CRYSTAL.1.text": "Attuned Rock Crystals serve as good filters for Starlight, but only have the same receptivity as any other block. By using a Celestial Altar to apply a coating of several substances that are more receptive to Starlight, this receptivity can be greatly enhanced. The Collector Crystal crafted in this fashion will gather all Starlight within 8 meters of itself, discarding the light that does not match its Attunement.",
-  "astralsorcery.journal.COLL_CRYSTAL.3.text": "These Crystals operate like the ones in the Academy-provided study temples and can be used in the same fashion, but with the ability to move them for convenience. Due to the reach of each crystal, placing them too close together will see diminishing returns in total gathered Starlight. <NL>For best performance, care should be taken in selecting the qualities of the crystal used to craft these Collectors, as once crafted, they cannot be changed.",
-  "astralsorcery.journal.COLL_CRYSTAL.4.text": "Furthermore, the Academy warns that using unorthodox methods of moving Collector Crystals other than breaking and placing, such as cardboard boxes, may cripple their magical field, leading to unprecedented effects on the efflux of Starlight.",
+  "astralsorcery.journal.node.COLL_CRYSTAL.name": "수집 수정",
+  "astralsorcery.journal.COLL_CRYSTAL.1.text": "조율된 암수정은 별빛에 대한 좋은 필터 역할을 하지만 다른 블록과 동일한 수용성만 갖습니다. 천상의 제단을 사용하여 별빛을 더 잘 수용하는 여러 물질의 코팅을 적용함으로써 이 수용력을 크게 향상시킬 수 있습니다. 이 방식으로 제작된 수집 수정은 8미터 이내의 모든 별빛을 모아서 조율된 별자리와 일치하지 않는 빛을 버립니다.",
+  "astralsorcery.journal.COLL_CRYSTAL.3.text": "이 수정은 아카데미에서 제공하는 학습용 사원에 있는 것과 같은 방식으로 작동하며 동일한 방식으로 사용할 수 있지만 편의를 위해 옮길 수 있는 기능이 있습니다. 각 수정의 도달 범위로 인해 너무 가깝게 배치하면 수집되는 총 별빛의 효율이 감소합니다.<NL>최고의 성능을 얻으려면 이 수집 수정을 제작하는 데 사용되는 수정의 품질을 선택할 때 주의해야 합니다. 한 번 제작되면 변경할 수 없기 때문입니다..",
+  "astralsorcery.journal.COLL_CRYSTAL.4.text": "또한, 아카데미는 골판지 상자와 같이 부수고 배치하는 것 외에 수집 수정을 이동하는 과정에서 이례적인 방법을 사용하면 마법의 장을 손상시켜 별빛의 유출에 전례 없는 영향을 미칠 수 있다고 경고합니다..",
 
-  "astralsorcery.journal.node.CEL_CRYSTAL_GROW.name": "Crystal Clusters",
-  "astralsorcery.journal.CEL_CRYSTAL_GROW.1.text": "Studies into the internal structure of Rock Crystals show that there are limits to how large they can grow along with limits to their qualities. Purified iron is weaker than when adding some carbon to make steel, and in the same fashion Rock Crystals need an introduced impurity to alter their internal structure for superior performance. <NL>Stardust is this impurity, but a magical crucible is needed to bring this change to bloom, though it is a two-step process.",
-  "astralsorcery.journal.CEL_CRYSTAL_GROW.2.text": "Submerging a Rock Crystal into a bucket of Liquid Starlight with a handful of Stardust will see a rapid boil occur in the mixture. Once the Liquid Starlight and excess Stardust have boiled off, what remains will be a small crystal cluster. Exposure to Starlight from the sky above or from a linked Collector Crystal will result in this crystal cluster changing its internal structure, growing over time in several stages. <NL>Harvesting the cluster will see more attributes on the resulting crystal than it started with.",
-  "astralsorcery.journal.CEL_CRYSTAL_GROW.3.text": "A crystal cluster that is ready for harvest will shimmer with light.<NL> It is recommended to have the cluster grow on a block of Starmetal Ore for several reasons. The magical radiation of the ore will generate sympathetic magical eddies in the crystal that accelerate the growth process, though each stage of growth will disrupt the ore's magical field sufficiently to revert it to iron ore. The Academy recommends having a nearby Collector to transmute the ore again each time this occurs.",
+  "astralsorcery.journal.node.CEL_CRYSTAL_GROW.name": "수정 군집",
+  "astralsorcery.journal.CEL_CRYSTAL_GROW.1.text": "암수정의 내부 구조에 대한 연구에 따르면 자랄 수 있는 크기에는 한계가 있으며 품질에도 한계가 있습니다. 정제된 철은 강철을 만들기 위해 약간의 탄소를 추가할 때보다 약하며, 같은 방식으로 암수정은 우수한 성능을 위해 내부 구조를 변경하기 위해 특정 불순물을 도입해야 할 필요가 있습니다.<NL>이 때 스타메탈 가루가 이 불순물이지만 이 변화를 일으키려면 마법의 도가니가 필요하며 두 단계 과정을 거쳐야 합니다.",
+  "astralsorcery.journal.CEL_CRYSTAL_GROW.2.text": "액체 별빛 한 양동이를 부어놓고 거기에 한 줌의 스타메탈 가루와 암수정을 담그면 혼합물에서 급격한 끓음이 일어나는 것을 볼 수 있습니다. 액체 별빛과 여분의 별가루가 끓어 사라지면 작은 수정 덩어리가 남습니다. 하늘이 노출되어 있거나 연결된 수집 수정을 통해 별빛에 노출되면 이 수정 군집이 내부 구조를 변경하여 시간이 지남에 따라 여러 단계로 성장합니다. <NL>다 자란 군집을 수확하면 결과 수정에 처음보다 더 많은 속성이 표시됩니다.",
+  "astralsorcery.journal.CEL_CRYSTAL_GROW.3.text": "수확할 준비가 된 수정 군집은 빛으로 반짝거릴 것입니다.<NL>여러 가지 이유로 스타메탈 광석 블록에서 군집을 성장시키는 것이 좋습니다. 광석의 마법 방사는 수정에 동정적인 마법 소용돌이를 생성하여 성장 과정을 가속화하지만, 성장의 각 단계는 광석을 철광석으로 되돌리기에 충분할 만큼 광석의 마법 장을 방해할 것입니다. 아카데미에서는 이러한 일이 발생할 때마다 광석을 다시 변환할 수 있는 수집 수정을 근처에 둘 것을 권장합니다.",
 
-  "astralsorcery.journal.node.CEL_CRYSTALS.name": "Celestial Crystals",
-  "astralsorcery.journal.CEL_CRYSTALS.1.text": "Celestial-class crystals are superior in every single quality to a normal Rock Crystal, and can be easily identified by their brilliant blue color resulting from the inclusion of Stardust. <NL>In any instance where a Rock Crystal could be used, a Celestial Crystal could be substituted, including the creation of Crystal Clusters with slightly different attributes. Some advanced applications require the superior structure of a Celestial Crystal.",
+  "astralsorcery.journal.node.CEL_CRYSTALS.name": "천상의 수정",
+  "astralsorcery.journal.CEL_CRYSTALS.1.text": "천상급의 수정은 일반 암수정보다 모든 면에서 우수하며 스타메탈 가루가 함유되어 있는 선명한 파란색의 형태를 가지고 있어 쉽게 알아볼 수 있습니다.<NL>약간 다른 속성을 가진 수정 군집 생성을 포함하여 암수정을 사용할 수 있는 모든 경우에서 이를 천상의 수정으로 대체할 수 있습니다. 일부 고급 응용 프로그램에는 천상의 수정에 존재하는 우수한 구조가 필요합니다.",
 
-  "astralsorcery.journal.node.ENHANCED_COLLECTOR.name": "Enhanced Celestial Collectors",
-  "astralsorcery.journal.ENHANCED_COLLECTOR.1.text": "Celestial Crystals create superior Celestial Collector Crystals, but the wax and wane of a constellation over the world do not change. Celestial Collector Crystals can be supported by a structure that evens out the ebb and flow of this energy. While the Collector won't provide as much Starlight when its constellation is in the sky, it will provide much more when its constellation is not in the sky, allowing Rituals and Transmutations to run when they otherwise would be greatly slowed.",
-
-
-
-  "astralsorcery.journal.node.ATT_TRAIT.name": "Enhanced Attunement",
-  "astralsorcery.journal.ATT_TRAIT.1.text": "The light from Faint-class constellations is insufficient to fuel rituals or fully Attune a crystal, but it is sufficient for enchanting items or creating Stardew. The spectrum of their energies is also sufficient to alter a crystal's Attunement subtly. Setting relays in the proper form for these constellations on an Attunement Altar allows an already Attuned crystal to have a single Trait applied that modulates its channeling of Starlight.",
-  "astralsorcery.journal.ATT_TRAIT.2.text": "Once a trait has been applied to an Attuned crystal, it cannot be changed. <NL>Collectors crafted from a crystal with a Trait will retain the trait, but it will have no effect on the Starlight filtered. <NL>Additional information about the effect of each of these Traits has been added to the Faint constellations in the Constellations tab.",
-
-  "astralsorcery.journal.node.OBSERVATORY.name": "Observatory",
-  "astralsorcery.journal.OBSERVATORY.1.text": "To increase visual reach into the stars, more filtered lenses and reactive powders will be needed than the Telescope required. The more sensitive viewing an Observatory offers allows a Sorcerer to delve deep into the skyfield, following the slightest hint of magical energies back to its source constellation. <NL>In the deep depths of the Astral, more constellations faintly shine their magical power forth, barely distinguishable against the background noise of existence.",
-  "astralsorcery.journal.OBSERVATORY.3.text": "As the Observatory is very precise, moving the mouse is necessary to aim around the night sky. When a prospective constellation is located, holding shift will lock the view, allowing the constellation to be traced. Press Right-click/Esc to leave the Observatory view, and dismount the observatory's seat by pressing shift.",
-
-  "astralsorcery.journal.node.ENH_SHIFTING_STAR.name": "Irradiant Star",
-  "astralsorcery.journal.ENH_SHIFTING_STAR.1.text": "Shifting Stars are well suited to brute-force disruption of a personal Attunement, but more refined methods exist. <NL>Filtering the light used for crafting and adding aspects from items allows an advanced Star to be crafted that modulates Attunement energies instead of disrupting them to failure. The Attunement root will shift to match the Irradiant Star, and all perk points will be deallocated, but any growth progress will not be reverted. This allows the sorcerer to re-allocate those points without losing any.",
-
-  "astralsorcery.journal.node.CRAFTING_FOCUS_HINT.name": "Graduate Crafting",
-  "astralsorcery.journal.CRAFTING_FOCUS_HINT.1.text": "With the successful crafting of the Iridescent Altar, the Academy would like to welcome you as a fully-fledged Astral Sorcerer. New horizons now await your own independent studies. The safety measures previously enforced through your bond with the Academy's library through this Tome have now been removed. Additionally, previously forbidden knowledge is also now available within your Tome as a result of post-graduate contributions to the Academy's knowledge stores.",
-  "astralsorcery.journal.CRAFTING_FOCUS_HINT.2.text": "Attempting to craft with the Iridescent Altar will no longer cancel and fail if the available amount of Starlight drops below the minimum needed to complete the craft, such as falling Starlight levels during dawn. The crafting will be held in stasis at the Altar until the amount of available Starlight returns to the minimum level, regardless of method. <NL>Replacement or additional constellation papers may also now be crafted.",
-  "astralsorcery.journal.CRAFTING_FOCUS_HINT.3.text": "The most dangerous portion of the unlocked knowledge includes the ability to discover the Faint classification of constellations through Constellation Papers, though an Observatory will be needed to see them in the sky. The Academy would recommend caution when working with Faint constellations, as their influence can greatly change the expected results of a previously well-known astral mechanic. <NL>-The Faculty and Staff of the Academy of the Astral.",
-
-  "astralsorcery.journal.node.ATT_CAPE.name": "Mantle of Stars",
-  "astralsorcery.journal.ATT_CAPE.1.text": "Many magical and technical marvels exist in the realm of personal protection, but none channel the power of the stars. By deeply impregnating leather armor with Stardust and Resonating Gems, it is transmuted to a mantle of leather and metal that both protects the wearer, and allows for channeling Charge.",
-  "astralsorcery.journal.ATT_CAPE.3.text": "Due to the magical sensitivity of a Mantle, it's highly receptive to enchanting. <NL>The receptivity to channeling Starlight means a Mantle cannot be Attuned via Attunement Altar, but instead requires a special crafting operation to attune it to a constellation. <NL>The Mantle cannot be damaged or torn, lest it may not be used in an alignment recipe.",
-  "astralsorcery.journal.ATT_CAPE.4.text": "A Mantle may only be aligned to one constellation at a time. Using an already aligned Mantle in another constellation's alignment recipe will change the alignment of the Mantle. <NL>Mantles may be repaired on a mundane anvil using Stardust as an ingredient. <NL>Alignment recipes are located on each constellation's Tome page.",
-
-  "astralsorcery.journal.node.C_CHALICE.name": "Containment Chalice",
-  "astralsorcery.journal.C_CHALICE.1.text": "The largest drawback of a Lightwell is the reservoir size. While sufficient for generating liquids from a catalyst, the required design becomes prohibitively large when scaled up for greater storage. Pipes that can draw liquid from below the Lightwell may not be available, or the environment may not support their use. <NL>Magical teleportation and containment of the fluid is a good solution.",
-  "astralsorcery.journal.C_CHALICE.3.text": "Using Resonating Gems to keep the contents under high compression results in 64 buckets of storage in a small space. This also means that relocating a Chalice without first removing the stored fluid will result in the fluid being dispersed into the ether.<NL>The Chalice is able to draw Liquid Starlight through the ether from Lightwells within 16 blocks of its line of sight. Like the Lightwell, a Chalice can be connected to pipes from the bottom face.",
-  "astralsorcery.journal.C_CHALICE.4.text": "As the Chalice facilitates magical transport from Lightwells, the essence of any fluid contained within may leak, seeking out other fluidic essences to merge with. This results in the creation of materials as though the two fluids had met in the world, though very slight dissipation of the stored fluid can occur when this happens. <NL>A redstone signal will tighten the Chalice's compression field, disallowing these effects from happening.",
-
-  "astralsorcery.journal.node.BORE_CORE.name": "Evershifting Fountain",
-  "astralsorcery.journal.BORE_CORE.1.text": "Liquid Starlight may store Starlight energy in a condensed and manageable form, but it is easy to unleash that same power again. Through the use of a magical centrifuge, a chaotic fountain of Starlight can be spun up for times when raw brute magical force are needed to accomplish a goal. <NL>The containment ring of an Evershifting Fountain serves as a stable focus for these energies, and any blocks left within the structure are likely to be destroyed",
-  "astralsorcery.journal.BORE_CORE.3.text": "No view of the sky is needed to operate this device, as it is operated by an internal storage reservoir of Liquid Starlight. Safely feeding Liquid Starlight into this reservoir is performed by placing a Chalice directly on top of the Fountain. <NL>The desired magic must first be §5Primed§r for this power to have any effect.",
-
-  "astralsorcery.journal.node.BORE_HEAD_LIQUID.name": "Neromantic Prime",
-  "astralsorcery.journal.BORE_HEAD_LIQUID.1.text": "Eons of fluidic essence trickling into the void from above bedrock means there are vast, untapped oceans of fluid ripe for retrieval. Using the affinity of Octans for this fluidic essence allows this Prime to draw it to the surface. <NL>Powering a Neromantic Prime will result in a highly destructive bore comprised of Starlight energy burning a hole down to bedrock, at which point the energy reacts with the bedrock to reach into the fluidic essence oceans in the ethereal below, dragging it back to the Fountain.",
-  "astralsorcery.journal.BORE_HEAD_LIQUID.3.text": "Retrieval of liquids harvested in this way requires an empty Chalice on the line of sight of the Fountain. <NL>Since the majority of fluidic essence available is water, when other reservoirs of essence in the area are exhausted by the Prime, water essence will fill the gap left behind. <NL>An §1Ichosic Resonator§r should be used to scout for fluid essence pooling in advance.",
-  "astralsorcery.journal.BORE_HEAD_LIQUID.4.text": "With no method to determine which essence is below, moving the Fountain structure constantly is tiresome, and also expensive in Liquid Starlight. With some tinkering, the Fosic Resonator should be able to sample this information instead.<NL>This improved Ichosic Resonator, drawing on Resonating Gem's resonance to fluids, still only works during the night. Shifting modes between the old Fosic, and the new Ichosic, can be accomplished by shift-right-clicking.",
-
-  "astralsorcery.journal.node.ICHOSIC.name": "Ichosic Resonator",
-  "astralsorcery.journal.ICHOSIC.1.text": "Moving a Neromantic Prime Fountain structure constantly to determine what fluidic essence lies below is wasteful of effort and time. With some minor changes, the Fosic Resonator can be used to sample this information instead. Leveraging Resonating Gems and Stardust, holding the Ichosic Resonator at night will draw forth plumes of fluidic essence. <NL>Shifting modes between Fosic and Ichosic can be accomplished by shift-right-clicking.",
-
-  "astralsorcery.journal.node.BORE_HEAD_VORTEX.name": "Fysallidic Prime",
-  "astralsorcery.journal.BORE_HEAD_VORTEX.1.text": "Tapping Vicio for movement allows this Prime to draw close any creatures nearby, trapping them in a vortical current of kinetic Starlight. The trapped creatures remain unable to act or defend themselves while so trapped, for as long as the Fountain has enough Liquid Starlight. <NL>The cost in Starlight to restrain a creature is influenced by the strength of that creature to fight against the vortical currents.",
-  "astralsorcery.journal.BORE_HEAD_VORTEX.3.text": "Even mythical creatures are capable of being held by this Prime, though it seems to require its full and focused power to do so. These creatures require more Starlight power than a Chalice is able to consistently feed into a Fountain over time. Certain powerful creatures, like the Wither or Ender Dragon, may only be contained until the internal reservoir runs dry.",
+  "astralsorcery.journal.node.ENHANCED_COLLECTOR.name": "향상된 천상의 수집 수정",
+  "astralsorcery.journal.ENHANCED_COLLECTOR.1.text": "천상의 수정은 뛰어난 천상의 수집 수정을 만들어낼 수 있지만 전 세계 별자리의 에너지의 흐름은 변하지 않습니다. 천상의 수집 수정은 이 에너지의 밀물과 썰물을 고르게 하는 구조를 보조할 수 있습니다. 수집 수정은 별자리가 하늘에 있을 때 별빛을 많이 제공하지 않지만 별자리가 하늘에 있지 않으면 훨씬 더 많은 별빛을 제공하므로 별자리가 없을 때 의식과 변환이 크게 느려지는 것을 방지할 수 있습니다.",
 
 
-  "astralsorcery.journal.recipe.removalinfo": "§c이 레시피는 현재 모드팩에서 제거되었습니다! 다른 정보 출처를 확인하여 어떻게 만들어지는지 확인하세요!",
+
+  "astralsorcery.journal.node.ATT_TRAIT.name": "향상된 조율",
+  "astralsorcery.journal.ATT_TRAIT.1.text": "희미한 등급의 별자리에서 나오는 빛은 의식에 별빛을 공급하거나 수정을 완전히 조율하는 데 충분하지 않지만 아이템에 마법을 부여하거나 별방울을 만드는 데는 충분합니다. 그들의 에너지 스펙트럼은 수정의 조율을 미묘하게 바꾸기에 충분합니다. 조율 제단에서 이러한 별자리의 별빛을 적절한 형태로 중계를 설정하면 조율된 수정의 별빛 채널링을 변조시키는 단일 특성이 적용됩니다.",
+  "astralsorcery.journal.ATT_TRAIT.2.text": "특성은 조율된 수정에 한번 적용되면 변경할 수 없습니다. <NL>특성이 있는 수정으로 제작된 수집 수정은 특성을 유지하지만 필터링된 별빛에는 영향을 미치지 않습니다. <NL>이 특성 각각의 효과에 대한 추가 정보는 별자리 탭의 희미한 별자리에 기재되어있습니다.",
+
+  "astralsorcery.journal.node.OBSERVATORY.name": "천문대",
+  "astralsorcery.journal.OBSERVATORY.1.text": "별에 대한 시각적 도달 범위를 늘리려면 관측대가 필요한 것보다 더 많은 필터링된 렌즈와 반응성 가루가 필요합니다. 천문대가 제공하는 보다 민감한 관찰은 소서러가 근원 별자리로 되돌아가는 약간의 마법 에너지의 힌트를 따라 하늘 지대 깊숙이 파고들 수 있게 합니다. <NL>아스트랄의 깊은 곳에서는 더 많은 별자리가 주변의 에너지 소음과 거의 구별할 수 없을 정도로 희미하게 마력을 발산합니다.",
+  "astralsorcery.journal.OBSERVATORY.3.text": "천문대는 매우 정밀하기 때문에 밤하늘을 조준하려면 마우스를 움직여야 합니다. 별자리가 있는 지역을 찾은 경우 shift 키를 눌러 회전 상태를 잠궈 별자리를 추적할 수 있습니다. 우클릭 또는 Esc 키를 눌러 전망대 보기를 종료하고 Shift 키를 눌러 전망대 좌석에서 내립니다.",
+
+  "astralsorcery.journal.node.ENH_SHIFTING_STAR.name": "찬란한 별",
+  "astralsorcery.journal.ENH_SHIFTING_STAR.1.text": "변화하는 별은 개인 조율의 무차별 파괴에 적합하지만 이것보다 더 세련된 방법이 있습니다. <NL>제작에 사용되는 빛을 필터링하고 특정 아이템을 추가하면 조율 에너지를 방해하여 특성을 없애는 대신 변조가 가능한 고급 별을 제작할 수 있습니다. 조율 루트는 찬란한 별과 일치하는 루트로 이동하며 할당된 모든 특전 포인트는 해제되지만 성장 진행 상황은 되돌아가지 않습니다. 이를 통해 마법사는 손실 없이 해당 포인트를 다시 할당할 수 있습니다.",
+
+  "astralsorcery.journal.node.CRAFTING_FOCUS_HINT.name": "대학원급 제작",
+  "astralsorcery.journal.CRAFTING_FOCUS_HINT.1.text": "훈색 제단이 성공적으로 제작됨에 따라 아카데미는 당신을 완전한 아스트랄 소서리로 인정하는 바입니다. 이제 새로운 지평이 당신의 독학 연구를 기다립니다. 이 책을 통해 아카데미 도서관과의 유대를 통해 이전에 시행되었던 안전 조치가 이제 제거되었으며 또한 대학원 지식 저장고에 대한 대학원 기여의 결과로 이전에 금지된 지식도 이제 책에서 확인할 수 있게되었습니다.",
+  "astralsorcery.journal.CRAFTING_FOCUS_HINT.2.text": "훈색 제단으로 제작하려는 시도는 새벽 동안 별빛 레벨이 떨어지는 것과 같이 사용 가능한 별빛 양이 제작을 완료하는 데 필요한 최소값 아래로 떨어지면 더 이상 강제로 취소되어 제작에 실패하지 않습니다. 이제 제작은 방법에 관계없이 사용 가능한 별빛이 최소 수준으로 돌아올 때까지 제단에서 그 상태로 정지됩니다. <NL>또한 이곳에서 별자리 지도를 제작 및 교체할 수도 있습니다.",
+  "astralsorcery.journal.CRAFTING_FOCUS_HINT.3.text": "잠금 해제된 지식의 가장 위험한 부분은 별자리 문서를 통해 별자리의 희미한 분류를 발견하는 능력을 포함하지만, 하늘에서 해당 별자리를 보기 위해선 천문대가 필요합니다. 아카데미는 희미한 별자리로 작업할 때 주의할 것을 권장합니다. 그 영향은 이전에 잘 알려진 아스트랄 역학의 예상 결과를 크게 바꿀 수 있기 때문입니다. <NL>- 아스트랄 아카데미의 교수진과 직원 올림.",
+
+  "astralsorcery.journal.node.ATT_CAPE.name": "별의 망토",
+  "astralsorcery.journal.ATT_CAPE.1.text": "많은 마법적이고 기술적인 경이가 개인 보호 영역으로 존재하지만 직접 별의 힘을 전달하는 장비는 없었습니다. 가죽 튜닉에 스타메탈 가루와 공명하는 보석을 깊숙이 스며들게 하여 가죽과 금속으로 된 외투로 변형시켜 착용자를 보호하고 별빛 충전을 집중시킬 수 있습니다.",
+  "astralsorcery.journal.ATT_CAPE.3.text": "망토의 마법적인 감수성으로 인해 마법부여에 매우 민감합니다.<NL>별빛 채널링에 대한 수용성은 망토가 조율 제단을 통해 직접 조율할 수는 없다는 것을 의미하며, 그대신 특별한 제작 작업을 통해 별자리를 조율할 수 있습니다.<NL>망토는 손상되거나 찢어지지 않은 것만 얼라인먼트 레시피에 사용할 수 있습니다.",
+  "astralsorcery.journal.ATT_CAPE.4.text": "망토는 한 번에 하나의 별자리에만 정렬될 수 있으며 다른 별자리의 조율 방법에서 이미 조율된 망토를 사용하면 망토의 조율이 변경됩니다.<NL>망토는 스타메탈 가루를 재료로 사용하여 일반적인 모루에서 수리할 수 있습니다.<NL>조율 레시피는 각 별자리의 책 페이지에 있습니다.",
+
+  "astralsorcery.journal.node.C_CHALICE.name": "격리 성배",
+  "astralsorcery.journal.C_CHALICE.1.text": "빛우물의 가장 큰 단점은 저장소 크기입니다. 촉매에서 액체를 생성하는 데는 충분하지만 더 큰 저장을 위해 확장하면 필요한 디자인이 엄청나게 커집니다. 또는 빛우물 아래에서 액체를 끌어올 수 있는 파이프를 사용할 수 없거나 환경에서 사용을 지원하지 않을 수 있습니다.<NL>이럴 때는 마법의 순간이동과 유체의 봉쇄가 좋은 해결책입니다.",
+  "astralsorcery.journal.C_CHALICE.3.text": "공명하는 보석을 사용하여 내용물을 고압축 상태로 유지하면 작은 공간에 양동이 64개 분의 액체가 저장됩니다. 이것은 또한 저장된 유체를 먼저 제거하지 않고 성배를 재배치하면 유체가 에테르의 형태로 사라진다는 것을 의미합니다.<NL>성배는 반경 16블록 이내의 빛우물에서 에테르의 형태를 통해 액체 별빛을 끌어올 수 있습니다. 빛우물과 마찬가지로 성배는 바닥면에 파이프에 연결할 수 있습니다.",
+  "astralsorcery.journal.C_CHALICE.4.text": "성배는 빛우물에서 마법의 수송을 용이하게 하기 때문에 그 안에 들어 있는 모든 액체의 정수가 다시 새어 나와 합쳐질 다른 액체 정수를 찾을 수 있습니다. 그 결과 두 유체가 세계에서 상호작용하는 것처럼 그 중간에 재료가 생성되지만, 이 경우 저장된 유체가 아주 약간 소실될 수 있습니다. <NL>레드스톤 신호를 통해 성배의 압축 필드를 강화하여 이러한 효과가 발생하지 않도록 합니다.",
+
+  "astralsorcery.journal.node.BORE_CORE.name": "끊임없이 변화하는 분수",
+  "astralsorcery.journal.BORE_CORE.1.text": "액체 별빛은 별빛 에너지를 응축되고 관리 가능한 형태로 저장할 수 있지만 반대로 힘의 형태로 다시 방출하는 것은 쉽지 않습니다. 이 마법의 원심 분리기를 사용하면 목표를 달성하기 위해 원시적인 마법의 힘이 필요할 때 끊임없이 변화하는 분수를 통해 액체를 별빛으로 변환시킬 수 있습니다.<NL>끊임없이 변화하는 분수의 격리 고리는 이러한 에너지의 안정적인 초점 역할을 하며 구조물 내에 남아 있는 블록은 파괴될 가능성이 높습니다.",
+  "astralsorcery.journal.BORE_CORE.3.text": "이 장치는 액체 별빛의 내부 저장 저장소에 보관되었을 때 작동되기 때문에 이 장치를 작동하는 데 하늘이 노출되어있어야 할 필요는 없습니다. 이 저장 공간에 액체 별빛를 안전하게 공급하려면 분수 바로 위에 성배를 놓는것이 가장 좋습니다.<NL>이 능력이 효과를 발휘하려면 원하는 마법이 먼저 §5프라이밍§r되어야 합니다.",
+
+  "astralsorcery.journal.node.BORE_HEAD_LIQUID.name": "네로맨틱 프라임",
+  "astralsorcery.journal.BORE_HEAD_LIQUID.1.text": "기반암 위의 공허로 흘러드는 유체 정수의 영겁은 아직 회수하지 않은 수확 가능한 유체의 광활하고 미개척 상태의 액체 바다가 있음을 의미합니다. 이 유체 에센스에 옥탄의 친화력을 사용하면 이 프라임이 표면으로 끌어올 수 있습니다. <NL>네로맨틱 프라임에 에너지를 공급하면 별빛 에너지로 구성된 매우 파괴적인 굴착기가 기반암에 구멍을 태우고 에너지가 기반암과 반응하여 아래 에테리얼 형태의 유체 본질 바다에 도달하여 분수로 다시 끌어옵니다.",
+  "astralsorcery.journal.BORE_HEAD_LIQUID.3.text": "이러한 방식으로 수확된 액체를 회수하려면 분수가 보이는 방향에 빈 성배가 필요합니다.<NL>사용 가능한 액체 에센스의 대부분은 물이기 때문에 해당 지역의 다른 에센스 저장소가 프라임에 의해 고갈되면 워터 에센스가 남은 간격을 채울 것입니다.<NL>§1아이코식 공명기§r를 사용하여 이러한 유체 에센스 풀링을 미리 정찰하는 데 사용해야 합니다.",
+  "astralsorcery.journal.BORE_HEAD_LIQUID.4.text": "어떤 에센스가 아래에 있는지 확인할 방법이 없기 때문에 계속해서 분수 구조를 움직이는 것은 번거롭고 액체 별빛의 비용도 많이 듭니다. 약간 수정하면 포식 공명기가 이 정보를 대신 샘플링할 수 있습니다.<NL>공명하는 보석과 유체에 사이에서 발생하는 공명을 활용하는 이 향상된 아이코식 공명기도 또한 밤에만 작동합니다. 이전 포식과 새로운 아이코식 사이의 모드 전환은 shift + 우클릭으로 수행할 수 있습니다.",
+
+  "astralsorcery.journal.node.ICHOSIC.name": "아이코식 공명기",
+  "astralsorcery.journal.ICHOSIC.1.text": "네로맨틱 프라임 기반의 구조를 지속적으로 이동하여 아래에 어떤 유체 에센스가 있는지 확인하는 것은 노력과 시간을 낭비하는 것입니다. 약간의 변경으로 포식 공명기를 대신 사용하여 이 정보를 샘플링할 수 있습니다. 공명하는 보석과 스타메탈 가루를 활용하여 밤에 아이코식 공명기를 잡고 있으면 유체 본질의 흔적 기둥을 끌어낼 것입니다.<NL>포식과 아이코식 사이의 이동 모드는 shift + 우클릭으로 수행할 수 있습니다.",
+
+  "astralsorcery.journal.node.BORE_HEAD_VORTEX.name": "피살리딕 프라임",
+  "astralsorcery.journal.BORE_HEAD_VORTEX.1.text": "비시오를 선택하여 이동시키면 이 프라임은 근처에 있는 모든 생물을 가까이 끌어당겨 운동성을 가진 별빛의 소용돌이 흐름에 가둡니다. 이러한 덫에 걸린 생물은 샘에 액체 별빛이 충분히 있는 한 갇혀있는 동안에 행동하거나 스스로를 방어할 수 없습니다.<NL>별빛을 통해 생물을 제지할 때 발생하는 비용은 소용돌이 흐름에 대항하는 생물의 힘에 영향을 받습니다.",
+  "astralsorcery.journal.BORE_HEAD_VORTEX.3.text": "이론적으로는 신화 속의 생물조차도 이 프라임이 붙잡을 수 있지만 그렇게 하려면 완전하고 집중된 힘이 필요한 것 같습니다. 이 생물들은 성배가 시간이 지남에 따라 분수에 지속적으로 공급할 수 있는 것보다 더 많은 별빛의 힘을 필요로 합니다. 위더 또는 엔더 드래곤과 같은 특정 강력한 생물은 내부 저장소가 고갈될 때까지만 격리될 수 있습니다.",
+
+
+  "astralsorcery.journal.recipe.removalinfo": "§c이 레시피는 현재 모드팩에서 제거되었습니다! 다른 정보 출처를 확인하여 어떻게 만들어지는지 확인하세요!§r",
   "astralsorcery.journal.recipe.constellation": "별자리 %s의 포커스가 요구됩니다.",
 
   "astralsorcery.journal.recipe.infusion.liquid": "%s 필요",
@@ -696,7 +696,7 @@
   "block.astralsorcery.illuminator": "동굴 조명기",
   "block.astralsorcery.infuser": "별빛 주입기",
   "block.astralsorcery.lens": "수정 렌즈",
-  "block.astralsorcery.observatory": "전망대",
+  "block.astralsorcery.observatory": "천문대",
   "block.astralsorcery.prism": "수정 프리즘",
   "block.astralsorcery.refraction_table": "항성 굴절대",
   "block.astralsorcery.tree_beacon": "나무 비콘",
@@ -710,7 +710,7 @@
   "block.astralsorcery.gem_crystal_cluster.night": "펜가룸 수정 군집",
   "block.astralsorcery.gem_crystal_cluster.sky": "오륨 수정 군집",
   "block.astralsorcery.singularity": "아르니마 특이점",
-  "block.astralsorcery.fountain": "끈임없이 변화하는 분수",
+  "block.astralsorcery.fountain": "끊임없이 변화하는 분수",
   "block.astralsorcery.fountain_prime_liquid": "네로멘틱 프라임",
   "block.astralsorcery.fountain_prime_vortex": "피살리딕 프라임",
   "block.astralsorcery.fountain_prime_ore": "페트로멘틱 프라임",
