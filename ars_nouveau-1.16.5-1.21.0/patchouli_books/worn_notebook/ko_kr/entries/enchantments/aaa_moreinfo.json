@@ -1,0 +1,18 @@
+{
+  "name": "마법부여 하는 법",
+  "sortnum":-1,
+  "icon": "ars_nouveau:enchanting_apparatus",
+  "category": "enchantments",
+  "pages": [
+    {
+      "type": "text",
+      "text": "마법 부여 장치는 마나와 아이템을 사용하여 새로운 마법을 부여하거나 기존에 부여된 마법을 업그레이드할 수 있습니다. 시작하려면 레벨 1 마법을 선택하고 해당 항목을 받침대에 추가하십시오. 근처에 마나병을 놓고 인챈트하려는 아이템을 장치에 사용합니다. 장치는 귀하가 제공한 항목에 유효한 마법만 적용할 수 있습니다."
+    }, {
+      "type": "text",
+      "text": "레벨 2 이상의 인챈트를 적용하려면 아이템에 이전 레벨이 있어야 합니다. 예를 들어 강타 III를 적용하려면 아이템에 이미 강타 II가 있어야 합니다."
+    }, {
+            "type": "relations",
+            "entries":["machines/enchanting_apparatus", "machines/mana_jar"]        
+        }
+  ]
+}

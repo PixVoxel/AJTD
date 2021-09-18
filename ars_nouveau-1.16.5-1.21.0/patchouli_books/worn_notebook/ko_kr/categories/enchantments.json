@@ -1,0 +1,6 @@
+{
+	"name": "마법부여",
+	"description": "마나 한 병과 마법부여 장치를 획득하면 아이템 마법부여를 시작할 수 있습니다. 자세한 내용은 마법부여 장치 항목을 참조하십시오.",
+	"icon": "ars_nouveau:enchanting_apparatus",
+	"sortnum":8
+}

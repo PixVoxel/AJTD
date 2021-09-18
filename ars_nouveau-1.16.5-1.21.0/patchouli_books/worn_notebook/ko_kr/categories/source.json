@@ -1,0 +1,6 @@
+{
+	"name": "마나",
+	"description": "마나 생산과 전송입니다.",
+	"icon": "ars_nouveau:volcanic_accumulator",
+	"sortnum":5
+}
