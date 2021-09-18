@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.13",
+    "icon": "ars_nouveau:potion_flask",
+    "category": "release_notes",
+	"sortnum":77,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.13 물약!$(li)윅시에 물약 자동 제작 추가.$(li)물약 항아리 및 물약 혼합기 추가$(li)세 종류의 물약 플라스크 추가$(li)이번에는 진짜 카벙클이 아무것도 안하는 현상을 수정했습니다.$(li)주문서를 염색할 수 있게 되었습니다.$(li)와일든 가시는 화살로 변환될 수 있습니다."       
+        },{
+            "type": "relations",
+            "entries":["apparatus/potion_flask", "machines/potion_jar", "machines/potion_melder","apparatus/wixie_charm"]        
+        }
+    ]
+}

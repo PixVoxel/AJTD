@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.10.2",
+    "icon": "ars_nouveau:carbuncle_charm",
+    "category": "release_notes",
+	"sortnum":83,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.10.2 똑똑한 다람쥐 $(li)카벙클은 이제 여러 상자에서 아이템을 가져갈 수 있습니다.$(li)카벙클은 이제 아이템 액자와 아이템 또는 필터 스크롤을 사용하여 상자를 필터링할 수 있습니다.$(li)카벙클 부적 파트를 다시 작성했습니다.$(li)웰프는 이제 충돌 없이 블록에 칼을 사용할 수 있습니다.$(li)화산성 축적기는 이제 모든 유형의 석재를 사용할 수 있습니다."       
+        },{
+            "type": "relations",
+            "entries":["apparatus/carbuncle_charm"]        
+        }
+    ]
+}

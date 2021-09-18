@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.10.1",
+    "icon": "ars_nouveau:red_archwood_log",
+    "category": "release_notes",
+	"sortnum":84,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.10.1 $(li)화산성 축적기는 이제 맹렬한 아크우드를 소모할 수 있습니다.$(li)마나 보석 블록의 누락된 레시피를 추가합니다.$(li)공허에서는 실프가 생성되지 않도록 합니다.$(li)추출 강화 레시피를 에메랄드 블록으로 변경했습니다.$(li)시작하기 파트를 다시 작성했습니다."       
+        },{
+            "type": "relations",
+            "entries":["machines/volcanic_accumulator"]        
+        }
+    ]
+}

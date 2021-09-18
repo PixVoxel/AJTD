@@ -1,0 +1,24 @@
+{
+    "name": "체인지로그 1.4.0",
+    "icon": "ars_nouveau:glyph_exchange",
+    "category": "release_notes",
+	"sortnum":95,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.4.0, 상형 문자! $(li)상형 문자: 교환 추가 - 블록이나 엔티티를 교환합니다!$(li)상형 문자: 무형 추가 - 블록이 일시적으로 사라집니다.$(li)상형 문자: 위더 추가.$(li)상형 문자: 지속 시간 감소를 추가하고 물약 효과와 시간 기반 효과를 줄일수 있습니다.$(li)상형 문자: 투명 추가.$(li)기본 도약 거리를 너프했습니다."       
+        },
+		 {
+            "type": "text",
+            "text": "$(li)상자 위치가 지정되지 않은 경우 카벙클이 멀리 배회하는 문제를 수정했습니다.$(li)지배 지팡이로 카벙클을 선택할 수 없는 문제를 수정했습니다.$(li)블록 설치에 의한 중복 시전 수정.$(li)무작위 입자 버그 수정.$(li)아이템 수집 범위 증가.$(li)증폭 피해가 감소되었습니다.$(li)송곳니는 이제 너무 많은 피해를 입힙니다."       
+        },{
+            "type": "text",
+            "text": "$(li)지연 기본 지속시간이 증가되었습니다.$(li)행운이 이제 더 비쌉니다.$(li)광역이 다소 싸졌습니다.$(li)증폭이 다소 더 비싸졌습니다.$(li)접촉을 사용한 주문 포탑의 방향성 버그 수정."       
+        },
+		{
+            "type": "relations",
+            "entries":["spells/wither", "spells/intangible","spells/invisibility", "spells/duration_down", 
+			"spells/exchange"]        
+        }
+    ]
+}

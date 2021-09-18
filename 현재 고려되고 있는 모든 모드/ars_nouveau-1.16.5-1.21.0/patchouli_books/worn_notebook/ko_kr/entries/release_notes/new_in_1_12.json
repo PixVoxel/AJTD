@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.12",
+    "icon": "ars_nouveau:wilden_horn",
+    "category": "release_notes",
+	"sortnum":78,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.12 와일든!$(li)3개의 새로운 적대적 몹을 추가했습니다.$(li)늑대 소환 및 군마 소환 주문을 추가했습니다.$(li)관통 및 도약의 시약을 변경했습니다."       
+        },{
+            "type": "relations",
+            "entries":["resources/wilden"]        
+        }
+    ]
+}

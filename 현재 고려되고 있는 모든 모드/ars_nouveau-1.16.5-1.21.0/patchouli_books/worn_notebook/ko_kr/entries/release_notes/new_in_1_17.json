@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.17",
+    "icon": "ars_nouveau:enchanters_sword",
+    "category": "release_notes",
+	"sortnum":71,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.17, 아크우드 숲!$(li)아크우드 나무와 마법 개체로 가득한 생물 군계인 아크우드 숲 생물 군계를 추가합니다!$(li)마법사의 검 추가$(li)마법사의 방패 추가$(li)점성 의식 추가"       
+        },{
+            "type": "relations",
+            "entries":["rituals/scrying","items/enchanters_sword","items/enchanters_shield"]        
+        }
+    ]
+}

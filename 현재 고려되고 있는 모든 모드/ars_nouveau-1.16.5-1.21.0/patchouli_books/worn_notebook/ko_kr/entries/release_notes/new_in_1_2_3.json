@@ -1,0 +1,20 @@
+{
+    "name": "체인지로그 1.2.3",
+    "icon": "ars_nouveau:carbuncle_charm",
+    "category": "release_notes",
+	"sortnum":97,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.2.3, 개체 학교! $(li)카벙클, 웰프, 실프는 학교를 졸업하고 이제 아주 똑똑해질수 있습니다!$(li) 카벙클은 이제 경로를 지정할 수 있는 아이템만 찾으려고 시도하며 시도 도중 너무 오래 걸리면 포기합니다.$(li) 카벙클은 너무 멀리 떠나면 집으로 돌아갑니다. $(li) 웰프는 이제 엄격한 시전 모드를 비활성화할 수 있습니다."       
+        },
+		 {
+            "type": "text",
+            "text": "$(li) 실프는 이제 참외, 호박, 대나무(및 더 많은 모드 블록들)를 좋아하는 아이템으로 간주합니다.$(li) 아이템 픽업 + 웰프 주문과 관련된 버그를 수정했습니다."       
+        },
+		{
+            "type": "relations",
+            "entries":["apparatus/carbuncle_charm"]        
+        }
+    ]
+}

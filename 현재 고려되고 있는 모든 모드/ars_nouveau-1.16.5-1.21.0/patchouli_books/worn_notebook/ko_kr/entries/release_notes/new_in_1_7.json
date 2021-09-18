@@ -1,0 +1,19 @@
+{
+    "name": "체인지로그 1.7.0",
+    "icon": "ars_nouveau:glyph_flare",
+    "category": "release_notes",
+	"sortnum":92,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.7.0, 더 많은 주문! $(li)불꽃 추가$(li)한파 추가$(li)중력 추가$(li)제작 추가$(li)물 마법 추가$(li)이제 피해에 시간 확장을 추가하면 독을 적용합니다.$(li)치유에 이제 시간 확장을 추가하면 재생을 적용합니다.$(li)이제 빛이 다른 개체에 발광을 적용합니다.$(li)Ridanisaurus Rid의 빛나는 새 에셋들!"       
+        },{
+            "type": "text",
+            "text": "$(li)주문을 비활성화하고 마나 비용을 조정하는 설정을 추가합니다.$(li)이제 피해가 피해량이 줄어들었습니다.$(li)제련은 이제 티어 2이며 더 많은 마나를 소모합니다.$(li)지연이 너무 빨리 활성화되는 문제를 수정했습니다.$(li)중계와 분할은 이제 웅크리기로 연결을 끊을 수 있습니다."       
+        },
+		{
+            "type": "relations",
+            "entries":["spells/flare", "spells/cold_snap","spells/gravity", "spells/conjure_water","spells/craft","spells/harm","spells/heal","spells/light"]        
+        }
+    ]
+}

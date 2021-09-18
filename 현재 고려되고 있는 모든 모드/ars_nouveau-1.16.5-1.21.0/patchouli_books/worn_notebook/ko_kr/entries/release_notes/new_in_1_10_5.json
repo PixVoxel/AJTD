@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.10.5",
+    "icon": "ars_nouveau:sylph_charm",
+    "category": "release_notes",
+	"sortnum":82,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.10.5 똑똑한 실프 $(li)실프는 이제 아이템 스크롤: 거부를 사용할 수 있습니다.$(li)카벙클이 금 조각을 찾지 못하는 버그 수정 :($(li)실프 부적 파트를 다시 작성했습니다.$(li)아크우드에 대한 더 많은 아이템 태그 지원.$(li)주문서 검색 개편.$(li)갑옷의 모델과 텍스처를 업데이트했습니다.$(li)화산성 축적기 패시브를 버프했습니다."       
+        },{
+            "type": "relations",
+            "entries":["apparatus/sylph_charm"]        
+        }
+    ]
+}

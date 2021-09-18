@@ -1,0 +1,12 @@
+{
+    "name": "체인지로그 1.18.4",
+    "icon": "ars_nouveau:caster_tome",
+    "category": "release_notes",
+	"sortnum":68,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.18.4, 서적!$(li)던전에서 발견되는 고유한 주문 서적을 추가합니다.$(li)Ars Nouveau 전리품을 던전 전리품에 추가했습니다.$(li)활공과 Caelus API와의 충돌 수정$(li)빙결은 이제 광역을 지원하여 여러 블록을 얼릴 수 있습니다.$(li)지속 시간 감소는 이제 지연에서도 작동합니다."       
+        }
+    ]
+}

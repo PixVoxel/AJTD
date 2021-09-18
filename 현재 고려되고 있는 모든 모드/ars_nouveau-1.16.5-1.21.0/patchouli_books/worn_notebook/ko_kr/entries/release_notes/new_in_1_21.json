@@ -1,0 +1,18 @@
+{
+    "name": "체인지로그 1.21",
+    "icon": "ars_nouveau:volcanic_accumulator",
+    "category": "release_notes",
+	"sortnum":65,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.21.0, 세계 마나 재작업!$(li)마나의 이름이 근원으로 변경되었습니다.$(li)화산성 축적기에서 패시브 생산 제거$(li)이제 화산성 축적기는 새로운 생산 동작을 가졌습니다.$(li)마나 응축기 -> 농경식 근원 링크 $(li)몹 사망/출생이 마나 응축기에서 생명의 근원 링크로 이동되었습니다.$(li)마나 꽃 -> 마법 꽃"
+        },{
+            "type": "text",
+            "text": "$(li)3개의 새로운 근원 생성기를 추가했습니다!$(li)두 개의 새로운 근원 중계기 추가!$(li)마나 보석 -> 근원 보석$(li)두 가지 새로운 원천 열매 식품 추가$(li)6개의 새로운 황금이 박힌 불가사의한 돌 블록을 추가했습니다.$(li)블록 배치 및 팬텀 블록은 이제 액체 또는 풀도 대체합니다.$(li)상형 문자 제작 비용이 적게 듭니다.$(li)중계기 및 근원 링크의 새로운 모델이 생겼습니다.$(li)실프 및 분해의 의식에 대한 태그를 추가합니다."
+        },{
+            "type": "relations",
+            "entries":["source/mana_condenser","source/alchemical_sourcelink", "source/vitalic_sourcelink","source/volcanic_accumulator","source/mycelial_sourcelink","source/relay_deposit","source/relay_warp"]
+        }
+    ]
+}

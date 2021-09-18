@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.10.0",
+    "icon": "ars_nouveau:glyph_crush",
+    "category": "release_notes",
+	"sortnum":85,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.10.0 $(li)상형 문자: 분쇄 추가$(li)상형 문자: 자르기 추가$(li)소환 수정, 중계기, 분할기의 새로운 모델.$(li)마나 보석 블록 추가$(li)아크우드에 대한 전체 나무 블록 형태를 추가했습니다.$(li)피해는 이제 증폭으로 약간 더 많은 피해를 줍니다.$(li)추출은 이제 더 비쌉니다."       
+        },{
+            "type": "relations",
+            "entries":["spells/cut", "spells/crush"]        
+        }
+    ]
+}

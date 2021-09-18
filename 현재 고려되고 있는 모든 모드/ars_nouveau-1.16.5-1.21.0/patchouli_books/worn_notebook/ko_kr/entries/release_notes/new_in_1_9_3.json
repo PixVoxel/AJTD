@@ -1,0 +1,12 @@
+{
+    "name": "체인지로그 1.9.3",
+    "icon": "ars_nouveau:glyph_break",
+    "category": "release_notes",
+	"sortnum":89,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.9.3, 버그! $(li)높은 등급의 주문이 낮은 등급의 책에 나타나는 현상 수정$(li)공허 항아리는 이제 특정 아이템 픽업을 참조합니다.$(li)파괴는 이제 흑요석에 대해 1개의 증폭만을 요구합니다.$(li)리셋 버튼 추가"       
+        }
+    ]
+}

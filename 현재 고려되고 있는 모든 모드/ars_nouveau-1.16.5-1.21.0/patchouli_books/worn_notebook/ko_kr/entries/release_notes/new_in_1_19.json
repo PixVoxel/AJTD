@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.19",
+    "icon": "ars_nouveau:drygmy_charm",
+    "category": "release_notes",
+	"sortnum":67,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.19.0, 드리그미!$(li)드리그미 추가! 몹 드롭을 생성하는 새로운 소환 개체입니다!$(li)Ars Nouveau 키 설정은 이제 마우스 버튼도 참조합니다.$(li)원형 메뉴에서 0-9를 누르면 적절한 슬롯이 선택됩니다.$(li)소환 수정이 깨지면 실프가 부적으로 변합니다."       
+        },{
+            "type": "relations",
+            "entries":["apparatus/drygmy_charm"]        
+        }
+    ]
+}

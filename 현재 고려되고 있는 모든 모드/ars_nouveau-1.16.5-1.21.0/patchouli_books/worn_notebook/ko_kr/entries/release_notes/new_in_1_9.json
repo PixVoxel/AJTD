@@ -1,0 +1,19 @@
+{
+    "name": "체인지로그 1.9.0",
+    "icon": "ars_nouveau:wixie_charm",
+    "category": "release_notes",
+	"sortnum":90,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.9.0, 세상에나, 나무와 자동 제작!$(li)자동 제작 친구인 윅시를 추가했습니다!$(li)4개의 새로운 아크우드 나무 추가$(li)주문 지팡이 추가$(li)웰프의 아이템과 상호 작용하는 문제를 수정했습니다. 이제 케이크 농장이 가능합니다!$(li)새로운 장식용 석재 형태 추가$(li)새로운 블록 텍스쳐"       
+        },{
+            "type": "text",
+            "text": "$(li)힘이 티어 3이 되었습니다.$(li)재생은 이제 5로 제한됩니다.$(li)용암 수련잎 및 화산성 축적기가 공중에 배치되는 문제를 수정했습니다."       
+        },
+		{
+            "type": "relations",
+            "entries":["apparatus/wixie_charm", "resources/archwood","apparatus/wand"]        
+        }
+    ]
+}

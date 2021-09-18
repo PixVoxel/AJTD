@@ -1,0 +1,15 @@
+{
+    "name": "체인지로그 1.20",
+    "icon": "ars_nouveau:wilden_tribute",
+    "category": "release_notes",
+	"sortnum":66,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.20.0, 와일든 키메라!$(li)강력한 신규 보스인 와일든 키메라를 추가합니다!$(li)와일든 소환의 서판 추가$(li)새로운 주문 버프 아이템인 소환 포커스를 추가합니다.$(li)티어 3 주문서는 이제 키메라 전리품을 요구합니다.$(li)와일든 디펜더를 크게 너프했습니다."       
+        },{
+            "type": "relations",
+            "entries":["apparatus/summon_focus", "rituals/wilden_summon", "resources/wilden"]        
+        }
+    ]
+}

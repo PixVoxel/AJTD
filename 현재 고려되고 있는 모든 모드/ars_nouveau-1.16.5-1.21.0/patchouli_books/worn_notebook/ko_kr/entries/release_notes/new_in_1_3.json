@@ -1,0 +1,20 @@
+{
+    "name": "체인지로그 1.3.0",
+    "icon": "ars_nouveau:allow_scroll",
+    "category": "release_notes",
+	"sortnum":96,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.3.0, 아이템 필터링! $(li)이제 아이템 두루마리: 허용 및 아이템 두루마리: 거부가 추가되어 카벙클이 픽업하는 아이템을 필터링할 수 있습니다!$(li)큰 상자 주변의 카벙클 경로를 개선헀습니다.$(li)지배 지팡이가 파손되는 버그를 수정했습니다.$(li)세계 저장에서 누락된 웰프 정보 추가. $(li)룬은 더 이상 반복적으로 충돌나지 않습니다."       
+        },
+		 {
+            "type": "text",
+            "text": "$(li)발사체가 시각적으로 뒤틀리지 않는 문제를 수정했습니다.$(li)카벙클 및 지배 지팡이에 대한 문서가 업데이트되었습니다.$(li)카벙클이 소환 해제될 때 들고있던 아이템이 사라지는 문제를 수정했습니다."       
+        },
+		{
+            "type": "relations",
+            "entries":["apparatus/carbuncle_charm", "apparatus/whelp_charm","apparatus/sylph_charm"]        
+        }
+    ]
+}

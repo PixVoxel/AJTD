@@ -1,0 +1,12 @@
+{
+    "name": "체인지로그 1.9.5",
+    "icon": "ars_nouveau:wixie_charm",
+    "category": "release_notes",
+	"sortnum":87,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Ars Nouveau 1.9.5 엄마 코드 스파게티(Moms Code Spaghetti)$(li)윅시 제작은 이제 레드스톤으로 끌 수 있습니다.$(li)파괴가 모드 블록을 드롭하지 않는 일부 인스턴스를 수정했습니다.$(li)윅시 가마솥에 드롭 추가$(li)기반암에서 작동하는 중력 수정$(li)RS(Refiend Storage)와의 충돌 수정"       
+        }
+    ]
+}
