@@ -47,7 +47,7 @@
   "gui.refinedstorage.crafting_monitor.machine_none": "기계를 찾을 수 없음",
   "gui.refinedstorage.crafting_monitor.crafter_is_locked": "제작기가 잠겨있습니다.",
   "gui.refinedstorage.wireless_transmitter": "무선 송신기",
-  "gui.refinedstorage.wireless_transmitter.distance": "%d블럭",
+  "gui.refinedstorage.wireless_transmitter.distance": "%d 블록",
   "gui.refinedstorage.crafter": "조합기",
   "gui.refinedstorage.filter": "필터",
   "gui.refinedstorage.filter.compare_nbt": "NBT",
@@ -299,7 +299,7 @@
   "item.refinedstorage.network_card": "네트워크 카드",
   "item.refinedstorage.wrench": "렌치",
   "item.refinedstorage.security_card": "보안 카드",
-  "item.refinedstorage.security_card.owner": "플레이어: %s"
+  "item.refinedstorage.security_card.owner": "플레이어: %s",
   "item.refinedstorage.processor_binding": "프로세서 제본",
   "commands.refinedstorage.disk.create.error.disk_not_found": "%s 디스크를 찾지 못했습니다.",
   "commands.refinedstorage.disk.create.success": "성공적으로 %s 디스크를 %s에게 주었습니다.",
