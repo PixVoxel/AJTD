@@ -354,7 +354,7 @@
         {
             "type": "text",
             "title": "카야나이트 벌",
-            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 카야나이트 보석을 사용하여 변환시킬 수 있습니다.
+            "text": "$(l:bees/hive/diamond)다이아몬드 벌$(/l)에게 카야나이트 보석을 사용하여 변환시킬 수 있습니다.",
             "flag": "productivebees:kyanite"
         },
         {

@@ -1,6 +1,6 @@
 {
     "name": "Thermal",
-    "icon": "thermal:machine_chiller",
+    "icon": "thermal:chiller",
     "read_by_default": true,
     "sortnum": 8,
     "category": "productivebees:bees_modded",
