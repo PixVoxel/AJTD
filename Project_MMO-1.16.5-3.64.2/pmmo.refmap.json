@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "harmonised/pmmo/mixin/CampfireTileEntitySetMixin": {
+      "cookAndDrop": "Lnet/minecraft/tileentity/CampfireTileEntity;func_213978_f()V",
+      "Lnet/minecraft/inventory/InventoryHelper;spawnItemStack(Lnet/minecraft/world/World;DDDLnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/inventory/InventoryHelper;func_180173_a(Lnet/minecraft/world/World;DDDLnet/minecraft/item/ItemStack;)V"
+    },
+    "harmonised/pmmo/mixin/LivingEntityChangeRespirationMixin": {
+      "Lnet/minecraft/enchantment/EnchantmentHelper;getRespirationModifier(Lnet/minecraft/entity/LivingEntity;)I": "Lnet/minecraft/enchantment/EnchantmentHelper;func_185292_c(Lnet/minecraft/entity/LivingEntity;)I",
+      "decreaseAirSupply": "Lnet/minecraft/entity/LivingEntity;func_70682_h(I)I"
+    },
+    "harmonised/pmmo/mixin/AbstractFurnaceTileEntityShrinkMixin": {
+      "Lnet/minecraft/item/ItemStack;shrink(I)V": "Lnet/minecraft/item/ItemStack;func_190918_g(I)V",
+      "smelt": "Lnet/minecraft/tileentity/AbstractFurnaceTileEntity;func_214007_c(Lnet/minecraft/item/crafting/IRecipe;)V"
+    },
+    "harmonised/pmmo/mixin/EnchantmentContainerGetMixin": {
+      "enchantItem": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+    },
+    "harmonised/pmmo/mixin/BrewingStandTileEntityShrinkMixin": {
+      "Lnet/minecraft/item/ItemStack;shrink(I)V": "Lnet/minecraft/item/ItemStack;func_190918_g(I)V",
+      "brewPotions": "Lnet/minecraft/tileentity/BrewingStandTileEntity;func_145940_l()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "harmonised/pmmo/mixin/CampfireTileEntitySetMixin": {
+        "cookAndDrop": "Lnet/minecraft/tileentity/CampfireTileEntity;func_213978_f()V",
+        "Lnet/minecraft/inventory/InventoryHelper;spawnItemStack(Lnet/minecraft/world/World;DDDLnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/inventory/InventoryHelper;func_180173_a(Lnet/minecraft/world/World;DDDLnet/minecraft/item/ItemStack;)V"
+      },
+      "harmonised/pmmo/mixin/LivingEntityChangeRespirationMixin": {
+        "Lnet/minecraft/enchantment/EnchantmentHelper;getRespirationModifier(Lnet/minecraft/entity/LivingEntity;)I": "Lnet/minecraft/enchantment/EnchantmentHelper;func_185292_c(Lnet/minecraft/entity/LivingEntity;)I",
+        "decreaseAirSupply": "Lnet/minecraft/entity/LivingEntity;func_70682_h(I)I"
+      },
+      "harmonised/pmmo/mixin/AbstractFurnaceTileEntityShrinkMixin": {
+        "Lnet/minecraft/item/ItemStack;shrink(I)V": "Lnet/minecraft/item/ItemStack;func_190918_g(I)V",
+        "smelt": "Lnet/minecraft/tileentity/AbstractFurnaceTileEntity;func_214007_c(Lnet/minecraft/item/crafting/IRecipe;)V"
+      },
+      "harmonised/pmmo/mixin/EnchantmentContainerGetMixin": {
+        "enchantItem": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+      },
+      "harmonised/pmmo/mixin/BrewingStandTileEntityShrinkMixin": {
+        "Lnet/minecraft/item/ItemStack;shrink(I)V": "Lnet/minecraft/item/ItemStack;func_190918_g(I)V",
+        "brewPotions": "Lnet/minecraft/tileentity/BrewingStandTileEntity;func_145940_l()V"
+      }
+    }
+  }
+}

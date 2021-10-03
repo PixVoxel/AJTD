@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: project_mmo
+MixinConfigs: pmmo.mixins.json
+Implementation-Version: 1.16.5-3.64.2
+Specification-Vendor: pmmosareus
+Specification-Title: pmmo
+Implementation-Timestamp: 2021-09-04T21:29:55+0300
+Specification-Version: 1
+Implementation-Vendor: pmmosareus
+
