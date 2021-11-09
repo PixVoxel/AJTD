@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-3.0-or-later"
+issueTrackerURL="https://github.com/TheIllusiveC4/Diet/issues"
+logoFile="diet_icon.png"
+[[mods]]
+modId="diet"
+version="1.16.5-1.0.0"
+displayName="Diet"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/diet"
+authors="C4"
+description='''
+A customizable food group-based nutrition and diet system.
+'''
+[[dependencies.diet]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.4,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.diet]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

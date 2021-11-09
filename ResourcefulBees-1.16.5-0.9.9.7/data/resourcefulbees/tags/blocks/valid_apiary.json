@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "resourcefulbees:t1_apiary",
+    "resourcefulbees:t2_apiary",
+    "resourcefulbees:t3_apiary",
+    "resourcefulbees:t4_apiary",
+    "resourcefulbees:apiary_storage",
+    "resourcefulbees:apiary_breeder"
+  ]
+}

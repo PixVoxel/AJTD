@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Diet
+MixinConfigs: diet.mixins.json
+Implementation-Version: property(class java.lang.String, provider(?))
+Specification-Vendor: C4
+Specification-Title: Diet
+Implementation-Timestamp: 2021-10-15T16:03:03-0700
+Specification-Version: property(class java.lang.String, provider(?))
+Implementation-Vendor: C4
+

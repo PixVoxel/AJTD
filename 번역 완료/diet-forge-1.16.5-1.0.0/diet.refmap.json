@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "top/theillusivec4/diet/mixin/MixinFoodStats": {
+      "addStats(IF)V": "Lnet/minecraft/util/FoodStats;func_75122_a(IF)V"
+    },
+    "top/theillusivec4/diet/mixin/MixinPlayerInteractionManager": {
+      "net/minecraft/block/BlockState.onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;": "Lnet/minecraft/block/BlockState;func_227031_a_(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;",
+      "func_219441_a": "Lnet/minecraft/server/management/PlayerInteractionManager;func_219441_a(Lnet/minecraft/entity/player/ServerPlayerEntity;Lnet/minecraft/world/World;Lnet/minecraft/item/ItemStack;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;"
+    }
+  },
+  "data": {
+    "searge": {
+      "top/theillusivec4/diet/mixin/MixinFoodStats": {
+        "addStats(IF)V": "Lnet/minecraft/util/FoodStats;func_75122_a(IF)V"
+      },
+      "top/theillusivec4/diet/mixin/MixinPlayerInteractionManager": {
+        "net/minecraft/block/BlockState.onBlockActivated(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;": "Lnet/minecraft/block/BlockState;func_227031_a_(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;",
+        "func_219441_a": "Lnet/minecraft/server/management/PlayerInteractionManager;func_219441_a(Lnet/minecraft/entity/player/ServerPlayerEntity;Lnet/minecraft/world/World;Lnet/minecraft/item/ItemStack;Lnet/minecraft/util/Hand;Lnet/minecraft/util/math/BlockRayTraceResult;)Lnet/minecraft/util/ActionResultType;"
+      }
+    }
+  }
+}

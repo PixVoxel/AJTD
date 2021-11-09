@@ -1,0 +1,33 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[34,)" #mandatory (36 is current forge version)
+
+credits="Thanks to Udemy for great Java courses." #optional
+
+authors="kwpugh" #optional
+license="MIT"
+
+[[mods]] #mandatory
+modId="gobber2" #mandatory
+version="2.3.51" #mandatory
+displayName="Gobber 2" #mandatory
+description='''
+Gobber into 1.16, It continues...!
+'''
+
+
+[[dependencies.gobber2]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[34,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+
+# Here's another dependency
+[[dependencies.gobber2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3, 1.16.4, 1.16.5]"
+    ordering="NONE"
+    side="BOTH"
