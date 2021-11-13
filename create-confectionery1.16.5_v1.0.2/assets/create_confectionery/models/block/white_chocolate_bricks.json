@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "create_confectionery:blocks/white_chocolate_bricks",
+    "particle": "create_confectionery:blocks/white_chocolate_bricks"
+  }
+}

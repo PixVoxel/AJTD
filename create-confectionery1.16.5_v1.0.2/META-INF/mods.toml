@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="create_confectionery"
+version="1.0.2"
+displayName="Create Confectionery"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/create-confectionery"
+logoFile="logo.png"
+authors="Furti_Two"
+
+[[dependencies.create_confectionery]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.create_confectionery]]
+    modId="create"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: Productive Bees
-Specification-Vendor: productivebees
-Specification-Version: 1.0
-Implementation-Title: productive-bees-1.16.3
-Implementation-Version: 1.16.5-0.6.9.19
-Implementation-Vendor: productivebees
-Implementation-Timestamp: 2021-08-20T16:42:18+0300
-

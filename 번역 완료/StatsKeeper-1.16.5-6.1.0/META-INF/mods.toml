@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+issueTrackerURL = "https://github.com/Terrails/StatsKeeper/issues"
+license = "MIT"
+
+[[mods]]
+modId = "statskeeper"
+version = "6.1.0"
+displayName = "Stats Keeper"
+authors = "Terrails"
+description = ''' Saves stats on death & modifies default health '''
+logoFile = "statskeeper_icon.png"
+
+[[dependencies.statskeeper]]
+modId = "forge"
+mandatory = true
+versionRange = "[36,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.statskeeper]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.16,)"
+ordering = "NONE"
+side = "CLIENT"

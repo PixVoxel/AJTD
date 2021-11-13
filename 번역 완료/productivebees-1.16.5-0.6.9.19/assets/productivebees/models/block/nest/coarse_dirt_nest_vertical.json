@@ -1,7 +1,0 @@
-{
-    "parent": "block/orientable_vertical",
-    "textures": {
-        "front": "productivebees:block/nest/coarse_dirt",
-        "side": "block/coarse_dirt"
-    }
-}

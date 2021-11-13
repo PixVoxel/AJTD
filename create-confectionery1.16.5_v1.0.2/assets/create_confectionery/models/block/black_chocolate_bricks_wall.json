@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "create_confectionery:blocks/black_chocolate_bricks",
+    "particle": "create_confectionery:blocks/black_chocolate_bricks"
+  }
+}

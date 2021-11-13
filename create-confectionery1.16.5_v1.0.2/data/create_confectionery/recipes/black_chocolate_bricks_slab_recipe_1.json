@@ -1,0 +1,22 @@
+{
+  "group": "create_confectionery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "create_confectionery:black_chocolate_bricks"
+    },
+    "1": {
+      "item": "create_confectionery:black_chocolate_bricks"
+    },
+    "2": {
+      "item": "create_confectionery:black_chocolate_bricks"
+    }
+  },
+  "result": {
+    "item": "create_confectionery:black_chocolate_bricks_slab",
+    "count": 6
+  }
+}

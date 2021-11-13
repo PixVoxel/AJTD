@@ -1,0 +1,12 @@
+{
+  "group": "create_confectionery",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "create_confectionery:marshmallow_on_a_stick"
+  },
+  "result": {
+    "item": "create_confectionery:caramelized_marshmellow_on_a_stick"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "create_confectionery",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "create_confectionery:chocolate_bricks"
+  },
+  "result": "create_confectionery:chocolate_bricks_wall"
+}

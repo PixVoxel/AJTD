@@ -1,0 +1,7 @@
+{
+  "effect.statskeeper.no_appetite": "입맛 없음",
+  "health.statskeeper.death_remove": "저런, %s개의 하트를 잃어버렸습니다!",
+  "health.statskeeper.item_add": "%s개의 하트를 얻었습니다!",
+  "health.statskeeper.item_lose": "%s개의 하트를 잃었습니다!",
+  "health.statskeeper.threshold": "당신의 최소 체력이 %s 하트로 설정되었습니다!"
+}

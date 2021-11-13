@@ -1,0 +1,14 @@
+{
+  "group": "create_confectionery",
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_confectionery:crushed_cocoa"
+    }
+  ]
+}

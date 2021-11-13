@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "create_confectionery:black_chocolate",
+    "create_confectionery:black_chocolate_flowing",
+    "create_confectionery:white_chocolate",
+    "create_confectionery:white_chocolate_flowing",
+    "create_confectionery:hot_chocolate",
+    "create_confectionery:hot_chocolate_flowing",
+    "create_confectionery:caramel",
+    "create_confectionery:caramel_flowing",
+    "create_confectionery:ruby_chocolate",
+    "create_confectionery:ruby_chocolate_flowing"
+  ]
+}

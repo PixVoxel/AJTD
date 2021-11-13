@@ -1,0 +1,32 @@
+{
+  "group": "create_confectionery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "create_confectionery:chocolate_bricks"
+    },
+    "1": {
+      "item": "create_confectionery:chocolate_bricks"
+    },
+    "2": {
+      "item": "create_confectionery:chocolate_bricks"
+    },
+    "3": {
+      "item": "create_confectionery:chocolate_bricks"
+    },
+    "4": {
+      "item": "create_confectionery:chocolate_bricks"
+    },
+    "5": {
+      "item": "create_confectionery:chocolate_bricks"
+    }
+  },
+  "result": {
+    "item": "create_confectionery:chocolate_bricks_wall",
+    "count": 6
+  }
+}

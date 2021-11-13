@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "jackiecrazy.wardance.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "wardance.refmap.json",
+  "mixins": [
+    "MixinAttackSpeed",
+    "MixinMobAlert",
+    "MixinMobSound",
+    "MixinNewSweepAttack",
+    "MixinPlayerEntity",
+    "MixinShieldDisabler",
+    "MixinSoundAlert",
+    "MixinSweepDurabilitySuppressor",
+    "ProjectileImpactMixin"
+  ],
+  "client": [
+    "MixinEquipProgress"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "minVersion": "0.8"
+}

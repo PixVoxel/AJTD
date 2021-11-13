@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "create_confectionery:blocks/chocolate_bricks",
+    "particle": "create_confectionery:blocks/chocolate_bricks"
+  }
+}

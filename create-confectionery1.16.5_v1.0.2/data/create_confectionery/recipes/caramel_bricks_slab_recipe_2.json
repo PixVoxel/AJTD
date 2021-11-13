@@ -1,0 +1,9 @@
+{
+  "group": "create_confectionery",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "create_confectionery:caramel_bricks"
+  },
+  "result": "create_confectionery:caramel_bricks_slab"
+}
