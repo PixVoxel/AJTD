@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: grapplemod
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: grapplemod-1.16.5
+Implementation-Version: 1.16.5-v12
+Implementation-Vendor: 
+Implementation-Timestamp: 2021-10-25T16:12:02-0400
+

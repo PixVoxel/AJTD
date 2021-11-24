@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: BIquE7JzTDsqgF5CWM7LcMhIadW60
+ sQ2RszSq8REt/A=
+SHA-256-Digest-Manifest: /RRn83R0aKc4/lG4hrvlH66e5+ZLxnuw/uQU6cWpNSc=
+Created-By: 1.8.0_292 (AdoptOpenJDK)
+
+Name: assets/toolstats/lang/en_us.json
+SHA-256-Digest: 0ZdxpUsBCdkV4txufm2Yf5xZsjlVZ1xW2/YesJHhnSk=
+
+Name: assets/toolstats/lang/fr_fr.json
+SHA-256-Digest: OKZy4I5deGHU6OiceyBmBwpLWJ/AKYuIIFKIug3PLr0=
+
+Name: assets/toolstats/lang/ta_in.json
+SHA-256-Digest: S5KQ3x6PM/okbup599FbvVZ8DU4y6JLQAGzmoFnmg88=
+
+Name: net/darkhax/toolstats/ToolStats.class
+SHA-256-Digest: 61RLAapJ48Hd45GyjXk/dIM3gdPqGMdooPn8BvNfomg=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: MiNFTK7BQ3180u30917YMO8S0TuD3IIJy+AK8xIgeeI=
+
+Name: pack.mcmeta
+SHA-256-Digest: Jijh/1+SDAQl5zooOLJTdvc9DfQgJYyfeF7vap8OStg=
+
+Name: net/darkhax/toolstats/Configuration.class
+SHA-256-Digest: qxUi4TMhPF4wjVXu4p3N0ydiK7tp61iraPBXHuHyUJU=
+

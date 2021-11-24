@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Implementation-Title: ToolStats-1.16.5
+Implementation-Version: 6.0.4
+Specification-Vendor: Darkhax
+Specification-Title: ToolStats
+Implementation-Timestamp: 2021-10-05T01:42:02+0200
+Built-On-Java: 25.292-b10 (AdoptOpenJDK)
+Specification-Version: 6.0.4
+Built-On: 1.16.5-36.0.10
+Timestamp: 1633390922182
+Implementation-Vendor: Darkhax
+
+Name: assets/toolstats/lang/en_us.json
+SHA-256-Digest: jsc7ZSoSNvUmJzXN8LxK3pzvC+YtJRgAJTKCCnGlK2E=
+
+Name: assets/toolstats/lang/fr_fr.json
+SHA-256-Digest: j0g0js7r/mz5/s5O9wZbxW3gNWvneXnxDDMFw83L+Qs=
+
+Name: assets/toolstats/lang/ta_in.json
+SHA-256-Digest: zPYgSoU/UVVgrLYFqvdwB+z1JFPenvT34b6l5NMm3RE=
+
+Name: net/darkhax/toolstats/ToolStats.class
+SHA-256-Digest: J3fhrH+qAtsDw2hXd25gTlActc4F3ebEc7ltPtGZ8a4=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: C2GH4jbJSddduTb4xuA9r0B9Si5CBdi0rYacQbqtHTA=
+
+Name: pack.mcmeta
+SHA-256-Digest: zZSf+EsI329LMq0vpgt2XEw3777nWnMwwxk8HbEOCyg=
+
+Name: net/darkhax/toolstats/Configuration.class
+SHA-256-Digest: 10opZoLIq87dJ2SJYj57Za/+jcJIXsGZDuB74r82Cgk=
+

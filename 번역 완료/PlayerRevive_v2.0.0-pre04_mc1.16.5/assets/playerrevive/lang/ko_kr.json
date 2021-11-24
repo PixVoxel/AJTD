@@ -1,0 +1,7 @@
+{
+	"playerrevive.chat.bleeding": "%s이(가) 쓰러졌습니다!",
+	"death.attack.bledToDeath.player": "%s은(는) 피를 너무 많이 흘리고 말았습니다",
+	"playerrevive.gui.button.send": "전송",
+	"playerrevive.gui.label.time_left": "%s 남음",
+	"playerrevive.gui.hold": "%s을(를) %s초 동안 눌러 부활을 포기합니다"
+}
