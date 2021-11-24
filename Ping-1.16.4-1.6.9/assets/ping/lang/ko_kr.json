@@ -1,0 +1,17 @@
+{
+  "_comment": "Categories",
+  "ping:key.categories.ping": "핑",
+
+  "_comment": "Pings",
+  "key.ping": "핑 메뉴 열기",
+  "ping.key.alert": "핑 (경고)",
+  "ping.key.mine": "핑 (채굴)",
+  "ping.key.look": "핑 (주목)",
+  "ping.key.goto": "핑 (이동)",
+
+  "_comment": "Subtitles",
+  "ping.subtitle.bloop": "핑 찍힘",
+
+  "_comment": "Gui",
+  "ping.pingSelect.title" : "핑 선택"
+}
