@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Just-Enough-Beer
+Implementation-Version: 1.0.1
+Specification-Vendor: marblegate.love
+Specification-Title: just_enough_keg
+Implementation-Timestamp: 2021-11-02T15:58:13+0800
+Specification-Version: 1
+Implementation-Vendor: marblegate.love
+

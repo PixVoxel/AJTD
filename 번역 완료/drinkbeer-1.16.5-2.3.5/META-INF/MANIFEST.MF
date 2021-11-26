@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: DrinkBeer-Forge1.16.5-
+Implementation-Version: 2.3.5
+Specification-Vendor: lma.lekavar
+Specification-Title: drinkbeer
+Implementation-Timestamp: 2021-11-11T07:02:04+0800
+Specification-Version: 1
+Implementation-Vendor: lma.lekavar
+

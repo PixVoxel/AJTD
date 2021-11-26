@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Additional Guns
+MixinConfigs: additionalguns.mixins.json
+Implementation-Version: 0.3.0-1.16.5
+Specification-Vendor: Mr Pineapple
+Specification-Title: Additional Guns
+Implementation-Timestamp: 2021-11-06T10:32:32+0100
+Specification-Version: 1
+Implementation-Vendor: Mr Pineapple
+
