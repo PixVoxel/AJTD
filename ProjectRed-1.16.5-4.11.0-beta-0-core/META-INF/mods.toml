@@ -1,0 +1,53 @@
+modLoader="scorge"
+loaderVersion="[3.1,)"
+issueTrackerURL="https://github.com/MrTJP/ProjectRed"
+license="RPSL"
+
+[[mods]]
+    modId="projectred-core"
+    displayName="ProjectRed Core"
+    entryClass="mrtjp.projectred.ProjectRedCore"
+    version="4.11.0-beta-0"
+
+    updateJSONURL="https://version-check.covers1624.net/check/?mod=ProjectRed&mc=1.16.5"
+    displayURL="https://github.com/MrTJP/ProjectRed"
+    authors="MrTJP, Chicken Bones, covers1624"
+    description='''
+Redstone. The way it was meant to be.
+    '''
+[[dependencies.projectred-core]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.projectred-core]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.projectred-core]]
+    modId="codechickenlib"
+    mandatory=true
+    versionRange="[4.0.2.430,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.projectred-core]]
+    modId="cb_multipart"
+    mandatory=true
+    versionRange="[3.0.2.120,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.projectred-core]]
+    modId="cb_microblock"
+    mandatory=true
+    versionRange="[3.0.2.120,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.projectred-core]]
+    modId="computercraft"
+    mandatory=false
+    versionRange="[1.98.2,)"
+    ordering="AFTER"
+    side="BOTH"
