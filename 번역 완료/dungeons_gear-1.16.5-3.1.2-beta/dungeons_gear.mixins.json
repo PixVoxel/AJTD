@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "package": "com.infamous.dungeons_gear.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "refmap": "dungeons_gear.refmap.json",
+  "mixins": [
+    "AbstractArrowEntityMixin",
+    "AreaEffectCloudEntityMixin",
+    "BowItemMixin",
+    "ContainerMinecartEntityMixin",
+    "CooldownAccessor",
+    "CrossbowItemMixin",
+    "HurtByTargetGoalMixin",
+    "LockableLootTileEntityMixin",
+    "PlayerEntityMixin"
+  ],
+  "client": [
+    "GameRendererMixin",
+    "PlayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

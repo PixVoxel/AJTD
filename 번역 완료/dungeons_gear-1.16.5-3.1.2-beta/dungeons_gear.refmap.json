@@ -1,0 +1,106 @@
+{
+  "mappings": {
+    "com/infamous/dungeons_gear/mixin/LockableLootTileEntityMixin": {
+      "unpackLootTable": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_184281_d(Lnet/minecraft/entity/player/PlayerEntity;)V",
+      "isEmpty": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_191420_l()Z",
+      "getItem": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_70301_a(I)Lnet/minecraft/item/ItemStack;",
+      "setItem": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_70299_a(ILnet/minecraft/item/ItemStack;)V"
+    },
+    "com/infamous/dungeons_gear/mixin/AbstractArrowEntityMixin": {
+      "getWaterInertia": "Lnet/minecraft/entity/projectile/AbstractArrowEntity;func_203044_p()F"
+    },
+    "com/infamous/dungeons_gear/mixin/GameRendererMixin": {
+      "pick": "Lnet/minecraft/client/renderer/GameRenderer;func_78473_a(F)V",
+      "Lnet/minecraft/util/math/vector/Vector3d;distanceToSqr(Lnet/minecraft/util/math/vector/Vector3d;)D": "Lnet/minecraft/util/math/vector/Vector3d;func_72436_e(Lnet/minecraft/util/math/vector/Vector3d;)D"
+    },
+    "com/infamous/dungeons_gear/mixin/AreaEffectCloudEntityMixin": {
+      "Lnet/minecraft/potion/Effect;applyInstantenousEffect(Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/LivingEntity;ID)V": "Lnet/minecraft/potion/Effect;func_180793_a(Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/LivingEntity;ID)V",
+      "Lnet/minecraft/entity/LivingEntity;addEffect(Lnet/minecraft/potion/EffectInstance;)Z": "Lnet/minecraft/entity/LivingEntity;func_195064_c(Lnet/minecraft/potion/EffectInstance;)Z",
+      "tick": "Lnet/minecraft/entity/AreaEffectCloudEntity;func_70071_h_()V"
+    },
+    "com/infamous/dungeons_gear/mixin/ContainerMinecartEntityMixin": {
+      "unpackLootTable": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_184288_f(Lnet/minecraft/entity/player/PlayerEntity;)V",
+      "getItem": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_70301_a(I)Lnet/minecraft/item/ItemStack;",
+      "setItem": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_70299_a(ILnet/minecraft/item/ItemStack;)V"
+    },
+    "com/infamous/dungeons_gear/mixin/PlayerRendererMixin": {
+      "getArmPose": "Lnet/minecraft/client/renderer/entity/PlayerRenderer;func_241741_a_(Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/client/renderer/entity/model/BipedModel$ArmPose;"
+    },
+    "com/infamous/dungeons_gear/mixin/ServerPlayNetHandlerMixin": {
+      "handleInteract": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147340_a(Lnet/minecraft/network/play/client/CUseEntityPacket;)V"
+    },
+    "com/infamous/dungeons_gear/mixin/CooldownAccessor": {
+      "net.minecraft.util.CooldownTracker$Cooldown": "net/minecraft/util/CooldownTracker$Cooldown",
+      "startTime": "field_185137_a:I",
+      "endTime": "field_185138_b:I"
+    },
+    "com/infamous/dungeons_gear/mixin/PlayerEntityMixin": {
+      "Lnet/minecraft/enchantment/EnchantmentHelper;getFireAspect(Lnet/minecraft/entity/LivingEntity;)I": "Lnet/minecraft/enchantment/EnchantmentHelper;func_90036_a(Lnet/minecraft/entity/LivingEntity;)I",
+      "attack": "Lnet/minecraft/entity/player/PlayerEntity;func_71059_n(Lnet/minecraft/entity/Entity;)V",
+      "Lnet/minecraft/entity/player/PlayerEntity;distanceToSqr(Lnet/minecraft/entity/Entity;)D": "Lnet/minecraft/entity/player/PlayerEntity;func_70068_e(Lnet/minecraft/entity/Entity;)D",
+      "createAttributes": "Lnet/minecraft/entity/player/PlayerEntity;func_234570_el_()Lnet/minecraft/entity/ai/attributes/AttributeModifierMap$MutableAttribute;",
+      "resetAttackStrengthTicker": "Lnet/minecraft/entity/player/PlayerEntity;func_184821_cY()V"
+    },
+    "com/infamous/dungeons_gear/mixin/BowItemMixin": {
+      "releaseUsing(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V": "Lnet/minecraft/item/BowItem;func_77615_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V"
+    },
+    "com/infamous/dungeons_gear/mixin/CrossbowItemMixin": {
+      "use": "Lnet/minecraft/item/CrossbowItem;func_77659_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;",
+      "getChargeDuration(Lnet/minecraft/item/ItemStack;)I": "Lnet/minecraft/item/CrossbowItem;func_220026_e(Lnet/minecraft/item/ItemStack;)I",
+      "Lnet/minecraft/item/CrossbowItem;performShooting(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/item/ItemStack;FF)V": "Lnet/minecraft/item/CrossbowItem;func_220014_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/item/ItemStack;FF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/infamous/dungeons_gear/mixin/LockableLootTileEntityMixin": {
+        "unpackLootTable": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_184281_d(Lnet/minecraft/entity/player/PlayerEntity;)V",
+        "isEmpty": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_191420_l()Z",
+        "getItem": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_70301_a(I)Lnet/minecraft/item/ItemStack;",
+        "setItem": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_70299_a(ILnet/minecraft/item/ItemStack;)V"
+      },
+      "com/infamous/dungeons_gear/mixin/AbstractArrowEntityMixin": {
+        "getWaterInertia": "Lnet/minecraft/entity/projectile/AbstractArrowEntity;func_203044_p()F"
+      },
+      "com/infamous/dungeons_gear/mixin/GameRendererMixin": {
+        "pick": "Lnet/minecraft/client/renderer/GameRenderer;func_78473_a(F)V",
+        "Lnet/minecraft/util/math/vector/Vector3d;distanceToSqr(Lnet/minecraft/util/math/vector/Vector3d;)D": "Lnet/minecraft/util/math/vector/Vector3d;func_72436_e(Lnet/minecraft/util/math/vector/Vector3d;)D"
+      },
+      "com/infamous/dungeons_gear/mixin/AreaEffectCloudEntityMixin": {
+        "Lnet/minecraft/potion/Effect;applyInstantenousEffect(Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/LivingEntity;ID)V": "Lnet/minecraft/potion/Effect;func_180793_a(Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/Entity;Lnet/minecraft/entity/LivingEntity;ID)V",
+        "Lnet/minecraft/entity/LivingEntity;addEffect(Lnet/minecraft/potion/EffectInstance;)Z": "Lnet/minecraft/entity/LivingEntity;func_195064_c(Lnet/minecraft/potion/EffectInstance;)Z",
+        "tick": "Lnet/minecraft/entity/AreaEffectCloudEntity;func_70071_h_()V"
+      },
+      "com/infamous/dungeons_gear/mixin/ContainerMinecartEntityMixin": {
+        "unpackLootTable": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_184288_f(Lnet/minecraft/entity/player/PlayerEntity;)V",
+        "getItem": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_70301_a(I)Lnet/minecraft/item/ItemStack;",
+        "setItem": "Lnet/minecraft/entity/item/minecart/ContainerMinecartEntity;func_70299_a(ILnet/minecraft/item/ItemStack;)V"
+      },
+      "com/infamous/dungeons_gear/mixin/PlayerRendererMixin": {
+        "getArmPose": "Lnet/minecraft/client/renderer/entity/PlayerRenderer;func_241741_a_(Lnet/minecraft/client/entity/player/AbstractClientPlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/client/renderer/entity/model/BipedModel$ArmPose;"
+      },
+      "com/infamous/dungeons_gear/mixin/ServerPlayNetHandlerMixin": {
+        "handleInteract": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147340_a(Lnet/minecraft/network/play/client/CUseEntityPacket;)V"
+      },
+      "com/infamous/dungeons_gear/mixin/CooldownAccessor": {
+        "net.minecraft.util.CooldownTracker$Cooldown": "net/minecraft/util/CooldownTracker$Cooldown",
+        "startTime": "field_185137_a:I",
+        "endTime": "field_185138_b:I"
+      },
+      "com/infamous/dungeons_gear/mixin/PlayerEntityMixin": {
+        "Lnet/minecraft/enchantment/EnchantmentHelper;getFireAspect(Lnet/minecraft/entity/LivingEntity;)I": "Lnet/minecraft/enchantment/EnchantmentHelper;func_90036_a(Lnet/minecraft/entity/LivingEntity;)I",
+        "attack": "Lnet/minecraft/entity/player/PlayerEntity;func_71059_n(Lnet/minecraft/entity/Entity;)V",
+        "Lnet/minecraft/entity/player/PlayerEntity;distanceToSqr(Lnet/minecraft/entity/Entity;)D": "Lnet/minecraft/entity/player/PlayerEntity;func_70068_e(Lnet/minecraft/entity/Entity;)D",
+        "createAttributes": "Lnet/minecraft/entity/player/PlayerEntity;func_234570_el_()Lnet/minecraft/entity/ai/attributes/AttributeModifierMap$MutableAttribute;",
+        "resetAttackStrengthTicker": "Lnet/minecraft/entity/player/PlayerEntity;func_184821_cY()V"
+      },
+      "com/infamous/dungeons_gear/mixin/BowItemMixin": {
+        "releaseUsing(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V": "Lnet/minecraft/item/BowItem;func_77615_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;I)V"
+      },
+      "com/infamous/dungeons_gear/mixin/CrossbowItemMixin": {
+        "use": "Lnet/minecraft/item/CrossbowItem;func_77659_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;",
+        "getChargeDuration(Lnet/minecraft/item/ItemStack;)I": "Lnet/minecraft/item/CrossbowItem;func_220026_e(Lnet/minecraft/item/ItemStack;)I",
+        "Lnet/minecraft/item/CrossbowItem;performShooting(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/item/ItemStack;FF)V": "Lnet/minecraft/item/CrossbowItem;func_220014_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/util/Hand;Lnet/minecraft/item/ItemStack;FF)V"
+      }
+    }
+  }
+}

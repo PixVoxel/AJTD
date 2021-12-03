@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Dungeons-Mobs
+MixinConfigs: dungeons_mobs.mixins.json
+Implementation-Version: 1.16.5-2.0.1-beta
+Specification-Vendor: Infamous Mods
+Specification-Title: Dungeons Mobs
+Implementation-Timestamp: 2021-12-03T00:47:43+0100
+Specification-Version: 1
+Implementation-Vendor: Infamous Mods
+

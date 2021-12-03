@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProgressiveBosses
+MixinConfigs: progressivebosses.mixins.json
+Implementation-Version: 3.3.3
+Specification-Vendor: insane96mcp
+Specification-Title: progressivebosses
+Implementation-Timestamp: 2021-10-16T08:44:19+0200
+Specification-Version: 1
+Implementation-Vendor: insane96mcp
+

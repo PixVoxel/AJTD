@@ -1,0 +1,82 @@
+{
+  "itemGroup.steampowered": "Create: 증기기관",
+  "item.steampowered.pressurized_gas_container": "압축된 가스 용기",
+  "item.steampowered.pressurized_steam_container": "압축된 증기 용기",
+  "item.steampowered.bronze_sheet": "황동 판",
+  
+  "block.steampowered.bronze_steam_engine": "황동 증기 엔진",
+  "block.steampowered.cast_iron_steam_engine": "주철 증기 엔진",
+  "block.steampowered.steel_steam_engine": "강철 증기 엔진",
+  "block.steampowered.bronze_flywheel": "황동 증기 플라이휠",
+  "block.steampowered.cast_iron_flywheel": "주철 증기 플라이휠",
+  "block.steampowered.steel_flywheel": "강철 증기 플라이휠",
+  "block.steampowered.bronze_cogwheel": "황동 톱니바퀴",
+  "block.steampowered.cast_iron_cogwheel": "주철 톱니바퀴",
+  "block.steampowered.steel_cogwheel": "강철 톱니바퀴",
+  "block.steampowered.bronze_large_cogwheel": "황동 큰 톱니바퀴",
+  "block.steampowered.cast_iron_large_cogwheel": "주철 큰 톱니바퀴",
+  "block.steampowered.steel_large_cogwheel": "강철 큰 톱니바퀴",
+  "block.steampowered.bronze_boiler" : "황동 보일러",
+  "block.steampowered.cast_iron_boiler" : "주철 보일러",
+  "block.steampowered.steel_boiler" : "강철 보일러",
+  "block.steampowered.bronze_burner" : "황동 연소실",
+  "block.steampowered.cast_iron_burner" : "주철 연소실",
+  "block.steampowered.steel_burner" : "강철 연소실",
+  
+  "fluid.steampowered.steam": "증기",
+  "fluid.steampowered.steam_flowing": "증기",
+
+  "steampowered.ponder.steam_engine.header": "증기 엔진을 이용해 동력 생산하기",
+  "steampowered.ponder.steam_engine.text_1": "증기 엔진은 증기가 제공되면 동력을 생산합니다.",
+  "steampowered.ponder.steam_engine.text_2": "제공된 동력은 피로도 용량이 매우 높습니다.",
+  "steampowered.ponder.steam_engine.text_3": "강철 또는 주철로 만들어진 증기 엔진을 사용하면 증기 플라이휠의 효율성과 생산하는 피로도 용량이 증가합니다",
+
+  "steampowered.ponder.flywheel.header": "증기 플라이휠로 동력 생산하기",
+  "steampowered.ponder.flywheel.text_1": "증기 플라이휠은 증기 엔진이 동력을 생산하기 위해 필요한 장치입니다.",
+  "steampowered.ponder.flywheel.text_2": "제공된 동력은 피로도 용량이 매우 높습니다.",
+  "steampowered.ponder.flywheel.text_3": "강철 또는 주철로 만들어진 증기 플라이휠을 사용하면 효율성과 생산하는 피로도 용량이 증가합니다",
+
+  "tooltip.steampowered.energy.production": "에너지 생산됨:",
+  "tooltip.steampowered.steam_engine.not_enough_steam": "상태: 증기 부족함",
+  "tooltip.steampowered.steam_engine.running": "상태: 작동 중",
+  "tooltip.steampowered.dynamo.locked": "상태: 레드스톤 잠금됨",
+
+  "block.steampowered.alternator": "변환 다이나모",
+  "tooltip.steampowered.alternator": "CC&A의 그것과는 다르다! 그것과는!",
+  "tooltip.steampowered.alternator.thanks": "MRH0의 훌륭한 성과물에 감사를 표합니다!",
+  "tooltip.steampowered.alternator.redstone": "레드스톤 신호가 가해지면 작동을 중지합니다.",
+
+  "steampowered.ponder.dynamo.header": "다이나모를 이용하여 전기 생산하기",
+  "steampowered.ponder.dynamo.text_1": "다이나모는 동력으로부터 전기(FE)를 생산합니다.",
+  "steampowered.ponder.dynamo.text_2": "작동하려면 최소 32 RPM이 필요합니다.",
+  "steampowered.ponder.dynamo.text_3": "에너지 생산량은 RPM에 비례합니다.",
+  "steampowered.ponder.dynamo.text_4": "75%(4 RPM : 3 FE)의 효율성을 가집니다",
+  "steampowered.ponder.dynamo.text_5": "다이나모에 레드스톤 신호를 가해 작동을 중지시킬 수 있습니다. 이 상태에서는 피로도 부하가 적용되지 않습니다.",
+
+  "steampowered.ponder.tag.steam": "증기",
+  "steampowered.ponder.tag.steam.description": "증기 생산과 활용에 관련된 부품들입니다.",
+
+  "tooltip.steampowered.burner.hu": "남은 열: %s 열 유닛",
+  "tooltip.steampowered.burner.item" : "남은 연료: %s x %s",
+  "tooltip.steampowered.burner.huproduce" : "%s HU/t 생산",
+  "tooltip.steampowered.burner.danger": "경고! 작동 중에 위에 올라가면 피해를 받습니다!",
+  "tooltip.steampowered.burner.brief": "연료를 사용해 열을 생산합니다.",
+  "tooltip.steampowered.burner.redstone": "레드스톤 신호가 가해지면 작동을 중지합니다.",
+  
+  "tooltip.steampowered.boiler.huconsume" : "최대 %s HU/t만큼의 열 수용",
+  "tooltip.steampowered.boiler.waterconsume" : "%s mb/t만큼의 물 필요",
+  "tooltip.steampowered.boiler.steamproduce" : "최대 %s mb/t만큼의 증기 출력",
+  "tooltip.steampowered.boiler.danger": "경고! 작동 중에 위에 올라가면 피해를 받습니다!",
+  "tooltip.steampowered.boiler.brief": "물을 가열해 증기를 생산합니다.",
+  "tooltip.steampowered.boiler.redstone": "레드스톤 비교기를 사용해 증기의 양을 알 수 있습니다.",
+  
+  "tooltip.steampowered.engine.steamconsume": "%s mb/t만큼의 증기 필요",
+  "tooltip.steampowered.engine.brief": "증기로 동력을 생산합니다.",
+
+  "steampowered.ponder.boiler.header": "보일러와 연소실을 통해 증기 생산하기",
+  "steampowered.ponder.boiler.text_1": "보일러는 증기를 생산하기 위해 물이 필요합니다.",
+  "steampowered.ponder.boiler.text_2": "연소실은 보일러에 열을 공급하기 위해 연료가 필요합니다.",
+  "steampowered.ponder.boiler.text_3": "석탄이나 나무 판자와 같은 연료를 들고 마우스 오른쪽 클릭하여 연료를 공급합니다.",
+  "steampowered.ponder.boiler.text_4": "맨손으로 마우스 오른쪽 클릭해 남은 연료를 회수합니다.",
+  "steampowered.ponder.boiler.text_5": "증기 엔진을 작동시키기 위해서는 보일러에서 증기를 추출해야합니다."
+}

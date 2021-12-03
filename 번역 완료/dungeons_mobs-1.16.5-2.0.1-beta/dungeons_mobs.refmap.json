@@ -1,0 +1,168 @@
+{
+  "mappings": {
+    "com/infamous/dungeons_mobs/mixin/TridentEntityMixin": {
+      "addAdditionalSaveData": "Lnet/minecraft/entity/projectile/TridentEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+      "getPickupItem": "Lnet/minecraft/entity/projectile/TridentEntity;func_184550_j()Lnet/minecraft/item/ItemStack;",
+      "defineSynchedData": "Lnet/minecraft/entity/projectile/TridentEntity;func_70088_a()V",
+      "<init>(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/entity/projectile/TridentEntity;<init>(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/item/ItemStack;)V",
+      "readAdditionalSaveData": "Lnet/minecraft/entity/projectile/TridentEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/ArrowAccessor": {
+      "effects": "field_184561_h:Ljava/util/Set;"
+    },
+    "com/infamous/dungeons_mobs/mixin/ItemRendererMixin": {
+      "getModel": "Lnet/minecraft/client/renderer/ItemRenderer;func_184393_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;)Lnet/minecraft/client/renderer/model/IBakedModel;",
+      "Lnet/minecraft/client/renderer/ItemModelMesher;getItemModel(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/client/renderer/model/IBakedModel;": "Lnet/minecraft/client/renderer/ItemModelMesher;func_178089_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/client/renderer/model/IBakedModel;",
+      "render": "Lnet/minecraft/client/renderer/ItemRenderer;func_229111_a_(Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/model/ItemCameraTransforms$TransformType;ZLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;IILnet/minecraft/client/renderer/model/IBakedModel;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/BrainAccessor": {
+      "availableBehaviorsByPriority": "field_218232_c:Ljava/util/Map;"
+    },
+    "com/infamous/dungeons_mobs/mixin/RaidMixin": {
+      "spawnGroup": "Lnet/minecraft/world/raid/Raid;func_221294_b(Lnet/minecraft/util/math/BlockPos;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/PiglinModelMixin": {
+      "setupAnim": "Lnet/minecraft/client/renderer/entity/model/PiglinModel;func_225597_a_(Lnet/minecraft/entity/MobEntity;FFFFF)V",
+      "Lnet/minecraft/entity/EntityType;ZOMBIFIED_PIGLIN:Lnet/minecraft/entity/EntityType;": "Lnet/minecraft/entity/EntityType;field_233592_ba_:Lnet/minecraft/entity/EntityType;"
+    },
+    "com/infamous/dungeons_mobs/mixin/AbstractHorseEntityMixin": {
+      "travel": "Lnet/minecraft/entity/passive/horse/AbstractHorseEntity;func_213352_e(Lnet/minecraft/util/math/vector/Vector3d;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/GoalSelectorAccessor": {
+      "availableGoals": "field_220892_d:Ljava/util/Set;"
+    },
+    "com/infamous/dungeons_mobs/mixin/WitherSkeletonEntityMixin": {
+      "populateDefaultEquipmentSlots": "Lnet/minecraft/entity/monster/WitherSkeletonEntity;func_180481_a(Lnet/minecraft/world/DifficultyInstance;)V",
+      "getArrow": "Lnet/minecraft/entity/monster/WitherSkeletonEntity;func_213624_b(Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/projectile/AbstractArrowEntity;"
+    },
+    "com/infamous/dungeons_mobs/mixin/AbstractArrowEntityMixin": {
+      "getWaterInertia": "Lnet/minecraft/entity/projectile/AbstractArrowEntity;func_203044_p()F"
+    },
+    "com/infamous/dungeons_mobs/mixin/SpiderModelMixin": {
+      "setupAnim": "Lnet/minecraft/client/renderer/entity/model/SpiderModel;func_225597_a_(Lnet/minecraft/entity/Entity;FFFFF)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/DrownedEntityMixin": {
+      "performRangedAttack": "Lnet/minecraft/entity/monster/DrownedEntity;func_82196_d(Lnet/minecraft/entity/LivingEntity;F)V",
+      "canReplaceCurrentItem": "Lnet/minecraft/entity/monster/DrownedEntity;func_208003_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z"
+    },
+    "com/infamous/dungeons_mobs/mixin/DrownedModelMixin": {
+      "prepareMobModel": "Lnet/minecraft/client/renderer/entity/model/DrownedModel;func_212843_a_(Lnet/minecraft/entity/monster/ZombieEntity;FFF)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/MansionTemplateMixin": {
+      "handleDataMarker": "Lnet/minecraft/world/gen/feature/structure/WoodlandMansionPieces$MansionTemplate;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/SpiderEntityMixin": {
+      "defineSynchedData": "Lnet/minecraft/entity/monster/SpiderEntity;func_70088_a()V",
+      "registerGoals": "Lnet/minecraft/entity/monster/SpiderEntity;func_184651_r()V"
+    },
+    "com/infamous/dungeons_mobs/mixin/TridentRendererMixin": {
+      "getTextureLocation": "Lnet/minecraft/client/renderer/entity/TridentRenderer;func_110775_a(Lnet/minecraft/entity/projectile/TridentEntity;)Lnet/minecraft/util/ResourceLocation;"
+    },
+    "com/infamous/dungeons_mobs/mixin/ZombifiedPiglinEntityMixin": {
+      "addAdditionalSaveData": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+      "Lnet/minecraft/entity/ai/goal/GoalSelector;addGoal(ILnet/minecraft/entity/ai/goal/Goal;)V": "Lnet/minecraft/entity/ai/goal/GoalSelector;func_75776_a(ILnet/minecraft/entity/ai/goal/Goal;)V",
+      "populateDefaultEquipmentSlots": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_180481_a(Lnet/minecraft/world/DifficultyInstance;)V",
+      "readAdditionalSaveData": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V",
+      "addBehaviourGoals": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_175456_n()V"
+    },
+    "com/infamous/dungeons_mobs/mixin/PiglinAccessor": {
+      "inventory": "field_234406_bA_:Lnet/minecraft/inventory/Inventory;"
+    },
+    "com/infamous/dungeons_mobs/mixin/CropsBlockMixin": {
+      "entityInside": "Lnet/minecraft/block/CropsBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+    },
+    "com/infamous/dungeons_mobs/mixin/PatrolSpawnerMixin": {
+      "spawnPatrolMember": "Lnet/minecraft/world/spawner/PatrolSpawner;func_222695_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;Z)Z"
+    },
+    "com/infamous/dungeons_mobs/mixin/PiglinEntityMixin": {
+      "addAdditionalSaveData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+      "finalizeSpawn": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_213386_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;",
+      "defineSynchedData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_70088_a()V",
+      "readAdditionalSaveData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/infamous/dungeons_mobs/mixin/TridentEntityMixin": {
+        "addAdditionalSaveData": "Lnet/minecraft/entity/projectile/TridentEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+        "getPickupItem": "Lnet/minecraft/entity/projectile/TridentEntity;func_184550_j()Lnet/minecraft/item/ItemStack;",
+        "defineSynchedData": "Lnet/minecraft/entity/projectile/TridentEntity;func_70088_a()V",
+        "<init>(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/entity/projectile/TridentEntity;<init>(Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/item/ItemStack;)V",
+        "readAdditionalSaveData": "Lnet/minecraft/entity/projectile/TridentEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/ArrowAccessor": {
+        "effects": "field_184561_h:Ljava/util/Set;"
+      },
+      "com/infamous/dungeons_mobs/mixin/ItemRendererMixin": {
+        "getModel": "Lnet/minecraft/client/renderer/ItemRenderer;func_184393_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;)Lnet/minecraft/client/renderer/model/IBakedModel;",
+        "Lnet/minecraft/client/renderer/ItemModelMesher;getItemModel(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/client/renderer/model/IBakedModel;": "Lnet/minecraft/client/renderer/ItemModelMesher;func_178089_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/client/renderer/model/IBakedModel;",
+        "render": "Lnet/minecraft/client/renderer/ItemRenderer;func_229111_a_(Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/model/ItemCameraTransforms$TransformType;ZLcom/mojang/blaze3d/matrix/MatrixStack;Lnet/minecraft/client/renderer/IRenderTypeBuffer;IILnet/minecraft/client/renderer/model/IBakedModel;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/BrainAccessor": {
+        "availableBehaviorsByPriority": "field_218232_c:Ljava/util/Map;"
+      },
+      "com/infamous/dungeons_mobs/mixin/RaidMixin": {
+        "spawnGroup": "Lnet/minecraft/world/raid/Raid;func_221294_b(Lnet/minecraft/util/math/BlockPos;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/PiglinModelMixin": {
+        "setupAnim": "Lnet/minecraft/client/renderer/entity/model/PiglinModel;func_225597_a_(Lnet/minecraft/entity/MobEntity;FFFFF)V",
+        "Lnet/minecraft/entity/EntityType;ZOMBIFIED_PIGLIN:Lnet/minecraft/entity/EntityType;": "Lnet/minecraft/entity/EntityType;field_233592_ba_:Lnet/minecraft/entity/EntityType;"
+      },
+      "com/infamous/dungeons_mobs/mixin/AbstractHorseEntityMixin": {
+        "travel": "Lnet/minecraft/entity/passive/horse/AbstractHorseEntity;func_213352_e(Lnet/minecraft/util/math/vector/Vector3d;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/GoalSelectorAccessor": {
+        "availableGoals": "field_220892_d:Ljava/util/Set;"
+      },
+      "com/infamous/dungeons_mobs/mixin/WitherSkeletonEntityMixin": {
+        "populateDefaultEquipmentSlots": "Lnet/minecraft/entity/monster/WitherSkeletonEntity;func_180481_a(Lnet/minecraft/world/DifficultyInstance;)V",
+        "getArrow": "Lnet/minecraft/entity/monster/WitherSkeletonEntity;func_213624_b(Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/projectile/AbstractArrowEntity;"
+      },
+      "com/infamous/dungeons_mobs/mixin/AbstractArrowEntityMixin": {
+        "getWaterInertia": "Lnet/minecraft/entity/projectile/AbstractArrowEntity;func_203044_p()F"
+      },
+      "com/infamous/dungeons_mobs/mixin/SpiderModelMixin": {
+        "setupAnim": "Lnet/minecraft/client/renderer/entity/model/SpiderModel;func_225597_a_(Lnet/minecraft/entity/Entity;FFFFF)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/DrownedEntityMixin": {
+        "performRangedAttack": "Lnet/minecraft/entity/monster/DrownedEntity;func_82196_d(Lnet/minecraft/entity/LivingEntity;F)V",
+        "canReplaceCurrentItem": "Lnet/minecraft/entity/monster/DrownedEntity;func_208003_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/item/ItemStack;)Z"
+      },
+      "com/infamous/dungeons_mobs/mixin/DrownedModelMixin": {
+        "prepareMobModel": "Lnet/minecraft/client/renderer/entity/model/DrownedModel;func_212843_a_(Lnet/minecraft/entity/monster/ZombieEntity;FFF)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/MansionTemplateMixin": {
+        "handleDataMarker": "Lnet/minecraft/world/gen/feature/structure/WoodlandMansionPieces$MansionTemplate;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/SpiderEntityMixin": {
+        "defineSynchedData": "Lnet/minecraft/entity/monster/SpiderEntity;func_70088_a()V",
+        "registerGoals": "Lnet/minecraft/entity/monster/SpiderEntity;func_184651_r()V"
+      },
+      "com/infamous/dungeons_mobs/mixin/TridentRendererMixin": {
+        "getTextureLocation": "Lnet/minecraft/client/renderer/entity/TridentRenderer;func_110775_a(Lnet/minecraft/entity/projectile/TridentEntity;)Lnet/minecraft/util/ResourceLocation;"
+      },
+      "com/infamous/dungeons_mobs/mixin/ZombifiedPiglinEntityMixin": {
+        "addAdditionalSaveData": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+        "Lnet/minecraft/entity/ai/goal/GoalSelector;addGoal(ILnet/minecraft/entity/ai/goal/Goal;)V": "Lnet/minecraft/entity/ai/goal/GoalSelector;func_75776_a(ILnet/minecraft/entity/ai/goal/Goal;)V",
+        "populateDefaultEquipmentSlots": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_180481_a(Lnet/minecraft/world/DifficultyInstance;)V",
+        "readAdditionalSaveData": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V",
+        "addBehaviourGoals": "Lnet/minecraft/entity/monster/ZombifiedPiglinEntity;func_175456_n()V"
+      },
+      "com/infamous/dungeons_mobs/mixin/PiglinAccessor": {
+        "inventory": "field_234406_bA_:Lnet/minecraft/inventory/Inventory;"
+      },
+      "com/infamous/dungeons_mobs/mixin/CropsBlockMixin": {
+        "entityInside": "Lnet/minecraft/block/CropsBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+      },
+      "com/infamous/dungeons_mobs/mixin/PatrolSpawnerMixin": {
+        "spawnPatrolMember": "Lnet/minecraft/world/spawner/PatrolSpawner;func_222695_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;Z)Z"
+      },
+      "com/infamous/dungeons_mobs/mixin/PiglinEntityMixin": {
+        "addAdditionalSaveData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_213281_b(Lnet/minecraft/nbt/CompoundNBT;)V",
+        "finalizeSpawn": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_213386_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/entity/SpawnReason;Lnet/minecraft/entity/ILivingEntityData;Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/entity/ILivingEntityData;",
+        "defineSynchedData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_70088_a()V",
+        "readAdditionalSaveData": "Lnet/minecraft/entity/monster/piglin/PiglinEntity;func_70037_a(Lnet/minecraft/nbt/CompoundNBT;)V"
+      }
+    }
+  }
+}

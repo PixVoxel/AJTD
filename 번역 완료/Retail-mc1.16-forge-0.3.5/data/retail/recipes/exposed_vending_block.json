@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ggg",
+		"gcg",
+		"iii"
+	],
+	"key": {
+		"g": {"item": "minecraft:glass"},
+		"c": {"item": "minecraft:comparator"},
+		"i": {"item": "minecraft:hopper"}
+	},
+	"result": {"item": "retail:exposed_vending_block"}
+}

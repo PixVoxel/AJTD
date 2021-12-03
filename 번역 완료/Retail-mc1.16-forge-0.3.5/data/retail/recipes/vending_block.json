@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ggg",
+		"gcg",
+		"iii"
+	],
+	"key": {
+		"g": {"item": "minecraft:glass"},
+		"c": {"item": "minecraft:comparator"},
+		"i": {"item": "minecraft:iron_ingot"}
+	},
+	"result": {"item": "retail:vending_block"}
+}

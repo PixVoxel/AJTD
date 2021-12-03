@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "insane96mcp.progressivebosses.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "progressivebosses.refmap.json",
+	"mixins": [
+		"ChargingPlayerPhaseMixin",
+		"DragonFireballEntityMixin",
+		"EnderCrystalEntityMixin",
+		"HoldingPatternPhaseMixin",
+		"LandingPhaseMixin",
+		"ShulkerBulletEntityMixin",
+		"StrafePlayerPhaseMixin"
+	],
+	"minVersion": "0.8"
+}

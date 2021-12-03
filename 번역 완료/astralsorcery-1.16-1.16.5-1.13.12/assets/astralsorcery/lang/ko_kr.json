@@ -156,9 +156,9 @@
   "astralsorcery.amulet.color.colorless": "원초",
   "astralsorcery.amulet.enchantment.level.one": "레벨",
   "astralsorcery.amulet.enchantment.level.more": "레벨",
-  "astralsorcery.amulet.enchantment.add_to_specific.name": "+%s %s를 %s에",
-  "astralsorcery.amulet.enchantment.add_to_existing_specific.name": "+%s 기존 %s에 %s",
-  "astralsorcery.amulet.enchantment.add_to_existing_all.name": "+%s %s에 기존 모든 마법",
+  "astralsorcery.amulet.enchantment.add_to_specific.name": "+%s %s의 %s 마법을 부여",
+  "astralsorcery.amulet.enchantment.add_to_existing_specific.name": "+%s %s을 이미 존재하는 %s 마법에 부여",
+  "astralsorcery.amulet.enchantment.add_to_existing_all.name": "+%s %s을 이미 존재하는 모든 마법에 부여",
 
   "screen.astralsorcery.hand_telescope": "망원경",
   "screen.astralsorcery.observatory": "천문대",

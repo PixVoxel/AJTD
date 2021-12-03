@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+issueTrackerURL="https://github.com/Insane96/ProgressiveBosses/issues/"
+[[mods]]
+modId="progressivebosses"
+version="${file.jarVersion}"
+displayName="Progressive Bosses"
+displayURL="https://minecraft.curseforge.com/projects/progressive-bosses"
+# logoFile="examplemod.png"
+authors="Insane96MCP"
+description='''
+Make Bosses harder the more you respawn them. Adding Health, Armor and some Abilities.
+'''
+# Catalogue icon
+itemIcon = "progressivebosses:nether_star_shard"
+# Configured background
+configBackground = "minecraft:textures/block/soul_sand.png"
+[[dependencies.progressivebosses]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.progressivebosses]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.progressivebosses]]
+    modId = "insanelib"
+    mandatory = true
+    versionRange = "[1.3.1,)"
+    ordering = "NONE"
+    side = "BOTH"

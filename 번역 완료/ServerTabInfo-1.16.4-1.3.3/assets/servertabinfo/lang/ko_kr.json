@@ -1,0 +1,17 @@
+{
+  "servertabinfo.gui.mean": "mean",
+  "servertabinfo.gui.ms": "ms",
+  "servertabinfo.gui.not_installed": "서버에 서버 TAB 정보가 설치되어있지 않습니다",
+  "servertabinfo.gui.page": "페이지 %d / %d",
+  "servertabinfo.gui.tps": "tps",
+  "servertabinfo.gui.unknown": "알 수 없음",
+  "servertabinfo.keys.category": "서버 TAB 정보",
+  "servertabinfo.keys.show": "TPS 리스트 보기",
+  "servertabinfo.lostcities:lostcities": "잃어버린 도시",
+  "servertabinfo.minecraft:overworld": "오버월드",
+  "servertabinfo.minecraft:the_end": "엔드",
+  "servertabinfo.minecraft:the_nether": "네더",
+  "servertabinfo.msg.not_allowed": "TPS 정보를 볼 권한이 없습니다",
+  "servertabinfo.servertabinfo:overall": "전체",
+  "servertabinfo.twilightforest:twilight_forest": "황혼의 숲"
+}
