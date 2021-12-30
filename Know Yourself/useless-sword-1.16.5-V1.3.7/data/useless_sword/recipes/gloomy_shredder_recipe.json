@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "1": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "2": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "3": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "4": {
+      "item": "useless_sword:vex_ectoplasm"
+    },
+    "5": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "6": {
+      "item": "savageandravage:gloomy_tiles"
+    },
+    "7": {
+      "item": "useless_sword:ravager_sword"
+    },
+    "8": {
+      "item": "savageandravage:gloomy_tiles"
+    }
+  },
+  "result": {
+    "item": "useless_sword:gloomy_shredder",
+    "count": 1
+  }
+}

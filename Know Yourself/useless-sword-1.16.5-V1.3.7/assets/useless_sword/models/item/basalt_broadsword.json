@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/basalt_broadsword",
+  "textures": {
+    "0": "useless_sword:blocks/basalt_broadsword",
+    "particle": "useless_sword:items/basalt_broadsword"
+  }
+}

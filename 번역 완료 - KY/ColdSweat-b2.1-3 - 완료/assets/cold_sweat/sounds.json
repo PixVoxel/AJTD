@@ -1,0 +1,39 @@
+{
+  "entity.player.damage.freeze":
+  {
+    "subtitle": "entity.player.damage.freeze",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:player/damage/freeze_0",
+        "stream": true
+      },
+      {
+        "name": "cold_sweat:player/damage/freeze_1",
+        "stream": true
+      }
+    ]
+  },
+  "item.soulfire_lamp.on":
+  {
+    "subtitle": "item.soulfire_lamp.on",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:item/soulfire_lamp/soulfire_lamp_on",
+        "stream": true
+      }
+    ]
+  },
+  "item.soulfire_lamp.off":
+  {
+    "subtitle": "item.soulfire_lamp.off",
+    "sounds":
+    [
+      {
+        "name": "cold_sweat:item/soulfire_lamp/soulfire_lamp_off",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_17_middle",
+	"textures": {
+				"particle": "minecraft:block/crimson_stem",
+		"2": "minecraft:block/stripped_crimson_stem",
+		"3": "minecraft:block/crimson_stem",
+		"7": "minecraft:block/stripped_crimson_stem",
+		"texture": "minecraft:block/crimson_stem",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

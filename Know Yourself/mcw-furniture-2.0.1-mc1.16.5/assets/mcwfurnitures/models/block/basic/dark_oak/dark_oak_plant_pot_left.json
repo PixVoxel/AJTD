@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/deskpart/plant_pot_left",
+	"textures": {
+		"3": "minecraft:block/dirt",
+		"4": "minecraft:block/dark_oak_sapling",
+		"5": "minecraft:block/flower_pot",
+			"particle": "minecraft:block/dark_oak_log",
+		"texture": "minecraft:block/dark_oak_log"
+	}
+}

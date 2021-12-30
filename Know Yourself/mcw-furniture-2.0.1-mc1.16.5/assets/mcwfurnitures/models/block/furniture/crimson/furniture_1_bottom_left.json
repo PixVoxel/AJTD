@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_1_bottom_left",
+	"textures": {
+					"particle": "minecraft:block/crimson_stem",
+		"1": "minecraft:block/stripped_crimson_stem",
+		"2": "minecraft:block/stripped_crimson_stem",
+		"3": "minecraft:block/crimson_stem",
+		"texture": "minecraft:block/crimson_stem"
+	}
+}

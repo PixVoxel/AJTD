@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "facing=east,part=middle_left":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle_left", "y":180 },
+        "facing=west,part=middle_left":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle_left", "y":0 },
+        "facing=north,part=middle_left": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle_left", "y":90},
+        "facing=south,part=middle_left": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle_left", "y":270 },
+
+        "facing=east,part=middle":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle", "y":180 },
+        "facing=west,part=middle":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle", "y":0 },
+        "facing=north,part=middle": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle", "y":90},
+        "facing=south,part=middle": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_middle", "y":270 },       
+
+        "facing=east,part=bottom_left":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom_left", "y":180 },
+        "facing=west,part=bottom_left":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom_left", "y":0 },
+        "facing=north,part=bottom_left": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom_left", "y":90},
+        "facing=south,part=bottom_left": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom_left", "y":270 },
+
+        "facing=east,part=bottom":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom", "y":180 },
+        "facing=west,part=bottom":  { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom", "y":0 },
+        "facing=north,part=bottom": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom", "y":90},
+        "facing=south,part=bottom": { "model": "mcwfurnitures:block/furniture/dark_oak/furniture_2_bottom", "y":270 }		
+    }
+}
+
+
+
+
+
+
+

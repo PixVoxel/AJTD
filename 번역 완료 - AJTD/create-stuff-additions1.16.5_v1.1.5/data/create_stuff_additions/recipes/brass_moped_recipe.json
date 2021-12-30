@@ -1,0 +1,34 @@
+{
+  "group": "create_stuff_additions",
+  "type": "create:mechanical_crafting",
+          "pattern": [
+            "K  ",
+			"RPR",
+			"CGC",
+			"ZZZ"
+        ],
+        "key": {
+			"Z": {
+                "item": "create:belt_connector"
+            },
+            "K": {
+                "tag": "forge:plates/brass"
+            },
+            "P": {
+                "item": "create:precision_mechanism"
+            },
+            "R": {
+                "item": "create:brass_casing"                
+            },
+			"C": {
+                "item": "create:shaft" 
+            },
+			"G": {
+                "item": "create:furnace_engine"
+            }
+        },
+  "result": {
+    "item": "create_stuff_additions:brass_moped_item",
+    "count": 1
+  }
+}

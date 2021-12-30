@@ -1,0 +1,20 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "create_stuff_additions:brass_helmet"
+    },
+    "1": {
+      "item": "create:redstone_link"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:detector_brass_helmet",
+    "count": 1
+  }
+}

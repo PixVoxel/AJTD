@@ -1,0 +1,29 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "create:andesite_alloy"
+    },
+    "1": {
+      "item": "minecraft:slime_ball"
+    },
+    "2": {
+      "item": "create:andesite_alloy"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "5": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:sticky_helmet",
+    "count": 1
+  }
+}

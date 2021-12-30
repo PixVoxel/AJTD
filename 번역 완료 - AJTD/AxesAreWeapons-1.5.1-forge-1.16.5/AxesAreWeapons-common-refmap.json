@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "io/github/fourmisain/axesareweapons/common/mixin/EnchantmentMixin": {
+      "isAcceptableItem": "Lnet/minecraft/enchantment/Enchantment;func_92089_a(Lnet/minecraft/item/ItemStack;)Z"
+    },
+    "io/github/fourmisain/axesareweapons/common/mixin/EnchantmentHelperMixin": {
+      "getPossibleEntries": "Lnet/minecraft/enchantment/EnchantmentHelper;func_185291_a(ILnet/minecraft/item/ItemStack;Z)Ljava/util/List;"
+    },
+    "io/github/fourmisain/axesareweapons/common/mixin/MiningToolItemMixin": {
+      "postHit": "Lnet/minecraft/item/ToolItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+    },
+    "io/github/fourmisain/axesareweapons/common/mixin/LuckEnchantmentMixin": {
+      "canAccept(Lnet/minecraft/enchantment/Enchantment;)Z": "Lnet/minecraft/enchantment/LootBonusEnchantment;func_77326_a(Lnet/minecraft/enchantment/Enchantment;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "io/github/fourmisain/axesareweapons/common/mixin/EnchantmentMixin": {
+        "isAcceptableItem": "Lnet/minecraft/enchantment/Enchantment;func_92089_a(Lnet/minecraft/item/ItemStack;)Z"
+      },
+      "io/github/fourmisain/axesareweapons/common/mixin/EnchantmentHelperMixin": {
+        "getPossibleEntries": "Lnet/minecraft/enchantment/EnchantmentHelper;func_185291_a(ILnet/minecraft/item/ItemStack;Z)Ljava/util/List;"
+      },
+      "io/github/fourmisain/axesareweapons/common/mixin/MiningToolItemMixin": {
+        "postHit": "Lnet/minecraft/item/ToolItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+      },
+      "io/github/fourmisain/axesareweapons/common/mixin/LuckEnchantmentMixin": {
+        "canAccept(Lnet/minecraft/enchantment/Enchantment;)Z": "Lnet/minecraft/enchantment/LootBonusEnchantment;func_77326_a(Lnet/minecraft/enchantment/Enchantment;)Z"
+      }
+    }
+  }
+}

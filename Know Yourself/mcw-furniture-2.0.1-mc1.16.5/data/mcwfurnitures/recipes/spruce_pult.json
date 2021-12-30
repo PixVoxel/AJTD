@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "B"               
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:spruce_plate"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:spruce_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_pult",
+        "count": 1
+    }
+}
+
+

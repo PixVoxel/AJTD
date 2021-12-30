@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_4_bottom_left_mirror",
+	"textures": {
+					"particle": "minecraft:block/jungle_log",
+		"1": "minecraft:block/stripped_jungle_log",
+		"2": "minecraft:block/jungle_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

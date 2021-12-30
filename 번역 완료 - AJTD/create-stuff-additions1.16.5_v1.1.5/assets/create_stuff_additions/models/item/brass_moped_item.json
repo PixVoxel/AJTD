@@ -1,0 +1,7 @@
+{
+  "parent": "create_stuff_additions:custom/brass_moped_item",
+  "textures": {
+    "0": "create_stuff_additions:blocks/brass_moped",
+    "particle": "create_stuff_additions:items/brass_moped_test"
+  }
+}

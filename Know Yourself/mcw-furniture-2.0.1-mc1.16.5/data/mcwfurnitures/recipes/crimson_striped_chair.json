@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  A",
+		" AC",
+		" BB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:crimson_plate"
+        },    
+        
+		"C":
+        {
+            "item": "minecraft:stick"
+        }, 
+		
+        "B":
+        {
+            "item": "minecraft:crimson_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_striped_chair",
+        "count": 1
+    }
+}
+
+

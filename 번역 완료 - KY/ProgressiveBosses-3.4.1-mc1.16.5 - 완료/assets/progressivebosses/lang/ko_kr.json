@@ -1,0 +1,22 @@
+{
+  "item.progressivebosses.nether_star_shard": "네더의 별 조각",
+
+  "entity.progressivebosses.wither_minion": "위더의 부하",
+  "death.attack.progressivebosses:wither_charge_attack": "%1$s은(는) %2$s에게 강한 한 방을 맞고 말았습니다",
+
+  "progressivebosses:dragon_larva": "드래곤 유충",
+  "progressivebosses:dragon_minion": "드래곤의 부하",
+  "death.attack.progressivebosses:dragon_fireball": "%1$s은(는) %2$s에게 화염구로 불태워졌습니다",
+
+  "progressivebosses:elder_minion": "엘더 가디언의 부하",
+  "progressivebosses:command.player_get_wither_difficulty": "%s은(는)%d마리의 위더를 소환했습니다",
+  "progressivebosses:command.player_get_dragon_difficulty": "%s은(는) %d마리의 엔더 드래곤을 잡았습니다",
+  "progressivebosses:command.player_set_boss_difficulty": "%s의 %s 난이도를 %d로 설정했습니다",
+  "progressivebosses:command.player_add_boss_difficulty": "%d만큼의 %s 난이도를 %s에게 추가했습니다 (현재 %d)",
+  "progressivebosses:command.summoned_entity": "%s을(를) %d의 난이도로 소환했습니다",
+  "progressivebosses:command.summon_invalid_entity": "%s은(는) 존재하지 않는 엔티티입니다"
+  
+  "dragon.first_killed": "첫 번째 드래곤을 죽인 걸 축하하네. 자네가 드래곤을 죽일 때마다 다음 드래곤이 강해져 싸우기 힘들어질 거라네.",
+  "wither.first_summon": "첫 번째 위더를 소환했네. 자네가 위더를 소환할 때마다 다음 놈들은 더 싸우기 힘들어질 거라네.",
+  "elder_guardian.approach": "대양 기념비에 접근한 것 같은데, 엘더 가디언들을 모두 물리치기 전까지는... 도망가지 않는 한... 블록들을 부수지 못할 거야."
+}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ConvenientCuriosContainer
+Implementation-Version: 2_forge-1.16.5
+Specification-Vendor: Leobeliik
+Specification-Title: ConvenientCuriosContainer
+Implementation-Timestamp: 2021-12-02T16:21:59-0300
+Specification-Version: 2_forge-1.16.5
+Implementation-Vendor: LeoBeliik
+

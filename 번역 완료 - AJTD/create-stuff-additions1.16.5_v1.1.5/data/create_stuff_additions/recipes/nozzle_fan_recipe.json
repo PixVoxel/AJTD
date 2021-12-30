@@ -1,0 +1,21 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "212",
+    "1 1",
+    "212"
+  ],
+  "key": {
+    "1": {
+      "item": "create:encased_fan"
+    },
+    "2": {
+      "item": "create:cogwheel"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:nozzle_fan",
+    "count": 1
+  }
+}

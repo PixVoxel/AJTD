@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:basalt"
+    },
+    "3": {
+      "item": "minecraft:basalt"
+    },
+    "4": {
+      "item": "minecraft:blackstone"
+    },
+    "5": {
+      "item": "minecraft:basalt"
+    },
+    "7": {
+      "item": "useless_sword:wither_bone"
+    }
+  },
+  "result": {
+    "item": "useless_sword:basalt_broadsword",
+    "count": 1
+  }
+}

@@ -1,0 +1,886 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: LK6bPlQuS+LW2PT9W+WbSiHnyMGFONLSOOV0VrokWXo=
+SHA-256-Digest-Manifest-Main-Attributes: yqeeCnBPpV1tExyzw6z2xdd/FSCmBT5
+ NkCMwinCzQS8=
+
+Name: com/lothrazar/storagenetwork/block/collection/GuiCollectionFilter.
+ class
+SHA-256-Digest: O+9NhNnwAgF8sJ43j8sXuXFGDEtU1y910yONhV73nAQ=
+
+Name: com/lothrazar/storagenetwork/registry/StorageNetworkCapabilities.c
+ lass
+SHA-256-Digest: xeKpbIo9EGpW7Di1NPyCAeZ9pg3fPZ72aBShHHQOMmk=
+
+Name: com/lothrazar/storagenetwork/block/exchange/BlockExchange.class
+SHA-256-Digest: tSSdNzhy2pmiIgZ9ir+OZeUnuLXgaDwEguLAdt3yOrI=
+
+Name: com/lothrazar/storagenetwork/gui/NetworkWidget$2.class
+SHA-256-Digest: WTjTZ4du07R7OpRqjPNj+n2MhEcuQUsJduhv3FxZhpU=
+
+Name: assets/storagenetwork/models/block/cable_side_filter.json
+SHA-256-Digest: wc5Ry+0NvzLBH7HtC1U8EwPViB0bQ/Nswigu0/C2Zcs=
+
+Name: com/lothrazar/storagenetwork/block/cable/TileCable.class
+SHA-256-Digest: tOuaCpk9BJSzrzlD//TeKPl1JLA0REoD+SR9UjkBdsc=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/categories/
+ remotes.json
+SHA-256-Digest: bzpNRpiE+hs5kPECx5uziz8AsL7Y4Gi38y7zUcJg6MA=
+
+Name: com/lothrazar/storagenetwork/gui/ButtonRequest$TextureEnum.class
+SHA-256-Digest: TT3IMPXPgQF/KY2VR1kQblUO2txexUOLu4o3PAjswSU=
+
+Name: assets/storagenetwork/textures/item/picker_remote.png
+SHA-256-Digest: m73Z5LJpYuW1eUIb2hclhraQ8GpZFdePWPUmtRr/QHQ=
+
+Name: com/lothrazar/storagenetwork/block/cable/input/TileCableIO.class
+SHA-256-Digest: XmZTwQdL0nQcYgl0Xj3xlcb11gCqmqPfE1vUOUwkfsg=
+
+Name: com/lothrazar/storagenetwork/block/collection/ContainerCollectionF
+ ilter.class
+SHA-256-Digest: F5+V9zZN8uWb9tIsQHZg12byixESlGZRSndR8iQGroY=
+
+Name: com/lothrazar/storagenetwork/StorageNetwork.class
+SHA-256-Digest: uRDwyBenzN4XLFmagqP+1LHjPPm3YF+XiAFyQ7qP6Jg=
+
+Name: com/lothrazar/storagenetwork/item/ItemBuilder.class
+SHA-256-Digest: m4W0QtIVzBn0KfLUK9RinGRCWdkQatjxGR28NX3u7bA=
+
+Name: assets/storagenetwork/textures/block/master.png
+SHA-256-Digest: 3lYcN0N3pzk9xSBna5Ja4y/XEqBXiykQ9d16SkXs5EE=
+
+Name: data/curios/tags/items/charm.json
+SHA-256-Digest: pnOR4I1caBpa8by24hHjc2oFEVP0uv/XQlh40MRqcl4=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/bui
+ lder_remote.json
+SHA-256-Digest: gz1MoZKwI5H/R1j/+MG3Mrp9H9QHsevZK20sIN4Zlpg=
+
+Name: com/lothrazar/storagenetwork/gui/NetworkCraftingInventory.class
+SHA-256-Digest: zHK6sOglfhWcxHkprUpOwqVdakO2fOY0+xfqJ0iF5Gs=
+
+Name: assets/storagenetwork/textures/block/inventory.png
+SHA-256-Digest: AXP/y9vi4Fv82cpCFcHt6P95e2XzI+Y/8ZJNY0Hu1Kw=
+
+Name: com/lothrazar/storagenetwork/util/UtilTileEntity.class
+SHA-256-Digest: 4PEK/0dIYyZ5OZiA8hnYsy24HEiTrl96Uu5fwSLMER4=
+
+Name: com/lothrazar/storagenetwork/item/remote/ContainerNetworkRemote.cl
+ ass
+SHA-256-Digest: wtrqb2lVPwudPCuz1D53V7yv9AF4iiYiNcdncY/jGew=
+
+Name: com/lothrazar/storagenetwork/item/remote/GuiNetworkCraftingRemote.
+ class
+SHA-256-Digest: U4JGJan9gJx4P8eF9+u637auqFxePZNUixO80/LU87g=
+
+Name: com/lothrazar/storagenetwork/block/request/BlockRequest.class
+SHA-256-Digest: ufYm/MvpIcQIOCF6A2ckX9JMV2NgshEm2xjV7Q4DI5Y=
+
+Name: com/lothrazar/storagenetwork/registry/SsnEvents.class
+SHA-256-Digest: RVq+29C4ng5/IAujDrlBrQst5VSZko6RQ5xHjSYvt4c=
+
+Name: com/lothrazar/storagenetwork/block/cable/link/BlockCableLink.class
+SHA-256-Digest: Irq7AvcaNYoTDr6cQQPZpQkGiesMJ28E57h9xWFiUG8=
+
+Name: assets/storagenetwork/lang/hu_hu.json
+SHA-256-Digest: +1lZ6izBa6tyUrUzXGwP6rrBgXRWG5vOrepKoQrSMQQ=
+
+Name: com/lothrazar/storagenetwork/api/DimPos.class
+SHA-256-Digest: OBJoXsw9Kj0kOq0acj7HZVR67FBZIvbORCbquxG85BQ=
+
+Name: com/lothrazar/storagenetwork/api/IConnectableItemAutoIO.class
+SHA-256-Digest: hLdL3ooaeILPzm6/VybR+TUbdANQFrm/7WR/XSxJ3AY=
+
+Name: assets/storagenetwork/models/item/import_filter_kabel.json
+SHA-256-Digest: 8FcSOOXd8HFnyWB64hfi/pSUjiQUYcmOt2/JC1lOfZE=
+
+Name: assets/storagenetwork/models/parent/cable_none.json
+SHA-256-Digest: V1lSKPrQPEd5taHRWc5qHgV8f8VkQQe6oDgX4KmkuHo=
+
+Name: assets/storagenetwork/models/block/cable_none_item.json
+SHA-256-Digest: IHm1DJD0LWc0Ab9EJ0rKrHA6zqD8jH9v/xh8/qBxB1I=
+
+Name: data/storagenetwork/loot_tables/blocks/export_kabel.json
+SHA-256-Digest: 48hYgj9ATjPc6JaPS5SjY1GXXxTR2uxSq8iETsvXX9c=
+
+Name: assets/storagenetwork/lang/ru_ru.json
+SHA-256-Digest: fblO15tUGK47kJYBWc4bAG27MA4Q66BoR0hG5YI/B+w=
+
+Name: com/lothrazar/storagenetwork/registry/SsnRegistry$1.class
+SHA-256-Digest: ljI+Agt+W4pdKH9lwjiOfzdtgteKncc/iSoIrgDYAy8=
+
+Name: data/storagenetwork/recipes/collector_remote.json
+SHA-256-Digest: 1FN0ei+X4pik5u3iTFHCT0d5kjiYRJq+0nzAJja03BY=
+
+Name: com/lothrazar/storagenetwork/api/IItemStackMatcher.class
+SHA-256-Digest: Jn3wcIpt98OVS4ewVKOhKamcvQHEXqZgwGYl83kUuFA=
+
+Name: assets/storagenetwork/models/block/cable_side_storage.json
+SHA-256-Digest: f+ZV79RyJVtxjnTXPHmapeP+x8KJZj/DryNPBfJ2/Js=
+
+Name: com/lothrazar/storagenetwork/block/cable/inputfilter/ContainerCabl
+ eImportFilter.class
+SHA-256-Digest: hT3Nm8dxVq4rb/4oF07ICo9UeklZkT1htS+f03Zs+Z4=
+
+Name: assets/storagenetwork/models/item/master.json
+SHA-256-Digest: 7VoNK47zQjC8R1+dRSE6ZNna5+RzcD8Fs6Eb7XjfcZI=
+
+Name: data/storagenetwork/recipes/collector.json
+SHA-256-Digest: gZOxD2yn8kiqD7lcdXJHNHBicTGnPq5DBCCR9g+9Crc=
+
+Name: assets/storagenetwork/textures/block/cable_blocked.png
+SHA-256-Digest: bwTvpk5EcroucV2/0qt5iekdkrVCwJDqcPwwvVHWSEs=
+
+Name: assets/storagenetwork/models/item/collector_remote.json
+SHA-256-Digest: qug4gJLUrtP1iNtc8EPqDHSICNYqWianQZGDSJgZBYY=
+
+Name: assets/storagenetwork/textures/item/collector_remote.png
+SHA-256-Digest: zRMHiia77NCEPWpkPkYdN62yZVRGUQdB6lqQlR66L4Q=
+
+Name: com/lothrazar/storagenetwork/capability/DefaultConnectable.class
+SHA-256-Digest: zBt8AkCFrZOlcQ83O9I9s2/HkO/Kdwzv2z3pV578VPc=
+
+Name: com/lothrazar/storagenetwork/gui/ItemSlotNetwork.class
+SHA-256-Digest: M7TMIjsWsB0cfoa3HlM3k0hQaMNFwESFbIHgSoR534g=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/categories/
+ upgrades.json
+SHA-256-Digest: tXhwve6iPkFZVy8bxJpCKscs/EF4NdkzQVE32FVYgi0=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/gs_
+ setup.json
+SHA-256-Digest: F2pf8ExzM6LylF7xsneh5PFcsbcnoblmuJ3ZrvV3Hns=
+
+Name: com/lothrazar/storagenetwork/block/exchange/TileExchange.class
+SHA-256-Digest: sdaFzhwfRXGu+ySIT6Xkt8dPWTQT522nmcQTIx8Gzb4=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectable$Stor
+ age.class
+SHA-256-Digest: WB7+d+35mv7ZGxkSfPutPQgYFvZL6MewyXfbDj5iOVA=
+
+Name: com/lothrazar/storagenetwork/network/ClearRecipeMessage.class
+SHA-256-Digest: ldNA3MGJgXKVSAOiI9cFpZkytL3e8a2rP+5oAxEANW8=
+
+Name: data/storagenetwork/loot_tables/blocks/master.json
+SHA-256-Digest: iJql0wh10uLb3mkF3aLHwJW2Y0lz9f0KN3Bbr4284rA=
+
+Name: com/lothrazar/storagenetwork/block/main/RecentSlotPointer$StackSlo
+ t.class
+SHA-256-Digest: AXdgYnp89QN4N0rby9nIRxBQEYoXriZCcBvT6On2qNw=
+
+Name: com/lothrazar/storagenetwork/network/RecipeMessage.class
+SHA-256-Digest: R3Ptdt7CMMMvkdh3Nhosz4iQO4Y5WXF0Fx1zFj0KWV4=
+
+Name: assets/storagenetwork/textures/block/cable_item.png
+SHA-256-Digest: b0WpMHRgEM47Y6WnWT1X/eNzqCyMrCRB26AOySzMT1A=
+
+Name: com/lothrazar/storagenetwork/block/cable/linkfilter/BlockCableFilt
+ er.class
+SHA-256-Digest: 8u0v1rHHLhDhMVCGMoybEHo5zclpBNNUWJCaTfDfKBE=
+
+Name: com/lothrazar/storagenetwork/gui/ButtonRequest.class
+SHA-256-Digest: 77MSQ0QzavF2rygkBQAdc4ELc2s7yqkPJmbcPIrb/vQ=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/sto
+ rage_kabel.json
+SHA-256-Digest: FGAbT8+prCcw4ibi8hYEYKonmSsczzsOqPjqNOj7njs=
+
+Name: assets/storagenetwork/textures/block/cable_export.png
+SHA-256-Digest: 4Z75B+0kLKTkDv2+/mMR6fI+t2vzKiE6vKSZ/PeDD7Y=
+
+Name: com/lothrazar/storagenetwork/gui/NetworkWidget$1.class
+SHA-256-Digest: RrNzD0HIgHlxJb8Uw5HJUIWmYWDLSbQxyofw2SIDzSw=
+
+Name: com/lothrazar/storagenetwork/block/collection/BlockCollection.clas
+ s
+SHA-256-Digest: vBniiQCxi0IWk1QL60mYwAjuewpbiYqC9Qj9q4D0Fo4=
+
+Name: data/storagenetwork/loot_tables/blocks/import_kabel.json
+SHA-256-Digest: 4OKmgYjccvXAnv/MmPS8EShtutw5NbpD7v1bVRM2IkA=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/gs_
+ chunks.json
+SHA-256-Digest: zxanBAUyO/hrGAjffc/Mh1sRalrWlGBOFYrej3uwuyU=
+
+Name: data/storagenetwork/loot_tables/blocks/exchange.json
+SHA-256-Digest: wEKK4SCpO8UbDdQVLYaYXsJxUvizXOJZT2PisGQtI4w=
+
+Name: assets/storagenetwork/models/block/request.json
+SHA-256-Digest: QQL+05ODKLhRuFkhUFkA0FhgsZbqTjNacKCXVPyUtDY=
+
+Name: com/lothrazar/storagenetwork/block/TileCableWithFacing.class
+SHA-256-Digest: O7Jh+QCVPqA3jZJ0MkVIL+p0RMLKAcmUf5E5zctTjlI=
+
+Name: pack.mcmeta
+SHA-256-Digest: mWLcoIiKq/oIK9zKrlzjLwfyeoNFz+th2BYCnFkwBB0=
+
+Name: assets/storagenetwork/models/item/import_kabel.json
+SHA-256-Digest: wxUUZwTEpxEvgOXvOCb/h166ojFy/CQWCoql2AR9eqs=
+
+Name: assets/storagenetwork/textures/item/remote_2.png
+SHA-256-Digest: f40PgcxaManFVNFXOuxea+4pUDFkV3thTsdSTm9cu0M=
+
+Name: com/lothrazar/storagenetwork/block/collection/CollectionItemStackH
+ andler.class
+SHA-256-Digest: SG7ZjdZeEub6jM8SKKpwvmh3ZgQo9OjR/OtfNqC0KFo=
+
+Name: assets/storagenetwork/models/parent/cable_side.json
+SHA-256-Digest: zMOrWFPXsre8FyD/SCu/DtBHj42dqsTY6jF5o4o/srQ=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/pic
+ ker_remote.json
+SHA-256-Digest: xMcTtuyoxRigi2FE+NdbLz+Ai2SoCwdSmObps0lRpc4=
+
+Name: com/lothrazar/storagenetwork/block/cable/inputfilter/TileCableImpo
+ rtFilter.class
+SHA-256-Digest: vvyEPYTvFpzZgM46FpCqNS27FlikOdVUeS9uJh3g/Ws=
+
+Name: assets/storagenetwork/blockstates/collector.json
+SHA-256-Digest: a+wITLGKvcDMs0+oxMHMcOMmGD9d3LGYPK0W19NlfPM=
+
+Name: assets/storagenetwork/models/block/cable_side_importfilter.json
+SHA-256-Digest: NCuMRnLYR45rkE1/kOGGLcm7KoS9sx89dt0ypWQt1Uo=
+
+Name: assets/storagenetwork/models/item/request.json
+SHA-256-Digest: bwiAZeuwWYovkekvQzh0Mpni6E1ZMF0Wye1dkc8fhBg=
+
+Name: data/storagenetwork/recipes/stack_upgrade.json
+SHA-256-Digest: lkcXuspi+j4JRq0G1A4C/OQ2Bs+/ORZcNj/6Ss0/y7w=
+
+Name: com/lothrazar/storagenetwork/api/EnumSortType.class
+SHA-256-Digest: ilwx7XoyrXKuMOAJkhNSkdKmf5OPyHW3KkuxVzPt3J0=
+
+Name: com/lothrazar/storagenetwork/item/ItemPicker.class
+SHA-256-Digest: beg51SuEoRVn3AZwlXB+ZbYlzMMha8CGjSz+EhC+/vo=
+
+Name: com/lothrazar/storagenetwork/network/SettingsSyncMessage.class
+SHA-256-Digest: KmOpfGTzo2gZgFjcWuJ9MUPt2rjzoSgTXuFHUNx5bf8=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: rksEdaJ8Y0xn3yMQUaBC+zaZfba1qTwpcU7+wCWeWMA=
+
+Name: assets/storagenetwork/models/item/builder_remote.json
+SHA-256-Digest: pOWkmydXfKj422UWfsKCK7xT9L0eMloy1MhVADfCTZg=
+
+Name: assets/storagenetwork/textures/item/crafting_remote.png
+SHA-256-Digest: f605Kbu9QW8egwRyXvINTZkQZvHReIzVQV96QW5+1O4=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/imp
+ ort_filter_kabel.json
+SHA-256-Digest: tiyf8Fv38vdYuUG3l7BMBRi2E3OkB0XkvXB3roOFsMA=
+
+Name: assets/storagenetwork/textures/item/builder_remote.png
+SHA-256-Digest: tQvwfISTMVuxmXkxlyIIRMVcVM1OmWnwBCHK2Vx8Z9E=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/categories/
+ cables.json
+SHA-256-Digest: 6eNrpA92w62OzmKEU1nxMSwijshCTYwibfCGZ2q8nm8=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/imp
+ ort_kabel.json
+SHA-256-Digest: IPIe42oRjXL/0K/DcpGRGqs1kxVg8U6CDr+tggoKoAs=
+
+Name: com/lothrazar/storagenetwork/block/main/RecentSlotPointer.class
+SHA-256-Digest: ipwYBEIvOgIqH0gYl0R44gypR6x0ZRiPI+IPTIUm2Is=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableAutoI
+ O$Storage.class
+SHA-256-Digest: gPVEyzp+wHHwRQ7O07kS5WoHTpqonoZG9IXmBdPSfsI=
+
+Name: com/lothrazar/storagenetwork/network/RefreshFilterClientMessage.cl
+ ass
+SHA-256-Digest: O+5BliydShvE3MLWLXPrGcKE6m8rDKSAC87K1ckrHjw=
+
+Name: assets/storagenetwork/models/block/cable_side_import.json
+SHA-256-Digest: AQjP+zUYibOvMQDhpWENXHHDyqYfY0w6ugr3quX7K5g=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableAutoI
+ O$Factory.class
+SHA-256-Digest: DaUh6gOwFMLjmUEILBNORnbLGqEmS4w0MaUyNEoaLfE=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/cra
+ fting_remote.json
+SHA-256-Digest: jeRYQgCVu5NMdL0jd9PAWV1EW9lgQS0PJhsP4ngbN2A=
+
+Name: assets/storagenetwork/models/item/inventory_remote.json
+SHA-256-Digest: VI9nvjM7XNQ6o54MjxtTsvFO91HvsVD3QawPAqIyF3A=
+
+Name: assets/storagenetwork/models/item/export_kabel.json
+SHA-256-Digest: dyrKehAs90eG8JwMU58faeku+0ifFV2tt4P9GHavH1I=
+
+Name: assets/storagenetwork/textures/block/cable_import.png
+SHA-256-Digest: iWbOsncQpoj3BYNSJF5dTAJpi8I3nul/TX6BrWfelRQ=
+
+Name: assets/storagenetwork/blockstates/storage_kabel.json
+SHA-256-Digest: CsM5g3pzp8qara23M6xuPrVoNYJAi7cY5jYvOqj5XqY=
+
+Name: com/lothrazar/storagenetwork/util/UtilInventory.class
+SHA-256-Digest: Cex9wFmi4QZZ0ofMOVGLMdQVbITqmRAddnHAgW8Xx+w=
+
+Name: com/lothrazar/storagenetwork/block/cable/BlockCable.class
+SHA-256-Digest: XyGrtT5a2Pw9JKZf+DnznvN9CbRjqj9OqE7Nmk5FALQ=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableLink$
+ Factory.class
+SHA-256-Digest: twq4vLuk/z5dXwPq+UOJjN7OlnNRoZpzk0oz7yFBCC0=
+
+Name: com/lothrazar/storagenetwork/block/request/GuiNetworkTable.class
+SHA-256-Digest: MktnaTRDjwjZp60y6w+gfgL8EXT0kO2wR3kEM3LpNTI=
+
+Name: com/lothrazar/storagenetwork/gui/ButtonRequest$1.class
+SHA-256-Digest: MTsvyOFvYKococPOGsTqiOVkNyoWHHcpJAJ193To+0I=
+
+Name: data/storagenetwork/recipes/picker_remote.json
+SHA-256-Digest: qhcgo4GybDM31hlXqZdTE114CTrlCzb4rUI9VjzPtUE=
+
+Name: com/lothrazar/storagenetwork/block/cable/linkfilter/TileCableFilte
+ r.class
+SHA-256-Digest: EGbDWJBCiIggY0yjIenpF1pG36zAfgWJ68Ra7uOo0Nk=
+
+Name: com/lothrazar/storagenetwork/network/CableIOMessage$1.class
+SHA-256-Digest: LPESSCvS4T53FqbKD9lfqzPrsI//ethIKvLa5HwvGHg=
+
+Name: logoFile.png
+SHA-256-Digest: 6OYjGAjqeqKx5T2jcr6vfl2ufZDVYebvKqKQZHQFWOI=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/fil
+ ter_kabel.json
+SHA-256-Digest: Rz7uqvw3B/QwqYDlK2WNImov4TH9V7CfsPE1WwSRUIA=
+
+Name: assets/storagenetwork/models/block/cable_side_item.json
+SHA-256-Digest: 8D28w0GI/syZ6BHrDt3KcqpjCu0uIKKwvvziJ5BYtq0=
+
+Name: assets/storagenetwork/models/item/speed_upgrade.json
+SHA-256-Digest: NPmes43e4wWBZFit95Se5D5jDcoaye2o2rAC9V0btJk=
+
+Name: assets/storagenetwork/textures/item/speed_upgrade.png
+SHA-256-Digest: KiHImT0bvzW3g99OWc0zRzpj4yr+qgyfumfReqFFzE8=
+
+Name: com/lothrazar/storagenetwork/network/CableLimitMessage.class
+SHA-256-Digest: bgUT4d6VrSUuBp7zuSnQ/chrSUCdB7+P9+1bqD8rjYI=
+
+Name: com/lothrazar/storagenetwork/registry/SsnRegistry$RegistryEvents.c
+ lass
+SHA-256-Digest: v3tbOu1v6jB69Y2foWkrcgpxhlzxacDFl8Y9BujrtYU=
+
+Name: assets/storagenetwork/blockstates/import_filter_kabel.json
+SHA-256-Digest: 2ZRqQhdeiFxMpP/GlJ6LmXshJNH55xyvoic2pnMFmIA=
+
+Name: data/storagenetwork/loot_tables/blocks/kabel.json
+SHA-256-Digest: F/2JRe6/aYrn7haQLbLIZxjjwTbiJzMQIHxxNiJW9Vw=
+
+Name: com/lothrazar/storagenetwork/api/IConnectableLink.class
+SHA-256-Digest: P3BLJqanZjrEUIS/bLPREovjzLNA/qR2ZycxHvVYjGE=
+
+Name: assets/storagenetwork/blockstates/export_kabel.json
+SHA-256-Digest: UaNdOCaYAhaiY8zUDB9Rd8ACd/N+8Bf0XuY/yJ7h6wA=
+
+Name: com/lothrazar/storagenetwork/jei/JeiHooks.class
+SHA-256-Digest: sLM3txRhvHnPQCZOu3FDlxwqcxjzDwUajj0dVYGsO1M=
+
+Name: com/lothrazar/storagenetwork/block/request/TileRequest.class
+SHA-256-Digest: mJqCfHnM2C9xGWtBUL+t/3gfIoHVcBi3Ywa4dwnYCxY=
+
+Name: com/lothrazar/storagenetwork/block/cable/ContainerCable.class
+SHA-256-Digest: 9RC9f02ixE46OCdyrbQy55oJ/pQiWVle4/UvjT9aoK8=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/spe
+ ed_upgrade.json
+SHA-256-Digest: 4vNQ1bnwCeZpwT+wfw+zgAKmS7+avTXoZVdrE/I3vdc=
+
+Name: com/lothrazar/storagenetwork/network/KeybindCurioMessage.class
+SHA-256-Digest: /oC/PwDv7HIgba0PbL/xuUtcDAD2o5B5sIR9Kzzw15U=
+
+Name: assets/storagenetwork/blockstates/exchange.json
+SHA-256-Digest: Nu6o2yS011xqaRcZ7hCHmmfu7nfwLdNsiJX46DPbkXA=
+
+Name: assets/storagenetwork/textures/item/inventory_remote.png
+SHA-256-Digest: QHdquTFOaxtOMwdEAhPFDyCHNccZJXcCk/cL98aAVEE=
+
+Name: com/lothrazar/storagenetwork/api/IConnectable.class
+SHA-256-Digest: st3XQvPOf3sKJLtNoXv4tME4ZTkS8mHKF5wGvmGCX1I=
+
+Name: assets/storagenetwork/textures/gui/cable_filter.png
+SHA-256-Digest: e0GJbrNyEEQwVX4JMqdxpbN8nOSAZBw9mdenNSaky0A=
+
+Name: assets/storagenetwork/models/block/master.json
+SHA-256-Digest: ntg+iFkOz7jE/9nyP2S1dOgBkOZ4ntYI7lV30UY+shM=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/gs_
+ priority.json
+SHA-256-Digest: i0cxirQGWzV7TW1h5AwyPct+GYQOnddVyy+xo0UqDWc=
+
+Name: com/lothrazar/storagenetwork/block/main/TileMain.class
+SHA-256-Digest: XgQbWjOWW0WQl4DgIid7W11OCkKijj7YcEhGvx9vjJU=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableLink.
+ class
+SHA-256-Digest: G2uUnV3WcO/IxMa9aSOYs7OviWadZjHbd0eIZEGDG+E=
+
+Name: assets/storagenetwork/models/block/cable_none_import.json
+SHA-256-Digest: AWkX3ieMXfiesUNsSgHBYRs1G2m47yK/Ivg1gkD4Pv8=
+
+Name: assets/storagenetwork/blockstates/inventory.json
+SHA-256-Digest: U7ll+BEEYqCRtw/pNZrkoCdHThAudoIMRtZ1VbXmylI=
+
+Name: assets/storagenetwork/models/block/cable_none_storage.json
+SHA-256-Digest: 2Zhv/J0u03fJWCtfN9DycVcUflXwBLhHGF8TGK+uEac=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/sta
+ ck_upgrade.json
+SHA-256-Digest: JW5i99ukJjjvEJcaqwHcSnlZ/6RCpN2t3CNE80luzpk=
+
+Name: assets/storagenetwork/models/block/cable_blocked.json
+SHA-256-Digest: Q5j0Riu3DCzr74eTRBZiSFKSFKKRaJ/uCaoDWL6JbKM=
+
+Name: com/lothrazar/storagenetwork/item/ItemUpgrade.class
+SHA-256-Digest: 91mRdmMETUyfYSoLWaX0zGsYcSQsxGqCOi5xQ/yqzTM=
+
+Name: data/storagenetwork/recipes/import_kabel.json
+SHA-256-Digest: 8WSQCLMzKltc5koCF3opGkWrJI/fvAb8KU2OF5FDn00=
+
+Name: com/lothrazar/storagenetwork/block/TileConnectable.class
+SHA-256-Digest: UzK8LSK6V547bHg0fWDyOYXbJk6DNEVVYHbJnPNrUDU=
+
+Name: com/lothrazar/storagenetwork/block/collection/TileCollection.class
+SHA-256-Digest: G3clI7tvB/HQ8z95fey3HXbQBlXf+CV1FAfEp4a1EE8=
+
+Name: com/lothrazar/storagenetwork/block/exchange/ExchangeItemStackHandl
+ er.class
+SHA-256-Digest: a+1t5zkk0bzrX9Ad/DYwWNR0oGCH+V8oM6cK9vC4fQk=
+
+Name: com/lothrazar/storagenetwork/jei/JeiPlugin.class
+SHA-256-Digest: 6Q4HrYn/BLkHdJoKSdhlFR5cSfd+fPMd9/2x3cYtLH8=
+
+Name: data/storagenetwork/loot_tables/blocks/import_filter_kabel.json
+SHA-256-Digest: vJXDCDbfqtqJLQGtpHuyxWeAlUU2VdaL46mHmAtXy+Q=
+
+Name: data/storagenetwork/recipes/inventory.json
+SHA-256-Digest: nE5ViMb1fnsnfWq9mn5pqqnXeklxorlKdEh+EnHeyBg=
+
+Name: assets/storagenetwork/blockstates/import_kabel.json
+SHA-256-Digest: i8+3OpecOOC6tU84qFTUG1SE6rnzINfSjMM1nMf3/q4=
+
+Name: com/lothrazar/storagenetwork/block/BaseBlock.class
+SHA-256-Digest: fI7NNEr1vDv1UJP39md+gshL8iCd7j1Pvxz/yXXd4DE=
+
+Name: assets/storagenetwork/textures/gui/enderio-publicdomain-widgetsv2.
+ png
+SHA-256-Digest: 1GFNY7xWePbjShLmbFsfBTBGxEv6tYwe7inow7tsokw=
+
+Name: data/storagenetwork/recipes/export_kabel.json
+SHA-256-Digest: O5tmv4EasR3qp/d9NviSaOn4Feg4o6QQXDNk2CGmiBo=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/exc
+ hange.json
+SHA-256-Digest: +muHgyHG2Zfb56qLfgwTsrUfmMdHDDk5YOC4941fDz4=
+
+Name: assets/storagenetwork/lang/en_us.json
+SHA-256-Digest: /HJoM2lS5b8zFi8sX0pNPkCTEw9nQbRAQAgr2cr5NMQ=
+
+Name: com/lothrazar/storagenetwork/registry/ClientEventRegistry.class
+SHA-256-Digest: 9z85GOME2ZsXgQuFNkmjYtkADffVA5S5rFKQrOr6zK0=
+
+Name: assets/storagenetwork/textures/block/cable_filter.png
+SHA-256-Digest: LVLgEjMRH1cJL0eUQE6ThjP+/R9XlFbIItVtzrnnIGg=
+
+Name: assets/storagenetwork/models/item/picker_remote.json
+SHA-256-Digest: wv078bdYGuya2/RBVMG9C05DdOQ1T2P6g39zUQVzjGw=
+
+Name: com/lothrazar/storagenetwork/block/request/ContainerNetworkCraftin
+ gTable.class
+SHA-256-Digest: JRtm1R+JgIEW/jCEHqYDhWDv6pUT1BT/AyqDlmoX4f4=
+
+Name: com/lothrazar/storagenetwork/api/IGuiPrivate.class
+SHA-256-Digest: t5tCdRHUCwtBwWTZ6lp4V5J2B+r8FYnxvkGLQdhlOMk=
+
+Name: com/lothrazar/storagenetwork/network/CableDataMessage$CableMessage
+ Type.class
+SHA-256-Digest: g1M//3GWSu2agLlq1szOTrP7EdCD8gvs1ho0pt6arTE=
+
+Name: com/lothrazar/storagenetwork/block/cable/ShapeCache.class
+SHA-256-Digest: H9LMop/FUN1iQtRZS2q09JgUybLg8mCIW6spkCCGbbI=
+
+Name: assets/storagenetwork/lang/pt_br.json
+SHA-256-Digest: T7fcJEi7UhnNv4nlqT3UGyfO6SXqeu7+HBYr7C0qlMk=
+
+Name: com/lothrazar/storagenetwork/block/cable/link/TileCableLink.class
+SHA-256-Digest: ytdBNvi8PLtmzKxvUQyyNGNRTWPzasI3+jiTX0dBl7M=
+
+Name: com/lothrazar/storagenetwork/registry/PacketRegistry.class
+SHA-256-Digest: 4s1n4xxUu38gDpbfAczbHFPxKJq6/j/IOVjcPdEm2Aw=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/inv
+ entory_remote.json
+SHA-256-Digest: IDCS9dzxSA5HdDsXCK5EbwtYr69RLnapOeRB/29uFFk=
+
+Name: com/lothrazar/storagenetwork/block/cable/export/GuiCableExportFilt
+ er.class
+SHA-256-Digest: HRmwm9B1WKiAZNHsxcIktAgn8RHzGuof6PV6eSAL3rE=
+
+Name: com/lothrazar/storagenetwork/network/CableDataMessage$1.class
+SHA-256-Digest: +OAx+dwKeqY1lo+qxhcl76NaB1f6tUKabiSpF3T7bZk=
+
+Name: assets/storagenetwork/models/block/inventory.json
+SHA-256-Digest: PRRmHY1+ZiZVbdsaV+Lcoar/Gff4eH1OPUvBQf9cY30=
+
+Name: com/lothrazar/storagenetwork/gui/NetworkWidget.class
+SHA-256-Digest: 7YI0oKwxHBSB7Q8E19JRyrSTOGtH1n2CLWxKL4jSV10=
+
+Name: data/storagenetwork/recipes/crafting_remote.json
+SHA-256-Digest: 4O1fxEpCqnqIAzgu8LfZkfLhZy2ye7CIS00rdQ4bj+k=
+
+Name: com/lothrazar/storagenetwork/block/inventory/GuiNetworkInventory.c
+ lass
+SHA-256-Digest: dLZa6HITExkxQaR/edVGpQ2m1Jl7TamaoZtCyJN4rok=
+
+Name: assets/storagenetwork/lang/de_de.json
+SHA-256-Digest: o58uWmcN6cO08Yjj/Xrier4a1kIFdBKs80LPoMslKN4=
+
+Name: assets/storagenetwork/textures/block/cable_importfilter.png
+SHA-256-Digest: YAiy9fR1CGe7mXTWN8TfDGdMN9Bpa0EI+HwpjpIgUrU=
+
+Name: META-INF/accesstransformer.cfg
+SHA-256-Digest: m5T/1PTpVQxLOn5fyt7/hpyuYlWtdX1VDDSRi9jEVyM=
+
+Name: assets/storagenetwork/models/block/exchange.json
+SHA-256-Digest: z9mzH5pRFHzwwo5wb2DMPtolNhS9vic4SIEwjMgx/K4=
+
+Name: assets/storagenetwork/blockstates/master.json
+SHA-256-Digest: G9hqsI/xUU/wHiiGJnWUQlPPypZJ1XS+WP8sn8W9hps=
+
+Name: assets/storagenetwork/textures/gui/inventory.png
+SHA-256-Digest: TxxPeHSEwuo8ILCZMDxQCxmJTgGTGvvHOlBdQzNo6x8=
+
+Name: com/lothrazar/storagenetwork/network/CableIOMessage$CableMessageTy
+ pe.class
+SHA-256-Digest: cUgmQHyWa9rrey7tBA+DuTun6gtixIfbQm4QlvGxVqA=
+
+Name: com/lothrazar/storagenetwork/block/main/BlockMain$1.class
+SHA-256-Digest: OkdfJNvJ7OC3t1MEzH2KVD/qd8jJoA+BGbga2NAjbYA=
+
+Name: com/lothrazar/storagenetwork/network/SortClientMessage.class
+SHA-256-Digest: Wttkdn2ZZO5ysyyDojLKjUFwE/J605fvbaIFKdtBTEI=
+
+Name: assets/storagenetwork/textures/item/stack_upgrade.png
+SHA-256-Digest: xAEbVEbm6fOLO7kJ4ZXxt39wTgOPf1v7R6IU+CuNPG8=
+
+Name: com/lothrazar/storagenetwork/block/cable/export/ContainerCableExpo
+ rtFilter$1.class
+SHA-256-Digest: NNpS/d9AfP8Yp1zsBzHbaSEkAqvxn9Yhe9eDmEhb7O4=
+
+Name: com/lothrazar/storagenetwork/block/cable/export/TileCableExport.cl
+ ass
+SHA-256-Digest: 6U9nxUAsVjfs5G+j5ndAGX/u90YqyEmySBXZgfbcKYo=
+
+Name: com/lothrazar/storagenetwork/network/InsertMessage.class
+SHA-256-Digest: 7/6XTEWsHF3lRAkx7SiNbEpYEB98+5pRwMyVT32qJTE=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableAutoI
+ O.class
+SHA-256-Digest: Wzmd05gqrbKAoz4MEoLnxsUzyqL+AhtOsfCShHRkbc4=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/kab
+ el.json
+SHA-256-Digest: R/rTRvBTNHCDS6cagpYo7AD1nlZkuzspUyOATXsQ3Ws=
+
+Name: assets/storagenetwork/models/item/kabel.json
+SHA-256-Digest: tTZTf2xUtT5CigVsHvi7km8nZhCP1sA1TRVKlAF5CdM=
+
+Name: assets/storagenetwork/models/block/cable_side_export.json
+SHA-256-Digest: uvxU+KEeKzuhDerqiz0kZjeiMkkeOIbb8j1JqUPH1vU=
+
+Name: data/storagenetwork/recipes/speed_upgrade.json
+SHA-256-Digest: DRCxpKKWxqhV4cmLnz0bX2zh4oKT5s9/RqFhTco/2RM=
+
+Name: com/lothrazar/storagenetwork/block/cable/inputfilter/ContainerCabl
+ eImportFilter$1.class
+SHA-256-Digest: VFnBfWgJUUKPRBurKORgl+WvkuRL4KwuoNnLlGcKpGo=
+
+Name: assets/storagenetwork/models/item/storage_kabel.json
+SHA-256-Digest: EmTTkl6FPpDgkUfA1tlQ00FNgUbOgt+/kxa2EHQT5eA=
+
+Name: assets/storagenetwork/models/item/filter_kabel.json
+SHA-256-Digest: HTFI/7doPudl0hjrtnnuBpo2RA2G+Aeup5aIIbi+Sa8=
+
+Name: com/lothrazar/storagenetwork/network/CableIOMessage.class
+SHA-256-Digest: IGzil4AytKDCLkxosRn90W9FxjZlPh9QKKd4025xYEY=
+
+Name: data/storagenetwork/patchouli_books/network_book/book.json
+SHA-256-Digest: /GWjgnYXPCetK8TG7lcnSX4ZlnxXwcCslyw+UOKu7UU=
+
+Name: assets/storagenetwork/textures/item/operation_upgrade.png
+SHA-256-Digest: 23TUHI9WBxXEwUVjAZu4QUt42y0nSw7Rb9QwOdlvNw4=
+
+Name: com/lothrazar/storagenetwork/block/cable/input/BlockCableIO.class
+SHA-256-Digest: 6SVOWMyLCY8Mh8L6wWPYRj9+DVveKj3WHQUcipugiBs=
+
+Name: com/lothrazar/storagenetwork/capability/handler/ItemStackHandlerEx
+ .class
+SHA-256-Digest: oDQz9gxxKaHWcRWXp1pGQa9ESc7eCTUCPBd2aexB/aE=
+
+Name: com/lothrazar/storagenetwork/network/StackResponseClientMessage.cl
+ ass
+SHA-256-Digest: 1rzuJz40dT2NhN2C8x3mhkwJEegDjz4YIEFZpd5700k=
+
+Name: assets/storagenetwork/models/block/cable_none_importfilter.json
+SHA-256-Digest: c52TNFDMQnMG+niduLUuLSBsmWFVQZDfMpnkUZWVrJw=
+
+Name: com/lothrazar/storagenetwork/block/cable/linkfilter/ContainerCable
+ Filter.class
+SHA-256-Digest: PpAm8gdlqy4hOfbGEHL44dqr6jSowlDVuiPD5crY4Vs=
+
+Name: assets/storagenetwork/textures/gui/cable.png
+SHA-256-Digest: Tv9cTgU2Cordc5KS/BfZQXedOO7m/d8OYUGFh0xOf5s=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/categories/
+ getstarted.json
+SHA-256-Digest: 1wilnR6+GMzrG2x6AK/grp47QA2ySsxcHPSc9vQSh8g=
+
+Name: com/lothrazar/storagenetwork/item/remote/GuiNetworkRemote.class
+SHA-256-Digest: Y10W9M4CcJTZwtWjPEAqv7nzsjbTErg+vyCaOYTriAQ=
+
+Name: data/storagenetwork/loot_tables/blocks/filter_kabel.json
+SHA-256-Digest: pM3g5B0PdPD1k65hgLRdzlREtY++bpmRhGAUWo9EVGI=
+
+Name: data/storagenetwork/recipes/kabel.json
+SHA-256-Digest: kFb7ozB4nIOt+umI4fNw6N9kcMow5SAl0Hn8x2+qjAU=
+
+Name: assets/storagenetwork/blockstates/request.json
+SHA-256-Digest: cp6wto0SHGo+mC8akwJHCVJxV7pZr6c131PweXLZGrI=
+
+Name: com/lothrazar/storagenetwork/jei/RequestRecipeTransferHandler.clas
+ s
+SHA-256-Digest: jLGo0EOsiBODqsHtOrgsWb18MppKb+DjXRoezmDoFOE=
+
+Name: data/storagenetwork/loot_tables/blocks/inventory.json
+SHA-256-Digest: HBGon6eY19guBbufB/BdvQ/4U1oK3jZ6jzAV0Jb+FNU=
+
+Name: assets/storagenetwork/models/item/network_book.json
+SHA-256-Digest: vYGWWxdT+r7j0gbRN9AZJK4LVsz3MbXGpp9HnUhvAgQ=
+
+Name: com/lothrazar/storagenetwork/item/remote/ContainerNetworkCraftingR
+ emote.class
+SHA-256-Digest: hfwbJY5iNU3HpvHC1jnRrGoJ8OzkPDpUwBMpoNiK6mY=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectable.clas
+ s
+SHA-256-Digest: fLA79A9oe1cGAC+aMNaQVt+lX8UCDA65NjZEV4yZZWk=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/exp
+ ort_kabel.json
+SHA-256-Digest: haOjyX86g+rJnxNxSAHoasw+HQBFZb7Hy2+Min/ggVM=
+
+Name: com/lothrazar/storagenetwork/block/cable/export/ContainerCableExpo
+ rtFilter.class
+SHA-256-Digest: QYIkWIoA7qoYUZWx5Y9a9seu693JfvzfUycCv9m59Vg=
+
+Name: assets/storagenetwork/textures/gui/request.png
+SHA-256-Digest: F3FJUEr6TGNWYgJIAjm9k2Ul1uw94+aj3r9kJwPCQZo=
+
+Name: assets/storagenetwork/models/block/cable_none_filter.json
+SHA-256-Digest: 54AT8bKc5BMX475kPb6BTJgeHketbnHstD9yb2mHLX4=
+
+Name: assets/storagenetwork/models/item/collector.json
+SHA-256-Digest: ujoAb+3MdfVIuctKLhdhLfao6l7P3QlAG3f7QbS+D2c=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/mas
+ ter.json
+SHA-256-Digest: YYYaB4uyIB1f3LTxbhmr0uIz0CbzQuNrZ0YfM4ykzzA=
+
+Name: assets/storagenetwork/models/block/collector.json
+SHA-256-Digest: zRDnicm+Lez3rlW9WNTLTU3EjDqvk4aEvarmDQ5qgg8=
+
+Name: assets/storagenetwork/models/block/cable_none_export.json
+SHA-256-Digest: vfp0tnLEyvbXAGPlYZyI8RAp7kFDBtyMlokn2Vq167k=
+
+Name: com/lothrazar/storagenetwork/block/inventory/TileInventory.class
+SHA-256-Digest: J0J5ktJcuQDqgT5Ro8TRQfpxDx4ElInCMT2mfOb00U4=
+
+Name: data/storagenetwork/recipes/exchange.json
+SHA-256-Digest: iCGXGI0W+aNQNNnGcCUfsdYSI/Vn7uYAs2W5tNHICIk=
+
+Name: assets/storagenetwork/models/item/inventory.json
+SHA-256-Digest: ctTDXNeKB20N0HtMJSsAqTIEiTkES+MWc4avdhatsfQ=
+
+Name: com/lothrazar/storagenetwork/block/inventory/BlockInventory.class
+SHA-256-Digest: H+Zp+VBREbix9zDNbGHABzNFelfJKF+wY2HKswjOfKk=
+
+Name: com/lothrazar/storagenetwork/capability/handler/FilterItemStackHan
+ dler.class
+SHA-256-Digest: S8K1sg/TJ9aHtAX8qeJYIn4S/YVvupNbon6pUf1rLj4=
+
+Name: data/storagenetwork/loot_tables/blocks/request.json
+SHA-256-Digest: p3JgXP0iOt1PvJeqrqpQHQeUjtOpZSNsBajuewrCpmE=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/categories/
+ blocks.json
+SHA-256-Digest: VvgYF5QvQh1Krp0UPuRU8Q0ZCzKZEZMCocWGbzXK3z8=
+
+Name: assets/storagenetwork/models/item/stack_upgrade.json
+SHA-256-Digest: QB6eJDd5XViNlIv74YsMJ3O0Ljfvi9CMzPPam2w6r04=
+
+Name: assets/storagenetwork/blockstates/filter_kabel.json
+SHA-256-Digest: R6lIK81fosJylNn9fdMBoX9nfo1SPvN0rua0vFC95NQ=
+
+Name: data/storagenetwork/recipes/master.json
+SHA-256-Digest: 2HAU85FMSeaZpalEBwV5LM4qioStLXos3uQ9RKi6kpU=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/inv
+ entory.json
+SHA-256-Digest: q7qf06KO3nnm/b+/d3Ws2QZCE45XIMcIGNTD8UJ3hNM=
+
+Name: com/lothrazar/storagenetwork/api/ITileNetworkSync.class
+SHA-256-Digest: Nzs9W9jjkKYPG/8OvQL/4m57abDOylSzkPL3goRdcls=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/col
+ lector_remote.json
+SHA-256-Digest: DyYWqmrRyr5OO6cuhILoc83OEBhPo+l6mNCyoxpbSeo=
+
+Name: com/lothrazar/storagenetwork/block/cable/EnumConnectType.class
+SHA-256-Digest: SeHZIxhgdqD3KqBENuUqo5iau4JR/dlZdXSHLmwtaRc=
+
+Name: data/storagenetwork/recipes/inventory_remote.json
+SHA-256-Digest: KtiBPfn/J0jr/Jwfcc3hmBrOh2PNQ8mmAmEiDatHAyU=
+
+Name: com/lothrazar/storagenetwork/network/RequestMessage.class
+SHA-256-Digest: pMba1xWlBPboyOZTO00WnHi6ODrN/4tOpLUo2dr/JZU=
+
+Name: com/lothrazar/storagenetwork/registry/ConfigRegistry.class
+SHA-256-Digest: wOeB24Qn5P8d9TEe3E4/1A7TKsS7n6Iu7zJC93QY2w0=
+
+Name: com/lothrazar/storagenetwork/block/exchange/TileExchange$1.class
+SHA-256-Digest: Lg6NOgVIJXqKJvzlLUKxsvokrN5mPtExOAWQqGVrr0A=
+
+Name: assets/storagenetwork/textures/block/request.png
+SHA-256-Digest: iFRA396WDQR0XUaJ/l3LKPcjdU5st9oOvYG0CgodFPo=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/req
+ uest.json
+SHA-256-Digest: YBQfmbUqIDzGBvIimGnO3YR2jSDP/SwvvbOcYJr7up4=
+
+Name: assets/storagenetwork/textures/item/stock_upgrade.png
+SHA-256-Digest: Z/rAdhqfio8VyCXRW/01gKJ+0dmOhpI9f5OFHFsg54s=
+
+Name: assets/storagenetwork/models/item/crafting_remote.json
+SHA-256-Digest: DyhJWnUPh0N9EKLf7OyAp3N3x3Z5g9/bYEZFRPEirqQ=
+
+Name: assets/storagenetwork/models/item/exchange.json
+SHA-256-Digest: lw4PslJX6BszSIUwuhYUQXxTAdphcyLwSm/h8YmUEgo=
+
+Name: com/lothrazar/storagenetwork/block/inventory/ContainerNetworkInven
+ tory.class
+SHA-256-Digest: MUQdoDsBx1nAhDc5bbonhberZYt0ftCEZrFO7zE9lg4=
+
+Name: assets/storagenetwork/textures/block/cable_storage.png
+SHA-256-Digest: 8ow7cw1i7BYuzZWFAvth5E7PAR+PqhL2+T0AmFDWZVU=
+
+Name: com/lothrazar/storagenetwork/api/EnumStorageDirection.class
+SHA-256-Digest: 7YwfwG2u6AWPhzJ/GcHxKtBbNf/izs1idmJYKOYvA9U=
+
+Name: com/lothrazar/storagenetwork/block/cable/linkfilter/GuiCableFilter
+ .class
+SHA-256-Digest: U95WyHKMhwClR/WcsL0f3J7dCMXWI4aPoMb3pJMGSjo=
+
+Name: com/lothrazar/storagenetwork/capability/handler/UpgradesItemStackH
+ andler.class
+SHA-256-Digest: AW0ZKjyTE/WvEp9ihCUBeeBZiG1ICjO1DqKZQMxhkAg=
+
+Name: data/storagenetwork/loot_tables/blocks/collector.json
+SHA-256-Digest: 8tCMVWoR2M6jupxHeJTRhobEf3rqKcKooqmyfHH9EW8=
+
+Name: com/lothrazar/storagenetwork/block/cable/inputfilter/BlockCableImp
+ ortFilter.class
+SHA-256-Digest: 4Iu395VVTvifnYBlYLno5n7Xcoa8IvDqWZ5NF1XQnrY=
+
+Name: data/storagenetwork/recipes/storage_kabel.json
+SHA-256-Digest: i9MqE5xfe6rtb9cBZw5VL86yM+NjxLooRBSLkM2sHqU=
+
+Name: data/storagenetwork/recipes/filter_kabel.json
+SHA-256-Digest: MnqXNRvdLnXQ8VIbzHzmc3GFVZJhQcyW6Mt2WL6MpbY=
+
+Name: assets/storagenetwork/textures/block/collector.png
+SHA-256-Digest: Rj1n6/ZMsbr9uLNhmE2LwQlh9CR8cgF9amFRl/m5KYQ=
+
+Name: com/lothrazar/storagenetwork/item/ItemCollector.class
+SHA-256-Digest: 52JRjWjltDgajACgbE+Miyb+Nh7rs4qPhHMYAPBIbbU=
+
+Name: com/lothrazar/storagenetwork/block/cable/inputfilter/GuiCableImpor
+ tFilter.class
+SHA-256-Digest: JiTDnwpzlp6zn15ItjaLgERz1isvVdMwIBhgi9t2nVY=
+
+Name: com/lothrazar/storagenetwork/capability/CapabilityConnectableLink$
+ Storage.class
+SHA-256-Digest: nHD+O9x4c8jQJHj12yrPJmTTb79srfRD6bNAbx0Y0S0=
+
+Name: data/storagenetwork/patchouli_books/network_book/en_us/entries/col
+ lector.json
+SHA-256-Digest: BbUy6Cv1hHkJTRUDY8cnnLPnmdk8X1Sw1zZ5oQtsWek=
+
+Name: com/lothrazar/storagenetwork/block/main/BlockMain.class
+SHA-256-Digest: KJ7luBB5eaXyuxaNTMai0YW/lRhk3qRq/SZLRIqPpE8=
+
+Name: com/lothrazar/storagenetwork/network/CableDataMessage.class
+SHA-256-Digest: 99bIH0vPR2JXtIklOHCQinX/Nq1aBduR+HvnNZNWDDc=
+
+Name: assets/storagenetwork/textures/item/remote_1.png
+SHA-256-Digest: dIk/vcD4bFUo2QmgQyccdN01SpS8zQFQWItEGvZ0wJo=
+
+Name: data/storagenetwork/recipes/request.json
+SHA-256-Digest: yS5QjP8B2tllUBi6hjq9fY+CE/5RydVUfAB5GgJW8Ps=
+
+Name: com/lothrazar/storagenetwork/block/collection/TileCollection$1.cla
+ ss
+SHA-256-Digest: 4/W9MxcNTfyGEdtygsJJmqVuFBNQV04Z6iDEFqITr4w=
+
+Name: assets/storagenetwork/textures/block/exchange.png
+SHA-256-Digest: Gchd2HZQ2snctRAmzfTy4UOZEmpWvJr1W+MzOIKZiZ4=
+
+Name: com/lothrazar/storagenetwork/block/request/SlotCraftingNetwork.cla
+ ss
+SHA-256-Digest: 8Wytq94C47shRcqxJq4Ez3D+fBFKDmSNVKPJyeJTXsk=
+
+Name: com/lothrazar/storagenetwork/capability/handler/ItemStackMatcher.c
+ lass
+SHA-256-Digest: e4AvYzfef6f5+k2caEe3W84gqNi2bz0DFdY2Tqohwy8=
+
+Name: com/lothrazar/storagenetwork/registry/SsnRegistry.class
+SHA-256-Digest: VW/hT26Y+EB5JcZVjT//E/+nyUeQceV5BzNqGjHFfFM=
+
+Name: data/storagenetwork/recipes/network_book.json
+SHA-256-Digest: gyaEofDvKdRjavOQeDNqwvIqSA1xiN+tEjKDcPSD19E=
+
+Name: assets/storagenetwork/textures/gui/plain_filter.png
+SHA-256-Digest: Nt94fqwikkGOWYHFOcTOJz1oGxKdWqhnWDQgzccu+wU=
+
+Name: data/storagenetwork/recipes/import_filter_kabel.json
+SHA-256-Digest: vp0dq7gMBfYtAN+PDSbXPwP/EkljxDz9e+oXyARXggM=
+
+Name: data/storagenetwork/loot_tables/blocks/storage_kabel.json
+SHA-256-Digest: OMlIOsQfImsWwq+Z3i3IustkB1TFI1dFZR8VRu8WOsU=
+
+Name: com/lothrazar/storagenetwork/item/remote/ItemStorageCraftingRemote
+ .class
+SHA-256-Digest: 7Y+ohsGOnq2akv1oESRWgeyOFHUVaftx2gSwOIhtUF8=
+
+Name: com/lothrazar/storagenetwork/gui/ContainerNetwork.class
+SHA-256-Digest: 1JaRkaZ5coJPZ8FoFd2ijKdhK2CXiPxDVP4UhN3N78o=
+
+Name: assets/storagenetwork/blockstates/kabel.json
+SHA-256-Digest: 3QenQLpfvGfDpMqTQG/ryj1WmusBPTt62LWn0pGgBNM=
+
+Name: com/lothrazar/storagenetwork/block/cable/export/BlockCableExport.c
+ lass
+SHA-256-Digest: bKA3x9/+BaX++3IT6pqopWQ/KR0jKy0NTvWyHYZQ6iI=
+
+Name: data/storagenetwork/recipes/builder_remote.json
+SHA-256-Digest: Thvx4/1GcX18YbqgDcYFHK+6UfulZXfnIe/vPiuyPxI=
+
+Name: com/lothrazar/storagenetwork/api/IGuiNetwork.class
+SHA-256-Digest: wSY1BlLLyoVgztkfLOtXpDCRMH0OsqQmBk/RakooVS4=
+
+Name: com/lothrazar/storagenetwork/network/StackRefreshClientMessage.cla
+ ss
+SHA-256-Digest: 0Pp9WqhIU5+qDdAR6i4xUW3+TQ+WosAGDG0/jndra7Y=
+

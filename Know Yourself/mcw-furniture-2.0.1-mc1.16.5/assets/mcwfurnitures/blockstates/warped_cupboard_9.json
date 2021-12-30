@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "facing=east,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9x", "y":180 },
+        "facing=west,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9x", "y":0 },
+        "facing=north,part=bottom,hinge=left": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9x", "y":90},
+        "facing=south,part=bottom,hinge=left": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9x", "y":270 },
+
+        "facing=east,part=middle,hinge=left":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9", "y":180 },
+        "facing=west,part=middle,hinge=left":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9", "y":0 },
+        "facing=north,part=middle,hinge=left": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9", "y":90},
+        "facing=south,part=middle,hinge=left": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_9", "y":270 },
+        
+        
+        "facing=east,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4x", "y":180 },
+        "facing=west,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4x", "y":0 },
+        "facing=north,part=bottom,hinge=right": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4x", "y":90},
+        "facing=south,part=bottom,hinge=right": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4x", "y":270 },
+
+        "facing=east,part=middle,hinge=right":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4", "y":180 },
+        "facing=west,part=middle,hinge=right":  { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4", "y":0 },
+        "facing=north,part=middle,hinge=right": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4", "y":90},
+        "facing=south,part=middle,hinge=right": { "model": "mcwfurnitures:block/combined/warped/warped_cupboard_4", "y":270 }
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

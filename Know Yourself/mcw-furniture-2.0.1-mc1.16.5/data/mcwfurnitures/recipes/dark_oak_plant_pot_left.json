@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"     
+    ],
+    
+    "key":
+    { 
+        "A": {
+            "item": "mcwfurnitures:dark_oak_plant_pot_right"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:dark_oak_plant_pot_left",
+        "count": 1
+    }
+}

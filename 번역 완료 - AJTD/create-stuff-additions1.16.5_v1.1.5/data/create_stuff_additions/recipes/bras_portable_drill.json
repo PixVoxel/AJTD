@@ -1,0 +1,36 @@
+{
+  "group": "create_stuff_additions",
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 12",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "create:andesite_alloy"
+    },
+    "2": {
+      "item": "create:brass_sheet"
+    },
+    "3": {
+      "item": "create:andesite_alloy"
+    },
+    "4": {
+      "item": "create_stuff_additions:brass_pickaxe"
+    },
+    "5": {
+      "item": "create:brass_casing"
+    },
+    "7": {
+      "item": "create:andesite_alloy"
+    },
+    "8": {
+      "item": "create:brass_sheet"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:brass_portable_drill",
+    "count": 1
+  }
+}

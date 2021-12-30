@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/cupboard_5",
+	"textures": {
+		"0": "minecraft:block/stripped_jungle_log",
+		"1": "minecraft:block/jungle_log",
+		"2": "minecraft:block/iron_block",
+		"particle": "minecraft:block/stripped_jungle_log"
+	}
+}

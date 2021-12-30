@@ -1,0 +1,42 @@
+{
+  "stuncrit": {
+    "category": "neutral",
+    "subtitle": "subtitles.stuncrit",
+    "sounds": [
+      {
+        "name": "wegotrunnners:wood1",
+        "stream": false
+      },
+      {
+        "name": "wegotrunnners:wood2",
+        "stream": false
+      },
+      {
+        "name": "wegotrunnners:wood3",
+        "stream": false
+      },
+      {
+        "name": "wegotrunnners:wood4",
+        "stream": false
+      }
+    ]
+  },
+  "iron_crit": {
+    "category": "neutral",
+    "subtitle": "subtitles.iron_crit",
+    "sounds": [
+      {
+        "name": "wegotrunnners:metal1",
+        "stream": false
+      },
+      {
+        "name": "wegotrunnners:metal2",
+        "stream": false
+      },
+      {
+        "name": "wegotrunnners:metal3",
+        "stream": false
+      }
+    ]
+  }
+}

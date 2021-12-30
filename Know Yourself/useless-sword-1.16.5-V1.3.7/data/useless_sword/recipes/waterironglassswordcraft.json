@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "useless_sword:glass_sword"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:water_sword",
+    "count": 1
+  }
+}

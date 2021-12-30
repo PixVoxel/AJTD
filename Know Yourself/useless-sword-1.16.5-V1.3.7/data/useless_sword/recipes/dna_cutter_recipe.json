@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "alexsmobs:capsid"
+    },
+    "3": {
+      "item": "alexsmobs:straddlite"
+    },
+    "4": {
+      "item": "alexsmobs:capsid"
+    },
+    "5": {
+      "item": "alexsmobs:straddlite"
+    },
+    "7": {
+      "item": "alexsmobs:enderiophage_rocket"
+    }
+  },
+  "result": {
+    "item": "useless_sword:dna_cutter",
+    "count": 1
+  }
+}

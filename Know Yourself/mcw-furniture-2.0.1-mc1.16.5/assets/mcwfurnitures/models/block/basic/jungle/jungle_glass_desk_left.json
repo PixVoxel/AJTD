@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/deskpart/glass_desk_left",
+	"textures": {
+		"2": "minecraft:block/iron_block",
+		"3": "minecraft:block/glass",
+		"texture": "minecraft:block/jungle_log",
+		"particle": "minecraft:block/jungle_log"
+	}
+}

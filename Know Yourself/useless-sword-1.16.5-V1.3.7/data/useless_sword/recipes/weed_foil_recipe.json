@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "druidcraft:oak_small_beam"
+    },
+    "3": {
+      "item": "druidcraft:hemp"
+    },
+    "4": {
+      "item": "druidcraft:oak_small_beam"
+    },
+    "5": {
+      "item": "druidcraft:hemp"
+    },
+    "7": {
+      "item": "druidcraft:growth_lamp"
+    }
+  },
+  "result": {
+    "item": "useless_sword:weed_foil",
+    "count": 1
+  }
+}

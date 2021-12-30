@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:emerald_stick",
+    "count": 2
+  }
+}

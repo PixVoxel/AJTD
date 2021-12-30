@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_16_middle",
+	"textures": {
+				"particle": "minecraft:block/oak_log",
+		"3": "minecraft:block/oak_log",
+		"4": "minecraft:block/oak_sapling",
+		"5": "minecraft:block/oak_planks",
+		"texture": "minecraft:block/oak_log"
+	}
+}

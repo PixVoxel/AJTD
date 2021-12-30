@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/elven_stripper",
+  "textures": {
+    "0": "useless_sword:blocks/elven_stripper",
+    "particle": "useless_sword:items/elven_stripper"
+  }
+}

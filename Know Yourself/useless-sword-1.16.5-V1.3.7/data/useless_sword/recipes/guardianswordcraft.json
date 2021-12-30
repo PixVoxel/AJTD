@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "3": {
+      "item": "minecraft:prismarine"
+    },
+    "4": {
+      "item": "minecraft:conduit"
+    },
+    "5": {
+      "item": "minecraft:prismarine"
+    },
+    "6": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "7": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "8": {
+      "item": "useless_sword:guardian_spikes"
+    }
+  },
+  "result": {
+    "item": "useless_sword:guardian_sword",
+    "count": 1
+  }
+}

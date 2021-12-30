@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "betternether",
+  "ingredients": [
+    {
+      "item": "betternetherreforged:striped_wood_mushroom_fir"
+    }
+  ],
+  "result": {
+    "item": "betternetherreforged:mushroom_fir_planks",
+    "count": 4
+  }
+}

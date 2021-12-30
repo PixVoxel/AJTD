@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:scute"
+    },
+    "3": {
+      "item": "minecraft:scute"
+    },
+    "4": {
+      "item": "minecraft:turtle_egg"
+    },
+    "5": {
+      "item": "minecraft:scute"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:turtle_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_7_bottom",
+	"textures": {
+					"particle": "minecraft:block/spruce_log",
+		"3": "minecraft:block/spruce_log",
+		"texture": "minecraft:block/spruce_log",
+		"1_6": "minecraft:block/bookshelf"
+	}
+}

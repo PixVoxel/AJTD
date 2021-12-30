@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BB"              
+    ],
+    
+    "key":
+    { 
+
+        "B":
+        {
+            "item": "mcwfurnitures:spruce_box_2"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_dresser_box",
+        "count": 1
+    }
+}
+
+

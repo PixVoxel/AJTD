@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "endergetic:bolloom_balloon"
+    },
+    "1": {
+      "item": "endergetic:bolloom_balloon"
+    },
+    "2": {
+      "item": "endergetic:bolloom_balloon"
+    },
+    "4": {
+      "item": "endergetic:bolloom_bud"
+    },
+    "7": {
+      "item": "useless_sword:endstone_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:bolloom_sword",
+    "count": 1
+  }
+}

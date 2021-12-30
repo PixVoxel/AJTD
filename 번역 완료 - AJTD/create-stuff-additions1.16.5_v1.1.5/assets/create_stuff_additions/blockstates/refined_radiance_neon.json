@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "create_stuff_additions:block/refined_radiance_neon",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "create_stuff_additions:block/refined_radiance_neon"
+    },
+    "axis=z": {
+      "model": "create_stuff_additions:block/refined_radiance_neon",
+      "x": 90
+    }
+  }
+}

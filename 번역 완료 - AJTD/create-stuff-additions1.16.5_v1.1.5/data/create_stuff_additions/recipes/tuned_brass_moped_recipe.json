@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "create_stuff_additions:brass_moped_item"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "create_stuff_additions:tuned_brass_moped_item"
+  }
+}

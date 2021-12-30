@@ -1,0 +1,44 @@
+{
+  "mappings": {
+    "net/blay09/mods/hardcorerevival/mixin/EntityMixin": {
+      "move(Lnet/minecraft/entity/MoverType;Lnet/minecraft/util/math/vector/Vector3d;)V": "Lnet/minecraft/entity/Entity;func_213315_a(Lnet/minecraft/entity/MoverType;Lnet/minecraft/util/math/vector/Vector3d;)V"
+    },
+    "net/blay09/mods/hardcorerevival/mixin/LivingEntityAccessor": {
+      "checkTotemDeathProtection": "func_190628_d(Lnet/minecraft/util/DamageSource;)Z"
+    },
+    "net/blay09/mods/hardcorerevival/mixin/PlayerEntityMixin": {
+      "shouldHeal()Z": "Lnet/minecraft/entity/player/PlayerEntity;func_70996_bM()Z"
+    },
+    "net/blay09/mods/hardcorerevival/mixin/EntityPredicateMixin": {
+      "canTarget(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z": "Lnet/minecraft/entity/EntityPredicate;func_221015_a(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+    },
+    "net/blay09/mods/hardcorerevival/mixin/ServerPlayNetHandlerMixin": {
+      "processPlayer(Lnet/minecraft/network/play/client/CPlayerPacket;)V": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147347_a(Lnet/minecraft/network/play/client/CPlayerPacket;)V"
+    },
+    "net/blay09/mods/hardcorerevival/mixin/ServerPlayerEntityAccessor": {
+      "respawnInvulnerabilityTicks": "field_147101_bU:I"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/blay09/mods/hardcorerevival/mixin/EntityMixin": {
+        "move(Lnet/minecraft/entity/MoverType;Lnet/minecraft/util/math/vector/Vector3d;)V": "Lnet/minecraft/entity/Entity;func_213315_a(Lnet/minecraft/entity/MoverType;Lnet/minecraft/util/math/vector/Vector3d;)V"
+      },
+      "net/blay09/mods/hardcorerevival/mixin/LivingEntityAccessor": {
+        "checkTotemDeathProtection": "func_190628_d(Lnet/minecraft/util/DamageSource;)Z"
+      },
+      "net/blay09/mods/hardcorerevival/mixin/PlayerEntityMixin": {
+        "shouldHeal()Z": "Lnet/minecraft/entity/player/PlayerEntity;func_70996_bM()Z"
+      },
+      "net/blay09/mods/hardcorerevival/mixin/EntityPredicateMixin": {
+        "canTarget(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z": "Lnet/minecraft/entity/EntityPredicate;func_221015_a(Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+      },
+      "net/blay09/mods/hardcorerevival/mixin/ServerPlayNetHandlerMixin": {
+        "processPlayer(Lnet/minecraft/network/play/client/CPlayerPacket;)V": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147347_a(Lnet/minecraft/network/play/client/CPlayerPacket;)V"
+      },
+      "net/blay09/mods/hardcorerevival/mixin/ServerPlayerEntityAccessor": {
+        "respawnInvulnerabilityTicks": "field_147101_bU:I"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "create:crushing_wheel"
+    },
+    "1": {
+      "item": "create:refined_radiance_casing"
+    },
+    "2": {
+      "item": "create:crushing_wheel"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:quartz_crusher",
+    "count": 1
+  }
+}

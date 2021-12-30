@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:coals"
+    },
+    "3": {
+      "tag": "minecraft:coals"
+    },
+    "4": {
+      "item": "minecraft:coal_block"
+    },
+    "5": {
+      "tag": "minecraft:coals"
+    },
+    "7": {
+      "item": "minecraft:stone_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:coal_sword",
+    "count": 1
+  }
+}

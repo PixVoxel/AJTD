@@ -1,0 +1,27 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "create:refined_radiance"
+    },
+    "2": {
+      "item": "create:refined_radiance"
+    },
+    "3": {
+      "item": "create:shadow_steel"
+    },
+    "4": {
+      "item": "create:shadow_steel"
+    }
+  },
+  "result": {
+    "item": "useless_sword:refined_radiance_glaive",
+    "count": 1
+  }
+}

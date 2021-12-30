@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/cupboard_5",
+	"textures": {
+		"0": "minecraft:block/stripped_warped_stem",
+		"1": "minecraft:block/warped_stem",
+		"2": "minecraft:block/iron_block",
+		"particle": "minecraft:block/stripped_warped_stem"
+	}
+}

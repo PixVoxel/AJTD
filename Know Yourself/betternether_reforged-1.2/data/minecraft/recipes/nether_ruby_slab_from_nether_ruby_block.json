@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "betternether",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betternetherreforged:nether_ruby_block"
+    }
+  },
+  "result": {
+    "item": "betternetherreforged:nether_ruby_slab",
+    "count": 6
+  }
+}

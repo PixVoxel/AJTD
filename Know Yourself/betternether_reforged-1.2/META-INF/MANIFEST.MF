@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: BetterNether-Reforged
+MixinConfigs: betternether.mixins.json
+Implementation-Version: 1.2
+Specification-Vendor: Redd90
+Specification-Title: betternether
+Implementation-Timestamp: 2021-11-02T20:06:57-0700
+MixinConnector: someoneelse.betternetherreforged.mixin.MixinConnector
+Specification-Version: 1
+Implementation-Vendor: Redd90
+

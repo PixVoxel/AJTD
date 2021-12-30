@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "savageandravage:blast_proof_plating"
+    },
+    "3": {
+      "item": "savageandravage:blast_proof_plating"
+    },
+    "4": {
+      "item": "savageandravage:creeper_spores"
+    },
+    "5": {
+      "item": "savageandravage:blast_proof_plating"
+    },
+    "7": {
+      "item": "useless_sword:alloy_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:griefer_striker",
+    "count": 1
+  }
+}

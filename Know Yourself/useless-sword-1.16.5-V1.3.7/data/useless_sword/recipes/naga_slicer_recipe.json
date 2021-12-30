@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "twilightforest:naga_scale"
+    },
+    "3": {
+      "item": "twilightforest:naga_scale"
+    },
+    "4": {
+      "item": "twilightforest:ironwood_ingot"
+    },
+    "5": {
+      "item": "twilightforest:naga_scale"
+    },
+    "7": {
+      "item": "twilightforest:ironwood_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:naga_slicer",
+    "count": 1
+  }
+}

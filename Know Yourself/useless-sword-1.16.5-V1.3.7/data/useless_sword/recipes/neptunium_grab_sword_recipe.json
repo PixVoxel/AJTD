@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "aquaculture:iron_hook"
+    },
+    "3": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "4": {
+      "item": "aquaculture:atlantic_cod"
+    },
+    "5": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:neptunium_grab_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "xyz/starmun/justenoughkeys/forge/mixin/ForgeKeyMappingMixin": {
+      "isDefault": "Lnet/minecraft/client/settings/KeyBinding;func_197985_l()Z",
+      "same": "Lnet/minecraft/client/settings/KeyBinding;func_197983_b(Lnet/minecraft/client/settings/KeyBinding;)Z",
+      "<init>(Ljava/lang/String;Lnet/minecraftforge/client/settings/IKeyConflictContext;Lnet/minecraftforge/client/settings/KeyModifier;Lcom/mojang/blaze3d/platform/InputConstants$Key;Ljava/lang/String;)V": "Lnet/minecraft/client/settings/KeyBinding;<init>(Ljava/lang/String;Lnet/minecraftforge/client/settings/IKeyConflictContext;Lnet/minecraftforge/client/settings/KeyModifier;Lnet/minecraft/client/util/InputMappings$Input;Ljava/lang/String;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "xyz/starmun/justenoughkeys/forge/mixin/ForgeKeyMappingMixin": {
+        "isDefault": "Lnet/minecraft/client/settings/KeyBinding;func_197985_l()Z",
+        "same": "Lnet/minecraft/client/settings/KeyBinding;func_197983_b(Lnet/minecraft/client/settings/KeyBinding;)Z",
+        "<init>(Ljava/lang/String;Lnet/minecraftforge/client/settings/IKeyConflictContext;Lnet/minecraftforge/client/settings/KeyModifier;Lcom/mojang/blaze3d/platform/InputConstants$Key;Ljava/lang/String;)V": "Lnet/minecraft/client/settings/KeyBinding;<init>(Ljava/lang/String;Lnet/minecraftforge/client/settings/IKeyConflictContext;Lnet/minecraftforge/client/settings/KeyModifier;Lnet/minecraft/client/util/InputMappings$Input;Ljava/lang/String;)V"
+      }
+    }
+  }
+}

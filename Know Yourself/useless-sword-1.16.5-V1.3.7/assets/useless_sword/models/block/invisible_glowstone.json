@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "useless_sword:blocks/airblock",
+    "particle": "useless_sword:blocks/airblock"
+  }
+}

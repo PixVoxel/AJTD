@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_cream"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "minecraft:magma_cream"
+    },
+    "3": {
+      "item": "useless_sword:netherrack_sword"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "useless_sword:netherrack_sword"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "useless_sword:nether_catalyst_sword",
+    "count": 1
+  }
+}

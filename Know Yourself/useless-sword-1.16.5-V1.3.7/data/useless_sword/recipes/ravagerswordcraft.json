@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:ravager_leather"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "useless_sword:ravager_leather"
+    },
+    "3": {
+      "item": "useless_sword:ravager_leather"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    },
+    "5": {
+      "item": "useless_sword:ravager_leather"
+    },
+    "6": {
+      "item": "useless_sword:silvillager"
+    },
+    "7": {
+      "item": "minecraft:iron_sword"
+    },
+    "8": {
+      "item": "useless_sword:silvillager"
+    }
+  },
+  "result": {
+    "item": "useless_sword:ravager_sword",
+    "count": 1
+  }
+}

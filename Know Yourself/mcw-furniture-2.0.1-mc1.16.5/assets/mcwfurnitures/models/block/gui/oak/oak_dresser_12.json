@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/dresser_12",
+	"textures": {
+		"1": "minecraft:block/stripped_oak_log",
+		"2": "minecraft:block/stripped_oak_log",
+		"3": "minecraft:block/oak_log",
+		"texture": "minecraft:block/oak_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

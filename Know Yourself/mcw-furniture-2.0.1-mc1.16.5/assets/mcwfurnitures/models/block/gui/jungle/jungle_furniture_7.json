@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/furniture_7",
+	"textures": {
+		"3": "minecraft:block/jungle_log",
+		"5": "minecraft:block/bookshelf",
+		"texture": "minecraft:block/jungle_log"
+	}
+}

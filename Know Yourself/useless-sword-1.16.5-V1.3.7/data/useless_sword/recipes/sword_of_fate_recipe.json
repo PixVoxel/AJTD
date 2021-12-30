@@ -1,0 +1,24 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "botania:dice"
+    },
+    "1": {
+      "item": "botania:dice"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:sword_of_fate",
+    "count": 1
+  }
+}

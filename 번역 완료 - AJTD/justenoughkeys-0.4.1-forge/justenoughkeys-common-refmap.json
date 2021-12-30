@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "xyz/starmun/justenoughkeys/common/mixin/OptionsMixin": {
+      "load": "Lnet/minecraft/client/GameSettings;func_74300_a()V",
+      "save": "Lnet/minecraft/client/GameSettings;func_74303_b()V"
+    },
+    "xyz/starmun/justenoughkeys/common/mixin/MinecraftMixin": {
+      "setScreen": "Lnet/minecraft/client/Minecraft;func_147108_a(Lnet/minecraft/client/gui/screen/Screen;)V"
+    },
+    "xyz/starmun/justenoughkeys/common/mixin/KeyMappingMixin": {
+      "getTranslatedKeyMessage": "Lnet/minecraft/client/settings/KeyBinding;func_238171_j_()Lnet/minecraft/util/text/ITextComponent;",
+      "isDefault": "Lnet/minecraft/client/settings/KeyBinding;func_197985_l()Z",
+      "set": "Lnet/minecraft/client/settings/KeyBinding;func_197980_a(Lnet/minecraft/client/util/InputMappings$Input;Z)V",
+      "same": "Lnet/minecraft/client/settings/KeyBinding;func_197983_b(Lnet/minecraft/client/settings/KeyBinding;)Z",
+      "matchesMouse": "Lnet/minecraft/client/settings/KeyBinding;func_197984_a(I)Z",
+      "releaseAll": "Lnet/minecraft/client/settings/KeyBinding;func_74506_a()V",
+      "click": "Lnet/minecraft/client/settings/KeyBinding;func_197981_a(Lnet/minecraft/client/util/InputMappings$Input;)V",
+      "matches": "Lnet/minecraft/client/settings/KeyBinding;func_197976_a(II)Z",
+      "setAll": "Lnet/minecraft/client/settings/KeyBinding;func_186704_a()V",
+      "<init>(Ljava/lang/String;Lcom/mojang/blaze3d/platform/InputConstants$Type;ILjava/lang/String;)V": "Lnet/minecraft/client/settings/KeyBinding;<init>(Ljava/lang/String;Lnet/minecraft/client/util/InputMappings$Type;ILjava/lang/String;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "xyz/starmun/justenoughkeys/common/mixin/OptionsMixin": {
+        "load": "Lnet/minecraft/client/GameSettings;func_74300_a()V",
+        "save": "Lnet/minecraft/client/GameSettings;func_74303_b()V"
+      },
+      "xyz/starmun/justenoughkeys/common/mixin/MinecraftMixin": {
+        "setScreen": "Lnet/minecraft/client/Minecraft;func_147108_a(Lnet/minecraft/client/gui/screen/Screen;)V"
+      },
+      "xyz/starmun/justenoughkeys/common/mixin/KeyMappingMixin": {
+        "getTranslatedKeyMessage": "Lnet/minecraft/client/settings/KeyBinding;func_238171_j_()Lnet/minecraft/util/text/ITextComponent;",
+        "isDefault": "Lnet/minecraft/client/settings/KeyBinding;func_197985_l()Z",
+        "set": "Lnet/minecraft/client/settings/KeyBinding;func_197980_a(Lnet/minecraft/client/util/InputMappings$Input;Z)V",
+        "same": "Lnet/minecraft/client/settings/KeyBinding;func_197983_b(Lnet/minecraft/client/settings/KeyBinding;)Z",
+        "matchesMouse": "Lnet/minecraft/client/settings/KeyBinding;func_197984_a(I)Z",
+        "releaseAll": "Lnet/minecraft/client/settings/KeyBinding;func_74506_a()V",
+        "click": "Lnet/minecraft/client/settings/KeyBinding;func_197981_a(Lnet/minecraft/client/util/InputMappings$Input;)V",
+        "matches": "Lnet/minecraft/client/settings/KeyBinding;func_197976_a(II)Z",
+        "setAll": "Lnet/minecraft/client/settings/KeyBinding;func_186704_a()V",
+        "<init>(Ljava/lang/String;Lcom/mojang/blaze3d/platform/InputConstants$Type;ILjava/lang/String;)V": "Lnet/minecraft/client/settings/KeyBinding;<init>(Ljava/lang/String;Lnet/minecraft/client/util/InputMappings$Type;ILjava/lang/String;)V"
+      }
+    }
+  }
+}

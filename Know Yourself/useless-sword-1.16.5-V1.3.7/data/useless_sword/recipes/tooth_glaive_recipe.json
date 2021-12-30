@@ -1,0 +1,27 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "alexsmobs:cachalot_whale_tooth"
+    },
+    "2": {
+      "item": "alexsmobs:shark_tooth"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "alexsmobs:bone_serpent_tooth"
+    }
+  },
+  "result": {
+    "item": "useless_sword:tooth_glaive",
+    "count": 1
+  }
+}

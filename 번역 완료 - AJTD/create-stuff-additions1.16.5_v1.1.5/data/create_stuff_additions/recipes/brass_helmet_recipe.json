@@ -1,0 +1,32 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/brass"
+    },
+    "1": {
+      "tag": "forge:ingots/brass"
+    },
+    "2": {
+      "tag": "forge:ingots/brass"
+    },
+    "3": {
+      "tag": "forge:ingots/brass"
+    },
+    "4": {
+      "item": "create:redstone_link"
+    },
+    "5": {
+      "tag": "forge:ingots/brass"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:detector_brass_helmet",
+    "count": 1
+  }
+}

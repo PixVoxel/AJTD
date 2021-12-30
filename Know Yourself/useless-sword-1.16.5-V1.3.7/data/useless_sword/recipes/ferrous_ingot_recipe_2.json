@@ -1,0 +1,12 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "mowziesmobs:wrought_axe"
+  },
+  "result": {
+    "item": "useless_sword:ferrous_ingot"
+  }
+}

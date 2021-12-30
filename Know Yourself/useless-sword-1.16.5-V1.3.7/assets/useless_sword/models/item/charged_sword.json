@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/chargedgoldironalloysword",
+  "textures": {
+    "0": "useless_sword:blocks/chargedgoldironalloysword",
+    "particle": "useless_sword:items/chargedgoldironalloysword"
+  }
+}

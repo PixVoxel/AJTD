@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beacon"
+    },
+    "1": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "2": {
+      "item": "minecraft:beacon"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "minecraft:beacon"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:beacon"
+    }
+  },
+  "result": {
+    "item": "useless_sword:bugged_diamond",
+    "count": 8
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:oak_dresser_4"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:oak_dresser_5",
+        "count": 1
+    }
+}
+
+

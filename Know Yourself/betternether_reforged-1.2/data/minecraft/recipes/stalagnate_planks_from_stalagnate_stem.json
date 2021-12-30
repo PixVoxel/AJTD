@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "betternether",
+  "ingredients": [
+    {
+      "item": "betternetherreforged:stalagnate_stem"
+    }
+  ],
+  "result": {
+    "item": "betternetherreforged:stalagnate_planks"
+  }
+}

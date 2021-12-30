@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Not specified"
+
+[[mods]]
+modId="useless_sword"
+version="1.3.7"
+displayName="Useless Sword"
+credits="Created using  MCreator - Texture made by Furti Two"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/useless-sword"
+logoFile="logo.png"
+authors="Furti Two"
+description='''
+This mod adds 76 new swords
+'''
+
+[[dependencies.useless_sword]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

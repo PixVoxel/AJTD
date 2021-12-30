@@ -1,0 +1,41 @@
+{
+    "variants": {
+    "facing=east,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9", "y":270 },
+    "facing=west,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9", "y":90 },
+    "facing=north,part=bottom,hinge=right": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9", "y":180},
+    "facing=south,part=bottom,hinge=right": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9", "y":0 },
+
+    "facing=east,part=middle,hinge=right":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9_middle", "y":270 },
+    "facing=west,part=middle,hinge=right":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9_middle", "y":90 },
+    "facing=north,part=middle,hinge=right": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9_middle", "y":180},
+    "facing=south,part=middle,hinge=right": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_9_middle", "y":0 },
+
+	"facing=east,part=top,hinge=right":  { "model": "mcwfurnitures:block/empty", "y":270 },
+    "facing=west,part=top,hinge=right":  { "model": "mcwfurnitures:block/empty", "y":90 },
+    "facing=north,part=top,hinge=right": { "model": "mcwfurnitures:block/empty", "y":180},
+    "facing=south,part=top,hinge=right": { "model": "mcwfurnitures:block/empty", "y":0 },
+	
+	
+	
+	"facing=east,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10", "y":270 },
+    "facing=west,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10", "y":90 },
+    "facing=north,part=bottom,hinge=left": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10", "y":180},
+    "facing=south,part=bottom,hinge=left": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10", "y":0 },
+
+    "facing=east,part=middle,hinge=left":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10_middle", "y":270 },
+    "facing=west,part=middle,hinge=left":  { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10_middle", "y":90 },
+    "facing=north,part=middle,hinge=left": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10_middle", "y":180},
+    "facing=south,part=middle,hinge=left": { "model": "mcwfurnitures:block/dresser/crimson/crimson_dresser_10_middle", "y":0 },
+
+	"facing=east,part=top,hinge=left":  { "model": "mcwfurnitures:block/empty", "y":270 },
+    "facing=west,part=top,hinge=left":  { "model": "mcwfurnitures:block/empty", "y":90 },
+    "facing=north,part=top,hinge=left": { "model": "mcwfurnitures:block/empty", "y":180},
+    "facing=south,part=top,hinge=left": { "model": "mcwfurnitures:block/empty", "y":0 }
+	
+	
+		
+    }
+}
+
+
+

@@ -1,0 +1,9 @@
+{
+  "parent": "create_stuff_additions:custom/nixie_lamp",
+  "textures": {
+    "all": "create_stuff_additions:blocks/nixie_lamp_base",
+    "particle": "create_stuff_additions:blocks/nixie_lamp_base",
+    "0": "create_stuff_additions:blocks/nixie_lamp",
+    "1": "create_stuff_additions:blocks/nixie_lamp_base"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		" AA",
+		" BB"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:warped_plate"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:warped_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:warped_modern_chair",
+        "count": 1
+    }
+}
+
+

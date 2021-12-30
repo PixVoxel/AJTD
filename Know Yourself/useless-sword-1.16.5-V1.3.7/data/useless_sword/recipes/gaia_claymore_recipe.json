@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "botania:gaia_ingot"
+    },
+    "4": {
+      "item": "botania:gaia_ingot"
+    },
+    "6": {
+      "item": "botania:life_essence"
+    },
+    "7": {
+      "item": "botania:livingwood_twig"
+    },
+    "8": {
+      "item": "botania:life_essence"
+    }
+  },
+  "result": {
+    "item": "useless_sword:gaia_claymore",
+    "count": 1
+  }
+}

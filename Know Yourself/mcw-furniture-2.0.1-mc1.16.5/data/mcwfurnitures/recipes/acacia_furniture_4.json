@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BAB"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:acacia_furniture_3"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:acacia_furniture_4",
+        "count": 1
+    }
+}
+
+

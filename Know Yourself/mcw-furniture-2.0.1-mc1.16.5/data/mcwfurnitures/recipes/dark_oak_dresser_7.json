@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:dark_oak_box_2"
+        },    
+        
+        "B":
+        {
+            "item": "mcwfurnitures:dark_oak_nightstand_2"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:dark_oak_dresser_7",
+        "count": 1
+    }
+}
+
+

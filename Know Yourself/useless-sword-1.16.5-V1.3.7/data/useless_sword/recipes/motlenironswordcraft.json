@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:molten_sword",
+    "count": 1
+  }
+}

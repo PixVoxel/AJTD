@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/deskpart/plant_pot_right",
+	"textures": {
+		"3": "minecraft:block/dirt",
+		"4": "minecraft:block/crimson_fungus",
+		"5": "minecraft:block/flower_pot",
+			"particle": "minecraft:block/crimson_stem",
+		"texture": "minecraft:block/crimson_stem"
+	}
+}

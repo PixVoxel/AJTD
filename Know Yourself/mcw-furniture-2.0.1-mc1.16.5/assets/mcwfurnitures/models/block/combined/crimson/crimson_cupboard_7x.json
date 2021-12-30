@@ -1,0 +1,11 @@
+{
+	"parent": "mcwfurnitures:block/parent/cupboard/cupboard_7x",
+	"textures": {
+		"0": "minecraft:block/stripped_crimson_stem",
+		"1": "minecraft:block/crimson_stem",
+		"3": "minecraft:block/crimson_stem",
+		"4": "minecraft:block/stripped_crimson_stem",
+		"6": "minecraft:block/crimson_stem",
+		"particle": "minecraft:block/crimson_stem"
+	}
+}

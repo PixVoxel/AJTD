@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "create:turntable"
+    },
+    "3": {
+      "item": "create:brass_sheet"
+    },
+    "4": {
+      "item": "create:cogwheel"
+    },
+    "5": {
+      "item": "create:brass_sheet"
+    },
+    "7": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "item": "useless_sword:brass_head_turner",
+    "count": 1
+  }
+}

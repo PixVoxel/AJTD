@@ -1,0 +1,23 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "create:chocolate_bucket"
+    },
+    "1": {
+      "item": "create:fluid_pipe"
+    },
+    "2": {
+      "item": "create:item_drain"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:chocolate_fountain",
+    "count": 1
+  }
+}

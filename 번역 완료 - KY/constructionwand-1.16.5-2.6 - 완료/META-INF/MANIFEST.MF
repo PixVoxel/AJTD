@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: constructionwand
+Implementation-Version: 1.16.5-2.6
+Specification-Vendor: thetadev
+Specification-Title: constructionwand
+Implementation-Timestamp: 2021-12-12T11:11:55+0100
+Specification-Version: 1
+Implementation-Vendor: thetadev
+

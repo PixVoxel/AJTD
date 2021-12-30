@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/life_draining_sword",
+  "textures": {
+    "0": "useless_sword:blocks/life_draining_sword",
+    "particle": "useless_sword:items/life_draining_sword"
+  }
+}

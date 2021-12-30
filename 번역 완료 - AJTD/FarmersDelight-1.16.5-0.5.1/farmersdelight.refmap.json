@@ -1,0 +1,56 @@
+{
+  "mappings": {
+    "vectorwing/farmersdelight/mixin/SoupItemMixin": {
+      "onItemUseFinish": "Lnet/minecraft/item/SoupItem;func_77654_b(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;)Lnet/minecraft/item/ItemStack;"
+    },
+    "vectorwing/farmersdelight/mixin/HideBlockBreakProgressMixin": {
+      "renderBlockDamage": "Lnet/minecraft/client/renderer/BlockRendererDispatcher;func_228792_a_(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockDisplayReader;Lcom/mojang/blaze3d/matrix/MatrixStack;Lcom/mojang/blaze3d/vertex/IVertexBuilder;)V"
+    },
+    "vectorwing/farmersdelight/mixin/CanvasSignMaterialMixin": {
+      "getMaterial": "Lnet/minecraft/client/renderer/tileentity/SignTileEntityRenderer;func_228877_a_(Lnet/minecraft/block/Block;)Lnet/minecraft/client/renderer/model/RenderMaterial;"
+    },
+    "vectorwing/farmersdelight/mixin/accessors/RecipeManagerAccessor": {
+      "getRecipes": "func_215366_a(Lnet/minecraft/item/crafting/IRecipeType;)Ljava/util/Map;"
+    },
+    "vectorwing/farmersdelight/mixin/CampfireBaleMixin": {
+      "isHayBlock": "Lnet/minecraft/block/CampfireBlock;func_220099_j(Lnet/minecraft/block/BlockState;)Z"
+    },
+    "vectorwing/farmersdelight/mixin/KeepRichSoilMixin": {
+      "isDirtAt": "Lnet/minecraft/world/gen/feature/Feature;func_236293_a_(Lnet/minecraft/world/gen/IWorldGenerationBaseReader;Lnet/minecraft/util/math/BlockPos;)Z"
+    },
+    "vectorwing/farmersdelight/mixin/accessors/ChickenEntityAccessor": {
+      "TEMPTATION_ITEMS": "field_184761_bD:Lnet/minecraft/item/crafting/Ingredient;"
+    },
+    "vectorwing/farmersdelight/mixin/accessors/PigEntityAccessor": {
+      "TEMPTATION_ITEMS": "field_184764_bw:Lnet/minecraft/item/crafting/Ingredient;"
+    }
+  },
+  "data": {
+    "searge": {
+      "vectorwing/farmersdelight/mixin/SoupItemMixin": {
+        "onItemUseFinish": "Lnet/minecraft/item/SoupItem;func_77654_b(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/LivingEntity;)Lnet/minecraft/item/ItemStack;"
+      },
+      "vectorwing/farmersdelight/mixin/HideBlockBreakProgressMixin": {
+        "renderBlockDamage": "Lnet/minecraft/client/renderer/BlockRendererDispatcher;func_228792_a_(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IBlockDisplayReader;Lcom/mojang/blaze3d/matrix/MatrixStack;Lcom/mojang/blaze3d/vertex/IVertexBuilder;)V"
+      },
+      "vectorwing/farmersdelight/mixin/CanvasSignMaterialMixin": {
+        "getMaterial": "Lnet/minecraft/client/renderer/tileentity/SignTileEntityRenderer;func_228877_a_(Lnet/minecraft/block/Block;)Lnet/minecraft/client/renderer/model/RenderMaterial;"
+      },
+      "vectorwing/farmersdelight/mixin/accessors/RecipeManagerAccessor": {
+        "getRecipes": "func_215366_a(Lnet/minecraft/item/crafting/IRecipeType;)Ljava/util/Map;"
+      },
+      "vectorwing/farmersdelight/mixin/CampfireBaleMixin": {
+        "isHayBlock": "Lnet/minecraft/block/CampfireBlock;func_220099_j(Lnet/minecraft/block/BlockState;)Z"
+      },
+      "vectorwing/farmersdelight/mixin/KeepRichSoilMixin": {
+        "isDirtAt": "Lnet/minecraft/world/gen/feature/Feature;func_236293_a_(Lnet/minecraft/world/gen/IWorldGenerationBaseReader;Lnet/minecraft/util/math/BlockPos;)Z"
+      },
+      "vectorwing/farmersdelight/mixin/accessors/ChickenEntityAccessor": {
+        "TEMPTATION_ITEMS": "field_184761_bD:Lnet/minecraft/item/crafting/Ingredient;"
+      },
+      "vectorwing/farmersdelight/mixin/accessors/PigEntityAccessor": {
+        "TEMPTATION_ITEMS": "field_184764_bw:Lnet/minecraft/item/crafting/Ingredient;"
+      }
+    }
+  }
+}

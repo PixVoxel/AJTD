@@ -1,0 +1,24 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "alexsmobs:guster_eye"
+    },
+    "1": {
+      "item": "alexsmobs:guster_eye"
+    },
+    "2": {
+      "item": "useless_sword:sandstone_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:guster_sword",
+    "count": 1
+  }
+}

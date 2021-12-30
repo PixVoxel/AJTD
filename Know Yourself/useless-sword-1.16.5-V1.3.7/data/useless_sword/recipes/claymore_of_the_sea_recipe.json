@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "3": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "4": {
+      "item": "upgrade_aquatic:elder_eye"
+    },
+    "5": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "7": {
+      "item": "useless_sword:prismarine_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:claymore_of_the_sea",
+    "count": 1
+  }
+}

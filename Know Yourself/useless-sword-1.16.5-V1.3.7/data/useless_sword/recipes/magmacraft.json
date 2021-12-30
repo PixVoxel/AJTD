@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "useless_sword:magma_rock"
+    },
+    {
+      "item": "useless_sword:magma_rock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magma_block",
+    "count": 1
+  }
+}

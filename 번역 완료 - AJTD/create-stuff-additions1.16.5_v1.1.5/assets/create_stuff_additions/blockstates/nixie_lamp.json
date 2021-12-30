@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_stuff_additions:block/nixie_lamp"
+    },
+    "facing=east": {
+      "model": "create_stuff_additions:block/nixie_lamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_stuff_additions:block/nixie_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_stuff_additions:block/nixie_lamp",
+      "y": 270
+    }
+  }
+}

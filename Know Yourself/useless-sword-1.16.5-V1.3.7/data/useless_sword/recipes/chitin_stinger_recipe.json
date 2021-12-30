@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "druidcraft:chitin"
+    },
+    "3": {
+      "item": "druidcraft:chitin"
+    },
+    "4": {
+      "item": "druidcraft:moonstone"
+    },
+    "5": {
+      "item": "druidcraft:chitin"
+    },
+    "7": {
+      "item": "druidcraft:bone_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:chitin_stinger",
+    "count": 1
+  }
+}

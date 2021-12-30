@@ -1,0 +1,66 @@
+[
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 1,
+    "enchantment": true,
+    "magicCapacity": -11.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 2,
+    "enchantment": true,
+    "magicCapacity": -22.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 3,
+    "enchantment": true,
+    "magicCapacity": -33.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 4,
+    "enchantment": true,
+    "magicCapacity": -44.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 5,
+    "enchantment": true,
+    "magicCapacity": -55.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 6,
+    "enchantment": true,
+    "magicCapacity": -66.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 7,
+    "enchantment": true,
+    "magicCapacity": -77.0
+  },
+  {
+    "key": "enchantment/weaponthrow_throw",
+    "level": 8,
+    "enchantment": true,
+    "magicCapacity": -88.0
+  },
+  {
+    "key": "destabilized/weaponthrow_throw",
+    "level": 1,
+    "enchantment": true,
+    "glyph": {
+      "tint": "ee5599"
+    }
+  },
+  {
+    "key": "destabilized/weaponthrow_throw",
+    "level": 2,
+    "enchantment": true,
+    "glyph": {
+      "tint": "ee5599"
+    }
+  }
+]

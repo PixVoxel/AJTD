@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "druidcraft:amber"
+    },
+    "3": {
+      "item": "druidcraft:fiery_glass"
+    },
+    "4": {
+      "item": "druidcraft:amber"
+    },
+    "5": {
+      "item": "druidcraft:fiery_glass"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "useless_sword:fiery_fossilizer",
+    "count": 1
+  }
+}

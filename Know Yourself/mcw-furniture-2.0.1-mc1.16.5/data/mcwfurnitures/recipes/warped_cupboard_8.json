@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",    
+        "A"          
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:warped_box_2"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:bookshelf"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:warped_cupboard_8",
+        "count": 1
+    }
+}
+
+

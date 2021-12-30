@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "betternether",
+  "pattern": [
+    "##",
+    "II"
+  ],
+  "key": {
+    "#": {
+      "item": "betternetherreforged:cincinnasite_slab"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "betternetherreforged:taburet_cincinnasite"
+  }
+}

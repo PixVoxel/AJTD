@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfurnitures:block/parent/nightstand/pult_straight1",
+	"textures": {
+		"0": "minecraft:block/spruce_log",
+		"1": "minecraft:block/stripped_spruce_log",
+		"2": "minecraft:block/iron_block",
+			"particle": "minecraft:block/spruce_log"
+	}
+}

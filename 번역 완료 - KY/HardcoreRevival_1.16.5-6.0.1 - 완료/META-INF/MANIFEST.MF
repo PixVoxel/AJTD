@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HardcoreRevival
+MixinConfigs: mixins.hardcorerevival.json
+Implementation-Version: 6.0.1
+Specification-Vendor: BlayTheNinth
+Specification-Title: hardcorerevival
+Implementation-Timestamp: 2021-06-09T00:18:37+0200
+Specification-Version: 1
+Implementation-Vendor: BlayTheNinth
+

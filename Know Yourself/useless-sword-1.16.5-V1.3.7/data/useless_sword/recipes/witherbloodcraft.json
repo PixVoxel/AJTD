@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "useless_sword:wither_bone"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:wither_blood",
+    "count": 1
+  }
+}

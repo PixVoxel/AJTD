@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "betternether",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betternetherreforged:rubeus_planks"
+    }
+  },
+  "result": {
+    "item": "betternetherreforged:rubeus_stairs",
+    "count": 4
+  }
+}

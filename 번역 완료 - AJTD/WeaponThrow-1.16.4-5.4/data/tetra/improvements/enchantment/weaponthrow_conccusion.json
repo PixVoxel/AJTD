@@ -1,0 +1,52 @@
+[
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 1,
+    "enchantment": true,
+    "magicCapacity": -20.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 2,
+    "enchantment": true,
+    "magicCapacity": -40.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 3,
+    "enchantment": true,
+    "magicCapacity": -60.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 4,
+    "enchantment": true,
+    "magicCapacity": -80.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 5,
+    "enchantment": true,
+    "magicCapacity": -100.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 6,
+    "enchantment": true,
+    "magicCapacity": -120.0
+  },
+  {
+    "key": "enchantment/weaponthrow_conccusion",
+    "level": 7,
+    "enchantment": true,
+    "magicCapacity": -140.0
+  },
+  {
+    "key": "destabilized/weaponthrow_conccusion",
+    "level": 1,
+    "enchantment": true,
+    "glyph": {
+      "tint": "ee5599"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "slots": [
+        "sword/blade"
+    ],
+    "type": "tetra:basic_major_module",
+    "improvements": [
+    	"tetra:enchantment/weaponthrow_throw",
+		"tetra:enchantment/weaponthrow_groundededge",
+		"tetra:enchantment/weaponthrow_conccusion",
+		"tetra:enchantment/weaponthrow_gravity",
+		"tetra:enchantment/weaponthrow_return",
+		"tetra:enchantment/weaponthrow_throw"
+    ],
+    "variants": [
+    
+    ]
+}

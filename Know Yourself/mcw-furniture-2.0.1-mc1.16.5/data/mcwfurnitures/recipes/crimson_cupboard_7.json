@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AB"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:crimson_cupboard_6"
+        },    
+        
+        "B":
+        {
+            "item": "mcwfurnitures:crimson_plate"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_cupboard_7",
+        "count": 1
+    }
+}
+
+

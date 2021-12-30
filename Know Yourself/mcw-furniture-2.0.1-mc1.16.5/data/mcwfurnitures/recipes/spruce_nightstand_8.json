@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BA"         
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:spruce_box_2"
+        },
+        
+       "B":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_nightstand_8",
+        "count": 1
+    }
+}
+
+

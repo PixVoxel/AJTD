@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:thorny_golden_sword",
+    "count": 1
+  }
+}

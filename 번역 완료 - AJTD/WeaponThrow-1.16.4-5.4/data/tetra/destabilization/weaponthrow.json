@@ -1,0 +1,42 @@
+[
+  {
+    "destabilizationKey": "destabilized/weaponthrow_throw",
+    "minLevel": 1,
+    "maxLevel": 2,
+    "requiredMod": "weaponthrow",
+    "probability": 0.04,
+    "improvementKey": "enchantment/weaponthrow_throw"
+  },
+  {
+    "destabilizationKey": "destabilized/weaponthrow_groundededge",
+    "minLevel": 1,
+    "maxLevel": 2,
+    "requiredMod": "weaponthrow",
+    "probability": 0.04,
+    "improvementKey": "enchantment/weaponthrow_groundededge"
+  },
+  {
+    "destabilizationKey": "destabilized/weaponthrow_conccusion",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "requiredMod": "weaponthrow",
+    "probability": 0.04,
+    "improvementKey": "enchantment/weaponthrow_conccusion"
+  },
+  {
+    "destabilizationKey": "enchantment/weaponthrow_gravity",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "requiredMod": "weaponthrow",
+    "probability": 0.04,
+    "instabilityLimit": 20
+  },
+  {
+    "destabilizationKey": "destabilized/weaponthrow_return",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "requiredMod": "weaponthrow",
+    "probability": 0.04,
+    "improvementKey": "enchantment/weaponthrow_return"
+  }
+]

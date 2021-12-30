@@ -1,0 +1,30 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "create:shadow_steel"
+    },
+    "1": {
+      "item": "create:shadow_steel"
+    },
+    "2": {
+      "item": "create:shadow_steel"
+    },
+    "4": {
+      "item": "create_stuff_additions:zinc_handle"
+    },
+    "7": {
+      "item": "create_stuff_additions:zinc_handle"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:shadow_steel_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_3_bottom",
+	"textures": {
+					"particle": "minecraft:block/birch_log",
+		"1": "minecraft:block/stripped_birch_log",
+		"2": "minecraft:block/birch_log",
+		"3": "minecraft:block/birch_log",
+		"texture": "minecraft:block/birch_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

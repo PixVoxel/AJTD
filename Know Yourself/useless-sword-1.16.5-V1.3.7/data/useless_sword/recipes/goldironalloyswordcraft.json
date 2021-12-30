@@ -1,0 +1,24 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:gold_iron_alloy_ingot"
+    },
+    "1": {
+      "item": "useless_sword:gold_iron_alloy_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:alloy_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/furniture_4",
+	"textures": {
+		"1": "minecraft:block/stripped_warped_stem",
+		"2": "minecraft:block/warped_stem",
+		"3": "minecraft:block/warped_stem",
+		"6": "mcwfurnitures:block/oak/furniture_glass",
+		"7": "minecraft:block/glass",
+		"8": "mcwfurnitures:block/oak/furniture_glass2",
+		"texture": "minecraft:block/warped_stem",
+		"1_2": "minecraft:block/iron_block",
+		"particle": "minecraft:block/glass"
+	}
+}

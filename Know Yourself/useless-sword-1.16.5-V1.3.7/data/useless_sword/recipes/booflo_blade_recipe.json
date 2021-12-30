@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "endergetic:booflo_hide"
+    },
+    "1": {
+      "item": "endergetic:bolloom_fruit"
+    },
+    "2": {
+      "item": "endergetic:booflo_hide"
+    },
+    "3": {
+      "item": "endergetic:bolloom_fruit"
+    },
+    "4": {
+      "item": "useless_sword:alloy_sword"
+    },
+    "5": {
+      "item": "endergetic:bolloom_fruit"
+    },
+    "6": {
+      "item": "endergetic:booflo_hide"
+    },
+    "7": {
+      "item": "endergetic:bolloom_fruit"
+    },
+    "8": {
+      "item": "endergetic:booflo_hide"
+    }
+  },
+  "result": {
+    "item": "useless_sword:booflo_blade",
+    "count": 1
+  }
+}

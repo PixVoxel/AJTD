@@ -1,0 +1,10 @@
+{
+	"parent": "mcwfurnitures:block/parent/nightstand/nightstand",
+	"textures": {
+		"0": "minecraft:block/stripped_oak_log",
+		"1": "minecraft:block/oak_log",
+		"2": "minecraft:block/oak_log",
+		"particle": "minecraft:block/oak_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

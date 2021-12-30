@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_powder"
+    },
+    "1": {
+      "item": "useless_sword:nether_catalyst_sword"
+    },
+    "2": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "useless_sword:ender_catalyst_sword"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "useless_sword:emerald_stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:dimensional_breacher",
+    "count": 1
+  }
+}

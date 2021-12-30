@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_stuff_additions:block/quartz_crusher"
+    },
+    "facing=east": {
+      "model": "create_stuff_additions:block/quartz_crusher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_stuff_additions:block/quartz_crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_stuff_additions:block/quartz_crusher",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " AA",
+        " B "           
+    ],
+    
+    "key":
+    { 
+        "A": {
+            "item": "mcwfurnitures:dark_oak_plate"
+        },
+        "B": {
+            "item": "minecraft:dark_oak_log"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:dark_oak_modern_desk_right",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "create_stuff_additions:custom/refined_radiance_neon",
+  "textures": {
+    "all": "create_stuff_additions:blocks/refined_radiance_neon",
+    "particle": "create_stuff_additions:blocks/refined_radiance_neon",
+    "0": "create_stuff_additions:blocks/refined_radiance_neon",
+    "1": "create_stuff_additions:blocks/nixie_lamp_base"
+  }
+}

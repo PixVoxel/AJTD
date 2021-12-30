@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:wither_blood"
+    },
+    "1": {
+      "item": "useless_sword:wither_bone"
+    },
+    "2": {
+      "item": "useless_sword:wither_blood"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "5": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "minecraft:diamond_sword"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:wither_sword",
+    "count": 1
+  }
+}

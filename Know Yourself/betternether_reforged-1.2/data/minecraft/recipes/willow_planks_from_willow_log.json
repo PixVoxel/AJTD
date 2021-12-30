@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "betternether",
+  "ingredients": [
+    {
+      "item": "betternetherreforged:willow_log"
+    }
+  ],
+  "result": {
+    "item": "betternetherreforged:willow_planks",
+    "count": 4
+  }
+}

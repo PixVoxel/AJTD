@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:black_wool"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:spider_eye"
+    },
+    "4": {
+      "item": "minecraft:iron_sword"
+    },
+    "5": {
+      "item": "minecraft:spider_eye"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:spider_sword",
+    "count": 1
+  }
+}

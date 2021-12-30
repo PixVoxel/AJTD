@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/ender_claymore",
+  "textures": {
+    "0": "useless_sword:blocks/ender_catalyster_sword",
+    "particle": "useless_sword:items/ender_catalyster_sword"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/neptunium_grab_sword",
+  "textures": {
+    "0": "useless_sword:blocks/neptunium_grab_sword",
+    "particle": "useless_sword:items/neptunium_grab_sword"
+  }
+}

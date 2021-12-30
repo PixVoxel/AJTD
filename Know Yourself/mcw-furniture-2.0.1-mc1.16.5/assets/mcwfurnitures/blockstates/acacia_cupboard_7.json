@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "facing=east,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7x", "y":180 },
+        "facing=west,part=bottom,hinge=left":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7x", "y":0 },
+        "facing=north,part=bottom,hinge=left": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7x", "y":90},
+        "facing=south,part=bottom,hinge=left": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7x", "y":270 },
+
+        "facing=east,part=middle,hinge=left":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7", "y":180 },
+        "facing=west,part=middle,hinge=left":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7", "y":0 },
+        "facing=north,part=middle,hinge=left": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7", "y":90},
+        "facing=south,part=middle,hinge=left": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_7", "y":270 },
+        
+        
+        "facing=east,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2x", "y":180 },
+        "facing=west,part=bottom,hinge=right":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2x", "y":0 },
+        "facing=north,part=bottom,hinge=right": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2x", "y":90},
+        "facing=south,part=bottom,hinge=right": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2x", "y":270 },
+
+        "facing=east,part=middle,hinge=right":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2", "y":180 },
+        "facing=west,part=middle,hinge=right":  { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2", "y":0 },
+        "facing=north,part=middle,hinge=right": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2", "y":90},
+        "facing=south,part=middle,hinge=right": { "model": "mcwfurnitures:block/combined/acacia/acacia_cupboard_2", "y":270 }
+}}
+
+
+

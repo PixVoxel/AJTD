@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "useless_sword:ferrous_ingot"
+  },
+  "result": {
+    "item": "useless_sword:wrought_sword"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "someoneelse/betternetherreforged/mixin/WorkbenchContainerMixin": {
+      "canInteractWith": "Lnet/minecraft/inventory/container/WorkbenchContainer;func_75145_c(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+    },
+    "someoneelse/betternetherreforged/mixin/DimensionTypeMixin": {
+      "getNetherChunkGenerator(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;": "Lnet/minecraft/world/DimensionType;func_242720_b(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;"
+    },
+    "someoneelse/betternetherreforged/mixin/ClientPlayNetHandlerMixin": {
+      "handleUpdateTileEntity": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147273_a(Lnet/minecraft/network/play/server/SUpdateTileEntityPacket;)V",
+      "handleSignEditorOpen": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147268_a(Lnet/minecraft/network/play/server/SOpenSignMenuPacket;)V"
+    },
+    "someoneelse/betternetherreforged/mixin/ChunkGeneratorMixin": {
+      "func_230351_a_": "Lnet/minecraft/world/gen/ChunkGenerator;func_230351_a_(Lnet/minecraft/world/gen/WorldGenRegion;Lnet/minecraft/world/gen/feature/structure/StructureManager;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "someoneelse/betternetherreforged/mixin/WorkbenchContainerMixin": {
+        "canInteractWith": "Lnet/minecraft/inventory/container/WorkbenchContainer;func_75145_c(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+      },
+      "someoneelse/betternetherreforged/mixin/DimensionTypeMixin": {
+        "getNetherChunkGenerator(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;": "Lnet/minecraft/world/DimensionType;func_242720_b(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;"
+      },
+      "someoneelse/betternetherreforged/mixin/ClientPlayNetHandlerMixin": {
+        "handleUpdateTileEntity": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147273_a(Lnet/minecraft/network/play/server/SUpdateTileEntityPacket;)V",
+        "handleSignEditorOpen": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147268_a(Lnet/minecraft/network/play/server/SOpenSignMenuPacket;)V"
+      },
+      "someoneelse/betternetherreforged/mixin/ChunkGeneratorMixin": {
+        "func_230351_a_": "Lnet/minecraft/world/gen/ChunkGenerator;func_230351_a_(Lnet/minecraft/world/gen/WorldGenRegion;Lnet/minecraft/world/gen/feature/structure/StructureManager;)V"
+      }
+    }
+  }
+}

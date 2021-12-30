@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: WhenDungeonsArise_Forge
+Implementation-Version: 2.1.49
+Specification-Vendor: Aurelj, DiamondTown and Zephyrusj
+Specification-Title: dungeons_arise
+Implementation-Timestamp: 2021-11-23T02:35:46-0300
+Specification-Version: 1
+Implementation-Vendor: Aurelj, DiamondTown and Zephyrusj
+

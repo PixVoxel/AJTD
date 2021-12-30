@@ -1,0 +1,15 @@
+{
+  "parent": "create_stuff_additions:custom/globe",
+  "textures": {
+    "all": "create_stuff_additions:blocks/nixie_lamp_base",
+    "particle": "create_stuff_additions:blocks/nixie_lamp_base",
+    "0": "create_stuff_additions:blocks/nixie_lamp_base",
+    "1": "create_stuff_additions:blocks/globe_down",
+    "2": "create_stuff_additions:blocks/globe_face_1",
+    "3": "create_stuff_additions:blocks/globe_face_2",
+    "4": "create_stuff_additions:blocks/globe_face_3",
+    "5": "create_stuff_additions:blocks/globe_face_4",
+    "6": "create_stuff_additions:blocks/globe_top",
+    "missing": "create_stuff_additions:blocks/globe_top"
+  }
+}

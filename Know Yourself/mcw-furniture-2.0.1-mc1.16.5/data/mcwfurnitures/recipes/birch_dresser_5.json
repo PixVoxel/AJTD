@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:birch_dresser_4"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:birch_dresser_5",
+        "count": 1
+    }
+}
+
+

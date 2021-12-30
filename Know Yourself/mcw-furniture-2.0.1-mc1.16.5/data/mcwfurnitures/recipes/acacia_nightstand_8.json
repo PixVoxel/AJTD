@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BA"         
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:acacia_box_2"
+        },
+        
+       "B":
+        {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:acacia_nightstand_8",
+        "count": 1
+    }
+}
+
+

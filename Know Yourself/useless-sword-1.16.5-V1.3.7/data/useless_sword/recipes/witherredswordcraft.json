@@ -1,0 +1,16 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_sword"
+    },
+    {
+      "item": "useless_sword:wither_blood"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:witherred_sword",
+    "count": 1
+  }
+}

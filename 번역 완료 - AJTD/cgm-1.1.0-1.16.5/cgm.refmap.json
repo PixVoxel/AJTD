@@ -1,0 +1,58 @@
+{
+  "mappings": {
+    "com/mrcrayfish/guns/mixin/common/LivingEntityMixin": {
+      "attackEntityFrom": "Lnet/minecraft/entity/LivingEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z",
+      "Lnet/minecraft/entity/LivingEntity;applyKnockback(FDD)V": "Lnet/minecraft/entity/LivingEntity;func_233627_a_(FDD)V"
+    },
+    "com/mrcrayfish/guns/mixin/client/MouseHelperMixin": {
+      "updatePlayerLook()V": "Lnet/minecraft/client/MouseHelper;func_198028_a()V"
+    },
+    "com/mrcrayfish/guns/mixin/common/SittingPhaseMixin": {
+      "func_221113_a": "Lnet/minecraft/entity/boss/dragon/phase/SittingPhase;func_221113_a(Lnet/minecraft/util/DamageSource;F)F"
+    },
+    "com/mrcrayfish/guns/mixin/client/WorldRendererMixin": {
+      "updateCameraAndRender": "Lnet/minecraft/client/renderer/WorldRenderer;func_228426_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;FJZLnet/minecraft/client/renderer/ActiveRenderInfo;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lnet/minecraft/util/math/vector/Matrix4f;)V",
+      "Lnet/minecraft/client/renderer/WorldRenderer;checkMatrixStack(Lcom/mojang/blaze3d/matrix/MatrixStack;)V": "Lnet/minecraft/client/renderer/WorldRenderer;func_228423_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V"
+    },
+    "com/mrcrayfish/guns/mixin/common/EndPortalBlockMixin": {
+      "Lnet/minecraft/entity/Entity;changeDimension(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;": "Lnet/minecraft/entity/Entity;func_241206_a_(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;",
+      "onEntityCollision": "Lnet/minecraft/block/EndPortalBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+    },
+    "com/mrcrayfish/guns/mixin/common/PlayerListMixin": {
+      "reloadResources": "Lnet/minecraft/server/management/PlayerList;func_193244_w()V"
+    },
+    "com/mrcrayfish/guns/mixin/client/GameRendererMixin": {
+      "Lnet/minecraft/profiler/IProfiler;endStartSection(Ljava/lang/String;)V": "Lnet/minecraft/profiler/IProfiler;func_219895_b(Ljava/lang/String;)V",
+      "updateCameraAndRender": "Lnet/minecraft/client/renderer/GameRenderer;func_195458_a(FJZ)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/mrcrayfish/guns/mixin/common/LivingEntityMixin": {
+        "attackEntityFrom": "Lnet/minecraft/entity/LivingEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z",
+        "Lnet/minecraft/entity/LivingEntity;applyKnockback(FDD)V": "Lnet/minecraft/entity/LivingEntity;func_233627_a_(FDD)V"
+      },
+      "com/mrcrayfish/guns/mixin/client/MouseHelperMixin": {
+        "updatePlayerLook()V": "Lnet/minecraft/client/MouseHelper;func_198028_a()V"
+      },
+      "com/mrcrayfish/guns/mixin/common/SittingPhaseMixin": {
+        "func_221113_a": "Lnet/minecraft/entity/boss/dragon/phase/SittingPhase;func_221113_a(Lnet/minecraft/util/DamageSource;F)F"
+      },
+      "com/mrcrayfish/guns/mixin/client/WorldRendererMixin": {
+        "updateCameraAndRender": "Lnet/minecraft/client/renderer/WorldRenderer;func_228426_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;FJZLnet/minecraft/client/renderer/ActiveRenderInfo;Lnet/minecraft/client/renderer/GameRenderer;Lnet/minecraft/client/renderer/LightTexture;Lnet/minecraft/util/math/vector/Matrix4f;)V",
+        "Lnet/minecraft/client/renderer/WorldRenderer;checkMatrixStack(Lcom/mojang/blaze3d/matrix/MatrixStack;)V": "Lnet/minecraft/client/renderer/WorldRenderer;func_228423_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V"
+      },
+      "com/mrcrayfish/guns/mixin/common/EndPortalBlockMixin": {
+        "Lnet/minecraft/entity/Entity;changeDimension(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;": "Lnet/minecraft/entity/Entity;func_241206_a_(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;",
+        "onEntityCollision": "Lnet/minecraft/block/EndPortalBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+      },
+      "com/mrcrayfish/guns/mixin/common/PlayerListMixin": {
+        "reloadResources": "Lnet/minecraft/server/management/PlayerList;func_193244_w()V"
+      },
+      "com/mrcrayfish/guns/mixin/client/GameRendererMixin": {
+        "Lnet/minecraft/profiler/IProfiler;endStartSection(Ljava/lang/String;)V": "Lnet/minecraft/profiler/IProfiler;func_219895_b(Ljava/lang/String;)V",
+        "updateCameraAndRender": "Lnet/minecraft/client/renderer/GameRenderer;func_195458_a(FJZ)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "1": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "2": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "3": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "4": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "5": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "6": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "7": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "8": {
+      "item": "useless_sword:dragon_scale"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_egg",
+    "count": 1
+  }
+}

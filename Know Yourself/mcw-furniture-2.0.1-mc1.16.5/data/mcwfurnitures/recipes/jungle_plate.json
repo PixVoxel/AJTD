@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "ABA",
+        "AAA"                
+    ],
+    
+    "key":
+    { 
+        "B":
+        {
+            "item": "minecraft:jungle_log"
+        },    
+        
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:jungle_plate",
+        "count": 8
+    }
+}
+
+

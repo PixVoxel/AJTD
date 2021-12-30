@@ -1,0 +1,22 @@
+{
+    "variants": {
+    "facing=east,part=bottom":  { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6", "y":270 },
+    "facing=west,part=bottom":  { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6", "y":90 },
+    "facing=north,part=bottom": { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6", "y":180},
+    "facing=south,part=bottom": { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6", "y":0 },
+
+    "facing=east,part=middle":  { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6_middle", "y":270 },
+    "facing=west,part=middle":  { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6_middle", "y":90 },
+    "facing=north,part=middle": { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6_middle", "y":180},
+    "facing=south,part=middle": { "model": "mcwfurnitures:block/dresser/dark_oak/dark_oak_dresser_6_middle", "y":0 },
+
+	"facing=east,part=top":  { "model": "mcwfurnitures:block/empty", "y":270 },
+    "facing=west,part=top":  { "model": "mcwfurnitures:block/empty", "y":90 },
+    "facing=north,part=top": { "model": "mcwfurnitures:block/empty", "y":180},
+    "facing=south,part=top": { "model": "mcwfurnitures:block/empty", "y":0 }
+		
+    }
+}
+
+
+

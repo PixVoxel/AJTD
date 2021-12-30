@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Source 1.16.5
+MixinConfigs: farmersdelight.mixins.json
+Implementation-Version: 1.16.5-0.5.1
+Specification-Vendor: vectorwing
+Specification-Title: farmersdelight
+Implementation-Timestamp: 2021-10-24T20:48:08-0300
+Specification-Version: 1
+Implementation-Vendor: vectorwing
+

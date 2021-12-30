@@ -1,0 +1,24 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "upgrade_aquatic:pike"
+    },
+    "1": {
+      "item": "upgrade_aquatic:pike"
+    },
+    "2": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:pike_slapper",
+    "count": 1
+  }
+}

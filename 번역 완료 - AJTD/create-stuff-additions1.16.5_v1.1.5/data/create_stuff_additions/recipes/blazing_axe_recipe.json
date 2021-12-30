@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_axe"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_stuff_additions:blazing_axe",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

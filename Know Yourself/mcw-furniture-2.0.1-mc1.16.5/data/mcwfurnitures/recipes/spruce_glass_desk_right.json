@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        " B "           
+    ],
+    
+    "key":
+    { 
+        "A": {
+            "item": "minecraft:glass_pane"
+        },
+        "B": {
+            "item": "mcwfurnitures:spruce_double_desk_right"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_glass_desk_right",
+        "count": 1
+    }
+}

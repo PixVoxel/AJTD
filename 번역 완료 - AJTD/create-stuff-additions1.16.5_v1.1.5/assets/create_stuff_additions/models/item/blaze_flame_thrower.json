@@ -1,0 +1,7 @@
+{
+  "parent": "create_stuff_additions:custom/blaze_flame_thrower",
+  "textures": {
+    "0": "create_stuff_additions:blocks/flame_thrower",
+    "particle": "create_stuff_additions:items/brass_portable_drill"
+  }
+}

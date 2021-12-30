@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:acacia_nightstand_2"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:acacia_dresser_3",
+        "count": 1
+    }
+}
+
+

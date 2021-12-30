@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "B"               
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:birch_plate"
+        },    
+        
+        "B":
+        {
+            "item": "mcwfurnitures:birch_nightstand"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:birch_pult_4",
+        "count": 1
+    }
+}
+
+

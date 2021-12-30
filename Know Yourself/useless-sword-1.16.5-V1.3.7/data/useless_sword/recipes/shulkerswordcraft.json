@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:shulker_shell"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:shulker_shell"
+    },
+    "3": {
+      "item": "minecraft:shulker_shell"
+    },
+    "4": {
+      "item": "minecraft:shulker_box"
+    },
+    "5": {
+      "item": "minecraft:shulker_shell"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "useless_sword:shulker_sword",
+    "count": 1
+  }
+}

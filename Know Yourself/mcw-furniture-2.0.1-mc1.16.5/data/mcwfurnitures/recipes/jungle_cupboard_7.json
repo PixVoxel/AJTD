@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AB"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:jungle_cupboard_6"
+        },    
+        
+        "B":
+        {
+            "item": "mcwfurnitures:jungle_plate"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:jungle_cupboard_7",
+        "count": 1
+    }
+}
+
+

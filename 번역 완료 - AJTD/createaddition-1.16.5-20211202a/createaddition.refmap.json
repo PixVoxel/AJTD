@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/mrh0/createaddition/mixin/AbstractFurnaceMixin": {
+      "dataAccess": "field_214013_b:Lnet/minecraft/util/IIntArray;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/mrh0/createaddition/mixin/AbstractFurnaceMixin": {
+        "dataAccess": "field_214013_b:Lnet/minecraft/util/IIntArray;"
+      }
+    }
+  }
+}

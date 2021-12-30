@@ -1,0 +1,32 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "create:andesite_alloy"
+    },
+    "1": {
+      "item": "create:andesite_alloy"
+    },
+    "2": {
+      "item": "create:andesite_alloy"
+    },
+    "3": {
+      "item": "create:andesite_alloy"
+    },
+    "4": {
+      "item": "create:redstone_link"
+    },
+    "5": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:andesite_helmet",
+    "count": 1
+  }
+}

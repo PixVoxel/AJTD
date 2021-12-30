@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "useless_sword:wither_sword"
+    },
+    "title": {
+      "translate": "advancements.sword_master.title"
+    },
+    "description": {
+      "translate": "advancements.sword_master.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sword_master": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}

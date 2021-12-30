@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: forge-1.16.1-weaponthrowing
+Implementation-Version: 1.16.4-5.4
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-10-30T16:57:03-0500
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

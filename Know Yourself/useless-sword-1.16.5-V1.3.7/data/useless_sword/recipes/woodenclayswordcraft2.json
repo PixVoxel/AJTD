@@ -1,0 +1,36 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay_ball"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:clay_ball"
+    },
+    "3": {
+      "item": "minecraft:clay_ball"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "item": "minecraft:clay_ball"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:clay_sword",
+    "count": 1
+  }
+}

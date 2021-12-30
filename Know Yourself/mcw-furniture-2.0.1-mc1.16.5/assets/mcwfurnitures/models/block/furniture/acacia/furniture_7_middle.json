@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_7_middle",
+	"textures": {
+					"particle": "minecraft:block/acacia_log",
+		"3": "minecraft:block/acacia_log",
+		"6": "minecraft:block/bookshelf",
+		"texture": "minecraft:block/acacia_log"
+	}
+}

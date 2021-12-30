@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sponge"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "minecraft:sponge"
+    },
+    "3": {
+      "item": "minecraft:conduit"
+    },
+    "4": {
+      "item": "useless_sword:guardian_sword"
+    },
+    "5": {
+      "item": "minecraft:conduit"
+    },
+    "6": {
+      "item": "minecraft:sponge"
+    },
+    "7": {
+      "item": "minecraft:trident"
+    },
+    "8": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "useless_sword:elder_guardian_sword",
+    "count": 1
+  }
+}

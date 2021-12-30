@@ -1,0 +1,579 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 8tRZlX2Orymi8y1gIrtVeibeiajOM
+ G74WWboLiuMzCo=
+SHA-256-Digest-Manifest: SnmKScengrGRN0PQ/nBbcf8VpQdt95g+X/Ktxc6CLHk=
+Created-By: 1.8.0_302 (Red Hat, Inc.)
+
+Name: cofh/archersparadox/entity/projectile/ChallengeArrowEntity.class
+SHA-256-Digest: vkU2W/PU5y4lX/xUQqtzu8sFA0DKDL9zLU8vmPJSJaM=
+
+Name: data/archers_paradox/recipes/spore_arrow.json
+SHA-256-Digest: sSHkLiRBNfzPT9pJH3JRBfGIDiPEYATIu8ast4w5xAg=
+
+Name: assets/archers_paradox/textures/entity/projectiles/diamond_arrow
+ .png
+SHA-256-Digest: I0zMbevvkGYTCASrY/kc1Or8l5b+cJ72tweRSjsFS6E=
+
+Name: cofh/archersparadox/init/APItems$16.class
+SHA-256-Digest: ZcK1fjQXnuH3Tl39rVlGGCo+jnJ3LttGrhDZZ9iShgc=
+
+Name: assets/archers_paradox/textures/entity/projectiles/magma_arrow.p
+ ng
+SHA-256-Digest: z9lHI4cakPSMbBB33PhCXIm2IVgnbRoXWzAWxQ77KFo=
+
+Name: cofh/archersparadox/client/gui/QuiverScreen.class
+SHA-256-Digest: mYoKsUDlSqqvx3HzHji86INMKBGnOZVOrJWFwBUXHw4=
+
+Name: cofh/archersparadox/client/renderer/entity/VerdantArrowRenderer.
+ class
+SHA-256-Digest: jXg+nOahirNFe9yV1vWIgqCkocd7V0UIarKFs/7Y92E=
+
+Name: .cache/cache
+SHA-256-Digest: mTIdRjpgJMi+TxQCXbAGEjp1erigPaOq/IxZxRv7nvE=
+
+Name: data/archers_paradox/recipes/lightning_arrow.json
+SHA-256-Digest: hkOaY1oJ2jsKYiVpQbFYuYq+APW6gwOEfaGC1S8ThXU=
+
+Name: cofh/archersparadox/client/renderer/entity/ShulkerArrowRenderer.
+ class
+SHA-256-Digest: qfbmjFyBEfW3QKrOWZgr5M7xhfSpN2sR8+9ggnmJ5Xw=
+
+Name: cofh/archersparadox/item/QuiverItem$1.class
+SHA-256-Digest: 57W4Vkvxj1I5qcusKH1/m8L1ObvaQ3fWd8grYG5SvY8=
+
+Name: assets/archers_paradox/models/item/lightning_arrow.json
+SHA-256-Digest: IZWEa/GB8v8SV29/cOgTe00vSSx91llgHxiM4SbhwKk=
+
+Name: cofh/archersparadox/init/APItems$1.class
+SHA-256-Digest: 44Jgyaz7oCFeqP0qg+4FLnUB1gtOXkAFKDTOVWcTMw4=
+
+Name: assets/archers_paradox/models/item/phantasmal_arrow.json
+SHA-256-Digest: je2Wwu0Eyurozf8F8HwZys1Csq9XGlHE4FX/T2rZN0o=
+
+Name: assets/archers_paradox/textures/entity/projectiles/slime_arrow.p
+ ng
+SHA-256-Digest: Z2w/MRxjmMYainIvg5c3QQ00g2GpXjrwMVc9USM2CtA=
+
+Name: cofh/archersparadox/entity/projectile/FrostArrowEntity.class
+SHA-256-Digest: SESDu2JkNqkW1vjHHzZVH5Pqk3H0qgZs+VTqcFTjHdA=
+
+Name: assets/archers_paradox/models/item/slime_arrow.json
+SHA-256-Digest: 2aEh3q4qS7Wx+QTqsaQpIlgiBNpJFuidF32fjSXVTPA=
+
+Name: data/archers_paradox/recipes/slime_arrow.json
+SHA-256-Digest: u6vwn0Nc8t6iSXHDZUjCv+DKTG//frPifNjChsti0qQ=
+
+Name: assets/archers_paradox/textures/item/projectiles/lightning_arrow
+ .png
+SHA-256-Digest: yIrHS9XQCwAmSUX95FgPv0mzLUGd0WV5nOLj4jwIIZM=
+
+Name: cofh/archersparadox/client/renderer/entity/SporeArrowRenderer.cl
+ ass
+SHA-256-Digest: Oyoa4Oe7k1r6jhQm+AQWCNWAO/2JYgOeWZ8u6XEXJN0=
+
+Name: assets/archers_paradox/textures/item/projectiles/slime_arrow.png
+SHA-256-Digest: CWoAQRpH3sP+VHe0Y0KAZFBbLotxZY+2t8UYybdXF1Q=
+
+Name: assets/archers_paradox/textures/item/projectiles/prismarine_arro
+ w.png
+SHA-256-Digest: bva/L+d9GS1kejqwBG02YrDqYID99IYWY80TVAgyQxo=
+
+Name: assets/archers_paradox/lang/pt_br.json
+SHA-256-Digest: Nt7UWfBjIe4OZupdBa4i5AsZBmzfhhIwrfVKmzWE/vA=
+
+Name: cofh/archersparadox/entity/projectile/VerdantArrowEntity.class
+SHA-256-Digest: XmGj2fkZ1Cb2xUVTiO4hjTfUvNqDvcCLDKKZ4ww2On4=
+
+Name: cofh/archersparadox/init/APItems$9.class
+SHA-256-Digest: +IbqvNO4PCaSjrdvZHk3926Fgyz8prWtgs8tsAxDUic=
+
+Name: assets/archers_paradox/models/item/challenge_arrow.json
+SHA-256-Digest: A0eOBVMzZM4W9JnuvotMRmVLl+/SW1/SJy8usZfd4/0=
+
+Name: cofh/archersparadox/init/APReferences.class
+SHA-256-Digest: XejEioioK442R3ATTlOkZNeyjVdGFRGP2KJFKxlj5yw=
+
+Name: cofh/archersparadox/init/APItems$4.class
+SHA-256-Digest: 6WMJQASe68zgC5h1URSyHShY4/PClkkwvxmPVV/576M=
+
+Name: cofh/archersparadox/entity/projectile/EnderArrowEntity.class
+SHA-256-Digest: 3qId5pwnq4QlX23B7DJWT52IFDUTD3qLNvIx+ByHCZc=
+
+Name: cofh/archersparadox/init/APConfig$1.class
+SHA-256-Digest: ivkW4aaIGHunLrBaxD1L5/TQhh1NzTIqSoXxCTLmhvU=
+
+Name: assets/archers_paradox/textures/entity/projectiles/quartz_arrow.
+ png
+SHA-256-Digest: k8rn+wOUAR9SW9OR45r70oAnQU4WruUAb/YfHkYfwgg=
+
+Name: cofh/archersparadox/init/APItems$13.class
+SHA-256-Digest: L1811suWjoh1M8eBYSVTTLr9p3RzwJ7iatI/LE0+KUE=
+
+Name: assets/archers_paradox/textures/mob_effect/challenge_streak.png
+SHA-256-Digest: rvq0x1gerV75dbqdmn52EJiXUBICsAjZTi/90icuy7Y=
+
+Name: assets/archers_paradox/textures/item/projectiles/verdant_arrow.p
+ ng
+SHA-256-Digest: ROTKUox7rE2YiRWsJgrgwRDTHv+3410Vj4Rv4GQ7nH8=
+
+Name: data/archers_paradox/recipes/frost_arrow.json
+SHA-256-Digest: kPbGHZUKuKFiX9FRE0jIuNqBtjp8NsJ0ZeSnyPWoLAQ=
+
+Name: assets/archers_paradox/textures/entity/projectiles/prismarine_ar
+ row.png
+SHA-256-Digest: 95IzWZJrIX7Am8HrMeJtMBNEmQILzdfIH/ZmAtfHXGE=
+
+Name: assets/archers_paradox/models/item/verdant_arrow.json
+SHA-256-Digest: JoOxHEgamvQSGSBxkA1BPvbpeWcB+oIUFYaiQgl0flQ=
+
+Name: cofh/archersparadox/item/QuiverItem.class
+SHA-256-Digest: CwOxvLlOhSrydDuY8dsHd+wb9zwrGfHF6Pa/a/tvYk8=
+
+Name: cofh/archersparadox/init/APItems$10.class
+SHA-256-Digest: CYzd1lPD3vk85b1EFmC79dABH3kv7mx8ZIDg0pdg10E=
+
+Name: cofh/archersparadox/client/renderer/entity/ChallengeArrowRendere
+ r.class
+SHA-256-Digest: SL1fE9ICm3Q3kcSJjbDL28xB3NQYDpLh4DFd2sROkAo=
+
+Name: data/archers_paradox/recipes/verdant_arrow.json
+SHA-256-Digest: Xpd2y6Aiw0r/tNyFwf+NjoDbZxvWhN16aPn6qz2mNQw=
+
+Name: assets/archers_paradox/textures/entity/projectiles/verdant_arrow
+ .png
+SHA-256-Digest: ymUyRxu5JSXGGFUXd9LQOxV9C7FJVsAj5TEfmsJBHEs=
+
+Name: assets/archers_paradox/textures/entity/projectiles/displacement_
+ arrow.png
+SHA-256-Digest: j4zCSxZqnmlw7u8jQy+eooQh6JgKBetHze8Y/ZGxyJ0=
+
+Name: cofh/archersparadox/init/APItems$14.class
+SHA-256-Digest: U/98b01LWqhwhaTMK/sCB/D/DD7uXSe6ltE723Xeg9Q=
+
+Name: assets/archers_paradox/lang/de_de.json
+SHA-256-Digest: KoMbyEy9/XLV+nukX2HGSNE6Zr4xdRzRu6W0pO4+KMw=
+
+Name: META-INF/accesstransformer.cfg
+SHA-256-Digest: CUOicGNF4CxHkOKvftyUUJgCPiAtwZO00gIUlsj0rEQ=
+
+Name: assets/archers_paradox/textures/mob_effect/training_streak.png
+SHA-256-Digest: tIh+NXPKpsdD+rRAG6x6SySM2ecKmzVwWYQprl5+SIA=
+
+Name: assets/archers_paradox/textures/item/projectiles/frost_arrow.png
+SHA-256-Digest: 7RcnKEvARSGEAbHxUS0eNDBRQluAtmPX6UFFGfqaRiw=
+
+Name: assets/archers_paradox/models/item/diamond_arrow.json
+SHA-256-Digest: +G4c1sksqW69Gfrm0qzTQsy6SvIEPgxfH+Izqk/7OmA=
+
+Name: cofh/archersparadox/client/renderer/entity/DiamondArrowRenderer.
+ class
+SHA-256-Digest: 0TyxAn2LrHB+YtRxRbcmlpPGDVRamHJQiiF4k/yFJcw=
+
+Name: data/archers_paradox/recipes/blaze_arrow.json
+SHA-256-Digest: JKZLPk0nniq+T3PQ8CgBujomwe4K3Bb1ju0S8v6B1E8=
+
+Name: assets/archers_paradox/textures/item/projectiles/bonemeal_arrow.
+ png
+SHA-256-Digest: ba1UCda2oF5H4PGwyQuRx2Tp0cPtU9EVY4Pg0r1JnyI=
+
+Name: cofh/archersparadox/init/APItems$6.class
+SHA-256-Digest: 2RkLjVaxve2t/Opd82T/jEdytmiM9g3grw1dQeWj2fE=
+
+Name: assets/archers_paradox/textures/entity/projectiles/ender_arrow.p
+ ng
+SHA-256-Digest: tdnb84642J5YzCw5+JqyqOHj7FwndEfmQmfXm1v67Tg=
+
+Name: cofh/archersparadox/init/APIDs.class
+SHA-256-Digest: kf7aCSM8B4JSqxgd4titsIsHtsqjprsNXHGYDU79KRc=
+
+Name: assets/archers_paradox/textures/mob_effect/training_miss.png
+SHA-256-Digest: tnfs0gi8ni0DTjMs2pwgpR4XGZupwytyfIsW9FknZbI=
+
+Name: cofh/archersparadox/potion/ChallengeEffect.class
+SHA-256-Digest: EKkBSg/plH7RLfLnHzHd4233J28Tfsn0a8aoig7qtlI=
+
+Name: assets/archers_paradox/models/item/spore_arrow.json
+SHA-256-Digest: CJwdzFD2Kl9UCEEIlvo9FPew3hOj5Wty5DbHHHicIs8=
+
+Name: cofh/archersparadox/entity/projectile/PhantasmalArrowEntity.clas
+ s
+SHA-256-Digest: 0fVFEiezb4MDBbne4KqYhxGmAkIajXgeC+7wajLdDVQ=
+
+Name: assets/archers_paradox/textures/item/projectiles/phantasmal_arro
+ w.png
+SHA-256-Digest: +eLxXPADWsTWG9yUX4ysWQb2Rhjl81WDxqW4pm5J/Nc=
+
+Name: data/archers_paradox/recipes/prismarine_arrow.json
+SHA-256-Digest: IErD+9MMG/hDdwTeIGa/Mw3kVJ4k126yL3s9jAn/v5c=
+
+Name: assets/archers_paradox/textures/mob_effect/challenge_complete.pn
+ g
+SHA-256-Digest: vC5/mNp4KRs2JMlzty2/trH2I/h6zRX8fbORFqNWxEQ=
+
+Name: cofh/archersparadox/client/renderer/entity/LightningArrowRendere
+ r.class
+SHA-256-Digest: fvE+OfT2VqtT0YGRSGvfcRmwThGS9MS0xCy74R6bcVA=
+
+Name: cofh/archersparadox/entity/projectile/QuartzArrowEntity.class
+SHA-256-Digest: BlML95zhOYxn6TGqqf32keqGeTLbvzcRI9vSyTY8BDY=
+
+Name: assets/archers_paradox/models/item/shulker_arrow.json
+SHA-256-Digest: Gf9HKNzmLaL5T6Hyr2pvJFsekqVIkeWp/1htSptxQeY=
+
+Name: assets/archers_paradox/models/item/glowstone_arrow.json
+SHA-256-Digest: WzAHcY2Fc9Q3586cCLeIwk6gqE64cyrcYgVWwGREm7I=
+
+Name: pack.mcmeta
+SHA-256-Digest: s07xjCUOGuxXsEC9aoOOalux1Xqs0X7C48G4SVi3yl4=
+
+Name: assets/archers_paradox/models/item/displacement_arrow.json
+SHA-256-Digest: 00LNf8Js2Hlh73CJdOUmw82SLc8NTzVZA2mw2QpdAFA=
+
+Name: cofh/archersparadox/client/renderer/entity/BlazeArrowRenderer.cl
+ ass
+SHA-256-Digest: UJ6OIa0W4iGmqso9fRke9ibIXfgSZxsoygyhJgoUEls=
+
+Name: cofh/archersparadox/data/APTagsProvider$Item.class
+SHA-256-Digest: 9+ZEA/guOz+Z0SsiyXA42zBZISWO68DDV0mQY1WLRrE=
+
+Name: cofh/archersparadox/init/APEntities.class
+SHA-256-Digest: 2HvswRmhvxnYpeMMaROJ7jLJ29+jN1a7s9kYfDxnGFQ=
+
+Name: assets/archers_paradox/textures/item/projectiles/shulker_arrow.p
+ ng
+SHA-256-Digest: OY6U0LDhGOjAD9/Q9DVHzGq/OfhxrE2gmq8WR/NRUvo=
+
+Name: cofh/archersparadox/entity/projectile/LightningArrowEntity.class
+SHA-256-Digest: /p4GN9wksD7Wu292qOh2nLd9EFTbCc/hLehB3ajniLc=
+
+Name: assets/archers_paradox/textures/item/projectiles/displacement_ar
+ row.png
+SHA-256-Digest: iqtjETAaMe+786pzLtqy/8xff1UhBgnWzfILyixl4a0=
+
+Name: assets/archers_paradox/textures/entity/projectiles/spore_arrow.p
+ ng
+SHA-256-Digest: SmyaG0C02gJbPS4zpvTBo++OlLrO+vbv9+LtFaICtYk=
+
+Name: cofh/archersparadox/client/renderer/entity/DisplacementArrowRend
+ erer.class
+SHA-256-Digest: qgbGcelL9z5GIqW6+I5wYcz5y4O+QX2f5TAPSJBb5bQ=
+
+Name: cofh/archersparadox/entity/projectile/PrismarineArrowEntity.clas
+ s
+SHA-256-Digest: HRbg9Xn+KGvxiqp2mwXoMEOZx927Xdy+9Y4nRPapD4I=
+
+Name: cofh/archersparadox/data/APRecipeProvider.class
+SHA-256-Digest: TZ6D3ZvreXT5czAYbIgq2jb9OZ/vlsPk9SKCoz3x9PQ=
+
+Name: cofh/archersparadox/entity/projectile/SlimeArrowEntity.class
+SHA-256-Digest: 2Nwnq8HnsGf65s/dFm8up7kqUX0brRhkJctKjpw4WhE=
+
+Name: assets/archers_paradox/models/item/ender_arrow.json
+SHA-256-Digest: J8o1yZnKbrT2VdREYLTMnQ5xmudqsgdjMbmIEH7L2+8=
+
+Name: assets/archers_paradox/textures/item/projectiles/blaze_arrow.png
+SHA-256-Digest: BzLIFUwmrwgawEl1ARMLgH/6Enycgho0olFQtgVV0yQ=
+
+Name: assets/archers_paradox/textures/entity/projectiles/redstone_arro
+ w.png
+SHA-256-Digest: SphYef6nLd2D7gVii6TuLBBXo/cS4FDywltrw55TGjs=
+
+Name: cofh/archersparadox/client/renderer/entity/ExplosiveArrowRendere
+ r.class
+SHA-256-Digest: CpnDE3kb6HR56f1MgduOAGTh6BN3lYncB4jGfWOJRlU=
+
+Name: cofh/archersparadox/entity/projectile/BlazeArrowEntity.class
+SHA-256-Digest: ouxT379hqh+tHDyzUFHs8YXqw7uUxCh+KU0iKiHpJ/g=
+
+Name: cofh/archersparadox/init/APItems$5.class
+SHA-256-Digest: CI1Dy+c9sOwZiH9ZVrqWNxBjxANYMTCtaacZVkRqup0=
+
+Name: assets/archers_paradox/lang/en_us.json
+SHA-256-Digest: 5fRPHxrOa7U22mcTXp8HzgH2c34HR0DqJsxzNbi1dMw=
+
+Name: assets/archers_paradox/textures/entity/projectiles/shulker_arrow
+ .png
+SHA-256-Digest: MkcRCv8L8rNGLulUMHebeXPaTOczGwgy6DUex16Kdhg=
+
+Name: cofh/archersparadox/init/APItems$15.class
+SHA-256-Digest: ryK5bGunW6J/En9+1SWznzWl8p4jPJ6Ijm+wZgcARb8=
+
+Name: data/archers_paradox/recipes/shulker_arrow.json
+SHA-256-Digest: rkNZ43fXHooyh3N76CEbriMPFE8YePH5o0RNU5oP2nE=
+
+Name: cofh/archersparadox/entity/projectile/RedstoneArrowEntity.class
+SHA-256-Digest: kUPqqjROP3iT0FA6nRuYLUeWU61i0rF/1p3CMH3FFis=
+
+Name: cofh/archersparadox/entity/projectile/DisplacementArrowEntity.cl
+ ass
+SHA-256-Digest: SgmrcHOT2xRbY7n5eGez4ii02bDDoKbka4PDbJ8oES8=
+
+Name: data/archers_paradox/recipes/quartz_arrow.json
+SHA-256-Digest: BiUyphn6iTEV2OBRceGvY3RojjzspXIqLarFHzscEkM=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: 9ZmyakkuqgqR9zwM380S7Ti4Mahi5LT438Kr8cxi+po=
+
+Name: assets/archers_paradox/textures/entity/projectiles/lightning_arr
+ ow.png
+SHA-256-Digest: F6rggdVZNmDlMKG9I0KYR/XGQYVxRrrw3GfXKVQlQOo=
+
+Name: cofh/archersparadox/client/renderer/entity/PrismarineArrowRender
+ er.class
+SHA-256-Digest: viNIpELfowtDJ7TiWGEScNRTaBqA3/0gnpFuBKdr6Oo=
+
+Name: cofh/archersparadox/data/APTagsProvider.class
+SHA-256-Digest: jDjeInh2XPwDX26JeQWohQcey9pBRJE4XB/bb4wlJV0=
+
+Name: cofh/archersparadox/entity/projectile/TrainingArrowEntity.class
+SHA-256-Digest: t+EQdOG/vKhR2ezaqu0lcmSVtw4o0F+28zQ99MnRbGA=
+
+Name: cofh/archersparadox/data/APDataGen.class
+SHA-256-Digest: IG60aXnN/ILXh7/hKT17tpEy4bptAm8aGFUEeDONDT4=
+
+Name: data/archers_paradox/recipes/explosive_arrow.json
+SHA-256-Digest: y7RxWKSs2bHfPNi+UdDRL2fpqmqUKOE4wP+hlj2GBdk=
+
+Name: assets/archers_paradox/models/item/redstone_arrow.json
+SHA-256-Digest: gVsK86Ab7WWg8pnnMHXokIUUTOpb4aEgKUF5OjsLqLo=
+
+Name: cofh/archersparadox/client/renderer/entity/EnderArrowRenderer.cl
+ ass
+SHA-256-Digest: nL+zECzFb5TikBP5rnT7TjexhnLhA3nxcGBzTMlwUZY=
+
+Name: assets/archers_paradox/lang/pl_pl.json
+SHA-256-Digest: MwdTKEQbSZPeC5hueiAH+SyEWk8fAWTSa6wqLAgrTpQ=
+
+Name: cofh/archersparadox/client/renderer/entity/TrainingArrowRenderer
+ .class
+SHA-256-Digest: 9C95wRmvaGI3W/nPYiosZnm1/HzlBfKA0Yptw6Jdhlk=
+
+Name: cofh/archersparadox/event/APCommonSetupEvents.class
+SHA-256-Digest: s/H1Nw0DPRoFagBQu+aIVzodLWNIEscJ3GoiIMHPJM4=
+
+Name: assets/archers_paradox/models/item/explosive_arrow.json
+SHA-256-Digest: 5jof8M+vopOIg62aezIXTK3cRFX68dIaXB4tlJ0exqg=
+
+Name: assets/archers_paradox/textures/entity/projectiles/training_arro
+ w.png
+SHA-256-Digest: d1qOxITyps78CKapAqVMB2iMKg6qNNPnmS/3VsbcE58=
+
+Name: data/archers_paradox/recipes/ender_arrow.json
+SHA-256-Digest: ZJtR/O7gQTX9EYPDKD2zY/NdMhNqfMqm+5S1DGpW7/g=
+
+Name: cofh/archersparadox/entity/projectile/MagmaArrowEntity$1.class
+SHA-256-Digest: ieOnSHk0TwKoVIY557dv1UNIpaXKME07QN2F3YkxF7U=
+
+Name: cofh/archersparadox/entity/projectile/SlimeArrowEntity$1.class
+SHA-256-Digest: kDVXS9fXozq+XZ/ZRq0SmKuXRTSTvEN0VhFc2tjTyfk=
+
+Name: assets/archers_paradox/textures/entity/projectiles/frost_arrow.p
+ ng
+SHA-256-Digest: hKU41V3dlkqXruRgYaVMLLOO8rXoAwc2AAKvX5uXhIU=
+
+Name: cofh/archersparadox/init/APItems.class
+SHA-256-Digest: sAi27jMu6l+lnqRexc9LPqyhh830fkF9Fr0O15AKDC4=
+
+Name: assets/archers_paradox/models/item/quartz_arrow.json
+SHA-256-Digest: Z31L5hesuDmNRZZqA+uH4s3cWcZjONJ8zsgNlhIUAq0=
+
+Name: cofh/archersparadox/data/APTagsProvider$Block.class
+SHA-256-Digest: Vr+un63RnfrXS8UslMu9tynCCBsB1VXd8jgNM2dWFqM=
+
+Name: assets/archers_paradox/textures/item/projectiles/diamond_arrow.p
+ ng
+SHA-256-Digest: +U8BYk+Q52vCcCCuAcROfgPCmMO59tEkcRJLFJvj7II=
+
+Name: cofh/archersparadox/client/renderer/entity/QuartzArrowRenderer.c
+ lass
+SHA-256-Digest: EEfmNs6zdbA2v0H/m7K8zN2Lzun/nMn35XhFVqcCppY=
+
+Name: cofh/archersparadox/init/APConfig.class
+SHA-256-Digest: MI70Bgbi4/6IqCIOAW4hXMWy795LIeCiw+cmpXkDQHw=
+
+Name: logo.png
+SHA-256-Digest: nXdt1/AgNJaiaWdLZvtuqSeGjvp46tMFobukJAnVneA=
+
+Name: cofh/archersparadox/client/renderer/entity/SlimeArrowRenderer.cl
+ ass
+SHA-256-Digest: oaKGRs8OTcSWbQSlHrJ4G6f2euRHsW0PVAm+RK7UQ/A=
+
+Name: cofh/archersparadox/init/APItems$17.class
+SHA-256-Digest: Xv0Yn2VfHLJnJSg3ixnh9MNhy5ypXojmr0/uQOVZ3zg=
+
+Name: cofh/archersparadox/inventory/container/QuiverContainer.class
+SHA-256-Digest: YVm/jZOa6K+ur6U2KFMpTWA0fqDCJtI1NrOvoLUmkGI=
+
+Name: cofh/archersparadox/client/renderer/entity/MagmaArrowRenderer.cl
+ ass
+SHA-256-Digest: ON7tg18iMiqTWA2asMyEFC+9obAAFkUFDnl8Ze9Z/y8=
+
+Name: cofh/archersparadox/client/renderer/entity/RedstoneArrowRenderer
+ .class
+SHA-256-Digest: KQGO8k0V20Ay8VpZG0aC6aUSnY5Gg1EysBiVSjVRU+s=
+
+Name: cofh/archersparadox/entity/projectile/MagmaArrowEntity.class
+SHA-256-Digest: +FemuFdQ67jskIr3jOYhPIeB/rXXyvfbbIDJiIe9hls=
+
+Name: data/archers_paradox/recipes/diamond_arrow.json
+SHA-256-Digest: x5+QpcT1IfTuRQyLBCyP0nWctE3NLpBfFhGntv5VFA4=
+
+Name: assets/archers_paradox/textures/entity/projectiles/glowstone_arr
+ ow.png
+SHA-256-Digest: 9OQYAx32sRNECZqGTSGrINQvx5BKYmIEOCF59ddH4Jo=
+
+Name: cofh/archersparadox/client/renderer/entity/PhantasmalArrowRender
+ er.class
+SHA-256-Digest: iowpvIpzbGtbJsQCIJpzYDpptbRLKbBkKVFVOaEQUUk=
+
+Name: data/archers_paradox/recipes/phantasmal_arrow.json
+SHA-256-Digest: xWtlevdpf6npocD4fJR2epaNfJpr/1KaZ9U6Net9DV4=
+
+Name: cofh/archersparadox/init/APItems$3.class
+SHA-256-Digest: etsFSg9YGJFhP0NQZgXDaL+LG1dGO5xnyPkz2ooM3X4=
+
+Name: cofh/archersparadox/entity/projectile/DiamondArrowEntity.class
+SHA-256-Digest: enTYFm9QBtIIFXqFU99kjIt0shraxT9foE+HhQNx/DM=
+
+Name: assets/archers_paradox/models/item/blaze_arrow.json
+SHA-256-Digest: QVfIkYmLGKJmRF7ep7O9F/nLiT7rQElWQQzED3LTR2s=
+
+Name: cofh/archersparadox/entity/projectile/ShulkerArrowEntity.class
+SHA-256-Digest: O09qaNZymYkYti2EQ9hITOyFHKgMmCy98yCpb/1wuGA=
+
+Name: cofh/archersparadox/entity/projectile/GlowstoneArrowEntity.class
+SHA-256-Digest: xX0galO5QA4sZ8thR48c3uPFg3m89sshDL0cnocZP+Q=
+
+Name: assets/archers_paradox/textures/item/projectiles/glowstone_arrow
+ .png
+SHA-256-Digest: CRAZtwx2/SQASJ9CMGGmtcRmIsdNAHfljLTyAbOxsaQ=
+
+Name: assets/archers_paradox/textures/entity/projectiles/bonemeal_arro
+ w.png
+SHA-256-Digest: gM/lcNH/jbTeXteYrqYZy55SRkh/hNpaDahJxLRVRa8=
+
+Name: assets/archers_paradox/textures/mob_effect/challenge_miss.png
+SHA-256-Digest: +93lfkhK3jXKbhC0dyCE3ZzF6fDEvtkD75QLJC3ksqM=
+
+Name: cofh/archersparadox/client/renderer/entity/GlowstoneArrowRendere
+ r.class
+SHA-256-Digest: kEZOUg0cHAJoHavTaiNyhcLdD/SZxlpF/FzE4gZSOPU=
+
+Name: assets/archers_paradox/textures/entity/projectiles/blaze_arrow.p
+ ng
+SHA-256-Digest: ZwlwUxaHRBp7y+ern15Srwb1aMWSe76wrxsf9uxGIQQ=
+
+Name: data/archers_paradox/recipes/challenge_arrow.json
+SHA-256-Digest: NKQ6WJATVlbbYm1KQqiAdPZK2wFIKQCvhvRrDHgf11s=
+
+Name: data/minecraft/tags/items/arrows.json
+SHA-256-Digest: +w8wApC5PtvQwhJpDQombwvULww++rhzOYE8dJc8ezk=
+
+Name: cofh/archersparadox/init/APItems$7.class
+SHA-256-Digest: sficvHku4J5+QPlg8PImIP46iBT+QcfhpdUwQz/FqfE=
+
+Name: cofh/archersparadox/init/APItems$11.class
+SHA-256-Digest: BQ5TS0PTaGM6ZD4NHRTRSguv/HV3obm6N16RLWUqx48=
+
+Name: assets/archers_paradox/lang/ru_ru.json
+SHA-256-Digest: C0QtnrxWG5XGcQKu/5PEcpdxGkrqjz4XxG2U+chiacs=
+
+Name: assets/archers_paradox/textures/item/projectiles/training_arrow.
+ png
+SHA-256-Digest: kwFiDuSkhw88lV262ZIM5zlIIATWCfpA7+jPI87Rl/0=
+
+Name: cofh/archersparadox/ArchersParadox.class
+SHA-256-Digest: 6o4zrng3cAf1r5ox6a0GuyItNbKJ/FlGWjqAmyTXhDs=
+
+Name: cofh/archersparadox/init/APEffects.class
+SHA-256-Digest: XFkOMmrFg3xU3/tHsiOlbl4yTxW+2UETrRXSrcSR2GY=
+
+Name: assets/archers_paradox/textures/item/projectiles/ender_arrow.png
+SHA-256-Digest: xMHQSe2cGEyvTjenxpDz93Ttl8DbLDJyAvvUbbJcYN4=
+
+Name: data/archers_paradox/recipes/redstone_arrow.json
+SHA-256-Digest: RLIocqjWFS5Dve2sX1TeMYoLjo1lrQZcTNnGUs6qaaE=
+
+Name: data/archers_paradox/recipes/glowstone_arrow.json
+SHA-256-Digest: p8jsO5+CaC6lqbTTQlSA3VUs4MW5c/vTkjFWloZKUv0=
+
+Name: cofh/archersparadox/data/APItemModelProvider.class
+SHA-256-Digest: iRIGWHP1ZPMqRsG4fD2b2+bDZ1H1GgyVns4EeNObu08=
+
+Name: data/archers_paradox/recipes/displacement_arrow.json
+SHA-256-Digest: Zx1a/lwU7+ExvRN4kR5xYHnCX5ehBAU1c4uQSJWw8W0=
+
+Name: assets/archers_paradox/textures/entity/projectiles/challenge_arr
+ ow.png
+SHA-256-Digest: L5SdE5iGv/eMnJCGXemf4bHF0BqMO6qxJm4XScZwvXI=
+
+Name: assets/archers_paradox/textures/item/projectiles/quartz_arrow.pn
+ g
+SHA-256-Digest: x5hDMBTHu2C9cRDj6ba1xoL0uKg3JyF9WpR4362KGvE=
+
+Name: assets/archers_paradox/models/item/frost_arrow.json
+SHA-256-Digest: STW/9UDKmRFmf9CfwBy3WhUjARS4aMfblYi7a/tMsK8=
+
+Name: cofh/archersparadox/init/APItems$2.class
+SHA-256-Digest: j6bA/h7gVepbvZRPIHF7dUSvV0T4hvyR/X++GibddRI=
+
+Name: assets/archers_paradox/textures/entity/projectiles/phantasmal_ar
+ row.png
+SHA-256-Digest: eNxmG3SZrx1zGbkHt/y/hRRQV+HlOEqHpu3Nui2yeVI=
+
+Name: assets/archers_paradox/models/item/prismarine_arrow.json
+SHA-256-Digest: z9LMocgfyloLBIbYKCxIjfKWR322CPK5TJg/k6aV98M=
+
+Name: cofh/archersparadox/entity/projectile/SporeArrowEntity.class
+SHA-256-Digest: YD4N3qHlTaPqlNg/XQFvrpMrIR3M+oRfJ0y+hs4UT7c=
+
+Name: data/archers_paradox/recipes/training_arrow.json
+SHA-256-Digest: PDh39hGq2uU/6elA/0OjDmhsvVbQCk8GOahPTtQeKr4=
+
+Name: assets/archers_paradox/lang/zh_cn.json
+SHA-256-Digest: GUrkvhOQ7Vs6LDVJ/B1Zkb9Rjoab9Iam2DXGBenalJA=
+
+Name: assets/archers_paradox/textures/item/projectiles/explosive_arrow
+ .png
+SHA-256-Digest: O5VGmf08Vo3K9dY4+fteeR6gaCAa/x3i8N4okndEAaY=
+
+Name: cofh/archersparadox/client/renderer/entity/FrostArrowRenderer.cl
+ ass
+SHA-256-Digest: srQm6FxnIs+MliUTAHeHufReq5dJTnVSa/rP+CLFM5I=
+
+Name: cofh/archersparadox/init/APItems$12.class
+SHA-256-Digest: 5bWpYSkdqanU/uiynEarwl8xsOHXttGTeE3mJfH8n90=
+
+Name: assets/archers_paradox/textures/entity/projectiles/explosive_arr
+ ow.png
+SHA-256-Digest: wHUmwsQQI9+KvkbkaNkjJccZq/AKntgT4Mqe6xRPPoU=
+
+Name: cofh/archersparadox/init/APItems$18.class
+SHA-256-Digest: UXRvKohB4fSM9NBNty6nTvxi551OqssF9hdrlY9v1YA=
+
+Name: cofh/archersparadox/init/APItems$8.class
+SHA-256-Digest: ekwa5P5VDsVhb1NEOJeUkkeDyTyt+PD3UNGVI6imbi0=
+
+Name: cofh/archersparadox/entity/projectile/ExplosiveArrowEntity.class
+SHA-256-Digest: juQcQ/EiGKA7RR++XM28hBbJsML/4MxYKa32kub4FaQ=
+
+Name: cofh/archersparadox/ArchersParadox$1.class
+SHA-256-Digest: XjRUynK/aHLc0LVCROoTLMjvO0h0UUnfgjuW4o/kois=
+
+Name: assets/archers_paradox/textures/item/projectiles/spore_arrow.png
+SHA-256-Digest: 2eZCIrY66lW4WKPcCPQf79DFRUyg5KVBtv51VFPXx0o=
+
+Name: assets/archers_paradox/models/item/training_arrow.json
+SHA-256-Digest: edNERWBFhcm3ccLUnHss+L6jJgbzJU0Dh6jmuQTExZ4=
+
+Name: assets/archers_paradox/textures/item/projectiles/magma_arrow.png
+SHA-256-Digest: oa74nPcQrpIsb98K1G04cuuuSDVK36sEpY+CJ8uy/Vc=
+
+Name: assets/archers_paradox/textures/item/projectiles/redstone_arrow.
+ png
+SHA-256-Digest: AiDXrYOGYZ0zZ5YKIAzcNoD/AHh6ZJMHaTZAu8h6G0Q=
+
+Name: assets/archers_paradox/textures/item/projectiles/challenge_arrow
+ .png
+SHA-256-Digest: X1dHQFoPmIkMXReJAYDSI/6lfEftucktpjq6TnnU7PU=
+

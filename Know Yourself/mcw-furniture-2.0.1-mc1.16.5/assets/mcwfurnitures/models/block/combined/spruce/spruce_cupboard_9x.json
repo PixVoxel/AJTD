@@ -1,0 +1,10 @@
+{
+	"parent": "mcwfurnitures:block/parent/cupboard/cupboard_9x",
+	"textures": {
+		"1": "minecraft:block/spruce_log",
+		"3": "minecraft:block/spruce_log",
+		"4": "minecraft:block/stripped_spruce_log",
+		"particle": "minecraft:block/spruce_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "4": {
+      "item": "minecraft:iron_sword"
+    },
+    "5": {
+      "item": "useless_sword:guardian_spikes"
+    },
+    "7": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "useless_sword:thorny_iron_sword",
+    "count": 1
+  }
+}

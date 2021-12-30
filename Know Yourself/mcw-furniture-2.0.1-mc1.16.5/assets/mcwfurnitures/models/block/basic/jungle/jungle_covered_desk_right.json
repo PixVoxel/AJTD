@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfurnitures:block/parent/deskpart/covered_desk_right",
+	"textures": {
+		"2": "minecraft:block/iron_block",
+		"texture": "minecraft:block/jungle_log",
+		"4": "minecraft:block/stripped_jungle_log",
+		"particle": "minecraft:block/jungle_log"
+	}
+}

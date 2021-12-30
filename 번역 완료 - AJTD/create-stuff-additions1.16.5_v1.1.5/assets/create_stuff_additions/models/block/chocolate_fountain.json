@@ -1,0 +1,11 @@
+{
+  "parent": "create_stuff_additions:custom/chocolate_fountain",
+  "textures": {
+    "all": "create_stuff_additions:blocks/chocolate_fountain_back",
+    "particle": "create_stuff_additions:blocks/chocolate_fountain_back",
+    "0": "create_stuff_additions:blocks/chocolate_fountain_back",
+    "1": "create_stuff_additions:blocks/chocolate_fountain",
+    "2": "create_stuff_additions:blocks/chocolate_fountain_top",
+    "3": "create_stuff_additions:blocks/chocolate"
+  }
+}

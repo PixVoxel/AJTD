@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_5",
+	"textures": {
+				"particle": "minecraft:block/warped_stem",
+		"1": "minecraft:block/stripped_warped_stem",
+		"3": "minecraft:block/warped_stem",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

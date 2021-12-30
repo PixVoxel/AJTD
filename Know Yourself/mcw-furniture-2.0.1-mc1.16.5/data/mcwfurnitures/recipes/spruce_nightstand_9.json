@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",   
+        "B"           
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:spruce_nightstand_11"
+        },
+        
+       "B":
+        {
+            "item": "minecraft:spruce_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_nightstand_9",
+        "count": 1
+    }
+}
+
+

@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/gui/dresser_3",
+	"textures": {
+		"2": "minecraft:block/stripped_acacia_log",
+		"texture": "minecraft:block/acacia_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

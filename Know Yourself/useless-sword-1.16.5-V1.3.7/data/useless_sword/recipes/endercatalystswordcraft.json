@@ -1,0 +1,42 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "1": {
+      "item": "useless_sword:endstone_sword"
+    },
+    "2": {
+      "item": "useless_sword:dragon_scale"
+    },
+    "3": {
+      "item": "minecraft:purpur_block"
+    },
+    "4": {
+      "item": "minecraft:ender_eye"
+    },
+    "5": {
+      "item": "minecraft:purpur_block"
+    },
+    "6": {
+      "item": "minecraft:dragon_breath"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "item": "useless_sword:ender_catalyst_sword",
+    "count": 1
+  }
+}

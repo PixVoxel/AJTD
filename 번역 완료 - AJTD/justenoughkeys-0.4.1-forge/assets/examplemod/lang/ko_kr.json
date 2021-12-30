@@ -1,0 +1,15 @@
+{
+  "jek.controls.search.label": "검색:",
+  "jek.controls.search.tooltip.title": "검색",
+  "jek.controls.search.tooltip.description": "검색할 조작 키의 이름을 입력하십시오.",
+  "jek.controls.search.tooltip.advanced.title": "고급 검색",
+  "jek.controls.search.tooltip.advanced.description": "다음 토큰은 고급 검색에 도움이 됩니다.",
+  "jek.controls.search.tooltip.advanced.filters.title": "필터",
+  "jek.controls.search.tooltip.advanced.filters.description": "지정되지 않음 (^u), 충돌함 (^c)",
+  "jek.controls.search.tooltip.advanced.searchby.title": "검색 기준",
+  "jek.controls.search.tooltip.advanced.searchby.description": "키 (@k), 카테고리 (@c)",
+  "jek.controls.search.tooltip.advanced.example.prefix": "e.g ",
+  "jek.controls.search.tooltip.advanced.example.query": "^c @c jei ",
+  "jek.controls.search.tooltip.advanced.example.suffix": "will search for all conflicting keys in category jei."
+
+}

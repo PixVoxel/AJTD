@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "betternether",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "betternetherreforged:bone_block"
+    }
+  },
+  "result": {
+    "item": "betternetherreforged:bone_stalactite"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "botania:terrasteel_ingot"
+    },
+    "4": {
+      "item": "botania:terrasteel_ingot"
+    },
+    "6": {
+      "item": "botania:terrasteel_nugget"
+    },
+    "7": {
+      "item": "botania:thorn_chakram"
+    },
+    "8": {
+      "item": "botania:terrasteel_nugget"
+    }
+  },
+  "result": {
+    "item": "useless_sword:terra_bladed_chakram",
+    "count": 1
+  }
+}

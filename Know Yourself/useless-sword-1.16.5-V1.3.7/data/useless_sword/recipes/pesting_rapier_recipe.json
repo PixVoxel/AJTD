@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "twilightforest:firefly"
+    },
+    "4": {
+      "item": "twilightforest:firefly"
+    },
+    "6": {
+      "item": "twilightforest:moonworm"
+    },
+    "7": {
+      "item": "minecraft:wooden_sword"
+    },
+    "8": {
+      "item": "twilightforest:moonworm"
+    }
+  },
+  "result": {
+    "item": "useless_sword:pesting_rapier",
+    "count": 1
+  }
+}

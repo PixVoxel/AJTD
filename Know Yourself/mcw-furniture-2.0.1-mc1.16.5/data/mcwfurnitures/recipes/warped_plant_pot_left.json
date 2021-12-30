@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"     
+    ],
+    
+    "key":
+    { 
+        "A": {
+            "item": "mcwfurnitures:warped_plant_pot_right"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:warped_plant_pot_left",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:jungle_nightstand_5"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:jungle_dresser",
+        "count": 1
+    }
+}
+
+

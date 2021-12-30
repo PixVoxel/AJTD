@@ -1,0 +1,12 @@
+
+
+{
+	"parent": "mcwfurnitures:block/parent/furniture/furniture_4_bottom_mirror",
+	"textures": {
+					"particle": "minecraft:block/acacia_log",
+		"2": "minecraft:block/acacia_log",
+		"5": "minecraft:block/glass",
+		"6": "minecraft:block/bookshelf",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

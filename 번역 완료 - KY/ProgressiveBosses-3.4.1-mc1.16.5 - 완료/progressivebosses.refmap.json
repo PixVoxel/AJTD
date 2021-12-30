@@ -1,0 +1,60 @@
+{
+  "mappings": {
+    "insane96mcp/progressivebosses/mixin/DragonFireballEntityMixin": {
+      "onHit(Lnet/minecraft/util/math/RayTraceResult;)V": "Lnet/minecraft/entity/projectile/DragonFireballEntity;func_70227_a(Lnet/minecraft/util/math/RayTraceResult;)V"
+    },
+    "insane96mcp/progressivebosses/mixin/LandingPhaseMixin": {
+      "getFlySpeed()F": "Lnet/minecraft/entity/boss/dragon/phase/LandingPhase;func_188651_f()F"
+    },
+    "insane96mcp/progressivebosses/mixin/HoldingPatternPhaseMixin": {
+      "findNewTarget()V": "Lnet/minecraft/entity/boss/dragon/phase/HoldingPatternPhase;func_188675_j()V"
+    },
+    "insane96mcp/progressivebosses/mixin/EnderDragonEntityMixin": {
+      "hurt(Lnet/minecraft/util/DamageSource;F)Z": "Lnet/minecraft/entity/boss/dragon/EnderDragonEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z"
+    },
+    "insane96mcp/progressivebosses/mixin/ElderGuardianEntityMixin": {
+      "getAttackDuration()I": "Lnet/minecraft/entity/monster/ElderGuardianEntity;func_175464_ck()I"
+    },
+    "insane96mcp/progressivebosses/mixin/ShulkerBulletEntityMixin": {
+      "onHitEntity(Lnet/minecraft/util/math/EntityRayTraceResult;)V": "Lnet/minecraft/entity/projectile/ShulkerBulletEntity;func_213868_a(Lnet/minecraft/util/math/EntityRayTraceResult;)V",
+      "Lnet/minecraft/entity/LivingEntity;addEffect(Lnet/minecraft/potion/EffectInstance;)Z": "Lnet/minecraft/entity/LivingEntity;func_195064_c(Lnet/minecraft/potion/EffectInstance;)Z",
+      "tick()V": "Lnet/minecraft/entity/projectile/ShulkerBulletEntity;func_70071_h_()V"
+    },
+    "insane96mcp/progressivebosses/mixin/EnderCrystalEntityMixin": {
+      "hurt(Lnet/minecraft/util/DamageSource;F)Z": "Lnet/minecraft/entity/item/EnderCrystalEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z"
+    },
+    "insane96mcp/progressivebosses/mixin/ChargingPlayerPhaseMixin": {
+      "getFlySpeed()F": "Lnet/minecraft/entity/boss/dragon/phase/ChargingPlayerPhase;func_188651_f()F"
+    }
+  },
+  "data": {
+    "searge": {
+      "insane96mcp/progressivebosses/mixin/DragonFireballEntityMixin": {
+        "onHit(Lnet/minecraft/util/math/RayTraceResult;)V": "Lnet/minecraft/entity/projectile/DragonFireballEntity;func_70227_a(Lnet/minecraft/util/math/RayTraceResult;)V"
+      },
+      "insane96mcp/progressivebosses/mixin/LandingPhaseMixin": {
+        "getFlySpeed()F": "Lnet/minecraft/entity/boss/dragon/phase/LandingPhase;func_188651_f()F"
+      },
+      "insane96mcp/progressivebosses/mixin/HoldingPatternPhaseMixin": {
+        "findNewTarget()V": "Lnet/minecraft/entity/boss/dragon/phase/HoldingPatternPhase;func_188675_j()V"
+      },
+      "insane96mcp/progressivebosses/mixin/EnderDragonEntityMixin": {
+        "hurt(Lnet/minecraft/util/DamageSource;F)Z": "Lnet/minecraft/entity/boss/dragon/EnderDragonEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z"
+      },
+      "insane96mcp/progressivebosses/mixin/ElderGuardianEntityMixin": {
+        "getAttackDuration()I": "Lnet/minecraft/entity/monster/ElderGuardianEntity;func_175464_ck()I"
+      },
+      "insane96mcp/progressivebosses/mixin/ShulkerBulletEntityMixin": {
+        "onHitEntity(Lnet/minecraft/util/math/EntityRayTraceResult;)V": "Lnet/minecraft/entity/projectile/ShulkerBulletEntity;func_213868_a(Lnet/minecraft/util/math/EntityRayTraceResult;)V",
+        "Lnet/minecraft/entity/LivingEntity;addEffect(Lnet/minecraft/potion/EffectInstance;)Z": "Lnet/minecraft/entity/LivingEntity;func_195064_c(Lnet/minecraft/potion/EffectInstance;)Z",
+        "tick()V": "Lnet/minecraft/entity/projectile/ShulkerBulletEntity;func_70071_h_()V"
+      },
+      "insane96mcp/progressivebosses/mixin/EnderCrystalEntityMixin": {
+        "hurt(Lnet/minecraft/util/DamageSource;F)Z": "Lnet/minecraft/entity/item/EnderCrystalEntity;func_70097_a(Lnet/minecraft/util/DamageSource;F)Z"
+      },
+      "insane96mcp/progressivebosses/mixin/ChargingPlayerPhaseMixin": {
+        "getFlySpeed()F": "Lnet/minecraft/entity/boss/dragon/phase/ChargingPlayerPhase;func_188651_f()F"
+      }
+    }
+  }
+}

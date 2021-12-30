@@ -1,0 +1,12 @@
+{
+  "parent": "create_stuff_additions:custom/quartz_crusher",
+  "textures": {
+    "all": "create_stuff_additions:blocks/refined_radiance_casing",
+    "particle": "create_stuff_additions:blocks/refined_radiance_casing",
+    "0": "create_stuff_additions:blocks/quartz_crusher_face",
+    "1": "create_stuff_additions:blocks/quartz_crusher_top",
+    "2": "create_stuff_additions:blocks/refined_radiance_casing",
+    "3": "create_stuff_additions:blocks/quartz_crusher",
+    "4": "create_stuff_additions:blocks/crusher_part"
+  }
+}

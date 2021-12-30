@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: OmnipotentCard
+Implementation-Version: 1.0.1
+Specification-Vendor: marblegate.love
+Specification-Title: omni_card
+Implementation-Timestamp: 2021-12-20T19:02:08+0800
+Specification-Version: 1
+Implementation-Vendor: marblegate.love
+

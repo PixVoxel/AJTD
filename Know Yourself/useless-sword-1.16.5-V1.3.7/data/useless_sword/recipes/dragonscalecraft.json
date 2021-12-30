@@ -1,0 +1,13 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_egg"
+    }
+  ],
+  "result": {
+    "item": "useless_sword:dragon_scale",
+    "count": 8
+  }
+}

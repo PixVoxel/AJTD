@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "useless_sword:emerald_stick"
+    },
+    "2": {
+      "item": "minecraft:emerald_block"
+    },
+    "3": {
+      "item": "useless_sword:emerald_stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:emerald_sword",
+    "count": 1
+  }
+}

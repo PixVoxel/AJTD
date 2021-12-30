@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Weapon Throw Localization",
+        "pack_format": 6,
+        "_comment": "A pack for 1.16.X with lang files."
+    }
+}

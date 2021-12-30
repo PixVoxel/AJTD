@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_stuff_additions:block/chocolate_fountain"
+    },
+    "facing=east": {
+      "model": "create_stuff_additions:block/chocolate_fountain",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_stuff_additions:block/chocolate_fountain",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_stuff_additions:block/chocolate_fountain",
+      "y": 270
+    }
+  }
+}

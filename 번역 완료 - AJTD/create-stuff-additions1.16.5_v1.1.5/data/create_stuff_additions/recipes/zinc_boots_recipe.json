@@ -1,0 +1,17 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 0",
+    "0 0"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:zinc_boots",
+    "count": 1
+  }
+}

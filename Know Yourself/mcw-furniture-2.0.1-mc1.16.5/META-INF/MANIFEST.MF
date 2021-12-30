@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: 1.16.5 Furniture
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-01-16T15:41:18+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

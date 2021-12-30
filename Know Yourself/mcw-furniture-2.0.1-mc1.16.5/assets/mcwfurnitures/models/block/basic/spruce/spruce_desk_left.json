@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/deskpart/desk_left",
+	"textures": {
+		"2": "minecraft:block/iron_block",
+		"texture": "minecraft:block/spruce_log",
+		"4": "minecraft:block/stripped_spruce_log",
+		"particle": "minecraft:block/spruce_log"
+	}
+}

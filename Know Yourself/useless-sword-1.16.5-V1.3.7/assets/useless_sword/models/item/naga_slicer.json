@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/naga_slicer",
+  "textures": {
+    "0": "useless_sword:blocks/naga_slicer",
+    "particle": "useless_sword:items/naga_slicer"
+  }
+}

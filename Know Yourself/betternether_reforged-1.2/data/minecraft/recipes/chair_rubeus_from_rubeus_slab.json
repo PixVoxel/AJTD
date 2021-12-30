@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "betternether",
+  "pattern": [
+    "I ",
+    "##",
+    "II"
+  ],
+  "key": {
+    "#": {
+      "item": "betternetherreforged:rubeus_slab"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "betternetherreforged:chair_rubeus"
+  }
+}

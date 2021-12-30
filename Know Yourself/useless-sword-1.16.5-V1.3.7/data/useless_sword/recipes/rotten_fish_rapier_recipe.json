@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "aquaculture:fish_bones"
+    },
+    "3": {
+      "item": "aquaculture:worm"
+    },
+    "4": {
+      "item": "aquaculture:fish_bones"
+    },
+    "5": {
+      "item": "aquaculture:worm"
+    },
+    "7": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:rotten_fish_rapier",
+    "count": 1
+  }
+}

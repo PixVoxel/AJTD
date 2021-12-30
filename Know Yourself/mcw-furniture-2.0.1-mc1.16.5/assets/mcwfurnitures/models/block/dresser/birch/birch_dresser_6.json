@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_6",
+	"textures": {
+				"particle": "minecraft:block/birch_log",
+		"2": "minecraft:block/stripped_birch_log",
+		"5": "minecraft:block/bookshelf",
+		"texture": "minecraft:block/birch_log"
+	}
+}

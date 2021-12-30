@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:red_mushroom_block"
+    },
+    "3": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "4": {
+      "item": "minecraft:brown_mushroom_block"
+    },
+    "5": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "7": {
+      "item": "minecraft:mushroom_stem"
+    }
+  },
+  "result": {
+    "item": "useless_sword:mushroom_sword",
+    "count": 1
+  }
+}

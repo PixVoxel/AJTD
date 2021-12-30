@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfurnitures:block/parent/cupboard/cupboard_6x",
+	"textures": {
+		"0": "minecraft:block/stripped_oak_log",
+		"3": "minecraft:block/oak_log",
+		"4": "minecraft:block/stripped_oak_log",
+		"particle": "minecraft:block/oak_log"
+	}
+}

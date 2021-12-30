@@ -1,0 +1,7 @@
+{
+  "parent": "create_stuff_additions:custom/nozzle_fan",
+  "textures": {
+    "0": "create_stuff_additions:blocks/nozzle_fan",
+    "particle": "create_stuff_additions:items/brass_portable_drill"
+  }
+}

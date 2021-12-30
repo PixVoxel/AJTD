@@ -1,0 +1,27 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "useless_sword:wither_blood"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "useless_sword:witherred_sword",
+    "count": 1
+  }
+}

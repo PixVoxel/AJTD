@@ -1,0 +1,12 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "useless_sword:gold_ingot_and_iron_ingot"
+  },
+  "result": {
+    "item": "useless_sword:gold_iron_alloy_ingot"
+  }
+}

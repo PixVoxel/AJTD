@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:spruce_cupboard_7"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_furniture_2",
+        "count": 1
+    }
+}
+
+

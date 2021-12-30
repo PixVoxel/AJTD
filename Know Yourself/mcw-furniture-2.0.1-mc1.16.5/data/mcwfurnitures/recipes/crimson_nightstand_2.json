@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",    
+        "B"           
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:crimson_nightstand"
+        },
+        
+       "B":
+        {
+            "item": "mcwfurnitures:drawer"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_nightstand_2",
+        "count": 1
+    }
+}
+
+

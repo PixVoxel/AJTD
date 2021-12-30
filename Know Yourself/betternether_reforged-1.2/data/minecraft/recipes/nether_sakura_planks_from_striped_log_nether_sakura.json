@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "betternether",
+  "ingredients": [
+    {
+      "item": "betternetherreforged:striped_log_nether_sakura"
+    }
+  ],
+  "result": {
+    "item": "betternetherreforged:nether_sakura_planks",
+    "count": 4
+  }
+}

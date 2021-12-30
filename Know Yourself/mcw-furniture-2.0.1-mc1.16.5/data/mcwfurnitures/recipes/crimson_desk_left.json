@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A"     
+    ],
+    
+    "key":
+    { 
+        "A": {
+            "item": "mcwfurnitures:crimson_desk_right"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:crimson_desk_left",
+        "count": 1
+    }
+}

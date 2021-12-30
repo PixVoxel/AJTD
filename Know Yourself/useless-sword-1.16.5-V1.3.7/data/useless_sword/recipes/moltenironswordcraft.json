@@ -1,0 +1,12 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:campfire_cooking",
+  "experience": 0,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "minecraft:iron_sword"
+  },
+  "result": {
+    "item": "useless_sword:molten_sword"
+  }
+}

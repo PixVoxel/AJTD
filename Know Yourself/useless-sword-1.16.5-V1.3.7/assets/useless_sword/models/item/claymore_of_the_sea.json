@@ -1,0 +1,7 @@
+{
+  "parent": "useless_sword:custom/claymore_of_the_sea",
+  "textures": {
+    "0": "useless_sword:blocks/claymore_of_the_sea",
+    "particle": "useless_sword:items/claymore_of_the_sea"
+  }
+}

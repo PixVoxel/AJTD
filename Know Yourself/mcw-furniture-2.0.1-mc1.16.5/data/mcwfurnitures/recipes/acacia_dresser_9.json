@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:acacia_box_2"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:bookshelf"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:acacia_dresser_9",
+        "count": 1
+    }
+}
+
+

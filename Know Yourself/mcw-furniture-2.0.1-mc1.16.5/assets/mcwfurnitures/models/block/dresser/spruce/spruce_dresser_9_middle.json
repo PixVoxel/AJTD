@@ -1,0 +1,10 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_9_middle",
+	"textures": {
+				"particle": "minecraft:block/spruce_log",
+		"1": "minecraft:block/stripped_spruce_log",
+		"texture": "minecraft:block/spruce_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "group": "useless_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "useless_sword:vex_ectoplasm"
+    },
+    "3": {
+      "item": "useless_sword:vex_ectoplasm"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "useless_sword:vex_ectoplasm"
+    },
+    "7": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "useless_sword:vex_sword",
+    "count": 1
+  }
+}

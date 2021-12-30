@@ -1,0 +1,11 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_17",
+	"textures": {
+				"particle": "minecraft:block/dark_oak_log",
+		"3": "minecraft:block/dark_oak_log",
+		"4": "minecraft:block/dark_oak_sapling",
+		"5": "minecraft:block/dark_oak_planks",
+		"texture": "minecraft:block/dark_oak_log"
+	}
+}

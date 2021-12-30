@@ -1,0 +1,46 @@
+[
+  {
+    "enchantment": "weaponthrow:throw",
+    "improvement": "enchantment/weaponthrow_throw"
+  },
+  {
+    "enchantment": "weaponthrow:throw",
+    "improvement": "destabilized/weaponthrow_throw",
+    "extract": false,
+    "multiplier": -1.0
+  },
+  {
+    "enchantment": "weaponthrow:groundededge",
+    "improvement": "enchantment/weaponthrow_groundededge"
+  },
+  {
+    "enchantment": "weaponthrow:groundededge",
+    "improvement": "destabilized/weaponthrow_groundededge",
+    "extract": false,
+    "multiplier": -1.0
+  },
+  {
+    "enchantment": "weaponthrow:conccusion",
+    "improvement": "enchantment/weaponthrow_conccusion"
+  },
+  {
+    "enchantment": "weaponthrow:conccusion",
+    "improvement": "destabilized/weaponthrow_conccusion",
+    "extract": false,
+    "multiplier": -1.0
+  },
+  {
+    "enchantment": "weaponthrow:gravity",
+    "improvement": "enchantment/weaponthrow_gravity"
+  },
+  {
+    "enchantment": "weaponthrow:return",
+    "improvement": "enchantment/weaponthrow_return"
+  },
+  {
+    "enchantment": "weaponthrow:return",
+    "improvement": "destabilized/weaponthrow_return",
+    "extract": false,
+    "multiplier": -1.0
+  }
+]

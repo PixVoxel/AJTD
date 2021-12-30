@@ -1,0 +1,12 @@
+
+{
+	"parent": "mcwfurnitures:block/parent/dresser/dresser_17_middle",
+	"textures": {
+				"particle": "minecraft:block/jungle_log",
+		"2": "minecraft:block/stripped_jungle_log",
+		"3": "minecraft:block/jungle_log",
+		"7": "minecraft:block/stripped_jungle_log",
+		"texture": "minecraft:block/jungle_log",
+		"1_2": "minecraft:block/iron_block"
+	}
+}

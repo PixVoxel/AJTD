@@ -1,0 +1,30 @@
+{
+  "group": "create_stuff_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "create:shadow_steel"
+    },
+    "1": {
+      "item": "create:shadow_steel"
+    },
+    "2": {
+      "item": "create:shadow_steel"
+    },
+    "3": {
+      "item": "create_stuff_additions:zinc_handle"
+    },
+    "5": {
+      "item": "create_stuff_additions:zinc_handle"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:shadow_steel_axe",
+    "count": 1
+  }
+}

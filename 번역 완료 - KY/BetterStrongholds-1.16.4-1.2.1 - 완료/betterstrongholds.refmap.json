@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "com/yungnickyoung/minecraft/betterstrongholds/mixin/EnderEyeBetterStrongholdLocatingMixin": {
+      "onItemRightClick": "Lnet/minecraft/item/EnderEyeItem;func_77659_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;"
+    },
+    "com/yungnickyoung/minecraft/betterstrongholds/mixin/ChunkGeneratorAccessor": {
+      "settings": "field_222543_d:Lnet/minecraft/world/gen/settings/DimensionStructuresSettings;",
+      "func_230347_a_": "func_230347_a_()Lcom/mojang/serialization/Codec;"
+    },
+    "com/yungnickyoung/minecraft/betterstrongholds/mixin/LocateStrongholdCommandMixin": {
+      "func_241053_a_": "Lnet/minecraft/command/impl/LocateCommand;func_241053_a_(Lnet/minecraft/command/CommandSource;Lnet/minecraft/world/gen/feature/structure/Structure;)I"
+    },
+    "com/yungnickyoung/minecraft/betterstrongholds/mixin/VanillaStrongholdSpawnMixin": {
+      "func_235958_g_": "Lnet/minecraft/world/gen/ChunkGenerator;func_235958_g_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/yungnickyoung/minecraft/betterstrongholds/mixin/EnderEyeBetterStrongholdLocatingMixin": {
+        "onItemRightClick": "Lnet/minecraft/item/EnderEyeItem;func_77659_a(Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResult;"
+      },
+      "com/yungnickyoung/minecraft/betterstrongholds/mixin/ChunkGeneratorAccessor": {
+        "settings": "field_222543_d:Lnet/minecraft/world/gen/settings/DimensionStructuresSettings;",
+        "func_230347_a_": "func_230347_a_()Lcom/mojang/serialization/Codec;"
+      },
+      "com/yungnickyoung/minecraft/betterstrongholds/mixin/LocateStrongholdCommandMixin": {
+        "func_241053_a_": "Lnet/minecraft/command/impl/LocateCommand;func_241053_a_(Lnet/minecraft/command/CommandSource;Lnet/minecraft/world/gen/feature/structure/Structure;)I"
+      },
+      "com/yungnickyoung/minecraft/betterstrongholds/mixin/VanillaStrongholdSpawnMixin": {
+        "func_235958_g_": "Lnet/minecraft/world/gen/ChunkGenerator;func_235958_g_()V"
+      }
+    }
+  }
+}

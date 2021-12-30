@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "BBB",
+        "AAA"              
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:oak_plate"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:bookshelf"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:oak_furniture_7",
+        "count": 1
+    }
+}
+
+

@@ -1,0 +1,52 @@
+[
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 1,
+    "enchantment": true,
+    "magicCapacity": -50.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 2,
+    "enchantment": true,
+    "magicCapacity": -100.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 3,
+    "enchantment": true,
+    "magicCapacity": -150.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 4,
+    "enchantment": true,
+    "magicCapacity": -200.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 5,
+    "enchantment": true,
+    "magicCapacity": -250.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 6,
+    "enchantment": true,
+    "magicCapacity": -300.0
+  },
+  {
+    "key": "enchantment/weaponthrow_return",
+    "level": 7,
+    "enchantment": true,
+    "magicCapacity": -350.0
+  },
+  {
+    "key": "destabilized/weaponthrow_return",
+    "level": 1,
+    "enchantment": true,
+    "glyph": {
+      "tint": "ee5599"
+    }
+  }
+]

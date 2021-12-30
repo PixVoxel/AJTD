@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+		" A ",
+		" B "
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "mcwfurnitures:spruce_plate"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:spruce_fence"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfurnitures:spruce_stool_chair",
+        "count": 1
+    }
+}
+
+

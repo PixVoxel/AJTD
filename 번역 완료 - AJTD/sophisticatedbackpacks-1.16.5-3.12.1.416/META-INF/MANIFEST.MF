@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sophisticatedbackpacks
+Specification-Vendor: p3pp3rf1y
+Specification-Version: 1
+Implementation-Title: SophisticatedBackpacks
+Implementation-Version: 1.16.5-3.12.1.416
+Implementation-Vendor: p3pp3rf1y
+Implementation-Timestamp: 2021-12-03T07:48:40+0000
+
