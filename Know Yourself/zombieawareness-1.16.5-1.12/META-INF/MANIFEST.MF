@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ZombieAwareness_1.16
+MixinConfigs: zombieawareness.mixins.json
+Implementation-Version: 1.16.5-1.12
+Specification-Vendor: Corosus
+Specification-Title: zombieawareness
+Implementation-Timestamp: 2021-12-31T03:27:23+0000
+Specification-Version: 1
+Implementation-Vendor: Corosus
+

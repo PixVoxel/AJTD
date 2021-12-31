@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "com/corosus/zombieawareness/mixin/MixinLevelEvent": {
+      "Lnet/minecraft/server/management/PlayerList;broadcast(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V": "Lnet/minecraft/server/management/PlayerList;func_148543_a(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V",
+      "levelEvent": "Lnet/minecraft/world/server/ServerWorld;func_217378_a(Lnet/minecraft/entity/player/PlayerEntity;ILnet/minecraft/util/math/BlockPos;I)V"
+    },
+    "com/corosus/zombieawareness/mixin/MixinPlaySound": {
+      "playSound": "Lnet/minecraft/world/server/ServerWorld;func_184148_a(Lnet/minecraft/entity/player/PlayerEntity;DDDLnet/minecraft/util/SoundEvent;Lnet/minecraft/util/SoundCategory;FF)V",
+      "Lnet/minecraft/server/management/PlayerList;broadcast(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V": "Lnet/minecraft/server/management/PlayerList;func_148543_a(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/corosus/zombieawareness/mixin/MixinLevelEvent": {
+        "Lnet/minecraft/server/management/PlayerList;broadcast(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V": "Lnet/minecraft/server/management/PlayerList;func_148543_a(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V",
+        "levelEvent": "Lnet/minecraft/world/server/ServerWorld;func_217378_a(Lnet/minecraft/entity/player/PlayerEntity;ILnet/minecraft/util/math/BlockPos;I)V"
+      },
+      "com/corosus/zombieawareness/mixin/MixinPlaySound": {
+        "playSound": "Lnet/minecraft/world/server/ServerWorld;func_184148_a(Lnet/minecraft/entity/player/PlayerEntity;DDDLnet/minecraft/util/SoundEvent;Lnet/minecraft/util/SoundCategory;FF)V",
+        "Lnet/minecraft/server/management/PlayerList;broadcast(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V": "Lnet/minecraft/server/management/PlayerList;func_148543_a(Lnet/minecraft/entity/player/PlayerEntity;DDDDLnet/minecraft/util/RegistryKey;Lnet/minecraft/network/IPacket;)V"
+      }
+    }
+  }
+}

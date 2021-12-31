@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MixinConfigs: relics.mixins.json
+Implementation-Title: relics
+Implementation-Version: 0.3.1
+Specification-Vendor: SSKirillSS
+Specification-Title: relics
+Implementation-Timestamp: 2021-10-28T12:21:21+0300
+Specification-Version: 1
+Implementation-Vendor: SSKirillSS
+

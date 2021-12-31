@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "it/hurts/sskirillss/relics/mixin/MixinLivingEntity": {
+      "checkTotemDeathProtection": "Lnet/minecraft/entity/LivingEntity;func_190628_d(Lnet/minecraft/util/DamageSource;)Z",
+      "decreaseAirSupply": "Lnet/minecraft/entity/LivingEntity;func_70682_h(I)I"
+    },
+    "it/hurts/sskirillss/relics/mixin/MixinPiglinMobsSensor": {
+      "doTick": "Lnet/minecraft/entity/ai/brain/sensor/PiglinMobsSensor;func_212872_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/LivingEntity;)V"
+    },
+    "it/hurts/sskirillss/relics/mixin/MixinEndermanEntity": {
+      "isLookingAtMe": "Lnet/minecraft/entity/monster/EndermanEntity;func_70821_d(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+    },
+    "it/hurts/sskirillss/relics/mixin/MixinEntity": {
+      "isInWaterOrRain": "Lnet/minecraft/entity/Entity;func_70026_G()Z"
+    },
+    "it/hurts/sskirillss/relics/mixin/MixinWebBlock": {
+      "entityInside": "Lnet/minecraft/block/WebBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+    },
+    "it/hurts/sskirillss/relics/mixin/MixinItem": {
+      "inventoryTick": "Lnet/minecraft/item/Item;func_77663_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "it/hurts/sskirillss/relics/mixin/MixinLivingEntity": {
+        "checkTotemDeathProtection": "Lnet/minecraft/entity/LivingEntity;func_190628_d(Lnet/minecraft/util/DamageSource;)Z",
+        "decreaseAirSupply": "Lnet/minecraft/entity/LivingEntity;func_70682_h(I)I"
+      },
+      "it/hurts/sskirillss/relics/mixin/MixinPiglinMobsSensor": {
+        "doTick": "Lnet/minecraft/entity/ai/brain/sensor/PiglinMobsSensor;func_212872_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/LivingEntity;)V"
+      },
+      "it/hurts/sskirillss/relics/mixin/MixinEndermanEntity": {
+        "isLookingAtMe": "Lnet/minecraft/entity/monster/EndermanEntity;func_70821_d(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+      },
+      "it/hurts/sskirillss/relics/mixin/MixinEntity": {
+        "isInWaterOrRain": "Lnet/minecraft/entity/Entity;func_70026_G()Z"
+      },
+      "it/hurts/sskirillss/relics/mixin/MixinWebBlock": {
+        "entityInside": "Lnet/minecraft/block/WebBlock;func_196262_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/entity/Entity;)V"
+      },
+      "it/hurts/sskirillss/relics/mixin/MixinItem": {
+        "inventoryTick": "Lnet/minecraft/item/Item;func_77663_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/Entity;IZ)V"
+      }
+    }
+  }
+}

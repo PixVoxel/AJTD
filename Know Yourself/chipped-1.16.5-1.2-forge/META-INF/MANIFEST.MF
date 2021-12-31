@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: chipped
+Specification-Vendor: chippedsareus
+Specification-Version: 1
+Implementation-Title: Chipped Mod-Forge
+Implementation-Version: 1.16.5-1.2-forge
+Implementation-Vendor: chippedsareus
+
