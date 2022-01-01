@@ -1,0 +1,21 @@
+{
+  "name": "book.resourcefulbees.advanced_tips.generating_energy",
+  "icon": "resourcefulbees:honey_generator",
+  "category": "resourcefulbees:advanced_tips",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "image",
+      "images": [
+        "resourcefulbees:textures/gui/patchouli/advanced_tips/generating_energy.png"
+      ],
+      "title": "book.resourcefulbees.advanced_tips.generating_energy",
+      "text": "book.resourcefulbees.advanced_tips.generating_energy.desc",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "book.resourcefulbees.advanced_tips.generating_energy.text"
+    }
+  ]
+}

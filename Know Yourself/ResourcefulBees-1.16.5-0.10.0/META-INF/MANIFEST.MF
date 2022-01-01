@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ResourcefulBees
+MixinConfigs: resourcefulbees.mixins.json
+Implementation-Version: 1.16.5-0.10.0
+Specification-Vendor: resourcefulbees
+Specification-Title: resourcefulbees
+Implementation-Timestamp: 2022-01-01T13:57:56+1100
+Specification-Version: 1
+Implementation-Vendor: resourcefulbees
+

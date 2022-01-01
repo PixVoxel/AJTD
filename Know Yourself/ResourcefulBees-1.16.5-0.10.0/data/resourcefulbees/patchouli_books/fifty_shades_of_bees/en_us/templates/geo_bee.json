@@ -1,0 +1,27 @@
+{
+  "components": [
+    {
+      "x": 64,
+      "y": 100,
+      "type": "custom",
+      "class": "com.resourcefulbees.resourcefulbees.compat.patchouli.RenderInterfaceBee",
+      "geoPath": "#model",
+      "texturePath": "#texture",
+      "layers": "#layers",
+      "scale": 5
+    },
+    {
+      "x": 58,
+      "y": 0,
+      "type" : "header",
+      "text" : "#title",
+      "centered" : true
+    },
+    {
+      "x": 0,
+      "y": 120,
+      "type" : "text",
+      "text" : "#text"
+    }
+  ]
+}

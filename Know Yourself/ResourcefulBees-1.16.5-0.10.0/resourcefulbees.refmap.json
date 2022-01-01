@@ -1,0 +1,146 @@
+{
+  "mappings": {
+    "com/resourcefulbees/resourcefulbees/mixin/MixinEntity": {
+      "updateInWaterStateAndDoWaterCurrentPushing()V": "Lnet/minecraft/entity/Entity;func_233567_aH_()V",
+      "Lnet/minecraft/entity/Entity;isEyeInFluid(Lnet/minecraft/tags/ITag;)Z": "Lnet/minecraft/entity/Entity;func_208600_a(Lnet/minecraft/tags/ITag;)Z",
+      "updateFluidOnEyes()V": "Lnet/minecraft/entity/Entity;func_205012_q()V",
+      "Lnet/minecraft/world/World;getFluidState(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/fluid/FluidState;": "Lnet/minecraft/world/World;func_204610_c(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/fluid/FluidState;",
+      "updateSwimming()V": "Lnet/minecraft/entity/Entity;func_205343_av()V",
+      "Lnet/minecraft/entity/Entity;isSwimming()Z": "Lnet/minecraft/entity/Entity;func_203007_ba()Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinFindBeehiveGoal": {
+      "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$FindBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+      "canBeeUse()Z": "Lnet/minecraft/entity/passive/BeeEntity$FindBeehiveGoal;func_225506_g_()Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/AnimalEntityAccessor": {
+      "inLove": "field_70881_d:I"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/BTEBeeAccessor": {
+      "ticksInHive": "field_226978_b_:I"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/ContainerAccessor": {
+      "containerListeners": "field_75149_d:Ljava/util/List;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinEnterBeehiveGoal": {
+      "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$EnterBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+      "canBeeUse()Z": "Lnet/minecraft/entity/passive/BeeEntity$EnterBeehiveGoal;func_225506_g_()Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinBeeEntity": {
+      "doesHiveHaveSpace(Lnet/minecraft/util/math/BlockPos;)Z": "Lnet/minecraft/entity/passive/BeeEntity;func_226435_i_(Lnet/minecraft/util/math/BlockPos;)Z",
+      "isHiveValid()Z": "Lnet/minecraft/entity/passive/BeeEntity;func_226422_eP_()Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/BlockAccessor": {
+      "hasCollision": "field_235688_at_:Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/BeeEntityAccessor": {
+      "doesHiveHaveSpace": "func_226435_i_(Lnet/minecraft/util/math/BlockPos;)Z",
+      "setFlag": "func_226404_d_(IZ)V"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/LivingEntityAccessor": {
+      "jumpInLiquid": "func_180466_bG(Lnet/minecraft/tags/ITag;)V"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinUpdateBeehiveGoal": {
+      "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$UpdateBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+      "findNearbyHivesWithSpace()Ljava/util/List;": "Lnet/minecraft/entity/passive/BeeEntity$UpdateBeehiveGoal;func_226489_j_()Ljava/util/List;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/EntityAccessor": {
+      "firstTick": "field_70148_d:Z",
+      "random": "field_70146_Z:Ljava/util/Random;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinPlayerEntity": {
+      "updateIsUnderwater()Z": "Lnet/minecraft/entity/player/PlayerEntity;func_204229_de()Z"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/DispenserBlockInvoker": {
+      "getDispenseMethod": "func_149940_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinDispenserBlock": {
+      "dispenseFrom": "Lnet/minecraft/block/DispenserBlock;func_176439_d(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;)V",
+      "Lnet/minecraft/block/DispenserBlock;getDispenseMethod(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;": "Lnet/minecraft/block/DispenserBlock;func_149940_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixPredicateAccessor": {
+      "ingredient": "field_185199_b:Lnet/minecraft/item/crafting/Ingredient;"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinLivingEntity": {
+      "aiStep": "Lnet/minecraft/entity/LivingEntity;func_70636_d()V",
+      "baseTick()V": "Lnet/minecraft/entity/LivingEntity;func_70030_z()V",
+      "Lnet/minecraft/entity/LivingEntity;getFluidJumpThreshold()D": "Lnet/minecraft/entity/LivingEntity;func_233579_cu_()D"
+    },
+    "com/resourcefulbees/resourcefulbees/mixin/MixinMinecraftServer": {
+      "Lnet/minecraft/resources/ResourcePackList;reload()V": "Lnet/minecraft/resources/ResourcePackList;func_198983_a()V",
+      "configurePackRepository": "Lnet/minecraft/server/MinecraftServer;func_240772_a_(Lnet/minecraft/resources/ResourcePackList;Lnet/minecraft/util/datafix/codec/DatapackCodec;Z)Lnet/minecraft/util/datafix/codec/DatapackCodec;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/resourcefulbees/resourcefulbees/mixin/MixinEntity": {
+        "updateInWaterStateAndDoWaterCurrentPushing()V": "Lnet/minecraft/entity/Entity;func_233567_aH_()V",
+        "Lnet/minecraft/entity/Entity;isEyeInFluid(Lnet/minecraft/tags/ITag;)Z": "Lnet/minecraft/entity/Entity;func_208600_a(Lnet/minecraft/tags/ITag;)Z",
+        "updateFluidOnEyes()V": "Lnet/minecraft/entity/Entity;func_205012_q()V",
+        "Lnet/minecraft/world/World;getFluidState(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/fluid/FluidState;": "Lnet/minecraft/world/World;func_204610_c(Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/fluid/FluidState;",
+        "updateSwimming()V": "Lnet/minecraft/entity/Entity;func_205343_av()V",
+        "Lnet/minecraft/entity/Entity;isSwimming()Z": "Lnet/minecraft/entity/Entity;func_203007_ba()Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinFindBeehiveGoal": {
+        "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$FindBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+        "canBeeUse()Z": "Lnet/minecraft/entity/passive/BeeEntity$FindBeehiveGoal;func_225506_g_()Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/AnimalEntityAccessor": {
+        "inLove": "field_70881_d:I"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/BTEBeeAccessor": {
+        "ticksInHive": "field_226978_b_:I"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/ContainerAccessor": {
+        "containerListeners": "field_75149_d:Ljava/util/List;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinEnterBeehiveGoal": {
+        "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$EnterBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+        "canBeeUse()Z": "Lnet/minecraft/entity/passive/BeeEntity$EnterBeehiveGoal;func_225506_g_()Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinBeeEntity": {
+        "doesHiveHaveSpace(Lnet/minecraft/util/math/BlockPos;)Z": "Lnet/minecraft/entity/passive/BeeEntity;func_226435_i_(Lnet/minecraft/util/math/BlockPos;)Z",
+        "isHiveValid()Z": "Lnet/minecraft/entity/passive/BeeEntity;func_226422_eP_()Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/BlockAccessor": {
+        "hasCollision": "field_235688_at_:Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/BeeEntityAccessor": {
+        "doesHiveHaveSpace": "func_226435_i_(Lnet/minecraft/util/math/BlockPos;)Z",
+        "setFlag": "func_226404_d_(IZ)V"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/LivingEntityAccessor": {
+        "jumpInLiquid": "func_180466_bG(Lnet/minecraft/tags/ITag;)V"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinUpdateBeehiveGoal": {
+        "\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V": "Lnet/minecraft/entity/passive/BeeEntity$UpdateBeehiveGoal;\u003cinit\u003e(Lnet/minecraft/entity/passive/BeeEntity;)V",
+        "findNearbyHivesWithSpace()Ljava/util/List;": "Lnet/minecraft/entity/passive/BeeEntity$UpdateBeehiveGoal;func_226489_j_()Ljava/util/List;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/EntityAccessor": {
+        "firstTick": "field_70148_d:Z",
+        "random": "field_70146_Z:Ljava/util/Random;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinPlayerEntity": {
+        "updateIsUnderwater()Z": "Lnet/minecraft/entity/player/PlayerEntity;func_204229_de()Z"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/DispenserBlockInvoker": {
+        "getDispenseMethod": "func_149940_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinDispenserBlock": {
+        "dispenseFrom": "Lnet/minecraft/block/DispenserBlock;func_176439_d(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;)V",
+        "Lnet/minecraft/block/DispenserBlock;getDispenseMethod(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;": "Lnet/minecraft/block/DispenserBlock;func_149940_a(Lnet/minecraft/item/ItemStack;)Lnet/minecraft/dispenser/IDispenseItemBehavior;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixPredicateAccessor": {
+        "ingredient": "field_185199_b:Lnet/minecraft/item/crafting/Ingredient;"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinLivingEntity": {
+        "aiStep": "Lnet/minecraft/entity/LivingEntity;func_70636_d()V",
+        "baseTick()V": "Lnet/minecraft/entity/LivingEntity;func_70030_z()V",
+        "Lnet/minecraft/entity/LivingEntity;getFluidJumpThreshold()D": "Lnet/minecraft/entity/LivingEntity;func_233579_cu_()D"
+      },
+      "com/resourcefulbees/resourcefulbees/mixin/MixinMinecraftServer": {
+        "Lnet/minecraft/resources/ResourcePackList;reload()V": "Lnet/minecraft/resources/ResourcePackList;func_198983_a()V",
+        "configurePackRepository": "Lnet/minecraft/server/MinecraftServer;func_240772_a_(Lnet/minecraft/resources/ResourcePackList;Lnet/minecraft/util/datafix/codec/DatapackCodec;Z)Lnet/minecraft/util/datafix/codec/DatapackCodec;"
+      }
+    }
+  }
+}

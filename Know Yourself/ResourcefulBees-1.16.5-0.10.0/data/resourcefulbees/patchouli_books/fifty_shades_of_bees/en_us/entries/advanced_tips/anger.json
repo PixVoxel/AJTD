@@ -1,0 +1,33 @@
+{
+  "name": "book.resourcefulbees.advanced_tips.anger",
+  "icon": "minecraft:tnt",
+  "category": "resourcefulbees:advanced_tips",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "image",
+      "images": [
+        "resourcefulbees:textures/gui/patchouli/advanced_tips/anger.png"
+      ],
+      "title": "book.resourcefulbees.advanced_tips.anger",
+      "text": "book.resourcefulbees.advanced_tips.anger.desc",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "book.resourcefulbees.advanced_tips.anger.text"
+    },
+    {
+      "type": "image",
+      "images": [
+        "resourcefulbees:textures/gui/patchouli/advanced_tips/anger2.png"
+      ],
+      "title": "book.resourcefulbees.advanced_tips.anger",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "book.resourcefulbees.advanced_tips.anger.text.2"
+    }
+  ]
+}
