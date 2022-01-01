@@ -205,8 +205,8 @@
   "tooltip.relics.ice_skates.ability.2.description": "얼음 위를 달리고 있을 때 충돌한 몹에게 %1$s만큼의 피해를 입히며 밀어냅니다.",
 
   "item.relics.camouflage_ring": "위장의 반지",
-  "tooltip.relics.camouflage_ring.ability.1.name": "Camouflage",
-  "tooltip.relics.camouflage_ring.ability.1.description": "Makes wearer invisible while using among the grass",
+  "tooltip.relics.camouflage_ring.ability.1.name": "위장",
+  "tooltip.relics.camouflage_ring.ability.1.description": "풀 사이에 있을 때 착용자를 투명하게 만듭니다.",
 
   "item.relics.delay_ring": "지연의 반지",
   "tooltip.relics.delay_ring.tooltip_1": "시간: %1$s",																							   
