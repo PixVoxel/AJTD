@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Pipez
+Implementation-Version: 1.16.5-1.2.15
+Specification-Vendor: Max Henkel
+Specification-Title: Pipez
+Implementation-Timestamp: 2021-12-17T10:41:24+0100
+Class-Path: Mekanism-1.16.4-10.0.19.446_mapped_official_1.16.5-api.jar
+  corelib-1.16.5-1.0.5_mapped_official_1.16.5-api.jar
+Specification-Version: 1
+Implementation-Vendor: Max Henkel
+

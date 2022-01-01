@@ -1,0 +1,54 @@
+{
+  "mappings": {
+    "noobanidus/mods/lootr/mixins/MixinLockableLootTileEntity": {
+      "setLootTable(Lnet/minecraft/world/IBlockReader;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;)V": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_195479_a(Lnet/minecraft/world/IBlockReader;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;)V",
+      "setLootTable(Lnet/minecraft/util/ResourceLocation;J)V": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_189404_a(Lnet/minecraft/util/ResourceLocation;J)V"
+    },
+    "noobanidus/mods/lootr/mixins/MixinDungeonsFeature": {
+      "Lnet/minecraft/world/gen/feature/structure/StructurePiece;reorient(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_197528_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;",
+      "place": "Lnet/minecraft/world/gen/feature/DungeonsFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+    },
+    "noobanidus/mods/lootr/mixins/MixinOceanRuinPieces$Piece": {
+      "handleDataMarker(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V": "Lnet/minecraft/world/gen/feature/structure/OceanRuinPieces$Piece;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+    },
+    "noobanidus/mods/lootr/mixins/MixinCatSitOnBlockGoal": {
+      "Lnet/minecraft/block/BlockState;is(Lnet/minecraft/block/Block;)Z": "Lnet/minecraft/block/BlockState;func_203425_a(Lnet/minecraft/block/Block;)Z",
+      "Lnet/minecraft/tileentity/ChestTileEntity;getOpenCount(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)I": "Lnet/minecraft/tileentity/ChestTileEntity;func_195481_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)I",
+      "isValidTarget": "Lnet/minecraft/entity/ai/goal/CatSitOnBlockGoal;func_179488_a(Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+    },
+    "noobanidus/mods/lootr/mixins/MixinIglooPieces$Piece": {
+      "handleDataMarker": "Lnet/minecraft/world/gen/feature/structure/IglooPieces$Piece;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+    },
+    "noobanidus/mods/lootr/mixins/MixinStructurePiece": {
+      "createChest(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/util/math/MutableBoundingBox;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/block/BlockState;)Z": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_191080_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/util/math/MutableBoundingBox;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/block/BlockState;)Z",
+      "Lnet/minecraft/world/gen/feature/structure/StructurePiece;reorient(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_197528_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;"
+    }
+  },
+  "data": {
+    "searge": {
+      "noobanidus/mods/lootr/mixins/MixinLockableLootTileEntity": {
+        "setLootTable(Lnet/minecraft/world/IBlockReader;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;)V": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_195479_a(Lnet/minecraft/world/IBlockReader;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;)V",
+        "setLootTable(Lnet/minecraft/util/ResourceLocation;J)V": "Lnet/minecraft/tileentity/LockableLootTileEntity;func_189404_a(Lnet/minecraft/util/ResourceLocation;J)V"
+      },
+      "noobanidus/mods/lootr/mixins/MixinDungeonsFeature": {
+        "Lnet/minecraft/world/gen/feature/structure/StructurePiece;reorient(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_197528_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;",
+        "place": "Lnet/minecraft/world/gen/feature/DungeonsFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+      },
+      "noobanidus/mods/lootr/mixins/MixinOceanRuinPieces$Piece": {
+        "handleDataMarker(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V": "Lnet/minecraft/world/gen/feature/structure/OceanRuinPieces$Piece;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+      },
+      "noobanidus/mods/lootr/mixins/MixinCatSitOnBlockGoal": {
+        "Lnet/minecraft/block/BlockState;is(Lnet/minecraft/block/Block;)Z": "Lnet/minecraft/block/BlockState;func_203425_a(Lnet/minecraft/block/Block;)Z",
+        "Lnet/minecraft/tileentity/ChestTileEntity;getOpenCount(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)I": "Lnet/minecraft/tileentity/ChestTileEntity;func_195481_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)I",
+        "isValidTarget": "Lnet/minecraft/entity/ai/goal/CatSitOnBlockGoal;func_179488_a(Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+      },
+      "noobanidus/mods/lootr/mixins/MixinIglooPieces$Piece": {
+        "handleDataMarker": "Lnet/minecraft/world/gen/feature/structure/IglooPieces$Piece;func_186175_a(Ljava/lang/String;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/util/math/MutableBoundingBox;)V"
+      },
+      "noobanidus/mods/lootr/mixins/MixinStructurePiece": {
+        "createChest(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/util/math/MutableBoundingBox;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/block/BlockState;)Z": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_191080_a(Lnet/minecraft/world/IServerWorld;Lnet/minecraft/util/math/MutableBoundingBox;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/ResourceLocation;Lnet/minecraft/block/BlockState;)Z",
+        "Lnet/minecraft/world/gen/feature/structure/StructurePiece;reorient(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;": "Lnet/minecraft/world/gen/feature/structure/StructurePiece;func_197528_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "it.hurts.sskirillss.relics.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "relics.refmap.json",
+  "mixins": [
+    "MixinEndermanEntity",
+    "MixinEntity",
+    "MixinItem",
+    "MixinLivingEntity",
+    "MixinPiglinMobsSensor",
+    "MixinWebBlock"
+  ],
+  "minVersion": "0.8"
+}

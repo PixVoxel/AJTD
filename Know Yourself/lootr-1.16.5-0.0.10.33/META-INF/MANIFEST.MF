@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Lootr
+Implementation-Version: 0.0.10.33
+Specification-Vendor: Noobanidus
+Built-On-Minecraft: 1.16.5
+Specification-Title: Lootr
+Implementation-Timestamp: 2021-12-28T12:44:07+1000
+Built-On-Java: 25.181-b13 (Oracle Corporation)
+Implementation-Vendor: Noobanidus
+MixinConfigs: lootr.mixins.json
+Specification-Version: 0.0.10.33
+Timestamp: 1640659447316
+ModLoader: forge-36.2.4
+Built-On-Mapping: parchment-2021.08.29-1.16.5
+
