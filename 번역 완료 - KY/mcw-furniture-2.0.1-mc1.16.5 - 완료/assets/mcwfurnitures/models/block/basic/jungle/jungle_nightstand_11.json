@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/nightstand_11",
-	"textures": {
-		"1": "minecraft:block/jungle_log",
-		"2": "minecraft:block/jungle_log",
-		"particle": "minecraft:block/jungle_log"
-	}
-}

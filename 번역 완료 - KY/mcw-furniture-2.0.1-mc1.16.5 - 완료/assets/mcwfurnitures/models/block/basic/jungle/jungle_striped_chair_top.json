@@ -1,8 +1,0 @@
-
-	{
-	"parent": "mcwfurnitures:block/parent/chair/striped_chair_top",
-	"textures": {
-		"0": "minecraft:block/jungle_log",
-		"particle": "minecraft:block/jungle_log"
-	}
-}

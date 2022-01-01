@@ -1,8 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/dresser_14",
-	"textures": {
-		"3": "minecraft:block/oak_log",
-		"texture": "minecraft:block/oak_log"
-	}
-}

@@ -1,9 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/dresser_3",
-	"textures": {
-		"2": "minecraft:block/stripped_warped_stem",
-		"texture": "minecraft:block/warped_stem",
-		"1_2": "minecraft:block/iron_block"
-	}
-}

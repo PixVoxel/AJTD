@@ -1,9 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/furniture_7",
-	"textures": {
-		"3": "minecraft:block/oak_log",
-		"5": "minecraft:block/bookshelf",
-		"texture": "minecraft:block/oak_log"
-	}
-}

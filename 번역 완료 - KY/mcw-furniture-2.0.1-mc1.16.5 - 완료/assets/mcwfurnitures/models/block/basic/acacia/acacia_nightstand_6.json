@@ -1,9 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/nightstand_6",
-	"textures": {
-		"1": "minecraft:block/acacia_log",
-		"3": "minecraft:block/stripped_acacia_log",
-		"particle": "minecraft:block/acacia_log",
-		"1_2": "minecraft:block/iron_block"
-	}
-}

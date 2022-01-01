@@ -1,9 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/box_2",
-	"textures": {
-		"2": "minecraft:block/iron_block",
-		"3": "minecraft:block/birch_log",
-		"4": "minecraft:block/stripped_birch_log",
-		"particle": "minecraft:block/birch_log"
-	}
-}

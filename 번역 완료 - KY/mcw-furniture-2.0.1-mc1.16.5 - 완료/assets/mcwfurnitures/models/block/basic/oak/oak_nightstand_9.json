@@ -1,7 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/nightstand_9",
-	"textures": {
-		"1": "minecraft:block/oak_log",
-			"particle": "minecraft:block/oak_log"
-	}
-}

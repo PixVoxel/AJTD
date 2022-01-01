@@ -1,8 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/dresser_14",
-	"textures": {
-		"3": "minecraft:block/crimson_stem",
-		"texture": "minecraft:block/crimson_stem"
-	}
-}

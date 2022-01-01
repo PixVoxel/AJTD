@@ -1,9 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/box",
-	"textures": {
-		"2": "minecraft:block/iron_block",
-		"3": "minecraft:block/crimson_stem",
-		"4": "minecraft:block/stripped_crimson_stem",
-		"particle": "minecraft:block/crimson_stem"
-	}
-}

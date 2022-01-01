@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=west": { "model": "mcwfurnitures:block/basic/oak/oak_plant_pot_left", "y": 90  },
-        "facing=north": { "model": "mcwfurnitures:block/basic/oak/oak_plant_pot_left", "y": 180 },
-        "facing=east": { "model": "mcwfurnitures:block/basic/oak/oak_plant_pot_left", "y": 270 },
-        "facing=south": { "model": "mcwfurnitures:block/basic/oak/oak_plant_pot_left"  }
-    }
-}

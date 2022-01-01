@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=west": { "model": "mcwfurnitures:block/basic/dark_oak/dark_oak_nightstand_4", "y": 90  },
-        "facing=north": { "model": "mcwfurnitures:block/basic/dark_oak/dark_oak_nightstand_4", "y": 180 },
-        "facing=east": { "model": "mcwfurnitures:block/basic/dark_oak/dark_oak_nightstand_4", "y": 270 },
-        "facing=south": { "model": "mcwfurnitures:block/basic/dark_oak/dark_oak_nightstand_4"  }
-    }
-}

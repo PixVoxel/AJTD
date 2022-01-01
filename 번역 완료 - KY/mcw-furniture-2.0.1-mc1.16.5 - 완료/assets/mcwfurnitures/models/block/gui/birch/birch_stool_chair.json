@@ -1,8 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/stool_chair",
-	"textures": {
-		"1_0": "minecraft:block/birch_log",
-		"1_3": "minecraft:block/stripped_birch_log"
-	}
-}

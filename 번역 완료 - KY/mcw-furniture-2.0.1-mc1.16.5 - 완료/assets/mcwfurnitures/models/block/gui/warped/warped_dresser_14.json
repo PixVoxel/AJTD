@@ -1,8 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/gui/dresser_14",
-	"textures": {
-		"3": "minecraft:block/warped_stem",
-		"texture": "minecraft:block/warped_stem"
-	}
-}

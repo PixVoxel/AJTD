@@ -1,8 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/dresser/dresser_14_middle",
-	"textures": {
-				"particle": "minecraft:block/spruce_log",
-		"3": "minecraft:block/spruce_log"
-	}
-}

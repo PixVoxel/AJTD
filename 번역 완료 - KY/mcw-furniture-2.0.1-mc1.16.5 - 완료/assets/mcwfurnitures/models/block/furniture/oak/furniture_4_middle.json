@@ -1,9 +1,0 @@
-
-{
-	"parent": "mcwfurnitures:block/parent/furniture/furniture_4_middle",
-	"textures": {
-					"particle": "minecraft:block/oak_log",
-		"1": "minecraft:block/stripped_oak_log",
-		"3": "minecraft:block/oak_log"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfurnitures:block/parent/nightstand/nightstand_10",
-	"textures": {
-		"1": "minecraft:block/warped_stem",
-		"2": "minecraft:block/warped_stem",
-		"particle": "minecraft:block/warped_stem"
-	}
-}
