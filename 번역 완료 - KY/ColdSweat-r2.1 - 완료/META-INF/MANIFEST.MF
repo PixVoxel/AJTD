@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+Implementation-Title: coldsweat
+MixinConfigs: cold_sweat.mixin.json
+Implementation-Version: r2.1
+Specification-Vendor: chubbymomo, iMikul, skinnymomo
+Specification-Title: coldsweat
+Implementation-Timestamp: 2022-01-01T21:18:13-0500
+TweakerClass: org.spongepowered.asm.launch.MixinTweaker
+Specification-Version: 1
+Implementation-Vendor: chubbymomo, iMikul, skinnymomo
+
