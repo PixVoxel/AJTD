@@ -272,7 +272,7 @@
   "tooltip.relics.slime_heart.ability.1.name": "Fragility",
   "tooltip.relics.slime_heart.ability.1.description": "%1$s health regeneration",
   "tooltip.relics.slime_heart.ability.2.name": "Elastic",
-  "tooltip.relics.slime_heart.ability.2.description": "Expends accumulated slimy energy to suppress fall damage. Holding down the %1$s key will prevent ability triggering",
+  "tooltip.relics.slime_heart.ability.2.description": "Suppresses fall damage, bouncing wearer from the ground. Holding down the %1$s key will prevent ability triggering",
 
   "item.relics.horse_flute": "Horse Flute",
   "tooltip.relics.horse_flute.ability.1.name": "Enclosure",
@@ -289,6 +289,10 @@
   "tooltip.relics.ghost_skin_talisman.ability.1.description": "Projectiles will fly through the wearer without causing damage",
   "tooltip.relics.ghost_skin_talisman.ability.2.name": "Weakness",
   "tooltip.relics.ghost_skin_talisman.ability.2.description": "%1$s attack speed",
+
+  "item.relics.squire_bag": "Squire's Bag",
+  "tooltip.relics.squire_bag.ability.1.name": "Heavyweight",
+  "tooltip.relics.squire_bag.ability.1.description": "%1$s movement speed",
 
   "item.relics.leather_belt": "Leather Belt",
 
@@ -377,5 +381,7 @@
   "advancements.relics.wool_mitten.title" :  "Thunderstorm of snowmens",
   "advancements.relics.wool_mitten.description": "Obtain the Wool Mitten",
   "advancements.relics.ghost_skin_talisman.title": "Spooky Scary Skeletons",
-  "advancements.relics.ghost_skin_talisman.description": "Obtain the Ghost Skin Talisman"
+  "advancements.relics.ghost_skin_talisman.description": "Obtain the Ghost Skin Talisman",
+  "advancements.relics.squire_bag.title": "Bottomless bag",
+  "advancements.relics.squire_bag.description": "Obtain the Squire's Bag"
 }
