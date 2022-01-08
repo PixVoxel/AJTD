@@ -1,0 +1,225 @@
+Signature-Version: 1.0
+Created-By: 16.0.2 (Amazon.com Inc.)
+SHA-256-Digest-Manifest: R8+GwgVOFb/NCrQtN0qQGPDdqeXQ/xEa57t8l+dA/hA=
+SHA-256-Digest-Manifest-Main-Attributes: 4NGztxQcwzhRIFn0iK56AIIsICbxOqQ
+ svYFPx+7kxAE=
+
+Name: fuzs/enchantinginfuser/world/level/block/entity/InfuserBlockEntity
+ .class
+SHA-256-Digest: dJf00dMN6AjRrNRUBwUtId/6XCtilA8xO0Q9YQgds6E=
+
+Name: fuzs/enchantinginfuser/world/inventory/InfuserMenu$4.class
+SHA-256-Digest: t6DMjciXQBmpJa2FaC7+IqA82WI7WwCtbvPF6xv2P7c=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen$
+ 1.class
+SHA-256-Digest: FaolOUkNfWBYS3nIx/HagKqQy+d2/tjDnxlNp7zXEDc=
+
+Name: assets/enchantinginfuser/textures/entity/enchanting_infuser_book.p
+ ng
+SHA-256-Digest: x6kzcgNuLBxkkJRTHdRwnQ9IJcSEUZYxvyXeOkeNLG4=
+
+Name: fuzs/enchantinginfuser/config/ServerConfig.class
+SHA-256-Digest: 8WaEnxqqKHg85jpoI7KvtyMn3KIjd1MXw9EbVx2kmeU=
+
+Name: data/enchantinginfuser/advancements/recipes/decorations/advanced_e
+ nchanting_infuser.json
+SHA-256-Digest: bJi42blb2rFXEc1cfB0xurYQCE2bsB1tsEnMMxTUdjY=
+
+Name: fuzs/enchantinginfuser/network/message/S2CCompatibleEnchantsMessag
+ e.class
+SHA-256-Digest: 0jNuzruog9JezAnpZdl/Lv3zsgRFKKYLqQDbEbUl66Q=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: JB7tMxTRqEy6S83VZqcDS8ue+dVNURz0Xo3/af7qm+8=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_side_am
+ ethyst.png
+SHA-256-Digest: z/ALuxkOG2eWp3qTlsupCHUwmdj+g6xTOSuNK4m9Tws=
+
+Name: fuzs/enchantinginfuser/client/EnchantingInfuserClient.class
+SHA-256-Digest: 71PzuRipOWAIVO3zIfF60+apiuAUuSId6wlanHAkybU=
+
+Name: fuzs/enchantinginfuser/world/inventory/InfuserMenu.class
+SHA-256-Digest: tBuXT/1gB2wxeoeSdcuSGHBVj7vwv/kLNfP9YW3avxU=
+
+Name: assets/enchantinginfuser/models/item/advanced_enchanting_infuser.j
+ son
+SHA-256-Digest: b6RruFbawfQVninmfwzc0oQV+5+4jNNi2q6KWYPL1SI=
+
+Name: fuzs/enchantinginfuser/network/message/S2CCompatibleEnchantsMessag
+ e$CompatibleEnchantsHandler.class
+SHA-256-Digest: B3pwcsn7rFIjiM/zu2IUlX8XDhOVBIQfHJYpB6LSZFM=
+
+Name: fuzs/enchantinginfuser/registry/ModRegistry.class
+SHA-256-Digest: O78mQkHzazX9Y5rRA3PEmTYHCJ4EU7loJZps8EXFnUU=
+
+Name: fuzs/enchantinginfuser/world/level/block/InfuserBlock$InfuserType.
+ class
+SHA-256-Digest: G5kSD2F4VWUpgVqRim0H3D5d7fpnNAy4QqMxw4+3lvA=
+
+Name: assets/enchantinginfuser/blockstates/enchanting_infuser.json
+SHA-256-Digest: rks0AHpJoaFRwLjRN3ih0YIEUyELnwpV5E9UJEw0d9c=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_top_ame
+ thyst.png
+SHA-256-Digest: gAPNDpU4T8Q4TevRO9TRC/4noCYIm2nfUajQKS1YZ0Q=
+
+Name: LICENSE
+SHA-256-Digest: /KGbpuG4KiNQdzYqjTD5XMwGZJ75XjvX+eTqNdMoLL0=
+
+Name: fuzs/enchantinginfuser/client/renderer/blockentity/InfuserItemRend
+ erer.class
+SHA-256-Digest: 7eZRoIy4eW++dLatiWz4/PDiI5x39VleV6EWTdMNmuk=
+
+Name: fuzs/enchantinginfuser/network/message/S2CInfuserDataMessage.class
+SHA-256-Digest: +G+T9pNI+uyBoXlfGikp5+7CBbfdzYIMnSOA+TJSSKE=
+
+Name: fuzs/enchantinginfuser/config/ServerConfig$PowerConfig.class
+SHA-256-Digest: UjJSZG/c2k7awJ9e+zAn8EQjS5LVQAuUfXiC0aa+VAg=
+
+Name: fuzs/enchantinginfuser/network/client/message/C2SAddEnchantLevelMe
+ ssage$1.class
+SHA-256-Digest: iNFGHlujqhwyEBKxkWW2dz+mfqE/HzoWwJ/ieQ8nse8=
+
+Name: fuzs/enchantinginfuser/world/level/block/InfuserBlock.class
+SHA-256-Digest: ueOACOYmd1k5hEL3Ahi+aluYXqTa3N5K0FqolCQt/No=
+
+Name: data/enchantinginfuser/loot_tables/blocks/enchanting_infuser.json
+SHA-256-Digest: g0kAm8dguypcE3ifGrz1+bYTXrtCvqG3/4TRgiWRmIc=
+
+Name: assets/enchantinginfuser/models/block/enchanting_infuser.json
+SHA-256-Digest: W9EJik3PnwOFICuu74zzxf5aAu5wHNModbjtQnYtVeM=
+
+Name: data/enchantinginfuser/advancements/recipes/decorations/enchanting
+ _infuser.json
+SHA-256-Digest: n+t5HGxaLmOvV1fGeOJ3R7e1sr2ScNJINsqZqXn5tso=
+
+Name: mod_logo.png
+SHA-256-Digest: loEufMdy9nKY28yno85Wq4ANqOCejqfXHuPSlw7ocDY=
+
+Name: data/enchantinginfuser/loot_tables/blocks/advanced_enchanting_infu
+ ser.json
+SHA-256-Digest: vYSMSYH/CcFSqdVc1oLpStlSsfYM0gSoVbvvG26L/NA=
+
+Name: CHANGELOG.md
+SHA-256-Digest: lGtYKVM9j5z6TB1dIg7WYyN8MYSEaknpUmdtnyKhpns=
+
+Name: assets/enchantinginfuser/blockstates/advanced_enchanting_infuser.j
+ son
+SHA-256-Digest: GgTerTG0sdyc6v+eTg5CXhfUlqEPI8Gk6e65BrKYLV4=
+
+Name: fuzs/enchantinginfuser/config/ServerConfig$TypesConfig.class
+SHA-256-Digest: nUQVgmjr3dEOnI1sbHBbAPn+NDOMaC8T9jDAQTZroyE=
+
+Name: fuzs/enchantinginfuser/network/message/S2CCompatibleEnchantsMessag
+ e$1.class
+SHA-256-Digest: pzYvo/qv4tPhS52uzE7DM4RWXDhCXdhdDkSX19NIBEI=
+
+Name: mod_banner.png
+SHA-256-Digest: hZcEoAr30YRnkTiCf9ahExeoMNIOlFIFOebffmCD2IY=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen$
+ ScrollingList.class
+SHA-256-Digest: eSanpcC8r3fVoQTGlZGdTPH4+zv5z8NpDRxgsCO7Isc=
+
+Name: fuzs/enchantinginfuser/world/inventory/InfuserMenu$2.class
+SHA-256-Digest: xu7RolLVUZ9olODFQPQE7kI8FFrkcDouTeXUPzZwOXM=
+
+Name: fuzs/enchantinginfuser/network/client/message/C2SAddEnchantLevelMe
+ ssage.class
+SHA-256-Digest: BbmtRFOtnOui5Pvcjv+6BiRcn4V626WFVxY5v4hTKQc=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen$
+ EnchantmentListEntry$1.class
+SHA-256-Digest: m53yeJrgPna2u/SwyGUBuoG53AEJLI6QEK91zoPuXGI=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_bottom_
+ amethyst.png
+SHA-256-Digest: tNsS3g6I/rYvcDAxW7uXofKKCR3HPwc8P16Clvn2yx0=
+
+Name: fuzs/enchantinginfuser/config/ServerConfig$CostsConfig.class
+SHA-256-Digest: lvDnzxpWuehioawzoFPeJjU1H3fwnRx9hpUKdwmju1s=
+
+Name: data/enchantinginfuser/recipes/enchanting_infuser.json
+SHA-256-Digest: 5uMeNn9YUmqkFfAfgOgYEzEzPB4+25HQTaIDfPS0LZs=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_side_ne
+ therite.png
+SHA-256-Digest: 6E5l6C/iF90BDnE0VvFFUy7FG6BRtjrvbDwZqBCTfws=
+
+Name: data/minecraft/tags/blocks/mineable/pickaxe.json
+SHA-256-Digest: 7WKwk+2ARtSJLLOjE8eORnCm/zrJo3la2cp3eVWZCls=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen$
+ EnchantmentListEntry.class
+SHA-256-Digest: K/lbyIsl8btn1Kfl56n9VEMkzUpeCKe2cd2YqSNN72U=
+
+Name: fuzs/enchantinginfuser/network/client/message/C2SAddEnchantLevelMe
+ ssage$EnchantmentLevelHandler.class
+SHA-256-Digest: QVfkws6iHIVnO25qR/2WLQQAomWxb8z5U+LUQh71umE=
+
+Name: fuzs/enchantinginfuser/network/message/S2CInfuserDataMessage$1.cla
+ ss
+SHA-256-Digest: Lh0tfIW2iK8JuFasQ7E5vQQeSFM79QJGPlpyI4XfhgI=
+
+Name: fuzs/enchantinginfuser/client/gui/components/IconButton.class
+SHA-256-Digest: L7R78rZ5s8S2P0g3hCLsejtwBaATbzxgS4bm9RMLe7U=
+
+Name: assets/enchantinginfuser/textures/gui/container/enchanting_infuser
+ .png
+SHA-256-Digest: 632h/tyby760pwUI4tASi53PL7P2Swh7tua1lpA/XlA=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_top_net
+ herite.png
+SHA-256-Digest: MWQZYUniFr5GN+vMgZLP6D5snzehJnEmrmWzDgXR3g0=
+
+Name: fuzs/enchantinginfuser/world/inventory/InfuserMenu$3.class
+SHA-256-Digest: Ai2O+Na5GVYRZ3XphZ5TRvEOConb1P2vNZk8/l3RVnQ=
+
+Name: assets/enchantinginfuser/lang/en_us.json
+SHA-256-Digest: b9bvtGQz4f0fhzDwP86Z/FdcStGxCryoEuYuz5m91+E=
+
+Name: fuzs/enchantinginfuser/network/message/S2CInfuserDataMessage$Infus
+ erDataHandler.class
+SHA-256-Digest: uGFp9Ce8/NMWh5X8KW4d1gF9Yxg+dCQU9YlPeD3ahvw=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen$
+ EnchantmentListEntry$2.class
+SHA-256-Digest: lhZuGKKz8PhkUD40xN129+DqGJeNiNds4l12CUKpifg=
+
+Name: fuzs/enchantinginfuser/client/renderer/blockentity/InfuserRenderer
+ .class
+SHA-256-Digest: GCvdUcV6E+6e8Y9He4207SJInJnRJwA8t7M5jMqjiAU=
+
+Name: pack.mcmeta
+SHA-256-Digest: B+OHqMMev/42KARj+QugMfHcH4im3kIFuV9MF9XsASk=
+
+Name: fuzs/enchantinginfuser/world/inventory/InfuserMenu$1.class
+SHA-256-Digest: fLDT9SMXPXzx5MacFNP12RE1yKol5peuRHPT8W+JGpY=
+
+Name: fuzs/enchantinginfuser/world/level/block/AdvancedInfuserBlock.clas
+ s
+SHA-256-Digest: XadnxYV4yu7ORkYaUV7QX2ASVwPnjrQ0Ia8f6ahJlg4=
+
+Name: assets/enchantinginfuser/models/block/advanced_enchanting_infuser.
+ json
+SHA-256-Digest: 2mGS2a6/O5o5glJoHvcoXwlgkfevFwCydtpYxdA+pmA=
+
+Name: data/enchantinginfuser/recipes/advanced_enchanting_infuser.json
+SHA-256-Digest: p+kO0xUuwIPffUkOXJ5v54AsiizxqmHfChDFevibVHk=
+
+Name: assets/enchantinginfuser/models/item/enchanting_infuser.json
+SHA-256-Digest: QJCs036K1T86Ta+OK7oEv4ua+QQb/CBMDSZLchREbaM=
+
+Name: fuzs/enchantinginfuser/client/gui/screens/inventory/InfuserScreen.
+ class
+SHA-256-Digest: rSsniDE9MYJCvySOWTQ2vsTZTx/EK+sWOLfUJChkEUs=
+
+Name: assets/enchantinginfuser/textures/block/enchanting_infuser_bottom_
+ netherite.png
+SHA-256-Digest: Ue0mRXeOdlPbnKaBsD7TElaR1iUkylYRJZ47n51gpk4=
+
+Name: fuzs/enchantinginfuser/EnchantingInfuser.class
+SHA-256-Digest: 9JjgZxF39cAMmzhAV8RIv3Vz0BBUzf9plyCnXipAQTQ=
+

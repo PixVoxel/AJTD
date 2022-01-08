@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="Mozilla Public License 2.0"
+issueTrackerURL="https://github.com/Fuzss/enchantinginfuser-forge/issues"
+
+[[mods]]
+    modId="enchantinginfuser"
+    displayName="Enchanting Infuser"
+    description="An all new enchanting table: Choose your enchantments for fair prices! No more randomness!"
+    version="1.0.2"
+    authors="Fuzs"
+    credits="release"
+    logoFile="mod_banner.png"
+    logoBlur=false
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge"
+    updateJSONURL="https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json"
+
+[[dependencies.enchantinginfuser]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.enchantinginfuser]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.2,1.17)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.enchantinginfuser]]
+    modId="puzzleslib"
+    mandatory=true
+    versionRange="[1.0.15,)"
+    ordering="NONE"
+    side="BOTH"
+
+[modproperties.enchantinginfuser]
+    catalogueImageIcon="mod_logo.png"
+    configuredBackground="minecraft:textures/block/cobblestone.png"
