@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Tinkers Archery
+Implementation-Version: 1.2.0
+Specification-Vendor: tonite
+Specification-Title: tinkersarchery
+Implementation-Timestamp: 2022-01-12T14:08:05-0600
+Specification-Version: 1
+Implementation-Vendor: tonite
+

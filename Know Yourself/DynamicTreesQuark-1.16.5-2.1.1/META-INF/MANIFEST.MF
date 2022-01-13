@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: DynamicTrees-Quark
+Implementation-Version: 1.16.5-2.1.1
+Specification-Vendor: Max Hyper
+Specification-Title: DynamicTrees-Quark
+Implementation-Timestamp: 2021-12-08T01:41:01-0300
+Specification-Version: 1
+Implementation-Vendor: Max Hyper
+

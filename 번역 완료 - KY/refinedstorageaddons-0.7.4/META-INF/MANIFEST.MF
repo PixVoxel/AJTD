@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: refinedstorageaddons
+Implementation-Version: 0.7.4
+Specification-Vendor: refinedmods
+Specification-Title: refinedstorageaddons
+Implementation-Timestamp: 2021-11-16T11:14:08+0100
+Specification-Version: 1
+Implementation-Vendor: refinedmods
+

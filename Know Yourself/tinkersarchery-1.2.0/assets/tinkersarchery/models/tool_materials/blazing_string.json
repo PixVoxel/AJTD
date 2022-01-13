@@ -1,0 +1,26 @@
+{
+  "color": "FFFFC42E",
+  "luminosity": 15,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "grey": 0,
+            "color": "FF000000"
+          },
+          {
+            "grey": 255,
+            "color": "FFFFC42E"
+          }
+        ]
+      }
+    },
+    "supportedStats": [
+      "tinkersarchery:bowstring"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

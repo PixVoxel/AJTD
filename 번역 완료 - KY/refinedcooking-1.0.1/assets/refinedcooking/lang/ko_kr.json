@@ -1,0 +1,15 @@
+{
+  "itemGroup.refinedcooking": "리파인드 쿠킹",
+  "block.refinedcooking.kitchen_station": "주방 스테이션",
+  "block.refinedcooking.kitchen_access_point": "주방 액세스 포인트",
+
+  "item.refinedcooking.kitchen_network_card": "주방 네트워크 카드",
+
+  "gui.refinedcooking.kitchen_access_point": "주방 액세스 포인트",
+  "gui.refinedcooking.kitchen_access_point.distance": "%d 블럭 거리",
+  "gui.refinedcooking.kitchen_access_point.missing_card": "주방 카드 없음",
+
+  "misc.refinedcooking.kitchen_network_card.tooltip": "%d, %d, %d(%s)에 연결됨.",
+
+  "tooltip.refinedcooking:kitchen_station.description": "리파인드 스토리지 네트워크에 연결하는 스테이션입니다"
+}

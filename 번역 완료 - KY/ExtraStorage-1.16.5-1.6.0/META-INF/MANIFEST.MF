@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: ExtraStorage
+Implementation-Version: 1.6.0
+Specification-Vendor: extrastorage
+Specification-Title: extrastorage
+Implementation-Timestamp: 2021-12-15T14:18:02+0100
+Specification-Version: 1
+Implementation-Vendor: extrastorage
+

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "elucent.eidolon.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "eidolon.refmap.json",
+  "mixins": [
+    "LivingEntityMixin",
+    "ZombieVillagerEntityMixin",
+    "PotionBrewingMixin"
+  ],
+  "minVersion": "0.8"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "TPT",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "pneumaticcraft:reinforced_stone_slab"
+    },
+    "T": {
+      "type": "forge:nbt",
+      "item": "pneumaticcraft:small_tank",
+      "count": 1
+    },
+    "P": {
+      "item": "pneumaticcraft:pressure_tube"
+    }
+  },
+  "result": {
+    "item": "pneumaticcraft:thermopneumatic_processing_plant"
+  }
+}

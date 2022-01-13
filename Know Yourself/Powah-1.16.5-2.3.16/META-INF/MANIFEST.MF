@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Powah
+Implementation-Version: 2.3.16
+Specification-Vendor: owmii
+FMLAT: accesstransformer.cfg
+Specification-Title: Powah
+Implementation-Timestamp: 2021-03-09T10:30:12+0100
+Specification-Version: 2.3.16
+Implementation-Vendor: owmii
+

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pneumaticcraft:heat_frame_cooling/obsidian"
+    ]
+  },
+  "criteria": {
+    "heat_frame": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "pneumaticcraft:heat_frame"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pneumaticcraft:heat_frame_cooling/obsidian"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "heat_frame",
+      "has_the_recipe"
+    ]
+  ]
+}

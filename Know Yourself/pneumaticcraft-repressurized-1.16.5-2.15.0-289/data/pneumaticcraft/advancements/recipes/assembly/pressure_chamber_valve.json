@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pneumaticcraft:assembly/pressure_chamber_valve"
+    ]
+  },
+  "criteria": {
+    "assembly_controller": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "pneumaticcraft:assembly_controller"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pneumaticcraft:assembly/pressure_chamber_valve"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "assembly_controller",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "fallbacks": [
+    "leaf"
+  ],
+  "color": "FF36FFFC",
+  "luminosity": 0,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          {
+            "grey": 0,
+            "color": "FF000000"
+          },
+          {
+            "grey": 178,
+            "color": "FFA8FFFD"
+          },
+          {
+            "grey": 255,
+            "color": "FF36FFFC"
+          }
+        ]
+      }
+    },
+    "supportedStats": [
+      "tinkersarchery:arrow_fletching"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

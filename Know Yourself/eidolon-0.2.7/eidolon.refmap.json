@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "elucent/eidolon/mixin/LivingEntityMixin": {
+      "dropLoot": "Lnet/minecraft/entity/LivingEntity;func_213354_a(Lnet/minecraft/util/DamageSource;Z)V",
+      "getSpeedFactor()F": "Lnet/minecraft/entity/LivingEntity;func_225515_ai_()F"
+    },
+    "elucent/eidolon/mixin/PotionBrewingMixin": {
+      "addMix": "func_193357_a(Lnet/minecraft/potion/Potion;Lnet/minecraft/item/Item;Lnet/minecraft/potion/Potion;)V"
+    },
+    "elucent/eidolon/mixin/ZombieVillagerEntityMixin": {
+      "cureZombie": "func_213791_a(Lnet/minecraft/world/server/ServerWorld;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "elucent/eidolon/mixin/LivingEntityMixin": {
+        "dropLoot": "Lnet/minecraft/entity/LivingEntity;func_213354_a(Lnet/minecraft/util/DamageSource;Z)V",
+        "getSpeedFactor()F": "Lnet/minecraft/entity/LivingEntity;func_225515_ai_()F"
+      },
+      "elucent/eidolon/mixin/PotionBrewingMixin": {
+        "addMix": "func_193357_a(Lnet/minecraft/potion/Potion;Lnet/minecraft/item/Item;Lnet/minecraft/potion/Potion;)V"
+      },
+      "elucent/eidolon/mixin/ZombieVillagerEntityMixin": {
+        "cureZombie": "func_213791_a(Lnet/minecraft/world/server/ServerWorld;)V"
+      }
+    }
+  }
+}

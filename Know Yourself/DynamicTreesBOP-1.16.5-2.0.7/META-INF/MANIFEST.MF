@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: DynamicTrees-BOP
+Implementation-Version: 1.16.5-2.0.7
+Specification-Vendor: mangoose
+Specification-Title: DynamicTrees-BOP
+Implementation-Timestamp: 2022-01-06T22:13:30-0300
+Specification-Version: 1
+Implementation-Vendor: mangoose
+

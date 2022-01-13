@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: RefinedCooking
+Implementation-Version: 1.0.1
+Specification-Vendor: smolinacadena
+Specification-Title: refinedcooking
+Implementation-Timestamp: 2021-11-05T13:19:37-0500
+Specification-Version: 1
+Implementation-Vendor: smolinacadena
+
