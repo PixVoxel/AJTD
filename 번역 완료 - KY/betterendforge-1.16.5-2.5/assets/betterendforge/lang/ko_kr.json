@@ -273,7 +273,7 @@
 	"item.betterendforge.leather_wrapped_stick": "가죽이 감긴 막대기",
 	"item.betterendforge.glowing_bulb": "발광 전구",
 	
-	"enchantment.betterendforge.end_veil.desc": "이 마법이 부여된 투구를 착용한 상태에선 엔더맨을 바라봐도 화를 돋우지 않습니다",
+	"enchantment.betterendforge.end_veil.desc": "이 마법이 부여된 투구를 착용한 상태에선 엔더맨을 바라봐도 화를 돋우지 않습니다.",
 	"effect.betterendforge.end_veil": "엔드 베일",
 	"enchantment.betterendforge.end_veil": "엔드 베일",
 	"item.minecraft.potion.effect.end_veil": "엔드 베일의 물약",

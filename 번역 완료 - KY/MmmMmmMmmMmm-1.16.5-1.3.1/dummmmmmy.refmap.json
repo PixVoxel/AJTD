@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/mehvahdjukaar/dummmmmmy/mixins/ToolItemMixin": {
+      "hurtEnemy": "Lnet/minecraft/item/ToolItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+    },
+    "net/mehvahdjukaar/dummmmmmy/mixins/SwordItemMixin": {
+      "hurtEnemy": "Lnet/minecraft/item/SwordItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/mehvahdjukaar/dummmmmmy/mixins/ToolItemMixin": {
+        "hurtEnemy": "Lnet/minecraft/item/ToolItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+      },
+      "net/mehvahdjukaar/dummmmmmy/mixins/SwordItemMixin": {
+        "hurtEnemy": "Lnet/minecraft/item/SwordItem;func_77644_a(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/LivingEntity;Lnet/minecraft/entity/LivingEntity;)Z"
+      }
+    }
+  }
+}
