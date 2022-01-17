@@ -1,0 +1,68 @@
+{
+  "mappings": {
+    "com/integral/enigmaticlegacy/mixin/MixinApotheosisEnchantmentContainer": {
+      "clickMenuButton(Lnet/minecraft/entity/player/PlayerEntity;I)Z": "func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinPiglinTasks": {
+      "mobInteract": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234471_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;",
+      "pickUpItem": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234470_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Lnet/minecraft/entity/item/ItemEntity;)V",
+      "stopHoldingOffHandItem": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234477_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Z)V"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinVillagerEntity": {
+      "updateSpecialPrices": "Lnet/minecraft/entity/merchant/villager/VillagerEntity;func_213762_g(Lnet/minecraft/entity/player/PlayerEntity;)V"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinEnchantmentContainer": {
+      "net.minecraft.inventory.container.EnchantmentContainer.getGoldCount()I": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_178147_e()I",
+      "net.minecraft.inventory.container.EnchantmentContainer.clickMenuButton(Lnet/minecraft/entity/player/PlayerEntity;I)Z": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinHoglinTasks": {
+      "findNearestValidAttackTarget": "Lnet/minecraft/entity/monster/HoglinTasks;func_234392_e_(Lnet/minecraft/entity/monster/HoglinEntity;)Ljava/util/Optional;"
+    },
+    "com/integral/enigmaticlegacy/mixin/AccessorAbstractArrowEntity": {
+      "resetPiercedEntities": "func_213870_w()V"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinPiglinMobsSensor": {
+      "doTick": "Lnet/minecraft/entity/ai/brain/sensor/PiglinMobsSensor;func_212872_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/LivingEntity;)V"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinEnchantment": {
+      "canEnchant": "Lnet/minecraft/enchantment/Enchantment;func_92089_a(Lnet/minecraft/item/ItemStack;)Z"
+    },
+    "com/integral/enigmaticlegacy/mixin/MixinPhantomSpawner": {
+      "tick": "Lnet/minecraft/world/spawner/PhantomSpawner;func_230253_a_(Lnet/minecraft/world/server/ServerWorld;ZZ)I"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/integral/enigmaticlegacy/mixin/MixinApotheosisEnchantmentContainer": {
+        "clickMenuButton(Lnet/minecraft/entity/player/PlayerEntity;I)Z": "func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinPiglinTasks": {
+        "mobInteract": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234471_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/util/Hand;)Lnet/minecraft/util/ActionResultType;",
+        "pickUpItem": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234470_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Lnet/minecraft/entity/item/ItemEntity;)V",
+        "stopHoldingOffHandItem": "Lnet/minecraft/entity/monster/piglin/PiglinTasks;func_234477_a_(Lnet/minecraft/entity/monster/piglin/PiglinEntity;Z)V"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinVillagerEntity": {
+        "updateSpecialPrices": "Lnet/minecraft/entity/merchant/villager/VillagerEntity;func_213762_g(Lnet/minecraft/entity/player/PlayerEntity;)V"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinEnchantmentContainer": {
+        "net.minecraft.inventory.container.EnchantmentContainer.getGoldCount()I": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_178147_e()I",
+        "net.minecraft.inventory.container.EnchantmentContainer.clickMenuButton(Lnet/minecraft/entity/player/PlayerEntity;I)Z": "Lnet/minecraft/inventory/container/EnchantmentContainer;func_75140_a(Lnet/minecraft/entity/player/PlayerEntity;I)Z"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinHoglinTasks": {
+        "findNearestValidAttackTarget": "Lnet/minecraft/entity/monster/HoglinTasks;func_234392_e_(Lnet/minecraft/entity/monster/HoglinEntity;)Ljava/util/Optional;"
+      },
+      "com/integral/enigmaticlegacy/mixin/AccessorAbstractArrowEntity": {
+        "resetPiercedEntities": "func_213870_w()V"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinPiglinMobsSensor": {
+        "doTick": "Lnet/minecraft/entity/ai/brain/sensor/PiglinMobsSensor;func_212872_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/entity/LivingEntity;)V"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinEnchantment": {
+        "canEnchant": "Lnet/minecraft/enchantment/Enchantment;func_92089_a(Lnet/minecraft/item/ItemStack;)Z"
+      },
+      "com/integral/enigmaticlegacy/mixin/MixinPhantomSpawner": {
+        "tick": "Lnet/minecraft/world/spawner/PhantomSpawner;func_230253_a_(Lnet/minecraft/world/server/ServerWorld;ZZ)I"
+      }
+    }
+  }
+}

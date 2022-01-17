@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:soul_stained_steel",
-  "temperature": 1000,
-  "result": {
-    "fluid": "bettercompat:molten_soul_stained_steel",
-    "amount": 144
-  }
-}

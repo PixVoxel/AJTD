@@ -1,0 +1,250 @@
+{
+  "mappings": {
+    "mod/beethoven92/betterendforge/mixin/DimensionTypeMixin": {
+      "getEndChunkGenerator(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;": "Lnet/minecraft/world/DimensionType;func_242717_a(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;",
+      "doesHasDragonFight": "Lnet/minecraft/world/DimensionType;func_236046_h_()Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/ServerLevelMixin": {
+      "func_241121_a_": "Lnet/minecraft/world/server/ServerWorld;func_241121_a_(Lnet/minecraft/world/server/ServerWorld;)V",
+      "Lnet/minecraft/world/server/ServerWorld;setBlockState(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Z": "Lnet/minecraft/world/server/ServerWorld;func_175656_a(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Z",
+      "getSpawnPoint": "Lnet/minecraft/world/server/ServerWorld;func_241135_u_()Lnet/minecraft/util/math/BlockPos;",
+      "tickEnvironment": "Lnet/minecraft/world/server/ServerWorld;func_217441_a(Lnet/minecraft/world/chunk/Chunk;I)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/MusicTickerMixin": {
+      "tick": "Lnet/minecraft/client/audio/MusicTicker;func_73660_a()V"
+    },
+    "mod/beethoven92/betterendforge/mixin/RecipeManagerMixin": {
+      "apply": "Lnet/minecraft/item/crafting/RecipeManager;func_212853_a_(Ljava/util/Map;Lnet/minecraft/resources/IResourceManager;Lnet/minecraft/profiler/IProfiler;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/PlayerEntityMixin": {
+      "func_242374_a": "Lnet/minecraft/entity/player/PlayerEntity;func_242374_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;FZZ)Ljava/util/Optional;"
+    },
+    "mod/beethoven92/betterendforge/mixin/BoneMealItemMixin": {
+      "onItemUse": "Lnet/minecraft/item/BoneMealItem;func_195939_a(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType;"
+    },
+    "mod/beethoven92/betterendforge/mixin/BiomeColorsMixin": {
+      "getWaterColor": "Lnet/minecraft/world/biome/BiomeColors;func_228363_c_(Lnet/minecraft/world/IBlockDisplayReader;Lnet/minecraft/util/math/BlockPos;)I"
+    },
+    "mod/beethoven92/betterendforge/mixin/ServerPlayNetHandlerMixin": {
+      "processUpdateSign": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147343_a(Lnet/minecraft/network/play/client/CUpdateSignPacket;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/ClientPlayNetHandlerMixin": {
+      "handleUpdateTileEntity": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147273_a(Lnet/minecraft/network/play/server/SUpdateTileEntityPacket;)V",
+      "handleSignEditorOpen": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147268_a(Lnet/minecraft/network/play/server/SOpenSignMenuPacket;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndermanEntityMixin": {
+      "shouldAttackPlayer": "Lnet/minecraft/entity/monster/EndermanEntity;func_70821_d(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/AnvilBlockMixin": {
+      "damage": "Lnet/minecraft/block/AnvilBlock;func_196433_f(Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndPodiumFeatureMixin": {
+      "generate": "Lnet/minecraft/world/gen/feature/EndPodiumFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/BiomeGenerationSettingsAccessor": {
+      "features": "field_242484_f:Ljava/util/List;",
+      "structures": "field_242485_g:Ljava/util/List;"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndCityStructureMixin": {
+      "func_230363_a_": "Lnet/minecraft/world/gen/feature/structure/EndCityStructure;func_230363_a_(Lnet/minecraft/world/gen/ChunkGenerator;Lnet/minecraft/world/biome/provider/BiomeProvider;JLnet/minecraft/util/SharedSeedRandom;IILnet/minecraft/world/biome/Biome;Lnet/minecraft/util/math/ChunkPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/SoundVolumeAccessor": {
+      "volume": "field_147662_b:F"
+    },
+    "mod/beethoven92/betterendforge/mixin/RepairContainerMixin": {
+      "func_230301_a_": "Lnet/minecraft/inventory/container/RepairContainer;func_230301_a_(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/item/ItemStack;)Lnet/minecraft/item/ItemStack;",
+      "updateRepairOutput": "Lnet/minecraft/inventory/container/RepairContainer;func_82848_d()V",
+      "func_230303_b_": "Lnet/minecraft/inventory/container/RepairContainer;func_230303_b_(Lnet/minecraft/entity/player/PlayerEntity;Z)Z",
+      "updateItemName": "Lnet/minecraft/inventory/container/RepairContainer;func_82850_a(Ljava/lang/String;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/MinecraftMixin": {
+      "getBackgroundMusicSelector": "Lnet/minecraft/client/Minecraft;func_238178_U_()Lnet/minecraft/client/audio/BackgroundMusicSelector;"
+    },
+    "mod/beethoven92/betterendforge/mixin/ChorusPlantFeatureMixin": {
+      "generate": "Lnet/minecraft/world/gen/feature/ChorusPlantFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/EntityMixin": {
+      "func_241829_a": "Lnet/minecraft/entity/Entity;func_241829_a(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/block/PortalInfo;",
+      "baseTick": "Lnet/minecraft/entity/Entity;func_70030_z()V",
+      "changeDimension": "Lnet/minecraft/entity/Entity;func_241206_a_(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;"
+    },
+    "mod/beethoven92/betterendforge/mixin/FogRendererMixin": {
+      "updateFogColor": "Lnet/minecraft/client/renderer/FogRenderer;func_228371_a_(Lnet/minecraft/client/renderer/ActiveRenderInfo;FLnet/minecraft/client/world/ClientWorld;IF)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndDragonFightMixin": {
+      "tryRespawnDragon": "Lnet/minecraft/world/end/DragonFightManager;func_186106_e()V"
+    },
+    "mod/beethoven92/betterendforge/mixin/ServerPlayerEntityMixin": {
+      "func_242110_a": "Lnet/minecraft/entity/player/ServerPlayerEntity;func_242110_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndSpikeFeatureMixin": {
+      "placeSpike": "Lnet/minecraft/world/gen/feature/EndSpikeFeature;func_214553_a(Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/world/gen/feature/EndSpikeFeatureConfig;Lnet/minecraft/world/gen/feature/EndSpikeFeature$EndSpike;)V",
+      "generate": "Lnet/minecraft/world/gen/feature/EndSpikeFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/EndSpikeFeatureConfig;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/PlayerListMixin": {
+      "initializeConnectionToPlayer": "Lnet/minecraft/server/management/PlayerList;func_72355_a(Lnet/minecraft/network/NetworkManager;Lnet/minecraft/entity/player/ServerPlayerEntity;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/ChorusFlowerBlockMixin": {
+      "randomTick": "Lnet/minecraft/block/ChorusFlowerBlock;func_225542_b_(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V",
+      "placeDeadFlower": "Lnet/minecraft/block/ChorusFlowerBlock;func_185605_c(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V",
+      "isValidPosition": "Lnet/minecraft/block/ChorusFlowerBlock;func_196260_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/NoiseChunkGeneratorMixin": {
+      "fillNoiseColumn([DII)V": "Lnet/minecraft/world/gen/NoiseChunkGenerator;func_222548_a([DII)V",
+      "\u003cinit\u003e(Lnet/minecraft/world/biome/provider/BiomeProvider;Lnet/minecraft/world/biome/provider/BiomeProvider;JLjava/util/function/Supplier;)V": "Lnet/minecraft/world/gen/NoiseChunkGenerator;\u003cinit\u003e(Lnet/minecraft/world/biome/provider/BiomeProvider;Lnet/minecraft/world/biome/provider/BiomeProvider;JLjava/util/function/Supplier;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/AnvilScreenMixin": {
+      "initFields": "Lnet/minecraft/client/gui/screen/inventory/AnvilScreen;func_230453_j_()V",
+      "sendSlotContents": "Lnet/minecraft/client/gui/screen/inventory/AnvilScreen;func_71111_a(Lnet/minecraft/inventory/container/Container;ILnet/minecraft/item/ItemStack;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/WorldRendererMixin": {
+      "renderSkyEnd": "Lnet/minecraft/client/renderer/WorldRenderer;func_228444_b_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/ChorusPlantBlockMixin": {
+      "makeConnections": "Lnet/minecraft/block/ChorusPlantBlock;func_196497_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/BlockState;",
+      "getStateForPlacement": "Lnet/minecraft/block/ChorusPlantBlock;func_196258_a(Lnet/minecraft/item/BlockItemUseContext;)Lnet/minecraft/block/BlockState;",
+      "updatePostPlacement": "Lnet/minecraft/block/ChorusPlantBlock;func_196271_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Direction;Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorld;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/BlockState;",
+      "isValidPosition": "Lnet/minecraft/block/ChorusPlantBlock;func_196260_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+    },
+    "mod/beethoven92/betterendforge/mixin/MinecraftServerMixin": {
+      "func_241755_D_": "Lnet/minecraft/server/MinecraftServer;func_241755_D_()Lnet/minecraft/world/server/ServerWorld;",
+      "func_240786_a_": "Lnet/minecraft/server/MinecraftServer;func_240786_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/world/storage/IServerWorldInfo;ZZZ)V",
+      "func_240787_a_": "Lnet/minecraft/server/MinecraftServer;func_240787_a_(Lnet/minecraft/world/chunk/listener/IChunkStatusListener;)V"
+    },
+    "mod/beethoven92/betterendforge/mixin/EndSpikeMixin": {
+      "getHeight": "Lnet/minecraft/world/gen/feature/EndSpikeFeature$EndSpike;func_186149_d()I"
+    },
+    "mod/beethoven92/betterendforge/mixin/FeatureDecoratorsAccessor": {
+      "HEIGHTMAP_PLACEMENT": "field_244001_l:Lnet/minecraft/world/gen/placement/ConfiguredPlacement;",
+      "net.minecraft.world.gen.feature.Features$Placements": "net/minecraft/world/gen/feature/Features$Placements"
+    },
+    "mod/beethoven92/betterendforge/mixin/ModelBakeryMixin": {
+      "loadBlockstate": "Lnet/minecraft/client/renderer/model/ModelBakery;func_209598_b(Lnet/minecraft/util/ResourceLocation;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "mod/beethoven92/betterendforge/mixin/DimensionTypeMixin": {
+        "getEndChunkGenerator(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;": "Lnet/minecraft/world/DimensionType;func_242717_a(Lnet/minecraft/util/registry/Registry;Lnet/minecraft/util/registry/Registry;J)Lnet/minecraft/world/gen/ChunkGenerator;",
+        "doesHasDragonFight": "Lnet/minecraft/world/DimensionType;func_236046_h_()Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/ServerLevelMixin": {
+        "func_241121_a_": "Lnet/minecraft/world/server/ServerWorld;func_241121_a_(Lnet/minecraft/world/server/ServerWorld;)V",
+        "Lnet/minecraft/world/server/ServerWorld;setBlockState(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Z": "Lnet/minecraft/world/server/ServerWorld;func_175656_a(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;)Z",
+        "getSpawnPoint": "Lnet/minecraft/world/server/ServerWorld;func_241135_u_()Lnet/minecraft/util/math/BlockPos;",
+        "tickEnvironment": "Lnet/minecraft/world/server/ServerWorld;func_217441_a(Lnet/minecraft/world/chunk/Chunk;I)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/MusicTickerMixin": {
+        "tick": "Lnet/minecraft/client/audio/MusicTicker;func_73660_a()V"
+      },
+      "mod/beethoven92/betterendforge/mixin/RecipeManagerMixin": {
+        "apply": "Lnet/minecraft/item/crafting/RecipeManager;func_212853_a_(Ljava/util/Map;Lnet/minecraft/resources/IResourceManager;Lnet/minecraft/profiler/IProfiler;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/PlayerEntityMixin": {
+        "func_242374_a": "Lnet/minecraft/entity/player/PlayerEntity;func_242374_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;FZZ)Ljava/util/Optional;"
+      },
+      "mod/beethoven92/betterendforge/mixin/BoneMealItemMixin": {
+        "onItemUse": "Lnet/minecraft/item/BoneMealItem;func_195939_a(Lnet/minecraft/item/ItemUseContext;)Lnet/minecraft/util/ActionResultType;"
+      },
+      "mod/beethoven92/betterendforge/mixin/BiomeColorsMixin": {
+        "getWaterColor": "Lnet/minecraft/world/biome/BiomeColors;func_228363_c_(Lnet/minecraft/world/IBlockDisplayReader;Lnet/minecraft/util/math/BlockPos;)I"
+      },
+      "mod/beethoven92/betterendforge/mixin/ServerPlayNetHandlerMixin": {
+        "processUpdateSign": "Lnet/minecraft/network/play/ServerPlayNetHandler;func_147343_a(Lnet/minecraft/network/play/client/CUpdateSignPacket;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/ClientPlayNetHandlerMixin": {
+        "handleUpdateTileEntity": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147273_a(Lnet/minecraft/network/play/server/SUpdateTileEntityPacket;)V",
+        "handleSignEditorOpen": "Lnet/minecraft/client/network/play/ClientPlayNetHandler;func_147268_a(Lnet/minecraft/network/play/server/SOpenSignMenuPacket;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndermanEntityMixin": {
+        "shouldAttackPlayer": "Lnet/minecraft/entity/monster/EndermanEntity;func_70821_d(Lnet/minecraft/entity/player/PlayerEntity;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/AnvilBlockMixin": {
+        "damage": "Lnet/minecraft/block/AnvilBlock;func_196433_f(Lnet/minecraft/block/BlockState;)Lnet/minecraft/block/BlockState;"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndPodiumFeatureMixin": {
+        "generate": "Lnet/minecraft/world/gen/feature/EndPodiumFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/BiomeGenerationSettingsAccessor": {
+        "features": "field_242484_f:Ljava/util/List;",
+        "structures": "field_242485_g:Ljava/util/List;"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndCityStructureMixin": {
+        "func_230363_a_": "Lnet/minecraft/world/gen/feature/structure/EndCityStructure;func_230363_a_(Lnet/minecraft/world/gen/ChunkGenerator;Lnet/minecraft/world/biome/provider/BiomeProvider;JLnet/minecraft/util/SharedSeedRandom;IILnet/minecraft/world/biome/Biome;Lnet/minecraft/util/math/ChunkPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/SoundVolumeAccessor": {
+        "volume": "field_147662_b:F"
+      },
+      "mod/beethoven92/betterendforge/mixin/RepairContainerMixin": {
+        "func_230301_a_": "Lnet/minecraft/inventory/container/RepairContainer;func_230301_a_(Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/item/ItemStack;)Lnet/minecraft/item/ItemStack;",
+        "updateRepairOutput": "Lnet/minecraft/inventory/container/RepairContainer;func_82848_d()V",
+        "func_230303_b_": "Lnet/minecraft/inventory/container/RepairContainer;func_230303_b_(Lnet/minecraft/entity/player/PlayerEntity;Z)Z",
+        "updateItemName": "Lnet/minecraft/inventory/container/RepairContainer;func_82850_a(Ljava/lang/String;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/MinecraftMixin": {
+        "getBackgroundMusicSelector": "Lnet/minecraft/client/Minecraft;func_238178_U_()Lnet/minecraft/client/audio/BackgroundMusicSelector;"
+      },
+      "mod/beethoven92/betterendforge/mixin/ChorusPlantFeatureMixin": {
+        "generate": "Lnet/minecraft/world/gen/feature/ChorusPlantFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/NoFeatureConfig;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/EntityMixin": {
+        "func_241829_a": "Lnet/minecraft/entity/Entity;func_241829_a(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/block/PortalInfo;",
+        "baseTick": "Lnet/minecraft/entity/Entity;func_70030_z()V",
+        "changeDimension": "Lnet/minecraft/entity/Entity;func_241206_a_(Lnet/minecraft/world/server/ServerWorld;)Lnet/minecraft/entity/Entity;"
+      },
+      "mod/beethoven92/betterendforge/mixin/FogRendererMixin": {
+        "updateFogColor": "Lnet/minecraft/client/renderer/FogRenderer;func_228371_a_(Lnet/minecraft/client/renderer/ActiveRenderInfo;FLnet/minecraft/client/world/ClientWorld;IF)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndDragonFightMixin": {
+        "tryRespawnDragon": "Lnet/minecraft/world/end/DragonFightManager;func_186106_e()V"
+      },
+      "mod/beethoven92/betterendforge/mixin/ServerPlayerEntityMixin": {
+        "func_242110_a": "Lnet/minecraft/entity/player/ServerPlayerEntity;func_242110_a(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndSpikeFeatureMixin": {
+        "placeSpike": "Lnet/minecraft/world/gen/feature/EndSpikeFeature;func_214553_a(Lnet/minecraft/world/IServerWorld;Ljava/util/Random;Lnet/minecraft/world/gen/feature/EndSpikeFeatureConfig;Lnet/minecraft/world/gen/feature/EndSpikeFeature$EndSpike;)V",
+        "generate": "Lnet/minecraft/world/gen/feature/EndSpikeFeature;func_241855_a(Lnet/minecraft/world/ISeedReader;Lnet/minecraft/world/gen/ChunkGenerator;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/world/gen/feature/EndSpikeFeatureConfig;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/PlayerListMixin": {
+        "initializeConnectionToPlayer": "Lnet/minecraft/server/management/PlayerList;func_72355_a(Lnet/minecraft/network/NetworkManager;Lnet/minecraft/entity/player/ServerPlayerEntity;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/ChorusFlowerBlockMixin": {
+        "randomTick": "Lnet/minecraft/block/ChorusFlowerBlock;func_225542_b_(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/util/math/BlockPos;Ljava/util/Random;)V",
+        "placeDeadFlower": "Lnet/minecraft/block/ChorusFlowerBlock;func_185605_c(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V",
+        "isValidPosition": "Lnet/minecraft/block/ChorusFlowerBlock;func_196260_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/NoiseChunkGeneratorMixin": {
+        "fillNoiseColumn([DII)V": "Lnet/minecraft/world/gen/NoiseChunkGenerator;func_222548_a([DII)V",
+        "\u003cinit\u003e(Lnet/minecraft/world/biome/provider/BiomeProvider;Lnet/minecraft/world/biome/provider/BiomeProvider;JLjava/util/function/Supplier;)V": "Lnet/minecraft/world/gen/NoiseChunkGenerator;\u003cinit\u003e(Lnet/minecraft/world/biome/provider/BiomeProvider;Lnet/minecraft/world/biome/provider/BiomeProvider;JLjava/util/function/Supplier;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/AnvilScreenMixin": {
+        "initFields": "Lnet/minecraft/client/gui/screen/inventory/AnvilScreen;func_230453_j_()V",
+        "sendSlotContents": "Lnet/minecraft/client/gui/screen/inventory/AnvilScreen;func_71111_a(Lnet/minecraft/inventory/container/Container;ILnet/minecraft/item/ItemStack;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/WorldRendererMixin": {
+        "renderSkyEnd": "Lnet/minecraft/client/renderer/WorldRenderer;func_228444_b_(Lcom/mojang/blaze3d/matrix/MatrixStack;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/ChorusPlantBlockMixin": {
+        "makeConnections": "Lnet/minecraft/block/ChorusPlantBlock;func_196497_a(Lnet/minecraft/world/IBlockReader;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/BlockState;",
+        "getStateForPlacement": "Lnet/minecraft/block/ChorusPlantBlock;func_196258_a(Lnet/minecraft/item/BlockItemUseContext;)Lnet/minecraft/block/BlockState;",
+        "updatePostPlacement": "Lnet/minecraft/block/ChorusPlantBlock;func_196271_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/util/Direction;Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorld;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/BlockState;",
+        "isValidPosition": "Lnet/minecraft/block/ChorusPlantBlock;func_196260_a(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/IWorldReader;Lnet/minecraft/util/math/BlockPos;)Z"
+      },
+      "mod/beethoven92/betterendforge/mixin/MinecraftServerMixin": {
+        "func_241755_D_": "Lnet/minecraft/server/MinecraftServer;func_241755_D_()Lnet/minecraft/world/server/ServerWorld;",
+        "func_240786_a_": "Lnet/minecraft/server/MinecraftServer;func_240786_a_(Lnet/minecraft/world/server/ServerWorld;Lnet/minecraft/world/storage/IServerWorldInfo;ZZZ)V",
+        "func_240787_a_": "Lnet/minecraft/server/MinecraftServer;func_240787_a_(Lnet/minecraft/world/chunk/listener/IChunkStatusListener;)V"
+      },
+      "mod/beethoven92/betterendforge/mixin/EndSpikeMixin": {
+        "getHeight": "Lnet/minecraft/world/gen/feature/EndSpikeFeature$EndSpike;func_186149_d()I"
+      },
+      "mod/beethoven92/betterendforge/mixin/FeatureDecoratorsAccessor": {
+        "HEIGHTMAP_PLACEMENT": "field_244001_l:Lnet/minecraft/world/gen/placement/ConfiguredPlacement;",
+        "net.minecraft.world.gen.feature.Features$Placements": "net/minecraft/world/gen/feature/Features$Placements"
+      },
+      "mod/beethoven92/betterendforge/mixin/ModelBakeryMixin": {
+        "loadBlockstate": "Lnet/minecraft/client/renderer/model/ModelBakery;func_209598_b(Lnet/minecraft/util/ResourceLocation;)V"
+      }
+    }
+  }
+}

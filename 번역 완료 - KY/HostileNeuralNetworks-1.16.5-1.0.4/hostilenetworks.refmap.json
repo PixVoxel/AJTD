@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "shadows/hostilenetworks/mixin/MixinRenderType": {
+      "end": "Lnet/minecraft/client/renderer/RenderType;func_228631_a_(Lnet/minecraft/client/renderer/BufferBuilder;III)V",
+      "Lnet/minecraft/client/renderer/WorldVertexBufferUploader;end(Lnet/minecraft/client/renderer/BufferBuilder;)V": "Lnet/minecraft/client/renderer/WorldVertexBufferUploader;func_181679_a(Lnet/minecraft/client/renderer/BufferBuilder;)V"
+    },
+    "shadows/hostilenetworks/mixin/MixinRenderComponentsUtil": {
+      "net/minecraft/util/text/Style.EMPTY:Lnet/minecraft/util/text/Style;": "Lnet/minecraft/util/text/Style;field_240709_b_:Lnet/minecraft/util/text/Style;",
+      "wrapComponents": "Lnet/minecraft/client/gui/RenderComponentsUtil;func_238505_a_(Lnet/minecraft/util/text/ITextProperties;ILnet/minecraft/client/gui/FontRenderer;)Ljava/util/List;"
+    }
+  },
+  "data": {
+    "searge": {
+      "shadows/hostilenetworks/mixin/MixinRenderType": {
+        "end": "Lnet/minecraft/client/renderer/RenderType;func_228631_a_(Lnet/minecraft/client/renderer/BufferBuilder;III)V",
+        "Lnet/minecraft/client/renderer/WorldVertexBufferUploader;end(Lnet/minecraft/client/renderer/BufferBuilder;)V": "Lnet/minecraft/client/renderer/WorldVertexBufferUploader;func_181679_a(Lnet/minecraft/client/renderer/BufferBuilder;)V"
+      },
+      "shadows/hostilenetworks/mixin/MixinRenderComponentsUtil": {
+        "net/minecraft/util/text/Style.EMPTY:Lnet/minecraft/util/text/Style;": "Lnet/minecraft/util/text/Style;field_240709_b_:Lnet/minecraft/util/text/Style;",
+        "wrapComponents": "Lnet/minecraft/client/gui/RenderComponentsUtil;func_238505_a_(Lnet/minecraft/util/text/ITextProperties;ILnet/minecraft/client/gui/FontRenderer;)Ljava/util/List;"
+      }
+    }
+  }
+}

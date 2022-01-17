@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:ruby",
-  "temperature": 1000,
-  "result": {
-    "fluid": "bettercompat:molten_ruby",
-    "amount": 144
-  }
-}

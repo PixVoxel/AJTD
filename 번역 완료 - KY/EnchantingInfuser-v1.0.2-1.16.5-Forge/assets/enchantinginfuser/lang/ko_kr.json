@@ -1,0 +1,9 @@
+{
+  "block.enchantinginfuser.enchanting_infuser": "마법부여 주입대",
+  "block.enchantinginfuser.advanced_enchanting_infuser": "강화된 마법부여 주입대",
+  "gui.enchantinginfuser.tooltip.enchanting_power": "%s 마법부여력",
+  "gui.enchantinginfuser.tooltip.required_enchanting_power": "현재 마법부여력: %s / %s",
+  "gui.enchantinginfuser.tooltip.unknown_enchantment": "이 마법은 더 큰 마법부여력을 요구합니다.",
+  "gui.enchantinginfuser.tooltip.low_power": "마법의 레벨을 더 높이려면 더 강한 힘을 가진 주입대가 필요합니다.",
+  "gui.enchantinginfuser.tooltip.incompatible": "이 마법부여는 다음과 호환되지 않습니다: %s"
+}

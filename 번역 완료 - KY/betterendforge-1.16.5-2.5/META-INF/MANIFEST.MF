@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: BetterEnd Forge
+Specification-Vendor: Beethoven92
+Specification-Version: 1
+Implementation-Title: BetterEndForge-Reforked
+Implementation-Version: 1.16.5-2.5
+Implementation-Vendor: Beethoven92
+Implementation-Timestamp: 2021-11-11T20:21:35-0800
+MixinConfigs: betterendforge.mixins.json
+

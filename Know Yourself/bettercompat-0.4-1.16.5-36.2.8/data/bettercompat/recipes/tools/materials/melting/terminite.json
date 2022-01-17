@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:terminite",
-  "temperature": 1000,
-  "result": {
-    "fluid": "bettercompat:molten_terminite",
-    "amount": 144
-  }
-}

@@ -1,0 +1,17 @@
+{
+  "block.dtquark.blossom_branch":"꽃나무",
+
+  "species.dtquark.fiery_blossom":"불",
+  "species.dtquark.frosty_blossom":"서리",
+  "species.dtquark.serene_blossom":"청명",
+  "species.dtquark.sunny_blossom":"화창",
+  "species.dtquark.sweet_blossom":"향기",
+  "species.dtquark.warm_blossom":"온기",
+
+  "item.dtquark.fiery_blossom_seed":"불꽃나무 씨앗",
+  "item.dtquark.frosty_blossom_seed":"서리꽃나무 씨앗",
+  "item.dtquark.serene_blossom_seed":"청명꽃나무 씨앗",
+  "item.dtquark.sunny_blossom_seed":"화창꽃나무 씨앗",
+  "item.dtquark.sweet_blossom_seed":"향기꽃나무 씨앗",
+  "item.dtquark.warm_blossom_seed":"온기꽃나무 씨앗"
+}

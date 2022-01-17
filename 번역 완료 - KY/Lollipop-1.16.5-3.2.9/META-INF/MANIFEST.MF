@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: _Lollipop
+Implementation-Version: 3.2.9
+Specification-Vendor: owmii
+FMLAT: accesstransformer.cfg
+Specification-Title: Lollipop
+Implementation-Timestamp: 2021-03-09T10:30:09+0100
+Specification-Version: 3.2.9
+Implementation-Vendor: owmii
+

@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:vulcanite",
-  "temperature": 1500,
-  "result": {
-    "fluid": "bettercompat:molten_vulcanite",
-    "amount": 144
-  }
-}

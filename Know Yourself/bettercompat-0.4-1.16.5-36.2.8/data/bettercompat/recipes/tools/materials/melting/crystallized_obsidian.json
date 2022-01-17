@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:crystallized_obsidian",
-  "temperature": 1500,
-  "result": {
-    "fluid": "bettercompat:molten_crystallized_obsidian",
-    "amount": 144
-  }
-}

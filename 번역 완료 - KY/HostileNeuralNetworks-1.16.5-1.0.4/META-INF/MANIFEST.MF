@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HostileNeuralNetworks
+MixinConfigs: hostilenetworks.mixins.json
+Implementation-Version: 1.0.4
+Specification-Vendor: Shadows_of_Fire
+Specification-Title: HostileNeuralNetworks
+Implementation-Timestamp: 2021-12-29T14:30:15-0500
+Specification-Version: 1.0
+Implementation-Vendor: Shadows_of_Fire
+

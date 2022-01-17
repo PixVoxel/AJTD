@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_fluid",
-  "fluid": {
-    "tag": "tconstruct:molten_diamond",
-    "amount": 250
-  },
-  "temperature": 1450,
-  "output": "bettercompat:diamond"
-}

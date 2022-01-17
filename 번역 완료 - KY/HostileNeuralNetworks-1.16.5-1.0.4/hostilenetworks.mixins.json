@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "shadows.hostilenetworks.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "hostilenetworks.refmap.json",
+    "mixins": [
+        
+    ],
+    "client": [
+        MixinRenderComponentsUtil, MixinRenderType
+    ],
+    "minVersion": "0.8"
+}

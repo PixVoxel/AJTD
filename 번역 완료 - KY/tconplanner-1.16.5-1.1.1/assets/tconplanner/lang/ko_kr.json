@@ -1,0 +1,21 @@
+{
+  "gui.tconplanner.plannerbutton": "계획서 열기",
+  "gui.tconplanner.name": "팅커스 계획서",
+  "gui.tconplanner.notool": "도구 선택",
+  "gui.tconplanner.banner.tools": "도구",
+  "gui.tconplanner.banner.bookmarked": "북마크",
+  "gui.tconplanner.banner.modifiers": "수식어",
+  "gui.tconplanner.sort": "정렬: %1$s",
+  "gui.tconplanner.bookmark.add": "아이템 북마크",
+  "gui.tconplanner.bookmark.remove": "북마크 제거",
+  "gui.tconplanner.giveitem": "아이템 제공",
+  "gui.tconplanner.randomize": "재료 무작위 선택",
+  "gui.tconplanner.slots.available": "사용 가능한 %1$s 슬롯",
+  "gui.tconplanner.modifiers.error.incrementnotmax": "새 레벨을 추가하려면 현재 레벨이 최대 레벨이어야 합니다",
+  "gui.tconplanner.modifiers.error.minlevel": "레벨이 더 낮아질 수 없습니다",
+  "gui.tconplanner.modifiers.exit": "뒤로",
+  "gui.tconplanner.modifiers.usedslot": "%1$s 슬롯을 사용",
+  "gui.tconplanner.modifiers.usedslots": "%1$s %2$s 슬롯을 사용",
+  "gui.tconplanner.modifiers.addlevel": "레벨 추가",
+  "gui.tconplanner.modifiers.removelevel": "레벨 제거"
+}

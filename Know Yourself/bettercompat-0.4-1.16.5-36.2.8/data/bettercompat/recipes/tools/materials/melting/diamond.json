@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "bettercompat:diamond",
-  "temperature": 1450,
-  "result": {
-    "fluid": "tconstruct:molten_diamond",
-    "amount": 250
-  }
-}
